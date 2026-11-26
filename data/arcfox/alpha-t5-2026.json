@@ -80,6 +80,16 @@
           "name": "特殊外观色",
           "price_rmb": 5000,
           "details": "限时赠送"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": null,
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+        },
+        {
+          "name": "外观个性配色",
+          "price_rmb": null,
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
         }
       ]
     },
@@ -153,6 +163,16 @@
           "name": "特殊外观色",
           "price_rmb": 5000,
           "details": "限时赠送"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": null,
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+        },
+        {
+          "name": "外观个性配色",
+          "price_rmb": null,
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
         }
       ]
     },
@@ -226,6 +246,16 @@
           "name": "特殊外观色",
           "price_rmb": 5000,
           "details": "限时赠送"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": null,
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+        },
+        {
+          "name": "外观个性配色",
+          "price_rmb": null,
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
         }
       ]
     },
@@ -299,6 +329,16 @@
           "name": "特殊外观色",
           "price_rmb": 5000,
           "details": "限时赠送"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": null,
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+        },
+        {
+          "name": "外观个性配色",
+          "price_rmb": null,
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
         }
       ]
     },
@@ -372,9 +412,19 @@
           "name": "特殊外观色",
           "price_rmb": 5000,
           "details": "限时赠送"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": null,
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+        },
+        {
+          "name": "外观个性配色",
+          "price_rmb": null,
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M00/99/0D/400x400_1_q40_c40_autohomecar__ChtpWGjpxT-AQyXyAEcn9wvZTKk54.jpeg"
 }

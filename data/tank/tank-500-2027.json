@@ -75,7 +75,48 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "副驾娱乐包",
+          "price_rmb": null,
+          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个"
+        },
+        {
+          "name": "户外休闲包",
+          "price_rmb": null,
+          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质"
+        },
+        {
+          "name": "20英寸商务轮毂（265/50 R20）",
+          "price_rmb": null,
+          "details": "标配265/55 R19，全系可选配20英寸商务轮毂"
+        },
+        {
+          "name": "18英寸轮毂+全地形轮胎（265/60 R18）",
+          "price_rmb": null,
+          "details": "全系可选配越野AT胎组合"
+        },
+        {
+          "name": "19英寸空气动力学轮毂（265/55 R19）",
+          "price_rmb": null,
+          "details": "Hi4-T及Hi4-Z版本可选配"
+        },
+        {
+          "name": "前桥电控式差速锁",
+          "price_rmb": null,
+          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配"
+        },
+        {
+          "name": "远红外夜视系统",
+          "price_rmb": null,
+          "details": "全系可选配"
+        },
+        {
+          "name": "城市NOA全场景智慧领航辅助软件订阅",
+          "price_rmb": null,
+          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用"
+        }
+      ]
     },
     {
       "sku_id": "tank-500-2027-hi4t-smart",
@@ -142,7 +183,48 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "副驾娱乐包",
+          "price_rmb": null,
+          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个"
+        },
+        {
+          "name": "户外休闲包",
+          "price_rmb": null,
+          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质"
+        },
+        {
+          "name": "20英寸商务轮毂（265/50 R20）",
+          "price_rmb": null,
+          "details": "标配265/55 R19，全系可选配20英寸商务轮毂"
+        },
+        {
+          "name": "18英寸轮毂+全地形轮胎（265/60 R18）",
+          "price_rmb": null,
+          "details": "全系可选配越野AT胎组合"
+        },
+        {
+          "name": "19英寸空气动力学轮毂（265/55 R19）",
+          "price_rmb": null,
+          "details": "Hi4-T及Hi4-Z版本可选配"
+        },
+        {
+          "name": "前桥电控式差速锁",
+          "price_rmb": null,
+          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配"
+        },
+        {
+          "name": "远红外夜视系统",
+          "price_rmb": null,
+          "details": "全系可选配"
+        },
+        {
+          "name": "城市NOA全场景智慧领航辅助软件订阅",
+          "price_rmb": null,
+          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用"
+        }
+      ]
     },
     {
       "sku_id": "tank-500-2027-hi4z-smart",
@@ -209,8 +291,49 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "副驾娱乐包",
+          "price_rmb": null,
+          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个"
+        },
+        {
+          "name": "户外休闲包",
+          "price_rmb": null,
+          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质"
+        },
+        {
+          "name": "20英寸商务轮毂（265/50 R20）",
+          "price_rmb": null,
+          "details": "标配265/55 R19，全系可选配20英寸商务轮毂"
+        },
+        {
+          "name": "18英寸轮毂+全地形轮胎（265/60 R18）",
+          "price_rmb": null,
+          "details": "全系可选配越野AT胎组合"
+        },
+        {
+          "name": "19英寸空气动力学轮毂（265/55 R19）",
+          "price_rmb": null,
+          "details": "Hi4-T及Hi4-Z版本可选配"
+        },
+        {
+          "name": "前桥电控式差速锁",
+          "price_rmb": null,
+          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配"
+        },
+        {
+          "name": "远红外夜视系统",
+          "price_rmb": null,
+          "details": "全系可选配"
+        },
+        {
+          "name": "城市NOA全场景智慧领航辅助软件订阅",
+          "price_rmb": null,
+          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/CC/83/400x400_1_q40_c40_autohomecar__ChxpWGrR6-6AAGNOAC3jnS7vxnI297.jpg"
 }

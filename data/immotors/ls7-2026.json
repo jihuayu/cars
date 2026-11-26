@@ -80,6 +80,21 @@
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
           "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "22英寸锋锐撞色运动轮辋（前255/45 R22、后285/40 R22，米其林Pilot Sport EV）",
+          "price_rmb": 22800,
+          "details": "限时权益免费升级"
+        },
+        {
+          "name": "YAT巡航型半幅柔感瞬热方向盘",
+          "price_rmb": 2000,
+          "details": "限时权益免费升级"
+        },
+        {
+          "name": "IM AD全功能包（城市NOA+高速高架NOA+代客泊车+信任增强）",
+          "price_rmb": 36800,
+          "details": "限时权益终身免费使用"
         }
       ]
     },
@@ -153,9 +168,24 @@
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
           "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "22英寸锋锐撞色运动轮辋（前255/45 R22、后285/40 R22，米其林Pilot Sport EV）",
+          "price_rmb": 22800,
+          "details": "限时权益免费升级"
+        },
+        {
+          "name": "YAT巡航型半幅柔感瞬热方向盘",
+          "price_rmb": 2000,
+          "details": "限时权益免费升级"
+        },
+        {
+          "name": "IM AD全功能包（城市NOA+高速高架NOA+代客泊车+信任增强）",
+          "price_rmb": 36800,
+          "details": "限时权益终身免费使用"
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://portal-static.immotors.com/images/portal/1749795176931%2540a349kp4v.png"
 }

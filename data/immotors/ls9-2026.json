@@ -100,6 +100,41 @@
           "name": "豪华配置升级包",
           "price_rmb": 58800,
           "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+        },
+        {
+          "name": "21英寸轮毂（265/45 R21）",
+          "price_rmb": 12800,
+          "details": "52/66 Ultra可选，Hyper标配"
+        },
+        {
+          "name": "22英寸轮毂（265/40 R22）",
+          "price_rmb": 26800,
+          "details": null
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "B&O豪华音响（25喇叭）",
+          "price_rmb": 32800,
+          "details": null
+        },
+        {
+          "name": "YAT巡航型半幅柔感瞬热方向盘（4向电动调节/电容感应）",
+          "price_rmb": 2000,
+          "details": null
+        },
+        {
+          "name": "拖挂系统（原厂拖车钩及牵引资质+13 Pin专用电气接口+拖挂专用后防撞梁+保险杠，准拖1500kg）",
+          "price_rmb": 2280,
+          "details": "Ultra可选，Hyper标配"
+        },
+        {
+          "name": "一体式超广域智慧探射灯",
+          "price_rmb": 8000,
+          "details": null
         }
       ]
     },
@@ -193,6 +228,41 @@
           "name": "豪华配置升级包",
           "price_rmb": 58800,
           "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+        },
+        {
+          "name": "21英寸轮毂（265/45 R21）",
+          "price_rmb": 12800,
+          "details": "52/66 Ultra可选，Hyper标配"
+        },
+        {
+          "name": "22英寸轮毂（265/40 R22）",
+          "price_rmb": 26800,
+          "details": null
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "B&O豪华音响（25喇叭）",
+          "price_rmb": 32800,
+          "details": null
+        },
+        {
+          "name": "YAT巡航型半幅柔感瞬热方向盘（4向电动调节/电容感应）",
+          "price_rmb": 2000,
+          "details": null
+        },
+        {
+          "name": "拖挂系统（原厂拖车钩及牵引资质+13 Pin专用电气接口+拖挂专用后防撞梁+保险杠，准拖1500kg）",
+          "price_rmb": 2280,
+          "details": "Ultra可选，Hyper标配"
+        },
+        {
+          "name": "一体式超广域智慧探射灯",
+          "price_rmb": 8000,
+          "details": null
         }
       ]
     },
@@ -286,9 +356,44 @@
           "name": "豪华配置升级包",
           "price_rmb": 58800,
           "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+        },
+        {
+          "name": "21英寸轮毂（265/45 R21）",
+          "price_rmb": 12800,
+          "details": "52/66 Ultra可选，Hyper标配"
+        },
+        {
+          "name": "22英寸轮毂（265/40 R22）",
+          "price_rmb": 26800,
+          "details": null
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "B&O豪华音响（25喇叭）",
+          "price_rmb": 32800,
+          "details": null
+        },
+        {
+          "name": "YAT巡航型半幅柔感瞬热方向盘（4向电动调节/电容感应）",
+          "price_rmb": 2000,
+          "details": null
+        },
+        {
+          "name": "拖挂系统（原厂拖车钩及牵引资质+13 Pin专用电气接口+拖挂专用后防撞梁+保险杠，准拖1500kg）",
+          "price_rmb": 2280,
+          "details": "Ultra可选，Hyper标配"
+        },
+        {
+          "name": "一体式超广域智慧探射灯",
+          "price_rmb": 8000,
+          "details": null
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://portal-static.immotors.com/images/portal/1784250480447%25406yrn3u13.jpg"
 }

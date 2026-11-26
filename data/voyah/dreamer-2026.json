@@ -76,7 +76,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "后排调光隐私玻璃",
+          "price_rmb": 16000,
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+        },
+        {
+          "name": "天地星辉轮毂",
+          "price_rmb": 10000,
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+        },
+        {
+          "name": "金銮红等双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-dreamer-2026-phev-kp-max",
@@ -143,7 +164,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "后排调光隐私玻璃",
+          "price_rmb": 16000,
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+        },
+        {
+          "name": "天地星辉轮毂",
+          "price_rmb": 10000,
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+        },
+        {
+          "name": "金銮红等双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-dreamer-2026-phev-qk-pro",
@@ -210,7 +252,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "后排调光隐私玻璃",
+          "price_rmb": 16000,
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+        },
+        {
+          "name": "天地星辉轮毂",
+          "price_rmb": 10000,
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+        },
+        {
+          "name": "金銮红等双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-dreamer-2026-phev-qk-max",
@@ -277,7 +340,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "后排调光隐私玻璃",
+          "price_rmb": 16000,
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+        },
+        {
+          "name": "天地星辉轮毂",
+          "price_rmb": 10000,
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+        },
+        {
+          "name": "金銮红等双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-dreamer-2026-phev-qk-ultra",
@@ -344,7 +428,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "后排调光隐私玻璃",
+          "price_rmb": 16000,
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+        },
+        {
+          "name": "天地星辉轮毂",
+          "price_rmb": 10000,
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+        },
+        {
+          "name": "金銮红等双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-dreamer-2026-phev-shanhe",
@@ -411,7 +516,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "后排调光隐私玻璃",
+          "price_rmb": 16000,
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+        },
+        {
+          "name": "天地星辉轮毂",
+          "price_rmb": 10000,
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+        },
+        {
+          "name": "金銮红等双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-dreamer-2026-ev-qk-max",
@@ -478,7 +604,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "后排调光隐私玻璃",
+          "price_rmb": 16000,
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+        },
+        {
+          "name": "天地星辉轮毂",
+          "price_rmb": 10000,
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+        },
+        {
+          "name": "金銮红等双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-dreamer-2026-ev-qk-ultra",
@@ -545,7 +692,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "后排调光隐私玻璃",
+          "price_rmb": 16000,
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+        },
+        {
+          "name": "天地星辉轮毂",
+          "price_rmb": 10000,
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+        },
+        {
+          "name": "金銮红等双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+        }
+      ]
     }
   ],
   "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/dreamer-champion/kv_0408_375.jpg"

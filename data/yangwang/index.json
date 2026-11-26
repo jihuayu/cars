@@ -19,6 +19,7 @@
         "PHEV"
       ],
       "sku_count": 5,
+      "option_count": 4,
       "price_min_rmb": 658000,
       "price_max_rmb": 888000,
       "best_zero_to_100_s": 2.9,
@@ -36,11 +37,12 @@
       "sub_brand": null,
       "category": "百万级全尺寸硬派/行政SUV",
       "release_date": "2026-03-05",
-      "image_url": null,
+      "image_url": "https://img6.donews.com/img/2024/01/19/img_pic_201705641208.png",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 3,
+      "option_count": 6,
       "price_min_rmb": 1008000,
       "price_max_rmb": 1458000,
       "best_zero_to_100_s": 3.5,
@@ -59,11 +61,12 @@
       "sub_brand": null,
       "category": "百万级纯电超跑",
       "release_date": "2024-02-25",
-      "image_url": null,
+      "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/04/07/17/034dc1f4a43f419c9c34938cda2a66ce.png!jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 2,
+      "option_count": 8,
       "price_min_rmb": 1680000,
       "price_max_rmb": 1680000,
       "best_zero_to_100_s": 2.36,

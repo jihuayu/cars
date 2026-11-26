@@ -75,7 +75,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "全麂皮顶棚套装",
+          "price_rmb": 10000,
+          "details": "2025款配置表官方选装包，升级全车麂皮顶棚材质"
+        },
+        {
+          "name": "21寸桨式悬浮轮毂选装包",
+          "price_rmb": null,
+          "details": "21英寸铝合金桨式轮毂搭配悬浮轮毂盖，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "智能交互灯语选装包",
+          "price_rmb": null,
+          "details": "万顷波光前脸260颗矩阵式菱形LED动态交互灯语，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "主驾主动侧翼支撑",
+          "price_rmb": null,
+          "details": "汽车之家2025款配置表标注为选装项"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-hl-350-max-6",
@@ -142,7 +163,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "全麂皮顶棚套装",
+          "price_rmb": 10000,
+          "details": "2025款配置表官方选装包，升级全车麂皮顶棚材质"
+        },
+        {
+          "name": "21寸桨式悬浮轮毂选装包",
+          "price_rmb": null,
+          "details": "21英寸铝合金桨式轮毂搭配悬浮轮毂盖，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "智能交互灯语选装包",
+          "price_rmb": null,
+          "details": "万顷波光前脸260颗矩阵式菱形LED动态交互灯语，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "主驾主动侧翼支撑",
+          "price_rmb": null,
+          "details": "汽车之家2025款配置表标注为选装项"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-hl-750-max-5",
@@ -209,7 +251,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "全麂皮顶棚套装",
+          "price_rmb": 10000,
+          "details": "2025款配置表官方选装包，升级全车麂皮顶棚材质"
+        },
+        {
+          "name": "21寸桨式悬浮轮毂选装包",
+          "price_rmb": null,
+          "details": "21英寸铝合金桨式轮毂搭配悬浮轮毂盖，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "智能交互灯语选装包",
+          "price_rmb": null,
+          "details": "万顷波光前脸260颗矩阵式菱形LED动态交互灯语，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "主驾主动侧翼支撑",
+          "price_rmb": null,
+          "details": "汽车之家2025款配置表标注为选装项"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-hl-750-max-6",
@@ -276,7 +339,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "全麂皮顶棚套装",
+          "price_rmb": 10000,
+          "details": "2025款配置表官方选装包，升级全车麂皮顶棚材质"
+        },
+        {
+          "name": "21寸桨式悬浮轮毂选装包",
+          "price_rmb": null,
+          "details": "21英寸铝合金桨式轮毂搭配悬浮轮毂盖，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "智能交互灯语选装包",
+          "price_rmb": null,
+          "details": "万顷波光前脸260颗矩阵式菱形LED动态交互灯语，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "主驾主动侧翼支撑",
+          "price_rmb": null,
+          "details": "汽车之家2025款配置表标注为选装项"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-hl-700-ultra-6",
@@ -343,7 +427,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "全麂皮顶棚套装",
+          "price_rmb": 10000,
+          "details": "2025款配置表官方选装包，升级全车麂皮顶棚材质"
+        },
+        {
+          "name": "21寸桨式悬浮轮毂选装包",
+          "price_rmb": null,
+          "details": "21英寸铝合金桨式轮毂搭配悬浮轮毂盖，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "智能交互灯语选装包",
+          "price_rmb": null,
+          "details": "万顷波光前脸260颗矩阵式菱形LED动态交互灯语，预售及限时权益期提供免费升级"
+        },
+        {
+          "name": "主驾主动侧翼支撑",
+          "price_rmb": null,
+          "details": "汽车之家2025款配置表标注为选装项"
+        }
+      ]
     }
   ],
   "image_url": "https://hyper-resouce.aion.com.cn/Public/Uploads/Picture/images/2026/05/171899946559347713698486637227.jpg"

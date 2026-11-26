@@ -75,7 +75,13 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "无单独付费官方选装包（按版型梯度配置）",
+          "price_rmb": null,
+          "details": "2026款全系标配右侧电动侧滑门与全景天幕，提供含云苔绿在内的4款外观色与3款内饰色，官方配置表未设独立付费选装包"
+        }
+      ]
     },
     {
       "sku_id": "arcfox-kaola-s-2026-520-pro",
@@ -142,7 +148,13 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "无单独付费官方选装包（按版型梯度配置）",
+          "price_rmb": null,
+          "details": "2026款全系标配右侧电动侧滑门与全景天幕，提供含云苔绿在内的4款外观色与3款内饰色，官方配置表未设独立付费选装包"
+        }
+      ]
     },
     {
       "sku_id": "arcfox-kaola-s-2026-520-max",
@@ -209,8 +221,14 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "无单独付费官方选装包（按版型梯度配置）",
+          "price_rmb": null,
+          "details": "2026款全系标配右侧电动侧滑门与全景天幕，提供含云苔绿在内的4款外观色与3款内饰色，官方配置表未设独立付费选装包"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://www2.autoimg.cn/chejiahaodfs/g33/M06/60/5D/400x400_0_f42_autohomecar__ChxpVmlnSTiAOv7DAAFA5sN8K0k637.jpg"
 }

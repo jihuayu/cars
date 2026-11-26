@@ -75,7 +75,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "户外越野包",
+          "price_rmb": 8000,
+          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元"
+        },
+        {
+          "name": "远红外夜视系统",
+          "price_rmb": 6000,
+          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）"
+        },
+        {
+          "name": "全地形轮胎（AT）",
+          "price_rmb": 2000,
+          "details": "全系选配2000元"
+        },
+        {
+          "name": "敦煌紫专属车漆",
+          "price_rmb": 10000,
+          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免"
+        },
+        {
+          "name": "高速/城市NOA及车位到车位领航辅助",
+          "price_rmb": 26000,
+          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元"
+        }
+      ]
     },
     {
       "sku_id": "tank-400-2026-hi4t-smart",
@@ -142,7 +168,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "户外越野包",
+          "price_rmb": 8000,
+          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元"
+        },
+        {
+          "name": "远红外夜视系统",
+          "price_rmb": 6000,
+          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）"
+        },
+        {
+          "name": "全地形轮胎（AT）",
+          "price_rmb": 2000,
+          "details": "全系选配2000元"
+        },
+        {
+          "name": "敦煌紫专属车漆",
+          "price_rmb": 10000,
+          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免"
+        },
+        {
+          "name": "高速/城市NOA及车位到车位领航辅助",
+          "price_rmb": 26000,
+          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元"
+        }
+      ]
     },
     {
       "sku_id": "tank-400-2026-hi4z-smart",
@@ -209,8 +261,34 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "户外越野包",
+          "price_rmb": 8000,
+          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元"
+        },
+        {
+          "name": "远红外夜视系统",
+          "price_rmb": 6000,
+          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）"
+        },
+        {
+          "name": "全地形轮胎（AT）",
+          "price_rmb": 2000,
+          "details": "全系选配2000元"
+        },
+        {
+          "name": "敦煌紫专属车漆",
+          "price_rmb": 10000,
+          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免"
+        },
+        {
+          "name": "高速/城市NOA及车位到车位领航辅助",
+          "price_rmb": 26000,
+          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/9D/1C/400x400_1_q40_c40_autohomecar__ChxpWGjVRSCAXYw6AHAwYsb7kw8454.jpg"
 }

@@ -75,7 +75,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "非全尺寸备胎",
+          "price_rmb": 1000,
+          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "2026款埃安霸王龙家庭版官方选配"
+        }
+      ]
     },
     {
       "sku_id": "aion-v-2026-520-zhizun",
@@ -142,7 +153,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "非全尺寸备胎",
+          "price_rmb": 1000,
+          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "2026款埃安霸王龙家庭版官方选配"
+        }
+      ]
     },
     {
       "sku_id": "aion-v-2026-650-zhihao",
@@ -209,7 +231,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "非全尺寸备胎",
+          "price_rmb": 1000,
+          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "2026款埃安霸王龙家庭版官方选配"
+        }
+      ]
     },
     {
       "sku_id": "aion-v-2026-650-zhizun",
@@ -276,8 +309,19 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "非全尺寸备胎",
+          "price_rmb": 1000,
+          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "2026款埃安霸王龙家庭版官方选配"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/B8/2D/400x400_1_q40_c40_autohomecar__ChtpWGiodzyAHZkTACW8oPArhiI280.jpg"
 }

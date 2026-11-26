@@ -76,7 +76,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "外挂背负式备胎套件",
+          "price_rmb": null,
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+        },
+        {
+          "name": "后排多层隔音玻璃",
+          "price_rmb": null,
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+        },
+        {
+          "name": "原厂拖车钩及车顶探照灯等户外拓展件",
+          "price_rmb": null,
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-g318-2026-changxing-qk",
@@ -143,7 +164,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "外挂背负式备胎套件",
+          "price_rmb": null,
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+        },
+        {
+          "name": "后排多层隔音玻璃",
+          "price_rmb": null,
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+        },
+        {
+          "name": "原厂拖车钩及车顶探照灯等户外拓展件",
+          "price_rmb": null,
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-g318-2026-shuxiang-ts",
@@ -210,7 +252,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "外挂背负式备胎套件",
+          "price_rmb": null,
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+        },
+        {
+          "name": "后排多层隔音玻璃",
+          "price_rmb": null,
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+        },
+        {
+          "name": "原厂拖车钩及车顶探照灯等户外拓展件",
+          "price_rmb": null,
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-g318-2026-shuxiang-qk",
@@ -277,7 +340,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "外挂背负式备胎套件",
+          "price_rmb": null,
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+        },
+        {
+          "name": "后排多层隔音玻璃",
+          "price_rmb": null,
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+        },
+        {
+          "name": "原厂拖车钩及车顶探照灯等户外拓展件",
+          "price_rmb": null,
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-g318-2026-kongxuan-qk",
@@ -344,8 +428,29 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "外挂背负式备胎套件",
+          "price_rmb": null,
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+        },
+        {
+          "name": "后排多层隔音玻璃",
+          "price_rmb": null,
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+        },
+        {
+          "name": "原厂拖车钩及车顶探照灯等户外拓展件",
+          "price_rmb": null,
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M03/7A/5A/400x400_0_f42_autohomecar__ChxpVWqC2f6AbCuQAAT8tpAQyrE536.jpg"
 }

@@ -75,7 +75,43 @@
         "fridge": "标配冷暖箱",
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（85kWh电池包）",
+          "price_rmb": "899元/月",
+          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月"
+        },
+        {
+          "name": "星光设计套装",
+          "price_rmb": 16800,
+          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈"
+        },
+        {
+          "name": "21英寸轮圈及轮胎",
+          "price_rmb": 10000,
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）"
+        },
+        {
+          "name": "“步步高升”展翼电动脚踏板",
+          "price_rmb": 10000,
+          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）"
+        },
+        {
+          "name": "17.3英寸3K后排吸顶娱乐屏",
+          "price_rmb": 8000,
+          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+        },
+        {
+          "name": "城市/高速领航辅助驾驶订阅（NOA/NOP+）",
+          "price_rmb": null,
+          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准"
+        }
+      ]
     },
     {
       "sku_id": "onvo-l80-2026-max-plus",
@@ -142,7 +178,43 @@
         "fridge": "标配冷暖箱",
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（85kWh电池包）",
+          "price_rmb": "899元/月",
+          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月"
+        },
+        {
+          "name": "星光设计套装",
+          "price_rmb": 16800,
+          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈"
+        },
+        {
+          "name": "21英寸轮圈及轮胎",
+          "price_rmb": 10000,
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）"
+        },
+        {
+          "name": "“步步高升”展翼电动脚踏板",
+          "price_rmb": 10000,
+          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）"
+        },
+        {
+          "name": "17.3英寸3K后排吸顶娱乐屏",
+          "price_rmb": 8000,
+          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+        },
+        {
+          "name": "城市/高速领航辅助驾驶订阅（NOA/NOP+）",
+          "price_rmb": null,
+          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准"
+        }
+      ]
     },
     {
       "sku_id": "onvo-l80-2026-ultra-plus",
@@ -209,8 +281,44 @@
         "fridge": "标配冷暖箱",
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（85kWh电池包）",
+          "price_rmb": "899元/月",
+          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月"
+        },
+        {
+          "name": "星光设计套装",
+          "price_rmb": 16800,
+          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈"
+        },
+        {
+          "name": "21英寸轮圈及轮胎",
+          "price_rmb": 10000,
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）"
+        },
+        {
+          "name": "“步步高升”展翼电动脚踏板",
+          "price_rmb": 10000,
+          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）"
+        },
+        {
+          "name": "17.3英寸3K后排吸顶娱乐屏",
+          "price_rmb": 8000,
+          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+        },
+        {
+          "name": "城市/高速领航辅助驾驶订阅（NOA/NOP+）",
+          "price_rmb": null,
+          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l80/highlights/highlights-carousel-01-desktop.jpg"
 }

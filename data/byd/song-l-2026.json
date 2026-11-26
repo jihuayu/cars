@@ -76,7 +76,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+        },
+        {
+          "name": "轮毂与高阶配置",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-song-l-ev-662-c",
@@ -143,7 +154,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+        },
+        {
+          "name": "轮毂与高阶配置",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-song-l-ev-662-b",
@@ -210,7 +232,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+        },
+        {
+          "name": "轮毂与高阶配置",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-song-l-ev-602-awd",
@@ -277,7 +310,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+        },
+        {
+          "name": "轮毂与高阶配置",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-song-l-dmi-130",
@@ -344,7 +388,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+        },
+        {
+          "name": "轮毂与高阶配置",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-song-l-dmi-200-cy",
@@ -411,7 +466,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+        },
+        {
+          "name": "轮毂与高阶配置",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-song-l-dmi-200-zy",
@@ -478,8 +544,19 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+        },
+        {
+          "name": "轮毂与高阶配置",
+          "price_rmb": null,
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://www.byd.com/material/domestic-official/dynasty/home/1-kv/icon-0331/qin/26-song-l-dm-i/26-song-l-dm-i-kv-p.jpg"
 }

@@ -112,6 +112,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -215,6 +270,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -318,6 +428,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -421,6 +586,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -524,6 +744,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -627,6 +902,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -730,6 +1060,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -833,6 +1218,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -936,6 +1376,61 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     },
@@ -1039,9 +1534,64 @@
           "name": "后轮转向",
           "price_rmb": 20000,
           "details": "主动后轮转向"
+        },
+        {
+          "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
+          "price_rmb": 12000,
+          "details": null
+        },
+        {
+          "name": "整体主动转向系统（±8°后轮转向）",
+          "price_rmb": 20000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "自动开合车门（含全车电吸门）",
+          "price_rmb": 15000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 8000,
+          "details": null
+        },
+        {
+          "name": "百万像素智慧投影大灯",
+          "price_rmb": 15000,
+          "details": "纯电Ultra等可选，增程Ultra标配"
+        },
+        {
+          "name": "21英寸4K后排娱乐屏",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 8000,
+          "details": "Max+可选，Ultra标配"
+        },
+        {
+          "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
+          "price_rmb": 30000,
+          "details": null
+        },
+        {
+          "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
+          "price_rmb": 20000,
+          "details": null
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://aito.auto/dam/content/dam/aito/cn/homepage/main/img/261123/m8-new-pc.jpg"
 }

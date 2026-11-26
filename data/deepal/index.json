@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "中大型科技硬派增程SUV",
       "release_date": "2026-08-21",
-      "image_url": null,
+      "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M03/7A/5A/400x400_0_f42_autohomecar__ChxpVWqC2f6AbCuQAAT8tpAQyrE536.jpg",
       "powertrains": [
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 4,
       "price_min_rmb": 185900,
       "price_max_rmb": 239800,
       "best_zero_to_100_s": 5.9,
@@ -36,12 +37,13 @@
       "sub_brand": null,
       "category": "中型轿车",
       "release_date": "2025-08-13",
-      "image_url": null,
+      "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M08/EC/7E/400x400_0_f42_autohomecar__ChxpVmq6WH-ADRCkABISuRNW_Lk505.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 3,
       "price_min_rmb": 145900,
       "price_max_rmb": 165900,
       "best_zero_to_100_s": 6.2,
@@ -64,6 +66,7 @@
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 2,
       "price_min_rmb": 119900,
       "price_max_rmb": 151900,
       "best_zero_to_100_s": 6.28,
@@ -81,12 +84,13 @@
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2025-09-19",
-      "image_url": null,
+      "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M0B/EB/35/600x337_q100_autohomecar__ChxpV2q6E4qAC8nHAB1JTA_s1r4874.png",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 7,
       "price_min_rmb": 149900,
       "price_max_rmb": 176900,
       "best_zero_to_100_s": 7.4,
@@ -105,11 +109,12 @@
       "sub_brand": null,
       "category": "大型6座家庭增程SUV",
       "release_date": "2025-04-23",
-      "image_url": null,
+      "image_url": "https://img8.bitautoimg.com/usercenter/autoalbum/files/20250401/303/w300_yichecar_202504011139347119830385114.png.webp",
       "powertrains": [
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 7,
       "price_min_rmb": 239900,
       "price_max_rmb": 309900,
       "best_zero_to_100_s": 5.9,

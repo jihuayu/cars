@@ -87,6 +87,21 @@
           "name": "黑曜运动套装 / 20英寸轮毂 / 付费车漆内饰",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸运动轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": "可选黑曜运动轮毂搭配黑曜套件（含红色卡钳、黑曜车标、黑曜进气格栅、黑曜车窗饰条）"
+        },
+        {
+          "name": "电动遮阳帘",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "城区智驾/记忆泊车高阶功能包（HUAWEI ADS）",
+          "price_rmb": null,
+          "details": "选装，按官方ADS高阶包订阅/买断政策"
         }
       ]
     },
@@ -165,6 +180,21 @@
           "name": "黑曜运动套装 / 20英寸轮毂 / 付费车漆内饰",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸运动轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": "可选黑曜运动轮毂搭配黑曜套件（含红色卡钳、黑曜车标、黑曜进气格栅、黑曜车窗饰条）"
+        },
+        {
+          "name": "电动遮阳帘",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "城区智驾/记忆泊车高阶功能包（HUAWEI ADS）",
+          "price_rmb": null,
+          "details": "选装，按官方ADS高阶包订阅/买断政策"
         }
       ]
     },
@@ -243,9 +273,24 @@
           "name": "黑曜运动套装 / 20英寸轮毂 / 付费车漆内饰",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸运动轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": "可选黑曜运动轮毂搭配黑曜套件（含红色卡钳、黑曜车标、黑曜进气格栅、黑曜车窗饰条）"
+        },
+        {
+          "name": "电动遮阳帘",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "城区智驾/记忆泊车高阶功能包（HUAWEI ADS）",
+          "price_rmb": null,
+          "details": "选装，按官方ADS高阶包订阅/买断政策"
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://aito.auto/dam/content/dam/aito/cn/model/m5-new/new-images/hero/aito-m5-new.jpg"
 }

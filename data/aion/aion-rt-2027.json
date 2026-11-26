@@ -76,7 +76,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "18英寸轮毂及轮胎（235/45 R18）",
+          "price_rmb": 2000,
+          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "全系可选装"
+        },
+        {
+          "name": "Ultra套装（激光雷达+尊享座舱）",
+          "price_rmb": 20000,
+          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架"
+        },
+        {
+          "name": "高速领航+泊车辅助套装",
+          "price_rmb": 4000,
+          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等"
+        }
+      ]
     },
     {
       "sku_id": "aion-rt-2027-605-zh",
@@ -143,7 +164,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "18英寸轮毂及轮胎（235/45 R18）",
+          "price_rmb": 2000,
+          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "全系可选装"
+        },
+        {
+          "name": "Ultra套装（激光雷达+尊享座舱）",
+          "price_rmb": 20000,
+          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架"
+        },
+        {
+          "name": "高速领航+泊车辅助套装",
+          "price_rmb": 4000,
+          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等"
+        }
+      ]
     },
     {
       "sku_id": "aion-rt-2027-710-zz",
@@ -210,7 +252,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "18英寸轮毂及轮胎（235/45 R18）",
+          "price_rmb": 2000,
+          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "全系可选装"
+        },
+        {
+          "name": "Ultra套装（激光雷达+尊享座舱）",
+          "price_rmb": 20000,
+          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架"
+        },
+        {
+          "name": "高速领航+泊车辅助套装",
+          "price_rmb": 4000,
+          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等"
+        }
+      ]
     },
     {
       "sku_id": "aion-rt-2027-super-swap",
@@ -277,8 +340,29 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "18英寸轮毂及轮胎（235/45 R18）",
+          "price_rmb": 2000,
+          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "全系可选装"
+        },
+        {
+          "name": "Ultra套装（激光雷达+尊享座舱）",
+          "price_rmb": 20000,
+          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架"
+        },
+        {
+          "name": "高速领航+泊车辅助套装",
+          "price_rmb": 4000,
+          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M07/CF/E2/400x400_1_q40_c40_autohomecar__ChxpVmpx1wWAWjGjACnS5iPPO1M801.jpg"
 }

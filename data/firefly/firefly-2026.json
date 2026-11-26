@@ -75,7 +75,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（42kWh电池包）",
+          "price_rmb": "399元/月",
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+        },
+        {
+          "name": "BaaS电池租用服务（60kWh电池包）",
+          "price_rmb": "599元/月",
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+        },
+        {
+          "name": "60kWh长续航电池包升级",
+          "price_rmb": 17000,
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+        },
+        {
+          "name": "g-force引力操控套装",
+          "price_rmb": 3999,
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+        },
+        {
+          "name": "美拉德车漆配色",
+          "price_rmb": 2000,
+          "details": "2026款新增美拉德专属外观车漆选装"
+        }
+      ]
     },
     {
       "sku_id": "firefly-2026-42-faguang",
@@ -142,7 +168,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（42kWh电池包）",
+          "price_rmb": "399元/月",
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+        },
+        {
+          "name": "BaaS电池租用服务（60kWh电池包）",
+          "price_rmb": "599元/月",
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+        },
+        {
+          "name": "60kWh长续航电池包升级",
+          "price_rmb": 17000,
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+        },
+        {
+          "name": "g-force引力操控套装",
+          "price_rmb": 3999,
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+        },
+        {
+          "name": "美拉德车漆配色",
+          "price_rmb": 2000,
+          "details": "2026款新增美拉德专属外观车漆选装"
+        }
+      ]
     },
     {
       "sku_id": "firefly-2026-42-qixidi",
@@ -209,7 +261,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（42kWh电池包）",
+          "price_rmb": "399元/月",
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+        },
+        {
+          "name": "BaaS电池租用服务（60kWh电池包）",
+          "price_rmb": "599元/月",
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+        },
+        {
+          "name": "60kWh长续航电池包升级",
+          "price_rmb": 17000,
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+        },
+        {
+          "name": "g-force引力操控套装",
+          "price_rmb": 3999,
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+        },
+        {
+          "name": "美拉德车漆配色",
+          "price_rmb": 2000,
+          "details": "2026款新增美拉德专属外观车漆选装"
+        }
+      ]
     },
     {
       "sku_id": "firefly-2026-60-zizai",
@@ -276,7 +354,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（42kWh电池包）",
+          "price_rmb": "399元/月",
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+        },
+        {
+          "name": "BaaS电池租用服务（60kWh电池包）",
+          "price_rmb": "599元/月",
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+        },
+        {
+          "name": "60kWh长续航电池包升级",
+          "price_rmb": 17000,
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+        },
+        {
+          "name": "g-force引力操控套装",
+          "price_rmb": 3999,
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+        },
+        {
+          "name": "美拉德车漆配色",
+          "price_rmb": 2000,
+          "details": "2026款新增美拉德专属外观车漆选装"
+        }
+      ]
     },
     {
       "sku_id": "firefly-2026-60-faguang",
@@ -343,7 +447,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（42kWh电池包）",
+          "price_rmb": "399元/月",
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+        },
+        {
+          "name": "BaaS电池租用服务（60kWh电池包）",
+          "price_rmb": "599元/月",
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+        },
+        {
+          "name": "60kWh长续航电池包升级",
+          "price_rmb": 17000,
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+        },
+        {
+          "name": "g-force引力操控套装",
+          "price_rmb": 3999,
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+        },
+        {
+          "name": "美拉德车漆配色",
+          "price_rmb": 2000,
+          "details": "2026款新增美拉德专属外观车漆选装"
+        }
+      ]
     },
     {
       "sku_id": "firefly-2026-60-liujin",
@@ -410,8 +540,34 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（42kWh电池包）",
+          "price_rmb": "399元/月",
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+        },
+        {
+          "name": "BaaS电池租用服务（60kWh电池包）",
+          "price_rmb": "599元/月",
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+        },
+        {
+          "name": "60kWh长续航电池包升级",
+          "price_rmb": 17000,
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+        },
+        {
+          "name": "g-force引力操控套装",
+          "price_rmb": 3999,
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+        },
+        {
+          "name": "美拉德车漆配色",
+          "price_rmb": 2000,
+          "details": "2026款新增美拉德专属外观车漆选装"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://cdn-up-public.firefly.world/www-firefly/admin-file-upload/1/2026-11-18/4a1544/0-hero-top-desktop_new.jpg"
 }

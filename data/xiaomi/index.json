@@ -18,6 +18,7 @@
         "REEV"
       ],
       "sku_count": 4,
+      "option_count": 3,
       "price_min_rmb": 209900,
       "price_max_rmb": 299900,
       "best_zero_to_100_s": 5.5,
@@ -41,6 +42,7 @@
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 7,
       "price_min_rmb": 219900,
       "price_max_rmb": 303900,
       "best_zero_to_100_s": 3.08,
@@ -59,11 +61,12 @@
       "sub_brand": null,
       "category": "高性能纯电四门超跑",
       "release_date": "2025-02-27",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 2,
+      "option_count": 4,
       "price_min_rmb": 529900,
       "price_max_rmb": 814900,
       "best_zero_to_100_s": 1.98,
@@ -86,6 +89,7 @@
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 5,
       "price_min_rmb": 233500,
       "price_max_rmb": 389900,
       "best_zero_to_100_s": 2.92,

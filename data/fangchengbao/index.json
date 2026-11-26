@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "中型硬派电驱越野SUV",
       "release_date": "2025-10-20",
-      "image_url": null,
+      "image_url": "https://imgs.tom.com/auto/202308/1176417139/CONTENT69db35b6a91ec478.jpg",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 6,
+      "option_count": 3,
       "price_min_rmb": 259800,
       "price_max_rmb": 329800,
       "best_zero_to_100_s": 4.8,
@@ -35,11 +36,12 @@
       "sub_brand": null,
       "category": "中大型智能硬派旗舰SUV",
       "release_date": "2026-05-13",
-      "image_url": null,
+      "image_url": "https://n.sinaimg.cn/www/transform/278/w660h418/20241012/762a-f848c4c5679642abb2a990726962828c.jpg",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 3,
+      "option_count": 7,
       "price_min_rmb": 419800,
       "price_max_rmb": 427800,
       "best_zero_to_100_s": 4.8,
@@ -57,11 +59,12 @@
       "sub_brand": null,
       "category": "紧凑型纯电潮玩SUV",
       "release_date": "2026-03-13",
-      "image_url": null,
+      "image_url": "https://q9.itc.cn/images01/20241211/96ce51fae93748c498ecaf1be5775148.jpeg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 3,
       "price_min_rmb": 143800,
       "price_max_rmb": 169800,
       "best_zero_to_100_s": 4.7,
@@ -79,12 +82,13 @@
       "sub_brand": null,
       "category": "中大型方盒子SUV",
       "release_date": "2026-04-29",
-      "image_url": null,
+      "image_url": "https://img1.mydrivers.com/img/20250621/33f664b3-924a-47ef-b8a7-98b75f0888bf.png",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 5,
+      "option_count": 5,
       "price_min_rmb": 195800,
       "price_max_rmb": 239800,
       "best_zero_to_100_s": 4.5,

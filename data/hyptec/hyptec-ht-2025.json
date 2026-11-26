@@ -76,7 +76,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "两段式电动鸥翼门",
+          "price_rmb": null,
+          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置"
+        },
+        {
+          "name": "19/20英寸轮毂样式",
+          "price_rmb": null,
+          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择"
+        },
+        {
+          "name": "个性化外观车漆",
+          "price_rmb": null,
+          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-ht-2025-670-max",
@@ -143,7 +159,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "两段式电动鸥翼门",
+          "price_rmb": null,
+          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置"
+        },
+        {
+          "name": "19/20英寸轮毂样式",
+          "price_rmb": null,
+          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择"
+        },
+        {
+          "name": "个性化外观车漆",
+          "price_rmb": null,
+          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-ht-2025-825-pro",
@@ -210,7 +242,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "两段式电动鸥翼门",
+          "price_rmb": null,
+          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置"
+        },
+        {
+          "name": "19/20英寸轮毂样式",
+          "price_rmb": null,
+          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择"
+        },
+        {
+          "name": "个性化外观车漆",
+          "price_rmb": null,
+          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-ht-2025-825-max",
@@ -277,8 +325,24 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "两段式电动鸥翼门",
+          "price_rmb": null,
+          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置"
+        },
+        {
+          "name": "19/20英寸轮毂样式",
+          "price_rmb": null,
+          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择"
+        },
+        {
+          "name": "个性化外观车漆",
+          "price_rmb": null,
+          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g31/M07/01/36/400x400_1_q40_c40_autohomecar__ChtlyGY47_uAF8IzAB0Lu0y7bAA860.jpg"
 }

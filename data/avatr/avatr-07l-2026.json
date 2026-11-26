@@ -95,6 +95,16 @@
           "name": "超清电子外后视镜 / 冷暖箱 / 21英寸轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "Max/Max+/Ultra可选"
+        },
+        {
+          "name": "4L智能车载冷暖冰箱",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     },
@@ -183,6 +193,16 @@
           "name": "超清电子外后视镜 / 冷暖箱 / 21英寸轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "Max/Max+/Ultra可选"
+        },
+        {
+          "name": "4L智能车载冷暖冰箱",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     },
@@ -271,9 +291,19 @@
           "name": "超清电子外后视镜 / 冷暖箱 / 21英寸轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "Max/Max+/Ultra可选"
+        },
+        {
+          "name": "4L智能车载冷暖冰箱",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M06/51/58/400x400_1_q40_c40_autohomecar__ChxpV2qo5x2AHvo3ABppOdZ4cUU216.jpg"
 }

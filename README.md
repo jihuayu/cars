@@ -5,7 +5,7 @@
 ## 数据规模总览
 
 <!-- STATS:START -->
-共收录 **27 大品牌 / 124 款主力车型 / 563 个在售 SKU**（数据更新日期：**2026-11-26**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。
+共收录 **27 大品牌 / 124 款主力车型 / 563 个在售 SKU**（数据更新日期：**2026-11-26**，外观图与选装明细 100% 覆盖），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。
 
 | 厂商目录 | 品牌 | 车型数 | SKU 数 | 品牌索引 |
 | :--- | :--- | ---: | ---: | :--- |

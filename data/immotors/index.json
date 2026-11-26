@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2026-08-28",
-      "image_url": null,
+      "image_url": "https://portal-static.immotors.com/images/portal/1793278653039%2540acco2o9f.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 6,
       "price_min_rmb": 209900,
       "price_max_rmb": 269900,
       "best_zero_to_100_s": 2.74,
@@ -42,6 +43,7 @@
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 4,
       "price_min_rmb": 202900,
       "price_max_rmb": 264900,
       "best_zero_to_100_s": 3.48,
@@ -60,11 +62,12 @@
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2025-06-16",
-      "image_url": null,
+      "image_url": "https://portal-static.immotors.com/images/portal/1749795176931%2540a349kp4v.png",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 2,
+      "option_count": 4,
       "price_min_rmb": 309900,
       "price_max_rmb": 339900,
       "best_zero_to_100_s": 3.9,
@@ -82,12 +85,13 @@
       "sub_brand": null,
       "category": "中大型5/6座SUV",
       "release_date": "2026-04-16",
-      "image_url": null,
+      "image_url": "https://portal-static.immotors.com/images/portal/1793880843625%25407chkhg1l.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 8,
+      "option_count": 5,
       "price_min_rmb": 249800,
       "price_max_rmb": 311800,
       "best_zero_to_100_s": null,
@@ -105,11 +109,12 @@
       "sub_brand": null,
       "category": "全尺寸旗舰6座SUV",
       "release_date": "2025-11-12",
-      "image_url": null,
+      "image_url": "https://portal-static.immotors.com/images/portal/1784250480447%25406yrn3u13.jpg",
       "powertrains": [
         "REEV"
       ],
       "sku_count": 3,
+      "option_count": 12,
       "price_min_rmb": 332800,
       "price_max_rmb": 379800,
       "best_zero_to_100_s": 3.9,

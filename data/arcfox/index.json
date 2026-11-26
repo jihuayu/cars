@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "中型纯电轿跑",
       "release_date": "2026-11-16",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/C9/A4/400x400_1_q40_c40_autohomecar__ChtpWGrSCJOAZILpACJHIMvYGiM954.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 3,
       "price_min_rmb": 121800,
       "price_max_rmb": 144800,
       "best_zero_to_100_s": 5.9,
@@ -35,11 +36,12 @@
       "sub_brand": null,
       "category": "中大型纯电轿车 / SUV",
       "release_date": "2025-04-02",
-      "image_url": null,
+      "image_url": "https://k2.autoimg.cn/koubeidfs/g28/M07/75/B3/800x600_1_q87_autohomecar__ChxkmmhZh2-ASa6nABfkZXf-mZY470.png.webp",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 4,
+      "option_count": 6,
       "price_min_rmb": 195800,
       "price_max_rmb": 225800,
       "best_zero_to_100_s": 4.6,
@@ -57,12 +59,13 @@
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2025-10-28",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g34/M00/99/0D/400x400_1_q40_c40_autohomecar__ChtpWGjpxT-AQyXyAEcn9wvZTKk54.jpeg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 3,
       "price_min_rmb": 113800,
       "price_max_rmb": 158800,
       "best_zero_to_100_s": 6.5,
@@ -80,11 +83,12 @@
       "sub_brand": null,
       "category": "紧凑型电动侧滑门纯电SUV",
       "release_date": "2026-01-13",
-      "image_url": null,
+      "image_url": "https://www2.autoimg.cn/chejiahaodfs/g33/M06/60/5D/400x400_0_f42_autohomecar__ChxpVmlnSTiAOv7DAAFA5sN8K0k637.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 1,
       "price_min_rmb": 99800,
       "price_max_rmb": 119800,
       "best_zero_to_100_s": null,

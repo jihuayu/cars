@@ -13,12 +13,13 @@
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2026-01-08",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/XPeng_G6_018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 3,
+      "option_count": 4,
       "price_min_rmb": 176800,
       "price_max_rmb": 186800,
       "best_zero_to_100_s": 6.4,
@@ -42,6 +43,7 @@
         "REEV"
       ],
       "sku_count": 4,
+      "option_count": 5,
       "price_min_rmb": 195800,
       "price_max_rmb": 205800,
       "best_zero_to_100_s": 6.5,
@@ -64,6 +66,7 @@
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 5,
       "price_min_rmb": 248800,
       "price_max_rmb": 278800,
       "best_zero_to_100_s": 4.2,
@@ -87,6 +90,7 @@
         "REEV"
       ],
       "sku_count": 8,
+      "option_count": 6,
       "price_min_rmb": 279800,
       "price_max_rmb": 359800,
       "best_zero_to_100_s": 4.98,
@@ -109,6 +113,7 @@
         "BEV"
       ],
       "sku_count": 6,
+      "option_count": 6,
       "price_min_rmb": 119800,
       "price_max_rmb": 151800,
       "best_zero_to_100_s": 7.4,
@@ -126,11 +131,12 @@
       "sub_brand": null,
       "category": "中大型纯电运动轿跑",
       "release_date": "2025-08-27",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/XPeng_P7_II_MY2025_IMG03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 4,
+      "option_count": 8,
       "price_min_rmb": 203800,
       "price_max_rmb": 301800,
       "best_zero_to_100_s": 3.7,
@@ -154,6 +160,7 @@
         "REEV"
       ],
       "sku_count": 4,
+      "option_count": 7,
       "price_min_rmb": 186800,
       "price_max_rmb": 198800,
       "best_zero_to_100_s": 5.9,
@@ -177,6 +184,7 @@
         "REEV"
       ],
       "sku_count": 8,
+      "option_count": 6,
       "price_min_rmb": 309800,
       "price_max_rmb": 369800,
       "best_zero_to_100_s": 8.0,

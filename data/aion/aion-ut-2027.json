@@ -75,7 +75,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "17英寸铝合金轮毂及轮胎（215/55 R17）",
+          "price_rmb": 1500,
+          "details": "2027款530宁德版标配16英寸钢制轮毂（215/60 R16），可选装17英寸铝合金轮毂"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "2027款530宁德版官方选配"
+        }
+      ]
     },
     {
       "sku_id": "aion-ut-2025-420-zh",
@@ -142,8 +153,19 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "17英寸铝合金轮毂及轮胎（215/55 R17）",
+          "price_rmb": 1500,
+          "details": "2027款530宁德版标配16英寸钢制轮毂（215/60 R16），可选装17英寸铝合金轮毂"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": 200,
+          "details": "2027款530宁德版官方选配"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M02/C8/1F/400x400_1_q40_c40_autohomecar__ChxpV2pxhVqAJi2LACJcnsmRhbQ343.jpg"
 }

@@ -76,7 +76,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观车漆（含琉光银等5款配色）",
+          "price_rmb": null,
+          "details": "汉L EV/DM全系提供5款外观车漆（含新增琉光银），官网及汽车之家参数表未单列选装包加价，具体特殊漆面选装费用以门店订车页面为准。"
+        },
+        {
+          "name": "内饰配色方案",
+          "price_rmb": null,
+          "details": "官方提供多套内外饰组合方案，随不同版型标配或免费选装，未公布单独收费标准。"
+        },
+        {
+          "name": "高阶配置/激光雷达",
+          "price_rmb": null,
+          "details": "全系主打按版型梯度区分配置（尊享型/旗舰型/四驱旗舰型标配激光雷达与云辇-C），不设独立付费选装包。"
+        }
+      ]
     },
     {
       "sku_id": "byd-han-l-dmi-200-flagship",
@@ -143,7 +159,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观车漆（含琉光银等5款配色）",
+          "price_rmb": null,
+          "details": "汉L EV/DM全系提供5款外观车漆（含新增琉光银），官网及汽车之家参数表未单列选装包加价，具体特殊漆面选装费用以门店订车页面为准。"
+        },
+        {
+          "name": "内饰配色方案",
+          "price_rmb": null,
+          "details": "官方提供多套内外饰组合方案，随不同版型标配或免费选装，未公布单独收费标准。"
+        },
+        {
+          "name": "高阶配置/激光雷达",
+          "price_rmb": null,
+          "details": "全系主打按版型梯度区分配置（尊享型/旗舰型/四驱旗舰型标配激光雷达与云辇-C），不设独立付费选装包。"
+        }
+      ]
     },
     {
       "sku_id": "byd-han-l-dmp-awd-flagship",
@@ -210,7 +242,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观车漆（含琉光银等5款配色）",
+          "price_rmb": null,
+          "details": "汉L EV/DM全系提供5款外观车漆（含新增琉光银），官网及汽车之家参数表未单列选装包加价，具体特殊漆面选装费用以门店订车页面为准。"
+        },
+        {
+          "name": "内饰配色方案",
+          "price_rmb": null,
+          "details": "官方提供多套内外饰组合方案，随不同版型标配或免费选装，未公布单独收费标准。"
+        },
+        {
+          "name": "高阶配置/激光雷达",
+          "price_rmb": null,
+          "details": "全系主打按版型梯度区分配置（尊享型/旗舰型/四驱旗舰型标配激光雷达与云辇-C），不设独立付费选装包。"
+        }
+      ]
     },
     {
       "sku_id": "byd-han-l-ev-701-zunxiang",
@@ -277,7 +325,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观车漆（含琉光银等5款配色）",
+          "price_rmb": null,
+          "details": "汉L EV/DM全系提供5款外观车漆（含新增琉光银），官网及汽车之家参数表未单列选装包加价，具体特殊漆面选装费用以门店订车页面为准。"
+        },
+        {
+          "name": "内饰配色方案",
+          "price_rmb": null,
+          "details": "官方提供多套内外饰组合方案，随不同版型标配或免费选装，未公布单独收费标准。"
+        },
+        {
+          "name": "高阶配置/激光雷达",
+          "price_rmb": null,
+          "details": "全系主打按版型梯度区分配置（尊享型/旗舰型/四驱旗舰型标配激光雷达与云辇-C），不设独立付费选装包。"
+        }
+      ]
     },
     {
       "sku_id": "byd-han-l-ev-701-flagship",
@@ -344,7 +408,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观车漆（含琉光银等5款配色）",
+          "price_rmb": null,
+          "details": "汉L EV/DM全系提供5款外观车漆（含新增琉光银），官网及汽车之家参数表未单列选装包加价，具体特殊漆面选装费用以门店订车页面为准。"
+        },
+        {
+          "name": "内饰配色方案",
+          "price_rmb": null,
+          "details": "官方提供多套内外饰组合方案，随不同版型标配或免费选装，未公布单独收费标准。"
+        },
+        {
+          "name": "高阶配置/激光雷达",
+          "price_rmb": null,
+          "details": "全系主打按版型梯度区分配置（尊享型/旗舰型/四驱旗舰型标配激光雷达与云辇-C），不设独立付费选装包。"
+        }
+      ]
     },
     {
       "sku_id": "byd-han-l-ev-awd-flagship",
@@ -411,8 +491,24 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "外观车漆（含琉光银等5款配色）",
+          "price_rmb": null,
+          "details": "汉L EV/DM全系提供5款外观车漆（含新增琉光银），官网及汽车之家参数表未单列选装包加价，具体特殊漆面选装费用以门店订车页面为准。"
+        },
+        {
+          "name": "内饰配色方案",
+          "price_rmb": null,
+          "details": "官方提供多套内外饰组合方案，随不同版型标配或免费选装，未公布单独收费标准。"
+        },
+        {
+          "name": "高阶配置/激光雷达",
+          "price_rmb": null,
+          "details": "全系主打按版型梯度区分配置（尊享型/旗舰型/四驱旗舰型标配激光雷达与云辇-C），不设独立付费选装包。"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://imgs.tom.com/auto/202501/1852621532/CONTENT05f7e8d33a66a5ee.jpg"
 }

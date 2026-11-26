@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "紧凑型纯电轿跑",
       "release_date": "2026-08-05",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g33/M07/CF/E2/400x400_1_q40_c40_autohomecar__ChxpVmpx1wWAWjGjACnS5iPPO1M801.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 4,
+      "option_count": 4,
       "price_min_rmb": 99800,
       "price_max_rmb": 128800,
       "best_zero_to_100_s": 7.5,
@@ -36,11 +37,12 @@
       "sub_brand": null,
       "category": "小型纯电两厢车",
       "release_date": "2026-08-22",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g34/M02/C8/1F/400x400_1_q40_c40_autohomecar__ChxpV2pxhVqAJi2LACJcnsmRhbQ343.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 2,
+      "option_count": 2,
       "price_min_rmb": 86800,
       "price_max_rmb": 89800,
       "best_zero_to_100_s": null,
@@ -58,11 +60,12 @@
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2025-08-27",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/B8/2D/400x400_1_q40_c40_autohomecar__ChtpWGiodzyAHZkTACW8oPArhiI280.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 4,
+      "option_count": 2,
       "price_min_rmb": 109800,
       "price_max_rmb": 135800,
       "best_zero_to_100_s": 7.9,

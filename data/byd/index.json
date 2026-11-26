@@ -13,12 +13,13 @@
       "sub_brand": null,
       "category": "中大型旗舰轿车",
       "release_date": "2025-04-09",
-      "image_url": null,
+      "image_url": "https://imgs.tom.com/auto/202501/1852621532/CONTENT05f7e8d33a66a5ee.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 6,
+      "option_count": 3,
       "price_min_rmb": 209800,
       "price_max_rmb": 279800,
       "best_zero_to_100_s": 2.7,
@@ -37,12 +38,13 @@
       "sub_brand": null,
       "category": "中型轿车",
       "release_date": "2026-08-11",
-      "image_url": null,
+      "image_url": "https://global-img.bitauto.hk/usercenter/yhzx/20260727/300/w1260_m5_q100_yichecar_511623130087662.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 8,
+      "option_count": 2,
       "price_min_rmb": 99900,
       "price_max_rmb": 155900,
       "best_zero_to_100_s": 5.9,
@@ -61,12 +63,13 @@
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2025-05-08",
-      "image_url": null,
+      "image_url": "https://s3.xchuxing.com/xchuxing/article/2024/04/26/6f0aa202404261414364171.png",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 7,
+      "option_count": 4,
       "price_min_rmb": 169800,
       "price_max_rmb": 239800,
       "best_zero_to_100_s": 4.2,
@@ -85,12 +88,13 @@
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2025-10-23",
-      "image_url": null,
+      "image_url": "https://www.byd.com/material/domestic-official/dynasty/home/1-kv/icon-0331/qin/26-song-l-dm-i/26-song-l-dm-i-kv-p.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 7,
+      "option_count": 2,
       "price_min_rmb": 139800,
       "price_max_rmb": 249800,
       "best_zero_to_100_s": 4.3,
@@ -109,12 +113,13 @@
       "sub_brand": null,
       "category": "中大型7座旗舰SUV",
       "release_date": "2025-04-09",
-      "image_url": null,
+      "image_url": "https://q3.itc.cn/images01/20250117/986840ae534143049a081a0d9fac02f7.jpeg",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 6,
+      "option_count": 3,
       "price_min_rmb": 229800,
       "price_max_rmb": 289800,
       "best_zero_to_100_s": 3.9,
@@ -133,11 +138,12 @@
       "sub_brand": null,
       "category": "中大型7座插混MPV",
       "release_date": "2025-11-04",
-      "image_url": null,
+      "image_url": "https://global-img.bitauto.com/usercenter/yhzx/20251030/970/w1200_yichecar_182172197027813.jpg.webp",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 4,
+      "option_count": 3,
       "price_min_rmb": 206800,
       "price_max_rmb": 269800,
       "best_zero_to_100_s": 8.1,

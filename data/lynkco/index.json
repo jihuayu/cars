@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "全尺寸旗舰插混SUV（5/6座）",
       "release_date": "2025-04-28",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Lynk_%26_Co_900_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 7,
+      "option_count": 1,
       "price_min_rmb": 299800,
       "price_max_rmb": 416900,
       "best_zero_to_100_s": 4.3,
@@ -35,11 +36,12 @@
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2024-12-02",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 1,
+      "option_count": 2,
       "price_min_rmb": 229800,
       "price_max_rmb": 229800,
       "best_zero_to_100_s": 3.5,
@@ -58,11 +60,12 @@
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2026-09-28",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Lynk_%26_Co_Z20_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 1,
       "price_min_rmb": 123800,
       "price_max_rmb": 163800,
       "best_zero_to_100_s": 6.4,

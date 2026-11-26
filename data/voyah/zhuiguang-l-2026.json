@@ -75,7 +75,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "20英寸光晖轮毂（大饼轮毂）",
+          "price_rmb": 10000,
+          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂"
+        },
+        {
+          "name": "双拼色车身车漆",
+          "price_rmb": 10000,
+          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身"
+        },
+        {
+          "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": null,
+          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-zhuiguang-l-2026-ultra",
@@ -142,7 +163,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "20英寸光晖轮毂（大饼轮毂）",
+          "price_rmb": 10000,
+          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂"
+        },
+        {
+          "name": "双拼色车身车漆",
+          "price_rmb": 10000,
+          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身"
+        },
+        {
+          "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": null,
+          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-zhuiguang-l-2026-zunrong",
@@ -209,8 +251,29 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "20英寸光晖轮毂（大饼轮毂）",
+          "price_rmb": 10000,
+          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂"
+        },
+        {
+          "name": "双拼色车身车漆",
+          "price_rmb": 10000,
+          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身"
+        },
+        {
+          "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价"
+        },
+        {
+          "name": "原厂ETC装置",
+          "price_rmb": null,
+          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M03/73/B4/autohomecar__ChtpWGjnFsOAMo4rAAUIRhOAwv0356.png?x_image_process=text/5rG96L2m6Kej5b-n6ZO6/fontSize/12"
 }

@@ -13,12 +13,13 @@
       "sub_brand": null,
       "category": "中大型7座豪华MPV",
       "release_date": "2026-04-27",
-      "image_url": null,
+      "image_url": "https://m3.auto.itc.cn/q_mini/carpics/360car/6785/-47800985542697715471736241042423.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 7,
+      "option_count": 4,
       "price_min_rmb": 309800,
       "price_max_rmb": 469800,
       "best_zero_to_100_s": 8.5,
@@ -36,12 +37,13 @@
       "sub_brand": null,
       "category": "中大型6座豪华SUV",
       "release_date": "2026-06-23",
-      "image_url": null,
+      "image_url": "https://img1.mydrivers.com/img/20250607/7074eef0-9d1c-4c3b-b881-946aa35d6d22.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 4,
+      "option_count": 5,
       "price_min_rmb": 299800,
       "price_max_rmb": 349800,
       "best_zero_to_100_s": 3.7,
@@ -59,11 +61,12 @@
       "sub_brand": null,
       "category": "全尺寸旗舰6座插混SUV",
       "release_date": "2026-05-18",
-      "image_url": null,
+      "image_url": "https://q6.itc.cn/q_70/images01/20250324/4db54e8e56754a1a88990d0f81712420.png",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 3,
+      "option_count": 7,
       "price_min_rmb": 409800,
       "price_max_rmb": 469800,
       "best_zero_to_100_s": 3.7,
@@ -81,12 +84,13 @@
       "sub_brand": null,
       "category": "中大型豪华猎装/旗舰轿车",
       "release_date": "2026-03-05",
-      "image_url": null,
+      "image_url": "https://img6.donews.com/img/2026/02/06/img_pic_711770371508.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 7,
+      "option_count": 4,
       "price_min_rmb": 269800,
       "price_max_rmb": 369800,
       "best_zero_to_100_s": 2.68,

@@ -13,12 +13,13 @@
       "sub_brand": null,
       "category": "中型轿车",
       "release_date": "2026-10-15",
-      "image_url": null,
+      "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g33/M04/E1/6B/autohomecar__ChxpVmrVf6GAfK7aAA33hH_ltig373.png?x_image_process=text/55S15Yqo6L2m5YWs56S-/fontSize/12",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 2,
+      "option_count": 12,
       "price_min_rmb": 219900,
       "price_max_rmb": 229900,
       "best_zero_to_100_s": 6.1,
@@ -37,12 +38,13 @@
       "sub_brand": null,
       "category": "中型猎装轿跑",
       "release_date": "2026-04-23",
-      "image_url": null,
+      "image_url": "https://s3.xchuxing.com/xchuxing/article/2026/04/06/202604061102186032.png",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 7,
+      "option_count": 9,
       "price_min_rmb": 219900,
       "price_max_rmb": 279900,
       "best_zero_to_100_s": 2.78,
@@ -61,12 +63,13 @@
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2025-09-20",
-      "image_url": null,
+      "image_url": "https://static.avatr.com/pc-website/images/car07/v1/pc/KV_07.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 6,
+      "option_count": 10,
       "price_min_rmb": 219900,
       "price_max_rmb": 279900,
       "best_zero_to_100_s": 3.9,
@@ -85,11 +88,12 @@
       "sub_brand": null,
       "category": "中大型5座纯电SUV",
       "release_date": "2026-08-08",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g34/M06/51/58/400x400_1_q40_c40_autohomecar__ChxpV2qo5x2AHvo3ABppOdZ4cUU216.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 6,
       "price_min_rmb": 229900,
       "price_max_rmb": 279900,
       "best_zero_to_100_s": 3.7,
@@ -107,12 +111,13 @@
       "sub_brand": null,
       "category": "中大型轿跑SUV",
       "release_date": "2025-04-27",
-      "image_url": null,
+      "image_url": "https://www2.autoimg.cn/chejiahaodfs/g32/M06/6B/4C/400x400_0_f42_autohomecar__ChxkPmdOf5eACD8HAANGjkPWszg67.jpeg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 6,
+      "option_count": 6,
       "price_min_rmb": 289900,
       "price_max_rmb": 429900,
       "best_zero_to_100_s": 3.9,
@@ -137,6 +142,7 @@
         "REEV"
       ],
       "sku_count": 4,
+      "option_count": 4,
       "price_min_rmb": 293900,
       "price_max_rmb": 433900,
       "best_zero_to_100_s": 2.71,

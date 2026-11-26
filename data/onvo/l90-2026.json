@@ -76,7 +76,53 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（85kWh电池包）",
+          "price_rmb": "899元/月",
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+        },
+        {
+          "name": "专属曜黑套装",
+          "price_rmb": 12000,
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+        },
+        {
+          "name": "第二排右侧零重力座椅",
+          "price_rmb": 12000,
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+        },
+        {
+          "name": "21英寸轮圈及轮胎",
+          "price_rmb": 10000,
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+        },
+        {
+          "name": "电动脚踏板",
+          "price_rmb": 10000,
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+        },
+        {
+          "name": "17.3英寸3K后排吸顶娱乐屏",
+          "price_rmb": 8000,
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+        },
+        {
+          "name": "全场景领航辅助（NOA）订阅",
+          "price_rmb": "320元/月",
+          "details": "支持高速及城市领航辅助驾驶功能订阅"
+        },
+        {
+          "name": "双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+        }
+      ]
     },
     {
       "sku_id": "onvo-l90-2026-max-plus-6",
@@ -143,7 +189,53 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（85kWh电池包）",
+          "price_rmb": "899元/月",
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+        },
+        {
+          "name": "专属曜黑套装",
+          "price_rmb": 12000,
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+        },
+        {
+          "name": "第二排右侧零重力座椅",
+          "price_rmb": 12000,
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+        },
+        {
+          "name": "21英寸轮圈及轮胎",
+          "price_rmb": 10000,
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+        },
+        {
+          "name": "电动脚踏板",
+          "price_rmb": 10000,
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+        },
+        {
+          "name": "17.3英寸3K后排吸顶娱乐屏",
+          "price_rmb": 8000,
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+        },
+        {
+          "name": "全场景领航辅助（NOA）订阅",
+          "price_rmb": "320元/月",
+          "details": "支持高速及城市领航辅助驾驶功能订阅"
+        },
+        {
+          "name": "双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+        }
+      ]
     },
     {
       "sku_id": "onvo-l90-2026-max-plus-7",
@@ -210,7 +302,53 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（85kWh电池包）",
+          "price_rmb": "899元/月",
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+        },
+        {
+          "name": "专属曜黑套装",
+          "price_rmb": 12000,
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+        },
+        {
+          "name": "第二排右侧零重力座椅",
+          "price_rmb": 12000,
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+        },
+        {
+          "name": "21英寸轮圈及轮胎",
+          "price_rmb": 10000,
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+        },
+        {
+          "name": "电动脚踏板",
+          "price_rmb": 10000,
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+        },
+        {
+          "name": "17.3英寸3K后排吸顶娱乐屏",
+          "price_rmb": 8000,
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+        },
+        {
+          "name": "全场景领航辅助（NOA）订阅",
+          "price_rmb": "320元/月",
+          "details": "支持高速及城市领航辅助驾驶功能订阅"
+        },
+        {
+          "name": "双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+        }
+      ]
     },
     {
       "sku_id": "onvo-l90-2026-ultra-plus-6",
@@ -277,7 +415,53 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（85kWh电池包）",
+          "price_rmb": "899元/月",
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+        },
+        {
+          "name": "专属曜黑套装",
+          "price_rmb": 12000,
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+        },
+        {
+          "name": "第二排右侧零重力座椅",
+          "price_rmb": 12000,
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+        },
+        {
+          "name": "21英寸轮圈及轮胎",
+          "price_rmb": 10000,
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+        },
+        {
+          "name": "电动脚踏板",
+          "price_rmb": 10000,
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+        },
+        {
+          "name": "17.3英寸3K后排吸顶娱乐屏",
+          "price_rmb": 8000,
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+        },
+        {
+          "name": "全场景领航辅助（NOA）订阅",
+          "price_rmb": "320元/月",
+          "details": "支持高速及城市领航辅助驾驶功能订阅"
+        },
+        {
+          "name": "双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+        }
+      ]
     },
     {
       "sku_id": "onvo-l90-2026-ultra-plus-7",
@@ -344,7 +528,53 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "BaaS电池租用服务（85kWh电池包）",
+          "price_rmb": "899元/月",
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+        },
+        {
+          "name": "专属曜黑套装",
+          "price_rmb": 12000,
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+        },
+        {
+          "name": "第二排右侧零重力座椅",
+          "price_rmb": 12000,
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+        },
+        {
+          "name": "21英寸轮圈及轮胎",
+          "price_rmb": 10000,
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+        },
+        {
+          "name": "电动脚踏板",
+          "price_rmb": 10000,
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+        },
+        {
+          "name": "17.3英寸3K后排吸顶娱乐屏",
+          "price_rmb": 8000,
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+        },
+        {
+          "name": "全场景领航辅助（NOA）订阅",
+          "price_rmb": "320元/月",
+          "details": "支持高速及城市领航辅助驾驶功能订阅"
+        },
+        {
+          "name": "双拼色车身车漆",
+          "price_rmb": null,
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+        }
+      ]
     }
   ],
   "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg"

@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "小型高端纯电两厢车",
       "release_date": "2026-04-07",
-      "image_url": null,
+      "image_url": "https://cdn-up-public.firefly.world/www-firefly/admin-file-upload/1/2026-11-18/4a1544/0-hero-top-desktop_new.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 6,
+      "option_count": 5,
       "price_min_rmb": 119800,
       "price_max_rmb": 152800,
       "best_zero_to_100_s": 7.9,

@@ -76,7 +76,43 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "关爱呵护包",
+          "price_rmb": 20000,
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+        },
+        {
+          "name": "电动侧踏板（单选）",
+          "price_rmb": 10000,
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+        },
+        {
+          "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
+          "price_rmb": 10000,
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
+          "price_rmb": 5999,
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "超长滑轨座椅",
+          "price_rmb": 3999,
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
+          "price_rmb": null,
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-s09-rwd-ultra-lr",
@@ -143,7 +179,43 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "关爱呵护包",
+          "price_rmb": 20000,
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+        },
+        {
+          "name": "电动侧踏板（单选）",
+          "price_rmb": 10000,
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+        },
+        {
+          "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
+          "price_rmb": 10000,
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
+          "price_rmb": 5999,
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "超长滑轨座椅",
+          "price_rmb": 3999,
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
+          "price_rmb": null,
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-s09-rwd-ultra-plus-lr",
@@ -210,7 +282,43 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "关爱呵护包",
+          "price_rmb": 20000,
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+        },
+        {
+          "name": "电动侧踏板（单选）",
+          "price_rmb": 10000,
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+        },
+        {
+          "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
+          "price_rmb": 10000,
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
+          "price_rmb": 5999,
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "超长滑轨座椅",
+          "price_rmb": 3999,
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
+          "price_rmb": null,
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-s09-awd-ultra",
@@ -277,7 +385,43 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "关爱呵护包",
+          "price_rmb": 20000,
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+        },
+        {
+          "name": "电动侧踏板（单选）",
+          "price_rmb": 10000,
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+        },
+        {
+          "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
+          "price_rmb": 10000,
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
+          "price_rmb": 5999,
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "超长滑轨座椅",
+          "price_rmb": 3999,
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
+          "price_rmb": null,
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-s09-awd-ultra-plus-lr",
@@ -344,8 +488,44 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "关爱呵护包",
+          "price_rmb": 20000,
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+        },
+        {
+          "name": "电动侧踏板（单选）",
+          "price_rmb": 10000,
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+        },
+        {
+          "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
+          "price_rmb": 10000,
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
+          "price_rmb": 5999,
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+        },
+        {
+          "name": "超长滑轨座椅",
+          "price_rmb": 3999,
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
+          "price_rmb": null,
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://img8.bitautoimg.com/usercenter/autoalbum/files/20250401/303/w300_yichecar_202504011139347119830385114.png.webp"
 }

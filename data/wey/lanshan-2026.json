@@ -76,7 +76,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "20英寸轮毂及轮胎（255/60 R20）",
+          "price_rmb": 0,
+          "details": "魏牌官网二代蓝山配置表标明全系可免费选装255/60 R20品牌轮胎（标配21英寸轮毂）"
+        },
+        {
+          "name": "21英寸星轨之环轮毂",
+          "price_rmb": 10000,
+          "details": "魏牌官网二代蓝山配置表标明全系选装价10000元"
+        },
+        {
+          "name": "双向20°后轮转向系统",
+          "price_rmb": 10000,
+          "details": "登峰版五座选装价10000元，绑定虚拟轴距调节、蟹行模式与对开路控制；其余版本标配"
+        }
+      ]
     },
     {
       "sku_id": "wey-lanshan-2026-max-plus",
@@ -143,7 +159,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "20英寸轮毂及轮胎（255/60 R20）",
+          "price_rmb": 0,
+          "details": "魏牌官网二代蓝山配置表标明全系可免费选装255/60 R20品牌轮胎（标配21英寸轮毂）"
+        },
+        {
+          "name": "21英寸星轨之环轮毂",
+          "price_rmb": 10000,
+          "details": "魏牌官网二代蓝山配置表标明全系选装价10000元"
+        },
+        {
+          "name": "双向20°后轮转向系统",
+          "price_rmb": 10000,
+          "details": "登峰版五座选装价10000元，绑定虚拟轴距调节、蟹行模式与对开路控制；其余版本标配"
+        }
+      ]
     },
     {
       "sku_id": "wey-lanshan-2026-ultra-black",
@@ -210,8 +242,24 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "20英寸轮毂及轮胎（255/60 R20）",
+          "price_rmb": 0,
+          "details": "魏牌官网二代蓝山配置表标明全系可免费选装255/60 R20品牌轮胎（标配21英寸轮毂）"
+        },
+        {
+          "name": "21英寸星轨之环轮毂",
+          "price_rmb": 10000,
+          "details": "魏牌官网二代蓝山配置表标明全系选装价10000元"
+        },
+        {
+          "name": "双向20°后轮转向系统",
+          "price_rmb": 10000,
+          "details": "登峰版五座选装价10000元，绑定虚拟轴距调节、蟹行模式与对开路控制；其余版本标配"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M09/C7/34/400x400_1_q40_c40_autohomecar__ChxpVWrqoLaAUsXPAA6Zk-JWiCQ104.jpg"
 }

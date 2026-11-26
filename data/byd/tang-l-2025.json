@@ -76,7 +76,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "灵鸢·比亚迪智能车载无人机系统",
+          "price_rmb": 16968,
+          "details": "包含智能机库*1、DJI AIR 3S定制车载无人机*1、定制双模式手柄*1（含一年大疆DJI Care随心换车载无人机版），供高配/旗舰车型选装。"
+        },
+        {
+          "name": "琉光银外观车漆",
+          "price_rmb": null,
+          "details": "2025年底随OTA升级向唐L用户开放选装的专属外观车漆，官网未公开统一单项选装价格。"
+        },
+        {
+          "name": "车载冰箱/车内香氛及空气质量监测",
+          "price_rmb": null,
+          "details": "据汽车之家配置表，部分中低配车型列为选装项（高配标配），官网未公开单项选装价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-tang-l-dm-200-awd",
@@ -143,7 +159,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "灵鸢·比亚迪智能车载无人机系统",
+          "price_rmb": 16968,
+          "details": "包含智能机库*1、DJI AIR 3S定制车载无人机*1、定制双模式手柄*1（含一年大疆DJI Care随心换车载无人机版），供高配/旗舰车型选装。"
+        },
+        {
+          "name": "琉光银外观车漆",
+          "price_rmb": null,
+          "details": "2025年底随OTA升级向唐L用户开放选装的专属外观车漆，官网未公开统一单项选装价格。"
+        },
+        {
+          "name": "车载冰箱/车内香氛及空气质量监测",
+          "price_rmb": null,
+          "details": "据汽车之家配置表，部分中低配车型列为选装项（高配标配），官网未公开单项选装价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-tang-l-dm-175-drone",
@@ -210,7 +242,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "灵鸢·比亚迪智能车载无人机系统",
+          "price_rmb": 16968,
+          "details": "包含智能机库*1、DJI AIR 3S定制车载无人机*1、定制双模式手柄*1（含一年大疆DJI Care随心换车载无人机版），供高配/旗舰车型选装。"
+        },
+        {
+          "name": "琉光银外观车漆",
+          "price_rmb": null,
+          "details": "2025年底随OTA升级向唐L用户开放选装的专属外观车漆，官网未公开统一单项选装价格。"
+        },
+        {
+          "name": "车载冰箱/车内香氛及空气质量监测",
+          "price_rmb": null,
+          "details": "据汽车之家配置表，部分中低配车型列为选装项（高配标配），官网未公开单项选装价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-tang-l-ev-670-zunxiang",
@@ -277,7 +325,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "灵鸢·比亚迪智能车载无人机系统",
+          "price_rmb": 16968,
+          "details": "包含智能机库*1、DJI AIR 3S定制车载无人机*1、定制双模式手柄*1（含一年大疆DJI Care随心换车载无人机版），供高配/旗舰车型选装。"
+        },
+        {
+          "name": "琉光银外观车漆",
+          "price_rmb": null,
+          "details": "2025年底随OTA升级向唐L用户开放选装的专属外观车漆，官网未公开统一单项选装价格。"
+        },
+        {
+          "name": "车载冰箱/车内香氛及空气质量监测",
+          "price_rmb": null,
+          "details": "据汽车之家配置表，部分中低配车型列为选装项（高配标配），官网未公开单项选装价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-tang-l-ev-670-flagship",
@@ -344,7 +408,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "灵鸢·比亚迪智能车载无人机系统",
+          "price_rmb": 16968,
+          "details": "包含智能机库*1、DJI AIR 3S定制车载无人机*1、定制双模式手柄*1（含一年大疆DJI Care随心换车载无人机版），供高配/旗舰车型选装。"
+        },
+        {
+          "name": "琉光银外观车漆",
+          "price_rmb": null,
+          "details": "2025年底随OTA升级向唐L用户开放选装的专属外观车漆，官网未公开统一单项选装价格。"
+        },
+        {
+          "name": "车载冰箱/车内香氛及空气质量监测",
+          "price_rmb": null,
+          "details": "据汽车之家配置表，部分中低配车型列为选装项（高配标配），官网未公开单项选装价格。"
+        }
+      ]
     },
     {
       "sku_id": "byd-tang-l-ev-600-awd",
@@ -411,8 +491,24 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "灵鸢·比亚迪智能车载无人机系统",
+          "price_rmb": 16968,
+          "details": "包含智能机库*1、DJI AIR 3S定制车载无人机*1、定制双模式手柄*1（含一年大疆DJI Care随心换车载无人机版），供高配/旗舰车型选装。"
+        },
+        {
+          "name": "琉光银外观车漆",
+          "price_rmb": null,
+          "details": "2025年底随OTA升级向唐L用户开放选装的专属外观车漆，官网未公开统一单项选装价格。"
+        },
+        {
+          "name": "车载冰箱/车内香氛及空气质量监测",
+          "price_rmb": null,
+          "details": "据汽车之家配置表，部分中低配车型列为选装项（高配标配），官网未公开单项选装价格。"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://q3.itc.cn/images01/20250117/986840ae534143049a081a0d9fac02f7.jpeg"
 }

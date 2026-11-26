@@ -75,7 +75,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "超纤绒麂皮顶棚",
+          "price_rmb": 8000,
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+        },
+        {
+          "name": "拖车套装",
+          "price_rmb": 4000,
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+        }
+      ]
     },
     {
       "sku_id": "icar-v27-200-awd-500",
@@ -142,7 +153,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "超纤绒麂皮顶棚",
+          "price_rmb": 8000,
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+        },
+        {
+          "name": "拖车套装",
+          "price_rmb": 4000,
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+        }
+      ]
     },
     {
       "sku_id": "icar-v27-200-awd-700",
@@ -209,7 +231,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "超纤绒麂皮顶棚",
+          "price_rmb": 8000,
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+        },
+        {
+          "name": "拖车套装",
+          "price_rmb": 4000,
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+        }
+      ]
     },
     {
       "sku_id": "icar-v27-300-awd-500",
@@ -276,7 +309,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "超纤绒麂皮顶棚",
+          "price_rmb": 8000,
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+        },
+        {
+          "name": "拖车套装",
+          "price_rmb": 4000,
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+        }
+      ]
     },
     {
       "sku_id": "icar-v27-300-awd-700",
@@ -343,8 +387,19 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "超纤绒麂皮顶棚",
+          "price_rmb": 8000,
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+        },
+        {
+          "name": "拖车套装",
+          "price_rmb": 4000,
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://www.icarglobal.com/images/carV27/v27-01-bkg-mb.webp"
 }

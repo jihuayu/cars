@@ -96,6 +96,26 @@
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "21英寸星辉轮毂（255/40 R21）",
+          "price_rmb": 15000,
+          "details": null
+        },
+        {
+          "name": "后排智能投影巨幕系统",
+          "price_rmb": 20000,
+          "details": null
+        },
+        {
+          "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     },
@@ -184,6 +204,26 @@
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "21英寸星辉轮毂（255/40 R21）",
+          "price_rmb": 15000,
+          "details": null
+        },
+        {
+          "name": "后排智能投影巨幕系统",
+          "price_rmb": 20000,
+          "details": null
+        },
+        {
+          "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     },
@@ -272,6 +312,26 @@
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "21英寸星辉轮毂（255/40 R21）",
+          "price_rmb": 15000,
+          "details": null
+        },
+        {
+          "name": "后排智能投影巨幕系统",
+          "price_rmb": 20000,
+          "details": null
+        },
+        {
+          "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     },
@@ -360,6 +420,26 @@
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "21英寸星辉轮毂（255/40 R21）",
+          "price_rmb": 15000,
+          "details": null
+        },
+        {
+          "name": "后排智能投影巨幕系统",
+          "price_rmb": 20000,
+          "details": null
+        },
+        {
+          "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     },
@@ -448,6 +528,26 @@
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "21英寸星辉轮毂（255/40 R21）",
+          "price_rmb": 15000,
+          "details": null
+        },
+        {
+          "name": "后排智能投影巨幕系统",
+          "price_rmb": 20000,
+          "details": null
+        },
+        {
+          "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     },
@@ -536,9 +636,29 @@
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/45 R20）",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "21英寸星辉轮毂（255/40 R21）",
+          "price_rmb": 15000,
+          "details": null
+        },
+        {
+          "name": "后排智能投影巨幕系统",
+          "price_rmb": 20000,
+          "details": null
+        },
+        {
+          "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
+          "price_rmb": 2000,
+          "details": null
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/s9t/images/hero/xiangjie-s9t-kv-mountain.png"
 }

@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2026-09-23",
-      "image_url": null,
+      "image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/E5/newE5/2026/kv/1030pc.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 6,
+      "option_count": 1,
       "price_min_rmb": 107800,
       "price_max_rmb": 147800,
       "best_zero_to_100_s": 5.8,
@@ -36,11 +37,12 @@
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2025-03-03",
-      "image_url": null,
+      "image_url": "https://www.51cheping.com/wp-content/uploads/2025/03/img-384.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 3,
       "price_min_rmb": 161800,
       "price_max_rmb": 198800,
       "best_zero_to_100_s": 3.49,
@@ -59,11 +61,12 @@
       "sub_brand": null,
       "category": "全尺寸6座插混旗舰SUV",
       "release_date": "2025-09-17",
-      "image_url": null,
+      "image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/M9/2025/0916/kv.pc.jpg",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 5,
+      "option_count": 4,
       "price_min_rmb": 183800,
       "price_max_rmb": 269800,
       "best_zero_to_100_s": 4.5,
@@ -81,12 +84,13 @@
       "sub_brand": null,
       "category": "紧凑型SUV",
       "release_date": "2025-11-19",
-      "image_url": null,
+      "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2024/10/25/17/7244838d5d924e60a7198acbaa5dccc3.jpg!jpg",
       "powertrains": [
         "BEV",
         "PHEV"
       ],
       "sku_count": 5,
+      "option_count": 4,
       "price_min_rmb": 101800,
       "price_max_rmb": 129800,
       "best_zero_to_100_s": null,
@@ -105,11 +109,12 @@
       "sub_brand": null,
       "category": "小型纯电两厢车",
       "release_date": "2026-05-28",
-      "image_url": null,
+      "image_url": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/E22H/2026/1106/kv.pc1.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 2,
       "price_min_rmb": 64800,
       "price_max_rmb": 94800,
       "best_zero_to_100_s": null,

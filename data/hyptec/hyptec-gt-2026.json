@@ -76,7 +76,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "电动旋翼门+前排电吸门+电动尾翼套装",
+          "price_rmb": null,
+          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益"
+        },
+        {
+          "name": "尾部押尾",
+          "price_rmb": 200,
+          "details": "与电动尾翼互斥，官方选装价200元"
+        },
+        {
+          "name": "豪华尊享套装",
+          "price_rmb": 0,
+          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配"
+        },
+        {
+          "name": "5G车联网升级",
+          "price_rmb": null,
+          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-gt-630-max",
@@ -143,7 +164,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "电动旋翼门+前排电吸门+电动尾翼套装",
+          "price_rmb": null,
+          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益"
+        },
+        {
+          "name": "尾部押尾",
+          "price_rmb": 200,
+          "details": "与电动尾翼互斥，官方选装价200元"
+        },
+        {
+          "name": "豪华尊享套装",
+          "price_rmb": 0,
+          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配"
+        },
+        {
+          "name": "5G车联网升级",
+          "price_rmb": null,
+          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-gt-710-max",
@@ -210,7 +252,28 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "电动旋翼门+前排电吸门+电动尾翼套装",
+          "price_rmb": null,
+          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益"
+        },
+        {
+          "name": "尾部押尾",
+          "price_rmb": 200,
+          "details": "与电动尾翼互斥，官方选装价200元"
+        },
+        {
+          "name": "豪华尊享套装",
+          "price_rmb": 0,
+          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配"
+        },
+        {
+          "name": "5G车联网升级",
+          "price_rmb": null,
+          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配"
+        }
+      ]
     },
     {
       "sku_id": "hyptec-gt-710-climb",
@@ -277,8 +340,29 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "电动旋翼门+前排电吸门+电动尾翼套装",
+          "price_rmb": null,
+          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益"
+        },
+        {
+          "name": "尾部押尾",
+          "price_rmb": 200,
+          "details": "与电动尾翼互斥，官方选装价200元"
+        },
+        {
+          "name": "豪华尊享套装",
+          "price_rmb": 0,
+          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配"
+        },
+        {
+          "name": "5G车联网升级",
+          "price_rmb": null,
+          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M01/ED/F9/400x400_1_q40_c40_autohomecar__ChxpVWqeP-OAfEplAD3wkXkvyZU044.jpg"
 }

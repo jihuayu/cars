@@ -87,6 +87,26 @@
           "name": "后排娱乐屏套装 / 主驾零重力 / 电动踏板 / 21英寸轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "21英寸低风阻星辉轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 6800,
+          "details": null
+        },
+        {
+          "name": "主驾驶零重力座椅（绑定方向盘电动调节与记忆）",
+          "price_rmb": null,
+          "details": "官网明确绑定选装"
+        },
+        {
+          "name": "后排小桌板",
+          "price_rmb": null,
+          "details": "选装"
         }
       ]
     },
@@ -165,6 +185,26 @@
           "name": "后排娱乐屏套装 / 主驾零重力 / 电动踏板 / 21英寸轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "21英寸低风阻星辉轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 6800,
+          "details": null
+        },
+        {
+          "name": "主驾驶零重力座椅（绑定方向盘电动调节与记忆）",
+          "price_rmb": null,
+          "details": "官网明确绑定选装"
+        },
+        {
+          "name": "后排小桌板",
+          "price_rmb": null,
+          "details": "选装"
         }
       ]
     },
@@ -243,6 +283,26 @@
           "name": "后排娱乐屏套装 / 主驾零重力 / 电动踏板 / 21英寸轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "21英寸低风阻星辉轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 6800,
+          "details": null
+        },
+        {
+          "name": "主驾驶零重力座椅（绑定方向盘电动调节与记忆）",
+          "price_rmb": null,
+          "details": "官网明确绑定选装"
+        },
+        {
+          "name": "后排小桌板",
+          "price_rmb": null,
+          "details": "选装"
         }
       ]
     },
@@ -321,9 +381,29 @@
           "name": "后排娱乐屏套装 / 主驾零重力 / 电动踏板 / 21英寸轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "21英寸低风阻星辉轮毂（前265/45 R21、后285/45 R21）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "电动侧踏板",
+          "price_rmb": 6800,
+          "details": null
+        },
+        {
+          "name": "主驾驶零重力座椅（绑定方向盘电动调节与记忆）",
+          "price_rmb": null,
+          "details": "官网明确绑定选装"
+        },
+        {
+          "name": "后排小桌板",
+          "price_rmb": null,
+          "details": "选装"
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://aito.auto/dam/content/dam/aito/cn/model/m7-2025/images/hero/m7-ultra-kv.jpg"
 }

@@ -86,6 +86,41 @@
           "name": "星野套装 / 车漆轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（前245/45 R20、后275/40 R20）",
+          "price_rmb": 6000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "追风运动套件（前铲+后扩散器+侧裙+门槛踏板+黑化后视镜+金属踏板罩盖+车外声浪）",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "光感天幕",
+          "price_rmb": 8000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "真皮座椅",
+          "price_rmb": 8000,
+          "details": "Max/Max+可选，Ultra标配真皮/可选翻毛混搭"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "车载冰箱",
+          "price_rmb": 3000,
+          "details": null
+        },
+        {
+          "name": "华为ADS高阶辅助驾驶包",
+          "price_rmb": 12000,
+          "details": null
         }
       ]
     },
@@ -164,9 +199,44 @@
           "name": "星野套装 / 车漆轮毂",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（前245/45 R20、后275/40 R20）",
+          "price_rmb": 6000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "追风运动套件（前铲+后扩散器+侧裙+门槛踏板+黑化后视镜+金属踏板罩盖+车外声浪）",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "光感天幕",
+          "price_rmb": 8000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "真皮座椅",
+          "price_rmb": 8000,
+          "details": "Max/Max+可选，Ultra标配真皮/可选翻毛混搭"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "Max/Max+可选，Ultra标配"
+        },
+        {
+          "name": "车载冰箱",
+          "price_rmb": 3000,
+          "details": null
+        },
+        {
+          "name": "华为ADS高阶辅助驾驶包",
+          "price_rmb": 12000,
+          "details": null
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://hima.auto/dam/hima-site/cn/shangjie/imgs/260320/kv-z7-z7t-2x.jpg"
 }

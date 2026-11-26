@@ -13,12 +13,13 @@
       "sub_brand": null,
       "category": "中大型轿车",
       "release_date": "2025-09-10",
-      "image_url": null,
+      "image_url": "https://www.talenetauto.com/d/file/p/2026/05-13/0a30c2482d74072a80a3e8e16d06d6cd.webp",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 4,
+      "option_count": 3,
       "price_min_rmb": 139900,
       "price_max_rmb": 159900,
       "best_zero_to_100_s": 6.7,
@@ -37,12 +38,13 @@
       "sub_brand": null,
       "category": "中大型变形智能SUV",
       "release_date": "2025-08-29",
-      "image_url": null,
+      "image_url": "https://n.sinaimg.cn/spider20240115/533/w800h533/20240115/d933-c3391a8faf04a3f9b41dd960081dc138.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 6,
+      "option_count": 6,
       "price_min_rmb": 219900,
       "price_max_rmb": 309900,
       "best_zero_to_100_s": 3.96,
@@ -61,11 +63,12 @@
       "sub_brand": null,
       "category": "中型插混SUV",
       "release_date": "2026-10-20",
-      "image_url": null,
+      "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2025/01/02/10/a5f0da3b7336485781fa1dbcf8660a07.jpg!jpg",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 4,
+      "option_count": 3,
       "price_min_rmb": 139800,
       "price_max_rmb": 169800,
       "best_zero_to_100_s": 7.4,

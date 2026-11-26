@@ -75,7 +75,38 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "阿尔法S6 可开启全景天窗",
+          "price_rmb": 2000,
+          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元"
+        },
+        {
+          "name": "阿尔法S6 方向盘离手检测（HOD）",
+          "price_rmb": 1000,
+          "details": "阿尔法S6 602三激光雷达版选配1000元"
+        },
+        {
+          "name": "阿尔法S6 舒享电门套装（选装包1）",
+          "price_rmb": null,
+          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩"
+        },
+        {
+          "name": "阿尔法S6 皮/翻毛皮混搭座椅",
+          "price_rmb": null,
+          "details": "阿尔法S6 602三激光雷达版选配"
+        },
+        {
+          "name": "阿尔法T6 20英寸轮毂及轮胎（245/45 R20）",
+          "price_rmb": null,
+          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配"
+        },
+        {
+          "name": "阿尔法T6 车内220V电源及车内摄像头/面部识别",
+          "price_rmb": null,
+          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配"
+        }
+      ]
     },
     {
       "sku_id": "arcfox-s6-3lidar",
@@ -142,7 +173,38 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "阿尔法S6 可开启全景天窗",
+          "price_rmb": 2000,
+          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元"
+        },
+        {
+          "name": "阿尔法S6 方向盘离手检测（HOD）",
+          "price_rmb": 1000,
+          "details": "阿尔法S6 602三激光雷达版选配1000元"
+        },
+        {
+          "name": "阿尔法S6 舒享电门套装（选装包1）",
+          "price_rmb": null,
+          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩"
+        },
+        {
+          "name": "阿尔法S6 皮/翻毛皮混搭座椅",
+          "price_rmb": null,
+          "details": "阿尔法S6 602三激光雷达版选配"
+        },
+        {
+          "name": "阿尔法T6 20英寸轮毂及轮胎（245/45 R20）",
+          "price_rmb": null,
+          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配"
+        },
+        {
+          "name": "阿尔法T6 车内220V电源及车内摄像头/面部识别",
+          "price_rmb": null,
+          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配"
+        }
+      ]
     },
     {
       "sku_id": "arcfox-t6-688max",
@@ -209,7 +271,38 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "阿尔法S6 可开启全景天窗",
+          "price_rmb": 2000,
+          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元"
+        },
+        {
+          "name": "阿尔法S6 方向盘离手检测（HOD）",
+          "price_rmb": 1000,
+          "details": "阿尔法S6 602三激光雷达版选配1000元"
+        },
+        {
+          "name": "阿尔法S6 舒享电门套装（选装包1）",
+          "price_rmb": null,
+          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩"
+        },
+        {
+          "name": "阿尔法S6 皮/翻毛皮混搭座椅",
+          "price_rmb": null,
+          "details": "阿尔法S6 602三激光雷达版选配"
+        },
+        {
+          "name": "阿尔法T6 20英寸轮毂及轮胎（245/45 R20）",
+          "price_rmb": null,
+          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配"
+        },
+        {
+          "name": "阿尔法T6 车内220V电源及车内摄像头/面部识别",
+          "price_rmb": null,
+          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配"
+        }
+      ]
     },
     {
       "sku_id": "arcfox-t6-600ultra",
@@ -276,8 +369,39 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "阿尔法S6 可开启全景天窗",
+          "price_rmb": 2000,
+          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元"
+        },
+        {
+          "name": "阿尔法S6 方向盘离手检测（HOD）",
+          "price_rmb": 1000,
+          "details": "阿尔法S6 602三激光雷达版选配1000元"
+        },
+        {
+          "name": "阿尔法S6 舒享电门套装（选装包1）",
+          "price_rmb": null,
+          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩"
+        },
+        {
+          "name": "阿尔法S6 皮/翻毛皮混搭座椅",
+          "price_rmb": null,
+          "details": "阿尔法S6 602三激光雷达版选配"
+        },
+        {
+          "name": "阿尔法T6 20英寸轮毂及轮胎（245/45 R20）",
+          "price_rmb": null,
+          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配"
+        },
+        {
+          "name": "阿尔法T6 车内220V电源及车内摄像头/面部识别",
+          "price_rmb": null,
+          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://k2.autoimg.cn/koubeidfs/g28/M07/75/B3/800x600_1_q87_autohomecar__ChxkmmhZh2-ASa6nABfkZXf-mZY470.png.webp"
 }

@@ -18,6 +18,7 @@
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 3,
       "price_min_rmb": 95800,
       "price_max_rmb": 119800,
       "best_zero_to_100_s": 6.1,
@@ -35,11 +36,12 @@
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2026-07-16",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Leapmotor_B10_Design_Pro_Max_%E2%80%93_f_25012026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 2,
       "price_min_rmb": 99800,
       "price_max_rmb": 125800,
       "best_zero_to_100_s": 6.4,
@@ -58,12 +60,13 @@
       "sub_brand": null,
       "category": "中型5座SUV",
       "release_date": "2026-06-16",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Leapmotor_C10_EREV_Classic-Gala_2025_DSC_0779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 4,
+      "option_count": 2,
       "price_min_rmb": 125800,
       "price_max_rmb": 142800,
       "best_zero_to_100_s": 6.02,
@@ -81,12 +84,13 @@
       "sub_brand": null,
       "category": "中型5座SUV",
       "release_date": "2026-06-16",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2020_Leapmotor_C11_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 1,
       "price_min_rmb": 143800,
       "price_max_rmb": 159800,
       "best_zero_to_100_s": 6.1,
@@ -111,6 +115,7 @@
         "REEV"
       ],
       "sku_count": 8,
+      "option_count": 2,
       "price_min_rmb": 145800,
       "price_max_rmb": 169800,
       "best_zero_to_100_s": null,
@@ -129,12 +134,13 @@
       "sub_brand": null,
       "category": "全尺寸旗舰6/7座SUV",
       "release_date": "2026-04-16",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leapmotor_D19_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 7,
+      "option_count": 2,
       "price_min_rmb": 219800,
       "price_max_rmb": 269800,
       "best_zero_to_100_s": null,
@@ -153,12 +159,13 @@
       "sub_brand": null,
       "category": "旗舰中大型7座MPV",
       "release_date": "2026-06-25",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/2026_Leapmotor_D99_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 8,
+      "option_count": 4,
       "price_min_rmb": 249800,
       "price_max_rmb": 339800,
       "best_zero_to_100_s": 5.0,
@@ -181,6 +188,7 @@
         "BEV"
       ],
       "sku_count": 7,
+      "option_count": 1,
       "price_min_rmb": 97800,
       "price_max_rmb": 129800,
       "best_zero_to_100_s": 6.4,

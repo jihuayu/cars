@@ -13,12 +13,13 @@
       "sub_brand": null,
       "category": "中大型轿跑",
       "release_date": "2026-07-20",
-      "image_url": null,
+      "image_url": "https://q7.itc.cn/q_70/images03/20260725/7a8e4486d8c94cf58f63339f8319df62.png",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 3,
+      "option_count": 3,
       "price_min_rmb": 179900,
       "price_max_rmb": 209900,
       "best_zero_to_100_s": 4.9,
@@ -37,12 +38,13 @@
       "sub_brand": null,
       "category": "中大型SUV",
       "release_date": "2025-04-19",
-      "image_url": null,
+      "image_url": "https://www.exeedcars.com/images/xingjiyuan-ET/banner1_mobile.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 6,
+      "option_count": 4,
       "price_min_rmb": 172800,
       "price_max_rmb": 279800,
       "best_zero_to_100_s": 3.8,

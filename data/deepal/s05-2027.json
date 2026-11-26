@@ -75,7 +75,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "智臻畅享包",
+          "price_rmb": 5999,
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        }
+      ]
     },
     {
       "sku_id": "deepal-s05-2027-520-zhizhen",
@@ -142,7 +153,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "智臻畅享包",
+          "price_rmb": 5999,
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        }
+      ]
     },
     {
       "sku_id": "deepal-s05-2027-520-lidar",
@@ -209,7 +231,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "智臻畅享包",
+          "price_rmb": 5999,
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        }
+      ]
     },
     {
       "sku_id": "deepal-s05-2027-620-zhizhen",
@@ -276,7 +309,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "智臻畅享包",
+          "price_rmb": 5999,
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        }
+      ]
     },
     {
       "sku_id": "deepal-s05-2027-620-lidar",
@@ -343,7 +387,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "智臻畅享包",
+          "price_rmb": 5999,
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 399,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        }
+      ]
     }
   ],
   "image_url": "https://files.deepal.com.cn/operate/official/1542255672441536513/202511/21DF7E8FF3D0D905D7E8355F1312A120.png"

@@ -158,6 +158,14 @@
       position: absolute;
       top: 10px;
       left: 10px;
+      right: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 6px;
+      pointer-events: none;
+    }
+    .card-badges-left {
       display: flex;
       gap: 6px;
       flex-wrap: wrap;
@@ -167,14 +175,15 @@
       font-weight: 600;
       padding: 3px 8px;
       border-radius: 999px;
-      background: rgba(11, 14, 20, 0.78);
+      background: rgba(11, 14, 20, 0.8);
       backdrop-filter: blur(6px);
-      border: 1px solid rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.14);
       color: #fff;
     }
-    .badge-BEV { color: #34d399; border-color: rgba(16,185,129,0.4); }
-    .badge-REEV { color: #fbbf24; border-color: rgba(245,158,11,0.4); }
-    .badge-PHEV { color: #c084fc; border-color: rgba(168,85,247,0.4); }
+    .badge-BEV { color: #34d399; border-color: rgba(16,185,129,0.45); }
+    .badge-REEV { color: #fbbf24; border-color: rgba(245,158,11,0.45); }
+    .badge-PHEV { color: #c084fc; border-color: rgba(168,85,247,0.45); }
+    .badge-opt { color: #93c5fd; border-color: rgba(59,130,246,0.45); }
 
     .card-body { padding: 15px 16px 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
     .card-brand { font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; }
@@ -209,14 +218,14 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 16px;
-      width: min(1120px, 100%);
+      width: min(1160px, 100%);
       max-height: 90vh;
       display: flex;
       flex-direction: column;
       overflow: hidden;
     }
     .modal-header {
-      padding: 18px 22px;
+      padding: 16px 22px;
       border-bottom: 1px solid var(--border);
       display: flex;
       justify-content: space-between;
@@ -232,9 +241,95 @@
       border-radius: 8px;
       font-size: 18px;
       cursor: pointer;
+      flex-shrink: 0;
     }
     .modal-body { padding: 20px 22px; overflow: auto; }
-    .sku-table-wrap { overflow-x: auto; margin-top: 12px; }
+    .modal-hero {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 18px;
+      margin-bottom: 20px;
+      align-items: stretch;
+    }
+    @media (max-width: 760px) {
+      .modal-hero { grid-template-columns: 1fr; }
+    }
+    .modal-photo {
+      border-radius: 12px;
+      overflow: hidden;
+      background: linear-gradient(135deg, #162033 0%, #0f1624 100%);
+      border: 1px solid var(--border);
+      aspect-ratio: 16 / 9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .modal-photo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .section-heading {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text);
+      margin: 22px 0 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .section-heading span.count {
+      font-size: 12px;
+      font-weight: 600;
+      color: #93c5fd;
+      background: var(--accent-soft);
+      padding: 2px 8px;
+      border-radius: 999px;
+    }
+    .options-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 12px;
+    }
+    .option-card {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .option-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 10px;
+    }
+    .option-name {
+      font-size: 13.5px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .option-price {
+      font-size: 12.5px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 6px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .option-price.priced { background: rgba(59, 130, 246, 0.16); color: #93c5fd; border: 1px solid rgba(59, 130, 246, 0.35); }
+    .option-price.free { background: rgba(16, 185, 129, 0.16); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.35); }
+    .option-price.tbd { background: rgba(148, 163, 184, 0.12); color: var(--muted); border: 1px solid rgba(148, 163, 184, 0.25); }
+    .option-desc {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .sku-table-wrap { overflow-x: auto; margin-top: 8px; }
     table.spec-table {
       width: 100%;
       border-collapse: collapse;
@@ -245,7 +340,7 @@
       padding: 9px 12px;
       text-align: left;
       vertical-align: top;
-      min-width: 150px;
+      min-width: 155px;
     }
     table.spec-table th:first-child, table.spec-table td:first-child {
       position: sticky;
@@ -334,7 +429,7 @@
       <div class="hero-top">
         <div>
           <h1>国产新能源车官方参数配置库</h1>
-          <div class="subtitle">覆盖主流国产新能源品牌在售车型逐 SKU 尺寸、零百、电池、快充、智驾与选装数据 · 支持跨品牌对比</div>
+          <div class="subtitle">覆盖主流国产新能源品牌在售车型逐 SKU 尺寸、零百、电池、快充、智驾、高清实拍图与分项选装价格 · 支持跨品牌对比</div>
         </div>
         <div class="stats-row" id="statsRow">
           <span class="stat-pill">加载中...</span>
@@ -342,7 +437,7 @@
       </div>
 
       <div class="controls">
-        <input id="searchInput" class="search-input" type="search" placeholder="搜索品牌、车型、类别（如：理想L9、小米YU7、仰望U8、MPV、猎装）..." />
+        <input id="searchInput" class="search-input" type="search" placeholder="搜索品牌、车型、类别（如：理想L9、小米YU7、仰望U8、问界M9、MPV、猎装）..." />
         <select id="powertrainFilter">
           <option value="ALL">全部动力形式</option>
           <option value="BEV">纯电 (BEV)</option>
@@ -430,6 +525,14 @@
 
     const PT_LABELS = { BEV: '纯电', REEV: '增程', PHEV: '插混' };
 
+    function escapeHtml(str) {
+      return String(str ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
     function fmtPrice(rmb) {
       if (rmb == null) return '未公开';
       return `¥${(rmb / 10000).toFixed(2)}万`;
@@ -439,6 +542,12 @@
       if (min === max || max == null) return fmtPrice(min);
       return `${fmtPrice(min)} – ${fmtPrice(max)}`;
     }
+    function fmtOptionPriceBadge(p) {
+      if (p === 0) return { text: '免费选配', cls: 'free' };
+      if (typeof p === 'number') return { text: `¥${p.toLocaleString()}`, cls: 'priced' };
+      if (typeof p === 'string' && p.trim()) return { text: p.trim(), cls: 'priced' };
+      return { text: '未公开单价', cls: 'tbd' };
+    }
     function valOrDash(v, suffix = '') {
       if (v === null || v === undefined || v === '') return '—';
       if (typeof v === 'boolean') return v ? '标配' : '无';
@@ -447,7 +556,7 @@
 
     function bodySilhouette(category = '', brandName = '') {
       const c = String(category);
-      let path = 'M18 54 L26 36 C30 28 40 24 54 24 L92 24 C106 24 118 30 126 38 L144 42 C150 44 152 49 152 54 Z'; // SUV
+      let path = 'M18 54 L26 36 C30 28 40 24 54 24 L92 24 C106 24 118 30 126 38 L144 42 C150 44 152 49 152 54 Z';
       if (c.includes('MPV')) {
         path = 'M16 54 L22 28 C25 22 33 20 44 20 L122 20 C134 20 144 28 148 40 L152 54 Z';
       } else if (c.includes('轿') || c.includes('跑')) {
@@ -462,7 +571,7 @@
             <circle cx="44" cy="55" r="9" fill="#0b0e14" stroke="rgba(147,197,253,0.85)" stroke-width="2.5" />
             <circle cx="124" cy="55" r="9" fill="#0b0e14" stroke="rgba(147,197,253,0.85)" stroke-width="2.5" />
           </svg>
-          <span style="font-size:12px;color:#94a3b8;">${brandName} · ${category || '新能源'}</span>
+          <span style="font-size:12px;color:#94a3b8;">${escapeHtml(brandName)} · ${escapeHtml(category || '新能源')}</span>
         </div>`;
     }
 
@@ -532,22 +641,27 @@
 
       grid.innerHTML = list.map(m => {
         const ptBadges = (m.powertrains || []).map(pt => `<span class="badge badge-${pt}">${PT_LABELS[pt] || pt}</span>`).join('');
+        const optBadge = m.option_count ? `<span class="badge badge-opt">${m.option_count} 项选装</span>` : '';
+        const fallbackEncoded = encodeURIComponent(bodySilhouette(m.category, m.brand_name));
         const mediaHtml = m.image_url
-          ? `<img src="${m.image_url}" alt="${m.model}" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML=decodeURIComponent('${encodeURIComponent(bodySilhouette(m.category, m.brand_name))}')" />`
+          ? `<img src="${escapeHtml(m.image_url)}" alt="${escapeHtml(m.model)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML=decodeURIComponent('${fallbackEncoded}')" />`
           : bodySilhouette(m.category, m.brand_name);
 
         return `
-          <article class="card" data-file="${m.file}">
+          <article class="card" data-file="${escapeHtml(m.file)}">
             <div class="card-media">
               ${mediaHtml}
-              <div class="card-badges">${ptBadges}</div>
+              <div class="card-badges">
+                <div class="card-badges-left">${ptBadges}</div>
+                ${optBadge}
+              </div>
             </div>
             <div class="card-body">
               <div class="card-brand">
-                <span>${m.brand_name}${m.sub_brand ? ' · ' + m.sub_brand : ''}</span>
-                <span>${m.release_date || ''}</span>
+                <span>${escapeHtml(m.brand_name)}${m.sub_brand ? ' · ' + escapeHtml(m.sub_brand) : ''}</span>
+                <span>${escapeHtml(m.release_date || '')}</span>
               </div>
-              <div class="card-title">${m.model}</div>
+              <div class="card-title">${escapeHtml(m.model)}</div>
               <div class="card-price">${fmtPriceRange(m.price_min_rmb, m.price_max_rmb)}</div>
               <div class="card-metrics">
                 <div><div class="metric-label">最快零百</div><div class="metric-val">${m.best_zero_to_100_s ? m.best_zero_to_100_s + 's' : '—'}</div></div>
@@ -564,8 +678,8 @@
       });
     }
 
-    function specRowsForSkus(skus, brandName, modelName) {
-      const rows = [
+    function specRowsForSkus(skus) {
+      return [
         ['官方指导价', s => fmtPrice(s.price_rmb)],
         ['BaaS 租电起售价', s => s.baas_price_rmb ? fmtPrice(s.baas_price_rmb) : '—'],
         ['动力形式', s => PT_LABELS[s.powertrain_type] || valOrDash(s.powertrain_type)],
@@ -588,26 +702,62 @@
         ['智驾芯片 / 算力', s => `${valOrDash(s.adas?.chip)}${s.adas?.compute_tops ? ` (${s.adas.compute_tops} TOPS)` : ''}`],
         ['激光雷达 / 智驾方案', s => `${valOrDash(s.adas?.lidar)} · ${valOrDash(s.adas?.system)}`],
         ['座舱芯片 / 屏幕', s => `${valOrDash(s.cockpit?.chip)} · ${valOrDash(s.cockpit?.screens)}`],
-        ['选装及价格', s => (s.options && s.options.length)
-          ? s.options.map(o => `${o.name}${o.price_rmb != null ? ` (${typeof o.price_rmb === 'number' ? '¥' + o.price_rmb.toLocaleString() : o.price_rmb})` : ''}`).join('；')
-          : '以官方配置器为准'
-        ],
+        ['选装项数', s => (s.options && s.options.length) ? `${s.options.length} 项（见下方选装明细）` : '以官方配置器为准'],
       ];
-      return rows;
+    }
+
+    function collectUniqueOptions(skus) {
+      const map = new Map();
+      for (const s of skus) {
+        for (const opt of (s.options || [])) {
+          if (!opt || !opt.name) continue;
+          const key = opt.name.trim();
+          if (!map.has(key)) {
+            map.set(key, { name: key, price_rmb: opt.price_rmb, details: opt.details || null });
+          } else {
+            const cur = map.get(key);
+            if (cur.price_rmb == null && opt.price_rmb != null) cur.price_rmb = opt.price_rmb;
+            if (!cur.details && opt.details) cur.details = opt.details;
+          }
+        }
+      }
+      return Array.from(map.values());
     }
 
     async function openDetailModal(filePath) {
       const modal = document.getElementById('detailModal');
       const body = document.getElementById('modalBody');
-      body.innerHTML = '<div class="empty-state">加载官方 SKU 参数中...</div>';
+      body.innerHTML = '<div class="empty-state">加载官方 SKU 参数与选装明细中...</div>';
       modal.classList.add('open');
 
       const data = await loadModelDetail(filePath);
       document.getElementById('modalTitle').textContent = `${data.brand_name} · ${data.model}`;
-      const links = (data.source_urls || []).map((u, i) => `<a href="${u}" target="_blank" rel="noopener">官方配置源${i + 1} ↗</a>`).join(' · ');
-      document.getElementById('modalSub').innerHTML = `${data.category || ''} · 上市时间：${data.release_date || '—'} · 共 ${data.skus.length} 个 SKU ${links ? '· ' + links : ''}`;
+      const links = (data.source_urls || []).map((u, i) => `<a href="${escapeHtml(u)}" target="_blank" rel="noopener">官方配置源${i + 1} ↗</a>`).join(' · ');
+      document.getElementById('modalSub').innerHTML = `${escapeHtml(data.category || '')} · 上市时间：${escapeHtml(data.release_date || '—')} · 共 ${data.skus.length} 个 SKU ${links ? '· ' + links : ''}`;
 
-      const rows = specRowsForSkus(data.skus, data.brand_name, data.model);
+      const fallbackEncoded = encodeURIComponent(bodySilhouette(data.category, data.brand_name));
+      const photoHtml = data.image_url
+        ? `<img src="${escapeHtml(data.image_url)}" alt="${escapeHtml(data.model)}" referrerpolicy="no-referrer" onerror="this.outerHTML=decodeURIComponent('${fallbackEncoded}')" />`
+        : bodySilhouette(data.category, data.brand_name);
+
+      const uniqueOpts = collectUniqueOptions(data.skus);
+      const optionsHtml = uniqueOpts.length
+        ? `<div class="options-grid">
+            ${uniqueOpts.map(o => {
+              const badge = fmtOptionPriceBadge(o.price_rmb);
+              return `
+                <div class="option-card">
+                  <div class="option-top">
+                    <div class="option-name">${escapeHtml(o.name)}</div>
+                    <span class="option-price ${badge.cls}">${escapeHtml(badge.text)}</span>
+                  </div>
+                  ${o.details ? `<div class="option-desc">${escapeHtml(o.details)}</div>` : ''}
+                </div>`;
+            }).join('')}
+          </div>`
+        : `<div style="color:var(--muted);font-size:13px;">该车型暂无公开独立选装包，配置按版型梯度划分。</div>`;
+
+      const rows = specRowsForSkus(data.skus);
       const thead = `
         <thead>
           <tr>
@@ -615,7 +765,7 @@
             ${data.skus.map((s, idx) => {
               const inCmp = state.compareList.some(x => x.sku.sku_id === s.sku_id);
               return `<th>
-                <div>${s.sku_name}</div>
+                <div>${escapeHtml(s.sku_name)}</div>
                 <div style="margin-top:6px;">
                   <button class="btn-sm ${inCmp ? 'added' : ''}" data-sku-idx="${idx}">${inCmp ? '已加入对比' : '+ 加入对比'}</button>
                 </div>
@@ -629,12 +779,35 @@
           ${rows.map(([label, fn]) => `
             <tr>
               <td>${label}</td>
-              ${data.skus.map(s => `<td>${fn(s)}</td>`).join('')}
+              ${data.skus.map(s => `<td>${escapeHtml(fn(s))}</td>`).join('')}
             </tr>
           `).join('')}
         </tbody>`;
 
-      body.innerHTML = `<div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>`;
+      const prices = data.skus.map(s => s.price_rmb).filter(v => typeof v === 'number');
+      const minP = prices.length ? Math.min(...prices) : null;
+      const maxP = prices.length ? Math.max(...prices) : null;
+
+      body.innerHTML = `
+        <div class="modal-hero">
+          <div class="modal-photo">${photoHtml}</div>
+          <div style="display:flex;flex-direction:column;justify-content:center;gap:10px;background:var(--surface-2);border:1px solid var(--border);border-radius:12px;padding:16px 18px;">
+            <div style="font-size:13px;color:var(--muted);">官方指导价区间</div>
+            <div style="font-size:24px;font-weight:700;color:#60a5fa;">${fmtPriceRange(minP, maxP)}</div>
+            <div style="font-size:13px;color:var(--muted);">
+              在售 SKU：<strong>${data.skus.length}</strong> 款 · 已收录选装项：<strong>${uniqueOpts.length}</strong> 项 · 数据日期：${escapeHtml(data.data_as_of)}
+            </div>
+            <div style="font-size:12px;color:var(--muted);">提示：点击下方表格表头「+ 加入对比」可将任意 SKU 加入跨品牌横向对比车库。</div>
+          </div>
+        </div>
+
+        <div class="section-heading">SKU 逐项核心参数 <span class="count">${data.skus.length} 款</span></div>
+        <div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>
+
+        <div class="section-heading">官方选装项目与价格明细 <span class="count">${uniqueOpts.length} 项</span></div>
+        ${optionsHtml}
+      `;
+
       body.querySelectorAll('button[data-sku-idx]').forEach(btn => {
         btn.addEventListener('click', () => {
           const sku = data.skus[Number(btn.dataset.skuIdx)];
@@ -666,7 +839,7 @@
       tray.classList.toggle('show', state.compareList.length > 0);
       document.getElementById('trayChips').innerHTML = state.compareList.map((item, idx) => `
         <span class="tray-chip">
-          ${item.model} · ${item.sku.sku_name}
+          ${escapeHtml(item.model)} · ${escapeHtml(item.sku.sku_name)}
           <button data-rm="${idx}" aria-label="移除">×</button>
         </span>
       `).join('');
@@ -683,12 +856,18 @@
       const items = state.compareList;
       if (!items.length) return;
       const skus = items.map(i => i.sku);
-      const rows = specRowsForSkus(skus);
+      const rows = [
+        ...specRowsForSkus(skus).slice(0, -1),
+        ['选装及价格', s => (s.options && s.options.length)
+          ? s.options.map(o => `${o.name}${o.price_rmb != null ? ` (${typeof o.price_rmb === 'number' ? '¥' + o.price_rmb.toLocaleString() : o.price_rmb})` : ''}`).join('；')
+          : '以官方配置器为准'
+        ]
+      ];
       const thead = `
         <thead>
           <tr>
             <th>对比参数</th>
-            ${items.map(i => `<th><div style="font-size:11px;color:var(--muted);">${i.brand_name} · ${i.model}</div><div>${i.sku.sku_name}</div></th>`).join('')}
+            ${items.map(i => `<th><div style="font-size:11px;color:var(--muted);">${escapeHtml(i.brand_name)} · ${escapeHtml(i.model)}</div><div>${escapeHtml(i.sku.sku_name)}</div></th>`).join('')}
           </tr>
         </thead>`;
       const tbody = `
@@ -697,7 +876,7 @@
             const vals = skus.map(s => fn(s));
             const isDiff = new Set(vals).size > 1;
             if (diffOnly && !isDiff) return '';
-            return `<tr class="${isDiff ? 'diff-row' : ''}"><td>${label}</td>${vals.map(v => `<td>${v}</td>`).join('')}</tr>`;
+            return `<tr class="${isDiff ? 'diff-row' : ''}"><td>${label}</td>${vals.map(v => `<td>${escapeHtml(v)}</td>`).join('')}</tr>`;
           }).join('')}
         </tbody>`;
       document.getElementById('compareBody').innerHTML = `<div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>`;
@@ -706,10 +885,12 @@
     async function init() {
       const res = await fetch('./catalog.json');
       state.catalog = await res.json();
+      const imgCount = state.catalog.models.filter(m => m.image_url).length;
       document.getElementById('statsRow').innerHTML = `
         <span class="stat-pill"><strong>${state.catalog.total_brands}</strong> 品牌</span>
         <span class="stat-pill"><strong>${state.catalog.total_models}</strong> 车型</span>
         <span class="stat-pill"><strong>${state.catalog.total_skus}</strong> SKU</span>
+        <span class="stat-pill">实拍图 <strong>${imgCount}/${state.catalog.total_models}</strong></span>
         <span class="stat-pill">更新于 <strong>${state.catalog.data_as_of}</strong></span>
       `;
       renderBrandBar();

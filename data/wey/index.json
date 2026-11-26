@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "中大型豪华插混MPV",
       "release_date": "2026-09-23",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g33/M04/08/8D/400x400_1_q40_c40_autohomecar__ChxpVmqhEgaAEFg4AG7dF8NhK8A899.jpg",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 5,
+      "option_count": 5,
       "price_min_rmb": 272800,
       "price_max_rmb": 385800,
       "best_zero_to_100_s": 5.6,
@@ -36,11 +37,12 @@
       "sub_brand": null,
       "category": "中大型6座插混SUV",
       "release_date": "2025-12-22",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g33/M09/C7/34/400x400_1_q40_c40_autohomecar__ChxpVWrqoLaAUsXPAA6Zk-JWiCQ104.jpg",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 3,
+      "option_count": 3,
       "price_min_rmb": 299800,
       "price_max_rmb": 326800,
       "best_zero_to_100_s": 4.9,

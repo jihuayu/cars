@@ -106,6 +106,36 @@
           "name": "外饰色 / NAPPA内饰尊享套装",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "运动风格外观套件",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "智能电动门（自动开合车门+前排电吸门）",
+          "price_rmb": 8000,
+          "details": "Max等可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "2026款Max可选"
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "2026款Max可选"
+        },
+        {
+          "name": "25扬声器英国之宝音响（2016W/7.1.4）",
+          "price_rmb": 10000,
+          "details": "部分版本可选"
+        },
+        {
+          "name": "HALO交互屏",
+          "price_rmb": 5000,
+          "details": "部分纯电版本可选"
         }
       ]
     },
@@ -199,9 +229,39 @@
           "name": "运动套件",
           "price_rmb": 6000,
           "details": "外观运动套件"
+        },
+        {
+          "name": "运动风格外观套件",
+          "price_rmb": 6000,
+          "details": null
+        },
+        {
+          "name": "智能电动门（自动开合车门+前排电吸门）",
+          "price_rmb": 8000,
+          "details": "Max等可选，Ultra标配"
+        },
+        {
+          "name": "主驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "2026款Max可选"
+        },
+        {
+          "name": "副驾驶零重力座椅",
+          "price_rmb": 10000,
+          "details": "2026款Max可选"
+        },
+        {
+          "name": "25扬声器英国之宝音响（2016W/7.1.4）",
+          "price_rmb": 10000,
+          "details": "部分版本可选"
+        },
+        {
+          "name": "HALO交互屏",
+          "price_rmb": 5000,
+          "details": "部分纯电版本可选"
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g33/M04/E1/6B/autohomecar__ChxpVmrVf6GAfK7aAA33hH_ltig373.png?x_image_process=text/55S15Yqo6L2m5YWs56S-/fontSize/12"
 }

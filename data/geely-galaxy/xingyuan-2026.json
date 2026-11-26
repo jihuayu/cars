@@ -75,7 +75,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "双色车身涂装/黑色悬浮车顶",
+          "price_rmb": null,
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+        },
+        {
+          "name": "L2级智能辅助驾驶选装",
+          "price_rmb": null,
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+        }
+      ]
     },
     {
       "sku_id": "galaxy-xingyuan-410-xiangwang",
@@ -142,7 +153,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "双色车身涂装/黑色悬浮车顶",
+          "price_rmb": null,
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+        },
+        {
+          "name": "L2级智能辅助驾驶选装",
+          "price_rmb": null,
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+        }
+      ]
     },
     {
       "sku_id": "galaxy-xingyuan-410-chengfeng",
@@ -209,7 +231,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "双色车身涂装/黑色悬浮车顶",
+          "price_rmb": null,
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+        },
+        {
+          "name": "L2级智能辅助驾驶选装",
+          "price_rmb": null,
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+        }
+      ]
     },
     {
       "sku_id": "galaxy-xingyuan-480-tansuo",
@@ -276,7 +309,18 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "双色车身涂装/黑色悬浮车顶",
+          "price_rmb": null,
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+        },
+        {
+          "name": "L2级智能辅助驾驶选装",
+          "price_rmb": null,
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+        }
+      ]
     },
     {
       "sku_id": "galaxy-xingyuan-480-tansuo-plus",
@@ -343,8 +387,19 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "双色车身涂装/黑色悬浮车顶",
+          "price_rmb": null,
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+        },
+        {
+          "name": "L2级智能辅助驾驶选装",
+          "price_rmb": null,
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/E22H/2026/1106/kv.pc1.jpg"
 }

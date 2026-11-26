@@ -76,7 +76,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "铝合金多辐溅镀轮辋",
+          "price_rmb": 2000,
+          "details": "高山7及2026款高山7 SUV版选配2000元"
+        },
+        {
+          "name": "第二排零重力座椅套装",
+          "price_rmb": 8000,
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+        },
+        {
+          "name": "动态星空穹顶",
+          "price_rmb": 15000,
+          "details": "高山9四驱版选配15000元"
+        },
+        {
+          "name": "航空座椅套装",
+          "price_rmb": 30000,
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+        },
+        {
+          "name": "城市NOA领航辅助驾驶",
+          "price_rmb": null,
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+        }
+      ]
     },
     {
       "sku_id": "wey-gaoshan-8-2025",
@@ -143,7 +169,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "铝合金多辐溅镀轮辋",
+          "price_rmb": 2000,
+          "details": "高山7及2026款高山7 SUV版选配2000元"
+        },
+        {
+          "name": "第二排零重力座椅套装",
+          "price_rmb": 8000,
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+        },
+        {
+          "name": "动态星空穹顶",
+          "price_rmb": 15000,
+          "details": "高山9四驱版选配15000元"
+        },
+        {
+          "name": "航空座椅套装",
+          "price_rmb": 30000,
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+        },
+        {
+          "name": "城市NOA领航辅助驾驶",
+          "price_rmb": null,
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+        }
+      ]
     },
     {
       "sku_id": "wey-gaoshan-9-2025",
@@ -210,7 +262,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "铝合金多辐溅镀轮辋",
+          "price_rmb": 2000,
+          "details": "高山7及2026款高山7 SUV版选配2000元"
+        },
+        {
+          "name": "第二排零重力座椅套装",
+          "price_rmb": 8000,
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+        },
+        {
+          "name": "动态星空穹顶",
+          "price_rmb": 15000,
+          "details": "高山9四驱版选配15000元"
+        },
+        {
+          "name": "航空座椅套装",
+          "price_rmb": 30000,
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+        },
+        {
+          "name": "城市NOA领航辅助驾驶",
+          "price_rmb": null,
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+        }
+      ]
     },
     {
       "sku_id": "wey-gaoshan-8-smart-2027",
@@ -277,7 +355,33 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "铝合金多辐溅镀轮辋",
+          "price_rmb": 2000,
+          "details": "高山7及2026款高山7 SUV版选配2000元"
+        },
+        {
+          "name": "第二排零重力座椅套装",
+          "price_rmb": 8000,
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+        },
+        {
+          "name": "动态星空穹顶",
+          "price_rmb": 15000,
+          "details": "高山9四驱版选配15000元"
+        },
+        {
+          "name": "航空座椅套装",
+          "price_rmb": 30000,
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+        },
+        {
+          "name": "城市NOA领航辅助驾驶",
+          "price_rmb": null,
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+        }
+      ]
     },
     {
       "sku_id": "wey-gaoshan-9-smart-2027",
@@ -344,8 +448,34 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "铝合金多辐溅镀轮辋",
+          "price_rmb": 2000,
+          "details": "高山7及2026款高山7 SUV版选配2000元"
+        },
+        {
+          "name": "第二排零重力座椅套装",
+          "price_rmb": 8000,
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+        },
+        {
+          "name": "动态星空穹顶",
+          "price_rmb": 15000,
+          "details": "高山9四驱版选配15000元"
+        },
+        {
+          "name": "航空座椅套装",
+          "price_rmb": 30000,
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+        },
+        {
+          "name": "城市NOA领航辅助驾驶",
+          "price_rmb": null,
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M04/08/8D/400x400_1_q40_c40_autohomecar__ChxpVmqhEgaAEFg4AG7dF8NhK8A899.jpg"
 }

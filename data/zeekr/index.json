@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "中大型纯电猎装轿跑",
       "release_date": "2025-10-11",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/2022_Zeekr_001_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 3,
       "price_min_rmb": 269800,
       "price_max_rmb": 365000,
       "best_zero_to_100_s": 2.83,
@@ -36,11 +37,12 @@
       "sub_brand": null,
       "category": "中型纯电轿车 / 猎装车",
       "release_date": "2026-04-10",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Zeekr_007_006_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 8,
+      "option_count": 3,
       "price_min_rmb": 203900,
       "price_max_rmb": 243900,
       "best_zero_to_100_s": 2.73,
@@ -59,11 +61,12 @@
       "sub_brand": null,
       "category": "中大型豪华纯电MPV",
       "release_date": "2026-05-19",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Zeekr_009_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 2,
       "price_min_rmb": 439800,
       "price_max_rmb": 899000,
       "best_zero_to_100_s": 3.9,
@@ -86,6 +89,7 @@
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 2,
       "price_min_rmb": 229800,
       "price_max_rmb": 269800,
       "best_zero_to_100_s": 2.98,
@@ -103,11 +107,12 @@
       "sub_brand": null,
       "category": "全尺寸超豪华电混旗舰SUV",
       "release_date": "2025-09-29",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%28CHN-Hubei%29_Showcar_Zeekr_9X_No-plate_2025-12-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 5,
+      "option_count": 2,
       "price_min_rmb": 465900,
       "price_max_rmb": 599900,
       "best_zero_to_100_s": 3.1,
@@ -125,11 +130,12 @@
       "sub_brand": null,
       "category": "中型纯电家庭跨界MPV",
       "release_date": "2024-10-23",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%28CHN-Shanghai%29_Showcar_Zeekr_Mix_No-plate_2024-12-08_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 2,
+      "option_count": 1,
       "price_min_rmb": 279900,
       "price_max_rmb": 299900,
       "best_zero_to_100_s": 6.8,

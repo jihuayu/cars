@@ -119,7 +119,7 @@ def validate_model_file(path: Path, expected_brand: str, seen_sku_ids: set[str])
 def build_readme_stats_block(root_index: dict) -> str:
     lines = [
         "<!-- STATS:START -->",
-        f"共收录 **{root_index['total_brands']} 大品牌 / {root_index['total_models']} 款主力车型 / {root_index['total_skus']} 个在售 SKU**（数据更新日期：**{root_index['data_as_of']}**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。",
+        f"共收录 **{root_index['total_brands']} 大品牌 / {root_index['total_models']} 款主力车型 / {root_index['total_skus']} 个在售 SKU**（数据更新日期：**{root_index['data_as_of']}**，外观图与选装明细 100% 覆盖），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。",
         "",
         "| 厂商目录 | 品牌 | 车型数 | SKU 数 | 品牌索引 |",
         "| :--- | :--- | ---: | ---: | :--- |",
@@ -195,6 +195,12 @@ def main() -> int:
                 for s in skus
                 if isinstance((s.get("battery_and_charging") or {}).get("cltc_pure_electric_range_km"), (int, float))
             ]
+            opt_names = {
+                str(o.get("name", "")).strip()
+                for s in skus
+                for o in (s.get("options") or [])
+                if isinstance(o, dict) and o.get("name")
+            }
             brand_skus += len(skus)
             entry = {
                 "brand": brand_slug,
@@ -207,6 +213,7 @@ def main() -> int:
                 "image_url": data.get("image_url"),
                 "powertrains": pts,
                 "sku_count": len(skus),
+                "option_count": len(opt_names),
                 "price_min_rmb": min(prices) if prices else None,
                 "price_max_rmb": max(prices) if prices else None,
                 "best_zero_to_100_s": min(accs) if accs else None,

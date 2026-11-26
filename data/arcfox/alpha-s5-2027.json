@@ -80,6 +80,16 @@
           "name": "冠军红/凝夜紫车漆",
           "price_rmb": 5000,
           "details": "限时免费"
+        },
+        {
+          "name": "黑武士风格运动外观套件",
+          "price_rmb": null,
+          "details": "仅可搭配星钻黑车漆与能量黑内饰，含灰黑镀铬车标与尾标、高亮黑侧围饰条及轮辐饰件"
+        },
+        {
+          "name": "实体遥控钥匙",
+          "price_rmb": null,
+          "details": "2027款标配蓝牙钥匙与NFC/RFID卡片钥匙，实体遥控钥匙为选配"
         }
       ]
     },
@@ -153,6 +163,16 @@
           "name": "冠军红/凝夜紫车漆",
           "price_rmb": 5000,
           "details": "限时免费"
+        },
+        {
+          "name": "黑武士风格运动外观套件",
+          "price_rmb": null,
+          "details": "仅可搭配星钻黑车漆与能量黑内饰，含灰黑镀铬车标与尾标、高亮黑侧围饰条及轮辐饰件"
+        },
+        {
+          "name": "实体遥控钥匙",
+          "price_rmb": null,
+          "details": "2027款标配蓝牙钥匙与NFC/RFID卡片钥匙，实体遥控钥匙为选配"
         }
       ]
     },
@@ -226,9 +246,19 @@
           "name": "冠军红/凝夜紫车漆",
           "price_rmb": 5000,
           "details": "限时免费"
+        },
+        {
+          "name": "黑武士风格运动外观套件",
+          "price_rmb": null,
+          "details": "仅可搭配星钻黑车漆与能量黑内饰，含灰黑镀铬车标与尾标、高亮黑侧围饰条及轮辐饰件"
+        },
+        {
+          "name": "实体遥控钥匙",
+          "price_rmb": null,
+          "details": "2027款标配蓝牙钥匙与NFC/RFID卡片钥匙，实体遥控钥匙为选配"
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/C9/A4/400x400_1_q40_c40_autohomecar__ChtpWGrSCJOAZILpACJHIMvYGiM954.jpg"
 }

@@ -13,11 +13,12 @@
       "sub_brand": null,
       "category": "中大型纯电运动轿跑",
       "release_date": "2026-07-28",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g33/M01/ED/F9/400x400_1_q40_c40_autohomecar__ChxpVWqeP-OAfEplAD3wkXkvyZU044.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 4,
+      "option_count": 4,
       "price_min_rmb": 153800,
       "price_max_rmb": 203900,
       "best_zero_to_100_s": 4.9,
@@ -42,6 +43,7 @@
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 4,
       "price_min_rmb": 269800,
       "price_max_rmb": 319800,
       "best_zero_to_100_s": 4.5,
@@ -59,11 +61,12 @@
       "sub_brand": null,
       "category": "中大型纯电轿跑SUV",
       "release_date": "2025-07-03",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g31/M07/01/36/400x400_1_q40_c40_autohomecar__ChtlyGY47_uAF8IzAB0Lu0y7bAA860.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 4,
+      "option_count": 3,
       "price_min_rmb": 189900,
       "price_max_rmb": 229900,
       "best_zero_to_100_s": 5.8,

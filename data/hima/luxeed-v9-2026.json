@@ -86,6 +86,26 @@
           "name": "车漆 / 轮毂 / 电动踏板 / 后排娱乐投影",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/50 R20）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "后排LC调光隐私光幕玻璃",
+          "price_rmb": 20000,
+          "details": "Max+/Ultra可选，Ultra+标配"
+        },
+        {
+          "name": "共享压缩机冷暖车载冰箱（10.9L）",
+          "price_rmb": 5000,
+          "details": "Max可选，Max+及以上标配"
+        },
+        {
+          "name": "后排环抱式气囊",
+          "price_rmb": null,
+          "details": "Ultra+可选"
         }
       ]
     },
@@ -164,6 +184,26 @@
           "name": "车漆 / 轮毂 / 电动踏板 / 后排娱乐投影",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/50 R20）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "后排LC调光隐私光幕玻璃",
+          "price_rmb": 20000,
+          "details": "Max+/Ultra可选，Ultra+标配"
+        },
+        {
+          "name": "共享压缩机冷暖车载冰箱（10.9L）",
+          "price_rmb": 5000,
+          "details": "Max可选，Max+及以上标配"
+        },
+        {
+          "name": "后排环抱式气囊",
+          "price_rmb": null,
+          "details": "Ultra+可选"
         }
       ]
     },
@@ -242,6 +282,26 @@
           "name": "车漆 / 轮毂 / 电动踏板 / 后排娱乐投影",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/50 R20）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "后排LC调光隐私光幕玻璃",
+          "price_rmb": 20000,
+          "details": "Max+/Ultra可选，Ultra+标配"
+        },
+        {
+          "name": "共享压缩机冷暖车载冰箱（10.9L）",
+          "price_rmb": 5000,
+          "details": "Max可选，Max+及以上标配"
+        },
+        {
+          "name": "后排环抱式气囊",
+          "price_rmb": null,
+          "details": "Ultra+可选"
         }
       ]
     },
@@ -320,9 +380,29 @@
           "name": "车漆 / 轮毂 / 电动踏板 / 后排娱乐投影",
           "price_rmb": null,
           "details": "以官方配置器为准"
+        },
+        {
+          "name": "20英寸轮毂（255/50 R20）",
+          "price_rmb": 10000,
+          "details": null
+        },
+        {
+          "name": "后排LC调光隐私光幕玻璃",
+          "price_rmb": 20000,
+          "details": "Max+/Ultra可选，Ultra+标配"
+        },
+        {
+          "name": "共享压缩机冷暖车载冰箱（10.9L）",
+          "price_rmb": 5000,
+          "details": "Max可选，Max+及以上标配"
+        },
+        {
+          "name": "后排环抱式气囊",
+          "price_rmb": null,
+          "details": "Ultra+可选"
         }
       ]
     }
   ],
-  "image_url": null
+  "image_url": "https://hima.auto/dam/hima-site/cn/zhijie/v9/images/hero/zhijie-v9-kv.jpg"
 }

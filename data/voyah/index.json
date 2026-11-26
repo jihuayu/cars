@@ -19,6 +19,7 @@
         "PHEV"
       ],
       "sku_count": 8,
+      "option_count": 4,
       "price_min_rmb": 329900,
       "price_max_rmb": 709900,
       "best_zero_to_100_s": 5.9,
@@ -37,11 +38,12 @@
       "sub_brand": null,
       "category": "中大型5座增程SUV",
       "release_date": "2025-07-12",
-      "image_url": null,
+      "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g28/M06/B0/A5/autohomecar__Chtlx2has8OARyFBAAJKqezyCEQ159.jpg?x_image_process=text/5paw6IO95rqQ6KeG6YeO/fontSize/12",
       "powertrains": [
         "REEV"
       ],
       "sku_count": 3,
+      "option_count": 4,
       "price_min_rmb": 219900,
       "price_max_rmb": 279900,
       "best_zero_to_100_s": 4.9,
@@ -64,6 +66,7 @@
         "PHEV"
       ],
       "sku_count": 4,
+      "option_count": 6,
       "price_min_rmb": 379900,
       "price_max_rmb": 509900,
       "best_zero_to_100_s": 5.2,
@@ -82,11 +85,12 @@
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2026-11-13",
-      "image_url": null,
+      "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M01/AF/F1/autohomecar__Chto52rpjSCAD8mQAGWhFa0Ik9M961.png",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 6,
       "price_min_rmb": 212900,
       "price_max_rmb": 242900,
       "best_zero_to_100_s": 4.3,
@@ -104,11 +108,12 @@
       "sub_brand": null,
       "category": "中大型插混行政轿车",
       "release_date": "2025-12-10",
-      "image_url": null,
+      "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M03/73/B4/autohomecar__ChtpWGjnFsOAMo4rAAUIRhOAwv0356.png?x_image_process=text/5rG96L2m6Kej5b-n6ZO6/fontSize/12",
       "powertrains": [
         "PHEV"
       ],
       "sku_count": 3,
+      "option_count": 4,
       "price_min_rmb": 279900,
       "price_max_rmb": 339900,
       "best_zero_to_100_s": 4.8,

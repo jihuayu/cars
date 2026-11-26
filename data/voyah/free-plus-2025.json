@@ -75,7 +75,28 @@
         "fridge": "冷暖箱",
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "全车电动吸合车门",
+          "price_rmb": 8000,
+          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）"
+        },
+        {
+          "name": "四活塞运动卡钳",
+          "price_rmb": 6000,
+          "details": "四驱乾崑版可选装四活塞运动刹车卡钳"
+        },
+        {
+          "name": "22扬声器Voyah Sound音响升级",
+          "price_rmb": 4000,
+          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）"
+        },
+        {
+          "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-free-plus-awd",
@@ -142,7 +163,28 @@
         "fridge": "冷暖箱",
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "全车电动吸合车门",
+          "price_rmb": 8000,
+          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）"
+        },
+        {
+          "name": "四活塞运动卡钳",
+          "price_rmb": 6000,
+          "details": "四驱乾崑版可选装四活塞运动刹车卡钳"
+        },
+        {
+          "name": "22扬声器Voyah Sound音响升级",
+          "price_rmb": 4000,
+          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）"
+        },
+        {
+          "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "voyah-free-plus-awd-sport",
@@ -209,8 +251,29 @@
         "fridge": "冷暖箱",
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "全车电动吸合车门",
+          "price_rmb": 8000,
+          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）"
+        },
+        {
+          "name": "四活塞运动卡钳",
+          "price_rmb": 6000,
+          "details": "四驱乾崑版可选装四活塞运动刹车卡钳"
+        },
+        {
+          "name": "22扬声器Voyah Sound音响升级",
+          "price_rmb": 4000,
+          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）"
+        },
+        {
+          "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
+          "price_rmb": null,
+          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g28/M06/B0/A5/autohomecar__Chtlx2has8OARyFBAAJKqezyCEQ159.jpg?x_image_process=text/5paw6IO95rqQ6KeG6YeO/fontSize/12"
 }

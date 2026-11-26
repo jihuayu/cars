@@ -75,7 +75,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "品质智享座舱包",
+          "price_rmb": 7299,
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 599,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
+          "price_rmb": null,
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-l07-2026-reev-240-ultra",
@@ -142,7 +158,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "品质智享座舱包",
+          "price_rmb": 7299,
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 599,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
+          "price_rmb": null,
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-l07-2026-bev-550-max",
@@ -209,7 +241,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "品质智享座舱包",
+          "price_rmb": 7299,
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 599,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
+          "price_rmb": null,
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-l07-2026-bev-660-max",
@@ -276,7 +324,23 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "品质智享座舱包",
+          "price_rmb": 7299,
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 599,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
+          "price_rmb": null,
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+        }
+      ]
     },
     {
       "sku_id": "deepal-l07-2026-bev-660-ultra",
@@ -343,8 +407,24 @@
         "fridge": null,
         "seat_features": null
       },
-      "options": []
+      "options": [
+        {
+          "name": "品质智享座舱包",
+          "price_rmb": 7299,
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+        },
+        {
+          "name": "遥控钥匙",
+          "price_rmb": 599,
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+        },
+        {
+          "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
+          "price_rmb": null,
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+        }
+      ]
     }
   ],
-  "image_url": null
+  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M08/EC/7E/400x400_0_f42_autohomecar__ChxpVmq6WH-ADRCkABISuRNW_Lk505.jpg"
 }

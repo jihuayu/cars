@@ -18,6 +18,7 @@
         "BEV"
       ],
       "sku_count": 6,
+      "option_count": 8,
       "price_min_rmb": 192800,
       "price_max_rmb": 251800,
       "best_zero_to_100_s": 4.6,
@@ -35,11 +36,12 @@
       "sub_brand": null,
       "category": "中大型5座纯电SUV",
       "release_date": "2026-05-15",
-      "image_url": null,
+      "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l80/highlights/highlights-carousel-01-desktop.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 3,
+      "option_count": 7,
       "price_min_rmb": 242800,
       "price_max_rmb": 279800,
       "best_zero_to_100_s": 4.5,
@@ -62,6 +64,7 @@
         "BEV"
       ],
       "sku_count": 5,
+      "option_count": 9,
       "price_min_rmb": 265800,
       "price_max_rmb": 299800,
       "best_zero_to_100_s": 4.7,

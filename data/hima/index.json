@@ -13,12 +13,13 @@
       "sub_brand": "问界 AITO",
       "category": "中型5座SUV",
       "release_date": "2025-03-20",
-      "image_url": null,
+      "image_url": "https://aito.auto/dam/content/dam/aito/cn/model/m5-new/new-images/hero/aito-m5-new.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 3,
+      "option_count": 5,
       "price_min_rmb": 229800,
       "price_max_rmb": 249800,
       "best_zero_to_100_s": 4.3,
@@ -37,12 +38,13 @@
       "sub_brand": "问界 AITO",
       "category": "中大型5座SUV",
       "release_date": "2026-04-22",
-      "image_url": null,
+      "image_url": "https://aito.auto/dam/content/dam/aito/cn/model/m6/images/kv/wenjie-m6-key-vision-thumb.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 7,
+      "option_count": 9,
       "price_min_rmb": 229800,
       "price_max_rmb": 299800,
       "best_zero_to_100_s": 5.2,
@@ -61,12 +63,13 @@
       "sub_brand": "问界 AITO",
       "category": "中大型5/6座SUV",
       "release_date": "2025-09-23",
-      "image_url": null,
+      "image_url": "https://aito.auto/dam/content/dam/aito/cn/model/m7-2025/images/hero/m7-ultra-kv.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 4,
+      "option_count": 6,
       "price_min_rmb": 279800,
       "price_max_rmb": 389800,
       "best_zero_to_100_s": 4.7,
@@ -85,12 +88,13 @@
       "sub_brand": "问界 AITO",
       "category": "大型家庭智慧旗舰SUV（5/6座）",
       "release_date": "2026-11-13",
-      "image_url": null,
+      "image_url": "https://aito.auto/dam/content/dam/aito/cn/homepage/main/img/261123/m8-new-pc.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 10,
+      "option_count": 18,
       "price_min_rmb": 379800,
       "price_max_rmb": 469800,
       "best_zero_to_100_s": null,
@@ -109,12 +113,13 @@
       "sub_brand": "问界 AITO",
       "category": "全尺寸旗舰SUV（含领世加长版）",
       "release_date": "2026-05-27",
-      "image_url": null,
+      "image_url": "https://s1.xchuxing.com/xchuxing/carousel/2026/04/22/9c1e1202604221701207248.png?imageView2/2/w/750/q/100",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 8,
+      "option_count": 10,
       "price_min_rmb": 479800,
       "price_max_rmb": 659800,
       "best_zero_to_100_s": 3.99,
@@ -133,12 +138,13 @@
       "sub_brand": "智界 LUXEED",
       "category": "中大型轿跑SUV",
       "release_date": "2026-09-28",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/BC/93/400x400_1_q40_c40_autohomecar__ChxpV2q06d6AKXIxACYiyPTYhAU657.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 6,
+      "option_count": 9,
       "price_min_rmb": 239800,
       "price_max_rmb": 319800,
       "best_zero_to_100_s": 4.4,
@@ -156,11 +162,12 @@
       "sub_brand": "智界 LUXEED",
       "category": "中大型纯电轿跑",
       "release_date": "2026-03-23",
-      "image_url": null,
+      "image_url": "https://m1.autoimg.cn/newsdfs/g34/M05/DA/77/400x400_1_q40_c40_autohomecar__ChxpV2ir-f-AAy6WABjlzkyeAoo676.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 6,
+      "option_count": 7,
       "price_min_rmb": 229800,
       "price_max_rmb": 299800,
       "best_zero_to_100_s": 3.3,
@@ -178,11 +185,12 @@
       "sub_brand": "智界 LUXEED",
       "category": "旗舰大型7座增程MPV",
       "release_date": "2026-05-15",
-      "image_url": null,
+      "image_url": "https://hima.auto/dam/hima-site/cn/zhijie/v9/images/hero/zhijie-v9-kv.jpg",
       "powertrains": [
         "REEV"
       ],
       "sku_count": 4,
+      "option_count": 6,
       "price_min_rmb": 389800,
       "price_max_rmb": 519800,
       "best_zero_to_100_s": 5.9,
@@ -200,12 +208,13 @@
       "sub_brand": "尊界 MAEXTRO",
       "category": "超豪华大型行政轿车",
       "release_date": "2025-05-30",
-      "image_url": null,
+      "image_url": "https://hima.auto/dam/hima-site/cn/zunjie/s800-new/videos/welcome/zunjie-s800-cover-xs-poster.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 5,
+      "option_count": 8,
       "price_min_rmb": 728000,
       "price_max_rmb": 1388000,
       "best_zero_to_100_s": 4.3,
@@ -224,12 +233,13 @@
       "sub_brand": "尚界 SAIC",
       "category": "中型5座SUV",
       "release_date": "2025-09-23",
-      "image_url": null,
+      "image_url": "https://www2.autoimg.cn/chejiahaodfs/g31/M03/5E/32/400x400_0_f42_autohomecar__ChtlyGh2UR2ABQWfABHgn67HxF017.jpeg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 6,
+      "option_count": 5,
       "price_min_rmb": 159800,
       "price_max_rmb": 199800,
       "best_zero_to_100_s": 7.3,
@@ -247,11 +257,12 @@
       "sub_brand": "尚界 SAIC",
       "category": "中型纯电轿跑 / 猎装轿跑",
       "release_date": "2026-04-22",
-      "image_url": null,
+      "image_url": "https://hima.auto/dam/hima-site/cn/shangjie/imgs/260320/kv-z7-z7t-2x.jpg",
       "powertrains": [
         "BEV"
       ],
       "sku_count": 2,
+      "option_count": 9,
       "price_min_rmb": 219800,
       "price_max_rmb": 229800,
       "best_zero_to_100_s": null,
@@ -269,12 +280,13 @@
       "sub_brand": "享界 STELATO",
       "category": "中大型行政豪华轿车",
       "release_date": "2026-03-23",
-      "image_url": null,
+      "image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/s9/new/images/appearance/xiangjie-s9-highlights-1.jpg",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 6,
+      "option_count": 6,
       "price_min_rmb": 319800,
       "price_max_rmb": 379800,
       "best_zero_to_100_s": 3.92,
@@ -292,12 +304,13 @@
       "sub_brand": "享界 STELATO",
       "category": "中大型豪华旅行车",
       "release_date": "2026-03-23",
-      "image_url": null,
+      "image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/s9t/images/hero/xiangjie-s9t-kv-mountain.png",
       "powertrains": [
         "BEV",
         "REEV"
       ],
       "sku_count": 6,
+      "option_count": 8,
       "price_min_rmb": 319800,
       "price_max_rmb": 379800,
       "best_zero_to_100_s": 3.95,
