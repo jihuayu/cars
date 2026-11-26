@@ -1,0 +1,234 @@
+{
+  "brand": "voyah",
+  "brand_name": "岚图",
+  "data_as_of": "2026-11-26",
+  "model": "岚图知音（2027款 896线乾崑版）",
+  "model_slug": "zhiyin-2027",
+  "category": "中型纯电SUV",
+  "release_date": "2026-11-13",
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7728.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "voyah-zhiyin-2027-rwd-896",
+      "sku_name": "2027款 后驱896线乾崑版",
+      "price_rmb": 212900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4810,
+        "width_mm": 1900,
+        "height_mm": 1636,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 81,
+        "cltc_pure_electric_range_km": 650,
+        "cltc_combined_range_km": 650,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 10min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": "EDC可调阻尼悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "鸿蒙座舱HarmonySpace 5.2",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "双电机四驱 / 米其林静音胎 / 智慧灯幕",
+          "price_rmb": "20000 / 10000 / 10000",
+          "details": "2027款官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "voyah-zhiyin-2027-awd-896",
+      "sku_name": "2027款 四驱896线乾崑版",
+      "price_rmb": 232900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4810,
+        "width_mm": 1900,
+        "height_mm": 1636,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 405,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 81,
+        "cltc_pure_electric_range_km": 600,
+        "cltc_combined_range_km": 600,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 10min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": "EDC可调阻尼悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "鸿蒙座舱HarmonySpace 5.2",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "双电机四驱 / 米其林静音胎 / 智慧灯幕",
+          "price_rmb": "20000 / 10000 / 10000",
+          "details": "2027款官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "voyah-zhiyin-2027-2025-lr-901",
+      "sku_name": "2025款 超长续航乾崑版",
+      "price_rmb": 242900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4810,
+        "width_mm": 1900,
+        "height_mm": 1636,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 112,
+        "cltc_pure_electric_range_km": 901,
+        "cltc_combined_range_km": 901,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 32.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": "EDC可调阻尼悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "192线激光雷达",
+        "system": "华为乾崑ADS 4",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "鸿蒙座舱HarmonySpace 5.2",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "双电机四驱 / 米其林静音胎 / 智慧灯幕",
+          "price_rmb": "20000 / 10000 / 10000",
+          "details": "2027款官方选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

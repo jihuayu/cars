@@ -1,0 +1,350 @@
+{
+  "brand": "deepal",
+  "brand_name": "深蓝",
+  "data_as_of": "2026-11-26",
+  "model": "深蓝L07（2026款）",
+  "model_slug": "l07-2026",
+  "category": "中型轿车",
+  "release_date": "2025-08-13",
+  "source_urls": [
+    "https://deepal.com.cn/car/configuration?car=L07&source=1&sort=1"
+  ],
+  "skus": [
+    {
+      "sku_id": "deepal-l07-2026-reev-240-max",
+      "sku_name": "240Max ADS SE（增程）",
+      "price_rmb": 145900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4875,
+        "width_mm": 1890,
+        "height_mm": 1480,
+        "wheelbase_mm": 2900,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 28.39,
+        "cltc_pure_electric_range_km": 240,
+        "cltc_combined_range_km": 1500,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后全铝H臂多连杆",
+        "air_suspension": false,
+        "cdc": "FSD+HRS",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "华为乾崑ADS SE",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "deepal-l07-2026-reev-240-ultra",
+      "sku_name": "240Ultra ADS SE（增程）",
+      "price_rmb": 155900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4875,
+        "width_mm": 1890,
+        "height_mm": 1480,
+        "wheelbase_mm": 2900,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 28.39,
+        "cltc_pure_electric_range_km": 240,
+        "cltc_combined_range_km": 1500,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后全铝H臂多连杆",
+        "air_suspension": false,
+        "cdc": "FSD+HRS",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "华为乾崑ADS SE",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "deepal-l07-2026-bev-550-max",
+      "sku_name": "550Max ADS SE（纯电）",
+      "price_rmb": 145900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4875,
+        "width_mm": 1890,
+        "height_mm": 1480,
+        "wheelbase_mm": 2900,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 550,
+        "cltc_combined_range_km": 550,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后全铝H臂多连杆",
+        "air_suspension": false,
+        "cdc": "FSD+HRS",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "华为乾崑ADS SE",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "deepal-l07-2026-bev-660-max",
+      "sku_name": "660Max ADS SE（纯电）",
+      "price_rmb": 155900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4875,
+        "width_mm": 1890,
+        "height_mm": 1480,
+        "wheelbase_mm": 2900,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 68.82,
+        "cltc_pure_electric_range_km": 660,
+        "cltc_combined_range_km": 660,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后全铝H臂多连杆",
+        "air_suspension": false,
+        "cdc": "FSD+HRS",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "华为乾崑ADS SE",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "deepal-l07-2026-bev-660-ultra",
+      "sku_name": "660Ultra ADS SE（纯电）",
+      "price_rmb": 165900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4875,
+        "width_mm": 1890,
+        "height_mm": 1480,
+        "wheelbase_mm": 2900,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 68.82,
+        "cltc_pure_electric_range_km": 660,
+        "cltc_combined_range_km": 660,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后全铝H臂多连杆",
+        "air_suspension": false,
+        "cdc": "FSD+HRS",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "华为乾崑ADS SE",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

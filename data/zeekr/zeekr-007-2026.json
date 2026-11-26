@@ -1,0 +1,680 @@
+{
+  "brand": "zeekr",
+  "brand_name": "极氪",
+  "data_as_of": "2026-11-26",
+  "model": "极氪007 / 007GT（2026款）",
+  "model_slug": "zeekr-007-2026",
+  "category": "中型纯电轿车 / 猎装车",
+  "release_date": "2026-04-10",
+  "source_urls": [
+    "https://m.zeekrlife.com/zeekr007",
+    "https://m.zeekrlife.com/zeekr007GT"
+  ],
+  "skus": [
+    {
+      "sku_id": "zeekr-007-rwd-75",
+      "sku_name": "007 后驱Max版 75kWh",
+      "price_rmb": 203900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4858,
+        "width_mm": 1900,
+        "height_mm": 1450,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 535,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75,
+        "cltc_pure_electric_range_km": 715,
+        "cltc_combined_range_km": 715,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆/多连杆",
+        "air_suspension": "选装1.2万",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.4英寸2.5K Mini-LED+13.02英寸仪表",
+        "hud": "35.5英寸AR-HUD",
+        "audio": "23扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "千里浩瀚H7 G-ASD进阶包",
+          "price_rmb": 35000,
+          "details": "完全智能驾驶包"
+        },
+        {
+          "name": "FR-LINE性能套装 / 自动开合门 / 单腔空悬(后驱)",
+          "price_rmb": "24000 / 16000 / 12000",
+          "details": "性能与底盘选装"
+        },
+        {
+          "name": "Stargate灯幕 / 真皮座椅",
+          "price_rmb": "8000 / 8000",
+          "details": "外观与内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-007-rwd-103",
+      "sku_name": "007 后驱Max版 103kWh",
+      "price_rmb": 223900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4858,
+        "width_mm": 1900,
+        "height_mm": 1450,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 535,
+        "zero_to_100_s": 4.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 905,
+        "cltc_combined_range_km": 905,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.0min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆/多连杆",
+        "air_suspension": "选装1.2万",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.4英寸2.5K Mini-LED+13.02英寸仪表",
+        "hud": "35.5英寸AR-HUD",
+        "audio": "23扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "千里浩瀚H7 G-ASD进阶包",
+          "price_rmb": 35000,
+          "details": "完全智能驾驶包"
+        },
+        {
+          "name": "FR-LINE性能套装 / 自动开合门 / 单腔空悬(后驱)",
+          "price_rmb": "24000 / 16000 / 12000",
+          "details": "性能与底盘选装"
+        },
+        {
+          "name": "Stargate灯幕 / 真皮座椅",
+          "price_rmb": "8000 / 8000",
+          "details": "外观与内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-007-awd-75",
+      "sku_name": "007 四驱Max版 75kWh",
+      "price_rmb": 233900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4858,
+        "width_mm": 1900,
+        "height_mm": 1450,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 585,
+        "motor_torque_nm": 812,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆/多连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.4英寸2.5K Mini-LED+13.02英寸仪表",
+        "hud": "35.5英寸AR-HUD",
+        "audio": "23扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "千里浩瀚H7 G-ASD进阶包",
+          "price_rmb": 35000,
+          "details": "完全智能驾驶包"
+        },
+        {
+          "name": "FR-LINE性能套装 / 自动开合门 / 单腔空悬(后驱)",
+          "price_rmb": "24000 / 16000 / 12000",
+          "details": "性能与底盘选装"
+        },
+        {
+          "name": "Stargate灯幕 / 真皮座椅",
+          "price_rmb": "8000 / 8000",
+          "details": "外观与内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-007-awd-103",
+      "sku_name": "007 四驱Ultra版 103kWh",
+      "price_rmb": 243900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4858,
+        "width_mm": 1900,
+        "height_mm": 1450,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 585,
+        "motor_torque_nm": 812,
+        "zero_to_100_s": 2.73,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 800,
+        "cltc_combined_range_km": 800,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.0min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆/多连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.4英寸2.5K Mini-LED+13.02英寸仪表",
+        "hud": "35.5英寸AR-HUD",
+        "audio": "23扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "千里浩瀚H7 G-ASD进阶包",
+          "price_rmb": 35000,
+          "details": "完全智能驾驶包"
+        },
+        {
+          "name": "FR-LINE性能套装 / 自动开合门 / 单腔空悬(后驱)",
+          "price_rmb": "24000 / 16000 / 12000",
+          "details": "性能与底盘选装"
+        },
+        {
+          "name": "Stargate灯幕 / 真皮座椅",
+          "price_rmb": "8000 / 8000",
+          "details": "外观与内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-007gt-rwd-75",
+      "sku_name": "007GT 后驱Max版 75kWh",
+      "price_rmb": 203900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4858,
+        "width_mm": 1900,
+        "height_mm": 1460,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 535,
+        "zero_to_100_s": 5.0,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "金砖磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75,
+        "cltc_pure_electric_range_km": 702,
+        "cltc_combined_range_km": 702,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆/多连杆",
+        "air_suspension": "选装1.2万",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.4英寸2.5K Mini-LED+13.02英寸仪表",
+        "hud": "35.5英寸AR-HUD",
+        "audio": "23扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "千里浩瀚H7 G-ASD进阶包",
+          "price_rmb": 35000,
+          "details": "完全智能驾驶包"
+        },
+        {
+          "name": "FR-LINE性能套装 / 自动开合门 / 单腔空悬(后驱)",
+          "price_rmb": "24000 / 16000 / 12000",
+          "details": "性能与底盘选装"
+        },
+        {
+          "name": "Stargate灯幕 / 真皮座椅",
+          "price_rmb": "8000 / 8000",
+          "details": "外观与内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-007gt-rwd-103",
+      "sku_name": "007GT 后驱Max版 103kWh",
+      "price_rmb": 223900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4858,
+        "width_mm": 1900,
+        "height_mm": 1460,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 535,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 880,
+        "cltc_combined_range_km": 880,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆/多连杆",
+        "air_suspension": "选装1.2万",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.4英寸2.5K Mini-LED+13.02英寸仪表",
+        "hud": "35.5英寸AR-HUD",
+        "audio": "23扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "千里浩瀚H7 G-ASD进阶包",
+          "price_rmb": 35000,
+          "details": "完全智能驾驶包"
+        },
+        {
+          "name": "FR-LINE性能套装 / 自动开合门 / 单腔空悬(后驱)",
+          "price_rmb": "24000 / 16000 / 12000",
+          "details": "性能与底盘选装"
+        },
+        {
+          "name": "Stargate灯幕 / 真皮座椅",
+          "price_rmb": "8000 / 8000",
+          "details": "外观与内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-007gt-awd-75",
+      "sku_name": "007GT 四驱Max版 75kWh",
+      "price_rmb": 233900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4858,
+        "width_mm": 1900,
+        "height_mm": 1460,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 585,
+        "motor_torque_nm": 812,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "金砖磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75,
+        "cltc_pure_electric_range_km": 615,
+        "cltc_combined_range_km": 615,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆/多连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.4英寸2.5K Mini-LED+13.02英寸仪表",
+        "hud": "35.5英寸AR-HUD",
+        "audio": "23扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "千里浩瀚H7 G-ASD进阶包",
+          "price_rmb": 35000,
+          "details": "完全智能驾驶包"
+        },
+        {
+          "name": "FR-LINE性能套装 / 自动开合门 / 单腔空悬(后驱)",
+          "price_rmb": "24000 / 16000 / 12000",
+          "details": "性能与底盘选装"
+        },
+        {
+          "name": "Stargate灯幕 / 真皮座椅",
+          "price_rmb": "8000 / 8000",
+          "details": "外观与内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-007gt-awd-103",
+      "sku_name": "007GT 四驱Ultra版 103kWh",
+      "price_rmb": 243900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4858,
+        "width_mm": 1900,
+        "height_mm": 1445,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 585,
+        "motor_torque_nm": 812,
+        "zero_to_100_s": 2.85,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 760,
+        "cltc_combined_range_km": 760,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.0min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆/多连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.4英寸2.5K Mini-LED+13.02英寸仪表",
+        "hud": "35.5英寸AR-HUD",
+        "audio": "23扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "千里浩瀚H7 G-ASD进阶包",
+          "price_rmb": 35000,
+          "details": "完全智能驾驶包"
+        },
+        {
+          "name": "FR-LINE性能套装 / 自动开合门 / 单腔空悬(后驱)",
+          "price_rmb": "24000 / 16000 / 12000",
+          "details": "性能与底盘选装"
+        },
+        {
+          "name": "Stargate灯幕 / 真皮座椅",
+          "price_rmb": "8000 / 8000",
+          "details": "外观与内饰"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

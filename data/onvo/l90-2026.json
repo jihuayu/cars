@@ -1,0 +1,351 @@
+{
+  "brand": "onvo",
+  "brand_name": "乐道",
+  "data_as_of": "2026-11-26",
+  "model": "乐道L90（2026款）",
+  "model_slug": "l90-2026",
+  "category": "大型6/7座纯电SUV",
+  "release_date": "2026-04-21",
+  "source_urls": [
+    "https://www.onvo.cn/l90",
+    "https://configuration.onvo.cn/alpsConfigList?carType=L90&scene=office"
+  ],
+  "skus": [
+    {
+      "sku_id": "onvo-l90-2026-pro-6",
+      "sku_name": "Pro 六座版",
+      "price_rmb": 265800,
+      "baas_price_rmb": 179800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1998,
+        "height_mm": 1766,
+        "wheelbase_mm": 3110,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 600,
+        "cltc_combined_range_km": 600,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "标配空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "Orin-X",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "纯视觉智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "SkyOS大屏座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "onvo-l90-2026-max-plus-6",
+      "sku_name": "Max+ 六座版",
+      "price_rmb": 279800,
+      "baas_price_rmb": 193800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1998,
+        "height_mm": 1766,
+        "wheelbase_mm": 3110,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 600,
+        "cltc_combined_range_km": 600,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "标配空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "高阶智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "SkyOS大屏座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "onvo-l90-2026-max-plus-7",
+      "sku_name": "Max+ 七座版",
+      "price_rmb": 285800,
+      "baas_price_rmb": 199800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1998,
+        "height_mm": 1766,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 600,
+        "cltc_combined_range_km": 600,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "标配空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "高阶智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "SkyOS大屏座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "onvo-l90-2026-ultra-plus-6",
+      "sku_name": "Ultra+ 六座版",
+      "price_rmb": 299800,
+      "baas_price_rmb": 213800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1998,
+        "height_mm": 1766,
+        "wheelbase_mm": 3110,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 440,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 570,
+        "cltc_combined_range_km": 570,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "标配空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "高阶智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "SkyOS大屏座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "onvo-l90-2026-ultra-plus-7",
+      "sku_name": "Ultra+ 七座版",
+      "price_rmb": 299800,
+      "baas_price_rmb": 213800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1998,
+        "height_mm": 1766,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 440,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 570,
+        "cltc_combined_range_km": 570,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "标配空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "高阶智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "SkyOS大屏座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg"
+}

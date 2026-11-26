@@ -1,0 +1,57 @@
+{
+  "brand": "exeed-sterra",
+  "brand_name": "星途星纪元",
+  "data_as_of": "2026-11-26",
+  "model_count": 2,
+  "sku_count": 9,
+  "models": [
+    {
+      "brand": "exeed-sterra",
+      "brand_name": "星途星纪元",
+      "model": "星纪元ES（2027款）",
+      "model_slug": "sterra-es-2027",
+      "sub_brand": null,
+      "category": "中大型轿跑",
+      "release_date": "2026-07-20",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 179900,
+      "price_max_rmb": 209900,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": 860,
+      "file": "data/exeed-sterra/sterra-es-2027.json",
+      "source_urls": [
+        "https://www.exeedcars.com/xjy/es_reev/",
+        "https://car.autohome.com.cn/config/series/7035.html"
+      ]
+    },
+    {
+      "brand": "exeed-sterra",
+      "brand_name": "星途星纪元",
+      "model": "星纪元ET（2025款）",
+      "model_slug": "sterra-et-2025",
+      "sub_brand": null,
+      "category": "中大型SUV",
+      "release_date": "2025-04-19",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 172800,
+      "price_max_rmb": 279800,
+      "best_zero_to_100_s": 3.8,
+      "max_cltc_ev_km": 760,
+      "file": "data/exeed-sterra/sterra-et-2025.json",
+      "source_urls": [
+        "https://www.exeedcars.com/xjy/et_new/",
+        "https://car.autohome.com.cn/config/series/7174.html"
+      ]
+    }
+  ]
+}

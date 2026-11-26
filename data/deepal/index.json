@@ -1,0 +1,124 @@
+{
+  "brand": "deepal",
+  "brand_name": "深蓝",
+  "data_as_of": "2026-11-26",
+  "model_count": 5,
+  "sku_count": 25,
+  "models": [
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝G318（2026款）",
+      "model_slug": "g318-2026",
+      "sub_brand": null,
+      "category": "中大型科技硬派增程SUV",
+      "release_date": "2026-08-21",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 185900,
+      "price_max_rmb": 239800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 200,
+      "file": "data/deepal/g318-2026.json",
+      "source_urls": [
+        "https://www.deepal.com.cn/car/parameter",
+        "https://car.autohome.com.cn/config/series/7569.html"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝L07（2026款）",
+      "model_slug": "l07-2026",
+      "sub_brand": null,
+      "category": "中型轿车",
+      "release_date": "2025-08-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 145900,
+      "price_max_rmb": 165900,
+      "best_zero_to_100_s": 6.2,
+      "max_cltc_ev_km": 660,
+      "file": "data/deepal/l07-2026.json",
+      "source_urls": [
+        "https://deepal.com.cn/car/configuration?car=L07&source=1&sort=1"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝S05（2027款）",
+      "model_slug": "s05-2027",
+      "sub_brand": null,
+      "category": "紧凑型SUV",
+      "release_date": "2026-08-06",
+      "image_url": "https://files.deepal.com.cn/operate/official/1542255672441536513/202511/21DF7E8FF3D0D905D7E8355F1312A120.png",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 119900,
+      "price_max_rmb": 151900,
+      "best_zero_to_100_s": 6.28,
+      "max_cltc_ev_km": 620,
+      "file": "data/deepal/s05-2027.json",
+      "source_urls": [
+        "https://www.deepal.com.cn/car/configuration?car=S05&sort=1&source=1"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝S07（2026款）",
+      "model_slug": "s07-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-09-19",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 149900,
+      "price_max_rmb": 176900,
+      "best_zero_to_100_s": 7.4,
+      "max_cltc_ev_km": 630,
+      "file": "data/deepal/s07-2026.json",
+      "source_urls": [
+        "https://www.deepal.com.cn/car/parameter",
+        "https://car.autohome.com.cn/config/series/6817.html"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝S09（2025/2026款）",
+      "model_slug": "s09-2026",
+      "sub_brand": null,
+      "category": "大型6座家庭增程SUV",
+      "release_date": "2025-04-23",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 239900,
+      "price_max_rmb": 309900,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 310,
+      "file": "data/deepal/s09-2026.json",
+      "source_urls": [
+        "https://www.deepal.com.cn/car/parameter",
+        "https://car.autohome.com.cn/config/series/7979.html"
+      ]
+    }
+  ]
+}

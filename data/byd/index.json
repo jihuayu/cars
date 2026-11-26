@@ -1,0 +1,151 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "data_as_of": "2026-11-26",
+  "model_count": 6,
+  "sku_count": 38,
+  "models": [
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪汉L（EV / DM）",
+      "model_slug": "han-l-2025",
+      "sub_brand": null,
+      "category": "中大型旗舰轿车",
+      "release_date": "2025-04-09",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 209800,
+      "price_max_rmb": 279800,
+      "best_zero_to_100_s": 2.7,
+      "max_cltc_ev_km": 701,
+      "file": "data/byd/han-l-2025.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/series/7859.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪海豹06（2027款 DM-i / EV）",
+      "model_slug": "seal-06-2027",
+      "sub_brand": null,
+      "category": "中型轿车",
+      "release_date": "2026-08-11",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 99900,
+      "price_max_rmb": 155900,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 630,
+      "file": "data/byd/seal-06-2027.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/spec/78809.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪海狮07（EV / DM-i）",
+      "model_slug": "sealion-07-2025",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-05-08",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 169800,
+      "price_max_rmb": 239800,
+      "best_zero_to_100_s": 4.2,
+      "max_cltc_ev_km": 610,
+      "file": "data/byd/sealion-07-2025.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/series/6851.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪宋L（EV 智驾版 / 2026款 DM-i）",
+      "model_slug": "song-l-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-10-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 139800,
+      "price_max_rmb": 249800,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 662,
+      "file": "data/byd/song-l-2026.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/series/7220.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪唐L（EV / DM）",
+      "model_slug": "tang-l-2025",
+      "sub_brand": null,
+      "category": "中大型7座旗舰SUV",
+      "release_date": "2025-04-09",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 289800,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 670,
+      "file": "data/byd/tang-l-2025.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/series/8005.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪夏（2026款 DM-i）",
+      "model_slug": "xia-2026",
+      "sub_brand": null,
+      "category": "中大型7座插混MPV",
+      "release_date": "2025-11-04",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 206800,
+      "price_max_rmb": 269800,
+      "best_zero_to_100_s": 8.1,
+      "max_cltc_ev_km": 218,
+      "file": "data/byd/xia-2026.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/"
+      ]
+    }
+  ]
+}

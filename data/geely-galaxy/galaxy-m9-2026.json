@@ -1,0 +1,350 @@
+{
+  "brand": "geely-galaxy",
+  "brand_name": "吉利银河",
+  "data_as_of": "2026-11-26",
+  "model": "吉利银河M9（旗舰6座）",
+  "model_slug": "galaxy-m9-2026",
+  "category": "全尺寸6座插混旗舰SUV",
+  "release_date": "2025-09-17",
+  "source_urls": [
+    "https://www.galaxy-geely.com/M9"
+  ],
+  "skus": [
+    {
+      "sku_id": "galaxy-m9-100-qihang",
+      "sku_name": "100km 两驱启航版",
+      "price_rmb": 183800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5205,
+        "width_mm": 1999,
+        "height_mm": 1800,
+        "wheelbase_mm": 3030,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 18.4,
+        "cltc_pure_electric_range_km": 100,
+        "cltc_combined_range_km": 1325,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "galaxy-m9-230-zhihang",
+      "sku_name": "230km 两驱智航版",
+      "price_rmb": 207800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5205,
+        "width_mm": 1999,
+        "height_mm": 1800,
+        "wheelbase_mm": 3030,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 41.46,
+        "cltc_pure_electric_range_km": 230,
+        "cltc_combined_range_km": 1500,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "galaxy-m9-230-tansuo",
+      "sku_name": "230km 两驱探索版",
+      "price_rmb": 226800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5205,
+        "width_mm": 1999,
+        "height_mm": 1800,
+        "wheelbase_mm": 3030,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 41.46,
+        "cltc_pure_electric_range_km": 230,
+        "cltc_combined_range_km": 1500,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "galaxy-m9-210-awd",
+      "sku_name": "210km 四驱领航版",
+      "price_rmb": 248800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5205,
+        "width_mm": 1999,
+        "height_mm": 1800,
+        "wheelbase_mm": 3030,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机四驱",
+        "motor_power_kw": 520,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 41.46,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 1500,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "选装双腔空悬",
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "galaxy-m9-210-awd-black",
+      "sku_name": "2026款 210km 四驱黑金智曜版",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5205,
+        "width_mm": 1999,
+        "height_mm": 1800,
+        "wheelbase_mm": 3030,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机四驱",
+        "motor_power_kw": 520,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 41.46,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 1500,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔闭式空悬",
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

@@ -1,0 +1,283 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "data_as_of": "2026-11-26",
+  "model": "比亚迪夏（2026款 DM-i）",
+  "model_slug": "xia-2026",
+  "category": "中大型7座插混MPV",
+  "release_date": "2025-11-04",
+  "source_urls": [
+    "https://www.bydauto.com.cn/pc/"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-xia-2026-100-jinqu",
+      "sku_name": "2026款 DM-i 100KM进取型",
+      "price_rmb": 206800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1970,
+        "height_mm": 1805,
+        "wheelbase_mm": 3045,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 20.39,
+        "cltc_pure_electric_range_km": 100,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C（带预瞄）",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink 150",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-xia-2026-100-chaoyue",
+      "sku_name": "2026款 DM-i 100KM超越型",
+      "price_rmb": 219800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1970,
+        "height_mm": 1805,
+        "wheelbase_mm": 3045,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 20.39,
+        "cltc_pure_electric_range_km": 100,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C（带预瞄）",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼C",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink 150",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-xia-2026-218-chaoyue",
+      "sku_name": "2026款 DM-i 218KM超越型",
+      "price_rmb": 246800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1970,
+        "height_mm": 1805,
+        "wheelbase_mm": 3045,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 36.6,
+        "cltc_pure_electric_range_km": 218,
+        "cltc_combined_range_km": 1163,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C（带预瞄）",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼C",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink 150",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-xia-2026-218-zhuoyue",
+      "sku_name": "2026款 DM-i 218KM卓越型",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1970,
+        "height_mm": 1805,
+        "wheelbase_mm": 3045,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 36.6,
+        "cltc_pure_electric_range_km": 218,
+        "cltc_combined_range_km": 1163,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C（带预瞄）",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink 150",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

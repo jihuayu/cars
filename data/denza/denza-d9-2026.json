@@ -1,0 +1,484 @@
+{
+  "brand": "denza",
+  "brand_name": "腾势",
+  "data_as_of": "2026-11-26",
+  "model": "腾势D9（2026款第二代）",
+  "model_slug": "denza-d9-2026",
+  "category": "中大型7座豪华MPV",
+  "release_date": "2026-04-27",
+  "source_urls": [
+    "https://www.denza.com/cn2_0/brand.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "denza-d9-2026-dmi-2wd",
+      "sku_name": "DM-i 两驱尊航型",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5250,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 200,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link七屏互联",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "denza-d9-2026-dmi-awd-hh",
+      "sku_name": "第二代DM-i 四驱闪充豪华型",
+      "price_rmb": 329800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5250,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 350,
+        "cltc_combined_range_km": 1100,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link七屏互联",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "denza-d9-2026-dmi-awd-zg",
+      "sku_name": "第二代DM-i 四驱闪充尊贵型",
+      "price_rmb": 359800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5250,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 401,
+        "cltc_combined_range_km": 1100,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link七屏互联",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "denza-d9-2026-dmi-awd-qj",
+      "sku_name": "第二代DM-i 四驱闪充旗舰型",
+      "price_rmb": 459800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5250,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 401,
+        "cltc_combined_range_km": 1100,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link七屏互联",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "denza-d9-2026-ev-2wd-zg",
+      "sku_name": "第二代EV 两驱闪充尊贵型",
+      "price_rmb": 369800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5250,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "两驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 115,
+        "cltc_pure_electric_range_km": 800,
+        "cltc_combined_range_km": 800,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link七屏互联",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "denza-d9-2026-ev-awd-zr",
+      "sku_name": "第二代EV 四驱闪充尊荣型",
+      "price_rmb": 409800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5250,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 410,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 115,
+        "cltc_pure_electric_range_km": 800,
+        "cltc_combined_range_km": 800,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link七屏互联",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "denza-d9-2026-ev-awd-qj",
+      "sku_name": "第二代EV 四驱闪充旗舰型",
+      "price_rmb": 469800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5250,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 410,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 115,
+        "cltc_pure_electric_range_km": 800,
+        "cltc_combined_range_km": 800,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "多连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link七屏互联",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

@@ -1,0 +1,283 @@
+{
+  "brand": "arcfox",
+  "brand_name": "极狐",
+  "data_as_of": "2026-11-26",
+  "model": "极狐阿尔法S6 / T6",
+  "model_slug": "alpha-s6-t6-2026",
+  "category": "中大型纯电轿车 / SUV",
+  "release_date": "2025-04-02",
+  "source_urls": [
+    "https://www.arcfox.com.cn/S6/index.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "arcfox-s6-735max",
+      "sku_name": "阿尔法S6 735MAX",
+      "price_rmb": 195800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4930,
+        "width_mm": 1940,
+        "height_mm": 1599,
+        "wheelbase_mm": 2915,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 94.5,
+        "cltc_pure_electric_range_km": 735,
+        "cltc_combined_range_km": 735,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "α-Pilot L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "arcfox-s6-3lidar",
+      "sku_name": "阿尔法S6 三激光雷达版",
+      "price_rmb": 225800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4980,
+        "width_mm": 1960,
+        "height_mm": 1599,
+        "wheelbase_mm": 2915,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 252,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 602,
+        "cltc_combined_range_km": 602,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "3颗激光雷达",
+        "system": "华为乾崑ADS 3.3",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "arcfox-t6-688max",
+      "sku_name": "阿尔法T6 688MAX",
+      "price_rmb": 195800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4788,
+        "width_mm": 1940,
+        "height_mm": 1683,
+        "wheelbase_mm": 2915,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 688,
+        "cltc_combined_range_km": 688,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "α-Pilot L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "arcfox-t6-600ultra",
+      "sku_name": "阿尔法T6 2026款 600ULTRA",
+      "price_rmb": 215800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4788,
+        "width_mm": 1940,
+        "height_mm": 1683,
+        "wheelbase_mm": 2915,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 320,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 600,
+        "cltc_combined_range_km": 600,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "α-Pilot L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

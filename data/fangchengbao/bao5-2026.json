@@ -1,0 +1,417 @@
+{
+  "brand": "fangchengbao",
+  "brand_name": "方程豹",
+  "data_as_of": "2026-11-26",
+  "model": "方程豹豹5（2026款）",
+  "model_slug": "bao5-2026",
+  "category": "中型硬派电驱越野SUV",
+  "release_date": "2025-10-20",
+  "source_urls": [
+    "https://www.fangchengbao.com/bao5"
+  ],
+  "skus": [
+    {
+      "sku_id": "fcb-bao5-2026-tianshen-max",
+      "sku_name": "2026款 210km 天神Max",
+      "price_rmb": 259800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1970,
+        "height_mm": 1920,
+        "wheelbase_mm": 2800,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "DMO双电机四驱",
+        "motor_power_kw": 485,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 47.8,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 1310,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "fcb-bao5-2026-tianshen-ultra",
+      "sku_name": "2026款 210km 天神Ultra",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1970,
+        "height_mm": 1920,
+        "wheelbase_mm": 2800,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "DMO双电机四驱",
+        "motor_power_kw": 485,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 47.8,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 1310,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "fcb-bao5-2026-yunnian-tianshen",
+      "sku_name": "2026款 210km 云辇天神Ultra",
+      "price_rmb": 279800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1970,
+        "height_mm": 1920,
+        "wheelbase_mm": 2800,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "DMO双电机四驱",
+        "motor_power_kw": 485,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 47.8,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 1310,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": "云辇-P",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "fcb-bao5-2026-qiankun-ultra",
+      "sku_name": "2026款 210km 乾崑Ultra",
+      "price_rmb": 294800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1970,
+        "height_mm": 1920,
+        "wheelbase_mm": 2800,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "DMO双电机四驱",
+        "motor_power_kw": 485,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 47.8,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 1310,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "fcb-bao5-2026-yunnian-flash",
+      "sku_name": "2026款 云辇闪充版",
+      "price_rmb": 305800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1970,
+        "height_mm": 1920,
+        "wheelbase_mm": 2800,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "DMO双电机四驱",
+        "motor_power_kw": 485,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 46.7,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 1310,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": "云辇-P Ultra",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "fcb-bao5-2026-yunnian-qiankun",
+      "sku_name": "2026款 210km 云辇乾崑Ultra+",
+      "price_rmb": 329800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1970,
+        "height_mm": 1920,
+        "wheelbase_mm": 2800,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "DMO双电机四驱",
+        "motor_power_kw": 485,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 47.8,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 1310,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": "云辇-P",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

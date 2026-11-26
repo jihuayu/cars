@@ -1,0 +1,405 @@
+{
+  "brand": "zeekr",
+  "brand_name": "极氪",
+  "data_as_of": "2026-11-26",
+  "model": "极氪9X（2026款）",
+  "model_slug": "zeekr-9x-2026",
+  "category": "全尺寸超豪华电混旗舰SUV",
+  "release_date": "2025-09-29",
+  "source_urls": [
+    "https://m.zeekrlife.com/zeekr9x"
+  ],
+  "skus": [
+    {
+      "sku_id": "zeekr-9x-2026-max-55-6",
+      "sku_name": "Max版 55kWh 六座",
+      "price_rmb": 465900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5239,
+        "width_mm": 2029,
+        "height_mm": 1819,
+        "wheelbase_mm": 3169,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 660,
+        "motor_torque_nm": 935,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "骁遥三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 55,
+        "cltc_pure_electric_range_km": 300,
+        "cltc_combined_range_km": 1200,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双横臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "双阀CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U x1",
+        "compute_tops": 700,
+        "lidar": "1颗192线激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "双16英寸3.5K OLED+47英寸AR-HUD+6.3英寸后排屏",
+        "hud": "47英寸AR-HUD",
+        "audio": "30-32扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
+          "price_rmb": "60000 / 30000 / 25000",
+          "details": "旗舰选装"
+        },
+        {
+          "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
+          "price_rmb": "22000 / 15000 / 10000",
+          "details": "舒适与底盘选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-9x-2026-ultra-55-6",
+      "sku_name": "Ultra版 55kWh 六座",
+      "price_rmb": 485900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5239,
+        "width_mm": 2029,
+        "height_mm": 1819,
+        "wheelbase_mm": 3169,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 660,
+        "motor_torque_nm": 935,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "骁遥三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 55,
+        "cltc_pure_electric_range_km": 288,
+        "cltc_combined_range_km": 1160,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双横臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "双阀CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U x1",
+        "compute_tops": 700,
+        "lidar": "1颗192线激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "双16英寸3.5K OLED+47英寸AR-HUD+6.3英寸后排屏",
+        "hud": "47英寸AR-HUD",
+        "audio": "30-32扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
+          "price_rmb": "60000 / 30000 / 25000",
+          "details": "旗舰选装"
+        },
+        {
+          "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
+          "price_rmb": "22000 / 15000 / 10000",
+          "details": "舒适与底盘选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-9x-2026-ultra-70-6",
+      "sku_name": "Ultra版 70kWh 六座",
+      "price_rmb": 500900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5239,
+        "width_mm": 2029,
+        "height_mm": 1819,
+        "wheelbase_mm": 3169,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 660,
+        "motor_torque_nm": 935,
+        "zero_to_100_s": 4.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "骁遥三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 70,
+        "cltc_pure_electric_range_km": 380,
+        "cltc_combined_range_km": 1250,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双横臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "双阀CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U x1",
+        "compute_tops": 700,
+        "lidar": "1颗192线激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "双16英寸3.5K OLED+47英寸AR-HUD+6.3英寸后排屏",
+        "hud": "47英寸AR-HUD",
+        "audio": "30-32扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
+          "price_rmb": "60000 / 30000 / 25000",
+          "details": "旗舰选装"
+        },
+        {
+          "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
+          "price_rmb": "22000 / 15000 / 10000",
+          "details": "舒适与底盘选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-9x-2026-hyper-70-6",
+      "sku_name": "Hyper版 70kWh 六座",
+      "price_rmb": 559900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5239,
+        "width_mm": 2029,
+        "height_mm": 1819,
+        "wheelbase_mm": 3169,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机四驱",
+        "motor_power_kw": 1030,
+        "motor_torque_nm": 1410,
+        "zero_to_100_s": 3.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "骁遥三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 70,
+        "cltc_pure_electric_range_km": 355,
+        "cltc_combined_range_km": 1165,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双横臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "双阀CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U x2",
+        "compute_tops": 1400,
+        "lidar": "5颗激光雷达(最高520线)",
+        "system": "千里浩瀚H9",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "双16英寸3.5K OLED+47英寸AR-HUD+6.3英寸后排屏",
+        "hud": "47英寸AR-HUD",
+        "audio": "30-32扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
+          "price_rmb": "60000 / 30000 / 25000",
+          "details": "旗舰选装"
+        },
+        {
+          "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
+          "price_rmb": "22000 / 15000 / 10000",
+          "details": "舒适与底盘选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-9x-2026-black-70-6",
+      "sku_name": "曜黑版 70kWh 六座",
+      "price_rmb": 599900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5239,
+        "width_mm": 2029,
+        "height_mm": 1819,
+        "wheelbase_mm": 3169,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机四驱",
+        "motor_power_kw": 1030,
+        "motor_torque_nm": 1410,
+        "zero_to_100_s": 3.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "骁遥三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 70,
+        "cltc_pure_electric_range_km": 355,
+        "cltc_combined_range_km": 1165,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双横臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "双阀CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U x2",
+        "compute_tops": 1400,
+        "lidar": "5颗激光雷达(最高520线)",
+        "system": "千里浩瀚H9",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "双16英寸3.5K OLED+47英寸AR-HUD+6.3英寸后排屏",
+        "hud": "47英寸AR-HUD",
+        "audio": "30-32扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
+          "price_rmb": "60000 / 30000 / 25000",
+          "details": "旗舰选装"
+        },
+        {
+          "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
+          "price_rmb": "22000 / 15000 / 10000",
+          "details": "舒适与底盘选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

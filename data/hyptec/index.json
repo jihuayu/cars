@@ -1,0 +1,78 @@
+{
+  "brand": "hyptec",
+  "brand_name": "广汽昊铂",
+  "data_as_of": "2026-11-26",
+  "model_count": 3,
+  "sku_count": 13,
+  "models": [
+    {
+      "brand": "hyptec",
+      "brand_name": "广汽昊铂",
+      "model": "昊铂GT（2025/2026款）",
+      "model_slug": "hyptec-gt-2026",
+      "sub_brand": null,
+      "category": "中大型纯电运动轿跑",
+      "release_date": "2026-07-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 153800,
+      "price_max_rmb": 203900,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": 710,
+      "file": "data/hyptec/hyptec-gt-2026.json",
+      "source_urls": [
+        "https://www.hyptec.com/",
+        "https://car.autohome.com.cn/config/series/7084.html"
+      ]
+    },
+    {
+      "brand": "hyptec",
+      "brand_name": "广汽昊铂",
+      "model": "昊铂HL",
+      "model_slug": "hyptec-hl-2025",
+      "sub_brand": null,
+      "category": "中大型豪华SUV（5/6座）",
+      "release_date": "2025-04-12",
+      "image_url": "https://hyper-resouce.aion.com.cn/Public/Uploads/Picture/images/2026/05/171899946559347713698486637227.jpg",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 269800,
+      "price_max_rmb": 319800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 750,
+      "file": "data/hyptec/hyptec-hl-2025.json",
+      "source_urls": [
+        "https://www.hyptec.com/vehicle/config/table?alias=aHlwZXJfaGw%3D"
+      ]
+    },
+    {
+      "brand": "hyptec",
+      "brand_name": "广汽昊铂",
+      "model": "昊铂HT（2025款）",
+      "model_slug": "hyptec-ht-2025",
+      "sub_brand": null,
+      "category": "中大型纯电轿跑SUV",
+      "release_date": "2025-07-03",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 189900,
+      "price_max_rmb": 229900,
+      "best_zero_to_100_s": 5.8,
+      "max_cltc_ev_km": 825,
+      "file": "data/hyptec/hyptec-ht-2025.json",
+      "source_urls": [
+        "https://www.hyptec.com/",
+        "https://car.autohome.com.cn/config/series/7395.html"
+      ]
+    }
+  ]
+}

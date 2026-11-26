@@ -1,0 +1,283 @@
+{
+  "brand": "aion",
+  "brand_name": "广汽埃安",
+  "data_as_of": "2026-11-26",
+  "model": "埃安霸王龙（第二代AION V 家庭版）",
+  "model_slug": "aion-v-2026",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2025-08-27",
+  "source_urls": [
+    "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57"
+  ],
+  "skus": [
+    {
+      "sku_id": "aion-v-2026-520-zhihao",
+      "sku_name": "2026款家庭版 520智豪版",
+      "price_rmb": 109800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4580,
+        "width_mm": 1854,
+        "height_mm": null,
+        "wheelbase_mm": 2775,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 62.3,
+        "cltc_pure_electric_range_km": 520,
+        "cltc_combined_range_km": 520,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 18min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础辅助",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "ADiGO SENSE",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "aion-v-2026-520-zhizun",
+      "sku_name": "2026款家庭版 520智尊版",
+      "price_rmb": 119800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4580,
+        "width_mm": 1854,
+        "height_mm": null,
+        "wheelbase_mm": 2775,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 62.3,
+        "cltc_pure_electric_range_km": 520,
+        "cltc_combined_range_km": 520,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 18min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "广汽GSD L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "ADiGO SENSE",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "aion-v-2026-650-zhihao",
+      "sku_name": "2026款家庭版 650智豪版",
+      "price_rmb": 128800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4580,
+        "width_mm": 1854,
+        "height_mm": null,
+        "wheelbase_mm": 2775,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 165,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 74.98,
+        "cltc_pure_electric_range_km": 650,
+        "cltc_combined_range_km": 650,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 18min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "广汽GSD L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "ADiGO SENSE",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "aion-v-2026-650-zhizun",
+      "sku_name": "2026款家庭版 650智尊版",
+      "price_rmb": 135800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4580,
+        "width_mm": 1854,
+        "height_mm": null,
+        "wheelbase_mm": 2775,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 165,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 74.98,
+        "cltc_pure_electric_range_km": 650,
+        "cltc_combined_range_km": 650,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 18min(3C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "广汽GSD L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "ADiGO SENSE",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

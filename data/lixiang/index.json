@@ -6,14 +6,22 @@
   "sku_count": 11,
   "models": [
     {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
       "model": "2026款理想i6",
       "model_slug": "i6-2026",
       "sub_brand": null,
       "category": "中大型5座纯电SUV",
       "release_date": "2026-10-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 2,
       "price_min_rmb": 249800,
       "price_max_rmb": 269800,
+      "best_zero_to_100_s": 4.8,
+      "max_cltc_ev_km": 780,
       "file": "data/lixiang/i6-2026.json",
       "source_urls": [
         "https://www.lixiang.com/i6",
@@ -21,14 +29,22 @@
       ]
     },
     {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
       "model": "理想i8",
       "model_slug": "i8-2026",
       "sub_brand": null,
       "category": "中大型6座纯电SUV",
       "release_date": "2025-07-29",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 2,
       "price_min_rmb": 309800,
       "price_max_rmb": 339800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 780,
       "file": "data/lixiang/i8-2026.json",
       "source_urls": [
         "https://www.lixiang.com/i8",
@@ -36,14 +52,22 @@
       ]
     },
     {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
       "model": "全新理想i9",
       "model_slug": "i9-2026",
       "sub_brand": null,
       "category": "全尺寸6座纯电旗舰SUV",
       "release_date": "2026-09-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 1,
       "price_min_rmb": 369800,
       "price_max_rmb": 369800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 705,
       "file": "data/lixiang/i9-2026.json",
       "source_urls": [
         "https://www.lixiang.com/news/188.html",
@@ -51,14 +75,22 @@
       ]
     },
     {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
       "model": "新一代理想L6",
       "model_slug": "l6-2026",
       "sub_brand": null,
       "category": "中大型5座SUV",
       "release_date": "2026-07-16",
+      "image_url": "https://p.ampmake.com/mall/20260723/cms/news/8f9fef5b-62da-4462-b592-03dc5357bdda.JPEG",
+      "powertrains": [
+        "REEV"
+      ],
       "sku_count": 1,
       "price_min_rmb": 249800,
       "price_max_rmb": 249800,
+      "best_zero_to_100_s": 5.4,
+      "max_cltc_ev_km": 300,
       "file": "data/lixiang/l6-2026.json",
       "source_urls": [
         "https://www.lixiang.com/configuration.html",
@@ -67,14 +99,22 @@
       ]
     },
     {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
       "model": "全新理想L8",
       "model_slug": "l8-2026",
       "sub_brand": null,
       "category": "中大型原生5座旗舰SUV",
       "release_date": "2026-06-23",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
       "sku_count": 2,
       "price_min_rmb": 369800,
       "price_max_rmb": 429800,
+      "best_zero_to_100_s": 4.8,
+      "max_cltc_ev_km": 430,
       "file": "data/lixiang/l8-2026.json",
       "source_urls": [
         "https://www.lixiang.com/configuration.html",
@@ -83,14 +123,22 @@
       ]
     },
     {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
       "model": "全新一代理想L9",
       "model_slug": "l9-2026",
       "sub_brand": null,
       "category": "全尺寸6座旗舰SUV",
       "release_date": "2026-05-15",
+      "image_url": "https://p.ampmake.com/mall/20260515/cms/news/f4158871-9e32-44ec-9bea-118e7d7a0b00.jpg",
+      "powertrains": [
+        "REEV"
+      ],
       "sku_count": 2,
       "price_min_rmb": 459800,
       "price_max_rmb": 509800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 420,
       "file": "data/lixiang/l9-2026.json",
       "source_urls": [
         "https://www.lixiang.com/configuration.html",
@@ -99,14 +147,22 @@
       ]
     },
     {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
       "model": "新一代理想MEGA",
       "model_slug": "mega-2026",
       "sub_brand": null,
       "category": "科技旗舰纯电MPV",
       "release_date": "2026-09-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 1,
       "price_min_rmb": 509800,
       "price_max_rmb": 509800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 710,
       "file": "data/lixiang/mega-2026.json",
       "source_urls": [
         "https://www.lixiang.com/news/186.html",

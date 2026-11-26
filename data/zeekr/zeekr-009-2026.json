@@ -1,0 +1,405 @@
+{
+  "brand": "zeekr",
+  "brand_name": "极氪",
+  "data_as_of": "2026-11-26",
+  "model": "极氪009（2026款 / 光辉版）",
+  "model_slug": "zeekr-009-2026",
+  "category": "中大型豪华纯电MPV",
+  "release_date": "2026-05-19",
+  "source_urls": [
+    "https://m.zeekrlife.com/zeekr009"
+  ],
+  "skus": [
+    {
+      "sku_id": "zeekr-009-2026-7seat-ultra",
+      "sku_name": "2026款 七座Ultra版",
+      "price_rmb": 439800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5217,
+        "width_mm": 2024,
+        "height_mm": 1812,
+        "wheelbase_mm": 3205,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 310,
+        "motor_torque_nm": 440,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 108,
+        "cltc_pure_electric_range_km": 740,
+        "cltc_combined_range_km": 740,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 11.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "标配双腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "16英寸3.5K+17英寸3K吸顶屏（光辉43英寸4K屏）",
+        "hud": "35.95英寸AR-HUD",
+        "audio": "31扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响（2026款）",
+          "price_rmb": 60000,
+          "details": "殿堂级音响"
+        },
+        {
+          "name": "20英寸轮毂 / 二排旋转座椅",
+          "price_rmb": "15000 / 12000",
+          "details": "豪华选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-009-2026-7seat-ultra-plus",
+      "sku_name": "2026款 七座Ultra+齐家版",
+      "price_rmb": 459800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5217,
+        "width_mm": 2024,
+        "height_mm": 1812,
+        "wheelbase_mm": 3205,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": 913,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115,
+        "cltc_pure_electric_range_km": 720,
+        "cltc_combined_range_km": 720,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "标配双腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "16英寸3.5K+17英寸3K吸顶屏（光辉43英寸4K屏）",
+        "hud": "35.95英寸AR-HUD",
+        "audio": "31扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响（2026款）",
+          "price_rmb": 60000,
+          "details": "殿堂级音响"
+        },
+        {
+          "name": "20英寸轮毂 / 二排旋转座椅",
+          "price_rmb": "15000 / 12000",
+          "details": "豪华选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-009-2026-6seat-ultra-plus",
+      "sku_name": "2026款 六座Ultra+行政版",
+      "price_rmb": 469800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5217,
+        "width_mm": 2024,
+        "height_mm": 1812,
+        "wheelbase_mm": 3205,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": 913,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115,
+        "cltc_pure_electric_range_km": 720,
+        "cltc_combined_range_km": 720,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "标配双腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "16英寸3.5K+17英寸3K吸顶屏（光辉43英寸4K屏）",
+        "hud": "35.95英寸AR-HUD",
+        "audio": "31扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响（2026款）",
+          "price_rmb": 60000,
+          "details": "殿堂级音响"
+        },
+        {
+          "name": "20英寸轮毂 / 二排旋转座椅",
+          "price_rmb": "15000 / 12000",
+          "details": "豪华选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-009-2024-guanghui",
+      "sku_name": "光辉四座版",
+      "price_rmb": 789000,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5217,
+        "width_mm": 2024,
+        "height_mm": 1812,
+        "wheelbase_mm": 3205,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 580,
+        "motor_torque_nm": 810,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 108,
+        "cltc_pure_electric_range_km": 702,
+        "cltc_combined_range_km": 702,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 11.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "标配双腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": 508,
+        "lidar": "1颗激光雷达",
+        "system": "ZEEKR AD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "16英寸3.5K+17英寸3K吸顶屏（光辉43英寸4K屏）",
+        "hud": "35.95英寸AR-HUD",
+        "audio": "31扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响（2026款）",
+          "price_rmb": 60000,
+          "details": "殿堂级音响"
+        },
+        {
+          "name": "20英寸轮毂 / 二排旋转座椅",
+          "price_rmb": "15000 / 12000",
+          "details": "豪华选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-009-2025-guanghui-collector",
+      "sku_name": "光辉典藏四座版",
+      "price_rmb": 899000,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5217,
+        "width_mm": 2024,
+        "height_mm": 1812,
+        "wheelbase_mm": 3205,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 580,
+        "motor_torque_nm": 810,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 108,
+        "cltc_pure_electric_range_km": 702,
+        "cltc_combined_range_km": 702,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 11.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "标配双腔空悬",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": 508,
+        "lidar": "1颗激光雷达",
+        "system": "ZEEKR AD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "16英寸3.5K+17英寸3K吸顶屏（光辉43英寸4K屏）",
+        "hud": "35.95英寸AR-HUD",
+        "audio": "31扬声器（可选Naim）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "Naim音响（2026款）",
+          "price_rmb": 60000,
+          "details": "殿堂级音响"
+        },
+        {
+          "name": "20英寸轮毂 / 二排旋转座椅",
+          "price_rmb": "15000 / 12000",
+          "details": "豪华选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

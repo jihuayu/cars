@@ -1,0 +1,485 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "data_as_of": "2026-11-26",
+  "model": "比亚迪宋L（EV 智驾版 / 2026款 DM-i）",
+  "model_slug": "song-l-2026",
+  "category": "中型SUV",
+  "release_date": "2025-10-23",
+  "source_urls": [
+    "https://www.bydauto.com.cn/pc/",
+    "https://car.autohome.com.cn/config/series/7220.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-song-l-ev-550",
+      "sku_name": "EV 智驾版 550km卓越型",
+      "price_rmb": 189800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4840,
+        "width_mm": 1950,
+        "height_mm": 1560,
+        "wheelbase_mm": 2930,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 71.8,
+        "cltc_pure_electric_range_km": 550,
+        "cltc_combined_range_km": 550,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂/麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼C",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-song-l-ev-662-c",
+      "sku_name": "EV 智驾版 662km超越型",
+      "price_rmb": 199800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4840,
+        "width_mm": 1950,
+        "height_mm": 1560,
+        "wheelbase_mm": 2930,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 87.04,
+        "cltc_pure_electric_range_km": 662,
+        "cltc_combined_range_km": 662,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂/麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼C",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-song-l-ev-662-b",
+      "sku_name": "EV 智驾版 662km激光雷达卓越型",
+      "price_rmb": 225800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4840,
+        "width_mm": 1950,
+        "height_mm": 1560,
+        "wheelbase_mm": 2930,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 87.04,
+        "cltc_pure_electric_range_km": 662,
+        "cltc_combined_range_km": 662,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂/麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-song-l-ev-602-awd",
+      "sku_name": "EV 智驾版 602km激光雷达四驱型",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4840,
+        "width_mm": 1950,
+        "height_mm": 1560,
+        "wheelbase_mm": 2930,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 380,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 87.04,
+        "cltc_pure_electric_range_km": 602,
+        "cltc_combined_range_km": 602,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂/麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-song-l-dmi-130",
+      "sku_name": "DM-i 2026款 130KM超越型",
+      "price_rmb": 139800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4840,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 2930,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 18.3,
+        "cltc_pure_electric_range_km": 130,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 23min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂/麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼C",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-song-l-dmi-200-cy",
+      "sku_name": "DM-i 2026款 200KM超越型",
+      "price_rmb": 146800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4840,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 2930,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 26.6,
+        "cltc_pure_electric_range_km": 200,
+        "cltc_combined_range_km": 1630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 17min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂/麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "天神之眼C",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-song-l-dmi-200-zy",
+      "sku_name": "DM-i 2026款 200KM卓越型",
+      "price_rmb": 156800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4840,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 2930,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 26.6,
+        "cltc_pure_electric_range_km": 200,
+        "cltc_combined_range_km": 1630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 17min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂/麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼C/B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

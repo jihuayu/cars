@@ -1,0 +1,55 @@
+{
+  "brand": "wey",
+  "brand_name": "魏牌",
+  "data_as_of": "2026-11-26",
+  "model_count": 2,
+  "sku_count": 8,
+  "models": [
+    {
+      "brand": "wey",
+      "brand_name": "魏牌",
+      "model": "魏牌高山（7/8/9及2027款智慧版）",
+      "model_slug": "gaoshan-2026",
+      "sub_brand": null,
+      "category": "中大型豪华插混MPV",
+      "release_date": "2026-09-23",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 272800,
+      "price_max_rmb": 385800,
+      "best_zero_to_100_s": 5.6,
+      "max_cltc_ev_km": 270,
+      "file": "data/wey/gaoshan-2026.json",
+      "source_urls": [
+        "https://www.wey.com/gaoshan.html",
+        "https://www.wey.com/gaoshan-intelligence.html"
+      ]
+    },
+    {
+      "brand": "wey",
+      "brand_name": "魏牌",
+      "model": "魏牌全新蓝山（2026款智能进阶版）",
+      "model_slug": "lanshan-2026",
+      "sub_brand": null,
+      "category": "中大型6座插混SUV",
+      "release_date": "2025-12-22",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 299800,
+      "price_max_rmb": 326800,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": null,
+      "file": "data/wey/lanshan-2026.json",
+      "source_urls": [
+        "https://www.wey.com/lanshan.html",
+        "https://www.wey.com/lanshanConfiguration.html"
+      ]
+    }
+  ]
+}

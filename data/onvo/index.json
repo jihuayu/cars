@@ -1,0 +1,76 @@
+{
+  "brand": "onvo",
+  "brand_name": "乐道",
+  "data_as_of": "2026-11-26",
+  "model_count": 3,
+  "sku_count": 14,
+  "models": [
+    {
+      "brand": "onvo",
+      "brand_name": "乐道",
+      "model": "乐道L60（2026款）",
+      "model_slug": "l60-2026",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2026-06-11",
+      "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l60/g1.6/soo/highlights/highlights-carousel-02-desktop.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 192800,
+      "price_max_rmb": 251800,
+      "best_zero_to_100_s": 4.6,
+      "max_cltc_ev_km": 740,
+      "file": "data/onvo/l60-2026.json",
+      "source_urls": [
+        "https://configuration.onvo.cn/index?model_code=L60&scene=office"
+      ]
+    },
+    {
+      "brand": "onvo",
+      "brand_name": "乐道",
+      "model": "乐道L80（2026款）",
+      "model_slug": "l80-2026",
+      "sub_brand": null,
+      "category": "中大型5座纯电SUV",
+      "release_date": "2026-05-15",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 242800,
+      "price_max_rmb": 279800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 615,
+      "file": "data/onvo/l80-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/8591.html"
+      ]
+    },
+    {
+      "brand": "onvo",
+      "brand_name": "乐道",
+      "model": "乐道L90（2026款）",
+      "model_slug": "l90-2026",
+      "sub_brand": null,
+      "category": "大型6/7座纯电SUV",
+      "release_date": "2026-04-21",
+      "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 265800,
+      "price_max_rmb": 299800,
+      "best_zero_to_100_s": 4.7,
+      "max_cltc_ev_km": 600,
+      "file": "data/onvo/l90-2026.json",
+      "source_urls": [
+        "https://www.onvo.cn/l90",
+        "https://configuration.onvo.cn/alpsConfigList?carType=L90&scene=office"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "brand": "lynkco",
+  "brand_name": "领克新能源",
+  "data_as_of": "2026-11-26",
+  "model": "领克900（2025/2026款）",
+  "model_slug": "lynkco-900-2026",
+  "category": "全尺寸旗舰插混SUV（5/6座）",
+  "release_date": "2025-04-28",
+  "source_urls": [
+    "https://www.lynkco.com.cn/cars/900/900-configurator"
+  ],
+  "skus": [
+    {
+      "sku_id": "lynkco-900-15t-halo-5",
+      "sku_name": "2026款 1.5T Halo 5座",
+      "price_rmb": 299800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5240,
+        "width_mm": 1999,
+        "height_mm": 1810,
+        "wheelbase_mm": 3160,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 390,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 44.85,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 1355,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 26min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-X",
+        "compute_tops": 254,
+        "lidar": "1颗速腾126线激光雷达",
+        "system": "千里浩瀚H5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "30英寸6K前屏+30英寸6K后排吸顶屏",
+        "hud": "95英寸AR-HUD",
+        "audio": "哈曼卡顿23扬（可选31扬）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
+          "price_rmb": "10000 / 10000 / 7000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-900-15t-ultra-5",
+      "sku_name": "2026款 1.5T Ultra 5座",
+      "price_rmb": 325800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5240,
+        "width_mm": 1999,
+        "height_mm": 1810,
+        "wheelbase_mm": 3160,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 390,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 44.85,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 1355,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 26min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空悬+魔毯",
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor",
+        "compute_tops": 700,
+        "lidar": "1颗速腾126线激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "30英寸6K前屏+30英寸6K后排吸顶屏",
+        "hud": "95英寸AR-HUD",
+        "audio": "哈曼卡顿23扬（可选31扬）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
+          "price_rmb": "10000 / 10000 / 7000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-900-20t-ultra-5",
+      "sku_name": "2026款 2.0T Ultra 5座",
+      "price_rmb": 345800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5240,
+        "width_mm": 1999,
+        "height_mm": 1810,
+        "wheelbase_mm": 3160,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 353,
+        "motor_torque_nm": 688,
+        "zero_to_100_s": 4.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 52.38,
+        "cltc_pure_electric_range_km": 280,
+        "cltc_combined_range_km": 1350,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 17min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空悬+魔毯",
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor",
+        "compute_tops": 700,
+        "lidar": "1颗速腾126线激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "30英寸6K前屏+30英寸6K后排吸顶屏",
+        "hud": "95英寸AR-HUD",
+        "audio": "哈曼卡顿23扬（可选31扬）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
+          "price_rmb": "10000 / 10000 / 7000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-900-15t-halo-6",
+      "sku_name": "2025款 1.5T Halo 6座",
+      "price_rmb": 309900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5240,
+        "width_mm": 1999,
+        "height_mm": 1810,
+        "wheelbase_mm": 3160,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 390,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 44.85,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 1355,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 26min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "选装1万",
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-X",
+        "compute_tops": 254,
+        "lidar": "1颗速腾126线激光雷达",
+        "system": "千里浩瀚H5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "30英寸6K前屏+30英寸6K后排吸顶屏",
+        "hud": "95英寸AR-HUD",
+        "audio": "哈曼卡顿23扬（可选31扬）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
+          "price_rmb": "10000 / 10000 / 7000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-900-15t-ultra-6",
+      "sku_name": "2025款 1.5T Ultra 6座",
+      "price_rmb": 336900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5240,
+        "width_mm": 1999,
+        "height_mm": 1810,
+        "wheelbase_mm": 3160,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 390,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 44.85,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 1355,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 26min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空悬+魔毯",
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-X",
+        "compute_tops": 254,
+        "lidar": "1颗速腾126线激光雷达",
+        "system": "千里浩瀚H5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "30英寸6K前屏+30英寸6K后排吸顶屏",
+        "hud": "95英寸AR-HUD",
+        "audio": "哈曼卡顿23扬（可选31扬）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
+          "price_rmb": "10000 / 10000 / 7000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-900-20t-ultra-6",
+      "sku_name": "2025款 2.0T Ultra 6座",
+      "price_rmb": 366900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5240,
+        "width_mm": 1999,
+        "height_mm": 1810,
+        "wheelbase_mm": 3160,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 353,
+        "motor_torque_nm": 688,
+        "zero_to_100_s": 4.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 52.38,
+        "cltc_pure_electric_range_km": 280,
+        "cltc_combined_range_km": 1350,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 17min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空悬+魔毯",
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor",
+        "compute_tops": 700,
+        "lidar": "1颗速腾126线激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "30英寸6K前屏+30英寸6K后排吸顶屏",
+        "hud": "95英寸AR-HUD",
+        "audio": "哈曼卡顿23扬（可选31扬）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
+          "price_rmb": "10000 / 10000 / 7000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-900-20t-exp-6",
+      "sku_name": "2025款 2.0T 探索版 6座",
+      "price_rmb": 416900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5240,
+        "width_mm": 1999,
+        "height_mm": 1810,
+        "wheelbase_mm": 3160,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机四驱",
+        "motor_power_kw": 463,
+        "motor_torque_nm": 898,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 52.38,
+        "cltc_pure_electric_range_km": 268,
+        "cltc_combined_range_km": 1443,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 17min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空悬+魔毯",
+        "cdc": "CCD",
+        "rear_wheel_steering": "±10°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor",
+        "compute_tops": 700,
+        "lidar": "1颗速腾126线激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8295",
+        "screens": "30英寸6K前屏+30英寸6K后排吸顶屏",
+        "hud": "95英寸AR-HUD",
+        "audio": "哈曼卡顿23扬（可选31扬）",
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
+          "price_rmb": "10000 / 10000 / 7000",
+          "details": "官方选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

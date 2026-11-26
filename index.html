@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>国产新能源车官方参数配置库 · SKU 全景展厅</title>
+  <style>
+    :root {
+      --bg: #0b0e14;
+      --surface: #131823;
+      --surface-2: #1a2130;
+      --border: #252f44;
+      --text: #eef2f8;
+      --muted: #8b99b3;
+      --accent: #3b82f6;
+      --accent-soft: rgba(59, 130, 246, 0.14);
+      --bev: #10b981;
+      --reev: #f59e0b;
+      --phev: #a855f7;
+      --radius: 14px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+      padding-bottom: 96px;
+    }
+    a { color: #60a5fa; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Header */
+    header {
+      background: radial-gradient(circle at 20% 0%, rgba(59, 130, 246, 0.18), transparent 55%), var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 28px 24px 22px;
+    }
+    .container { max-width: 1360px; margin: 0 auto; }
+    .hero-top {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+    h1 { font-size: clamp(22px, 3vw, 32px); font-weight: 700; letter-spacing: -0.02em; }
+    .subtitle { color: var(--muted); font-size: 14px; margin-top: 6px; }
+    .stats-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+    .stat-pill {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 6px 14px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .stat-pill strong { color: var(--text); font-weight: 600; }
+
+    /* Search & Filters */
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr auto auto auto;
+      gap: 10px;
+      margin-top: 14px;
+    }
+    @media (max-width: 860px) {
+      .controls { grid-template-columns: 1fr 1fr; }
+      .search-input { grid-column: 1 / -1; }
+    }
+    input[type="search"], select {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 10px 14px;
+      border-radius: 10px;
+      font-size: 14px;
+      outline: none;
+    }
+    input[type="search"]:focus, select:focus { border-color: var(--accent); }
+
+    .brand-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+    .brand-btn {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .brand-btn:hover { border-color: var(--accent); color: var(--text); }
+    .brand-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+
+    /* Grid */
+    main { padding: 24px; }
+    .result-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.18s ease, border-color 0.18s ease;
+      cursor: pointer;
+    }
+    .card:hover { transform: translateY(-3px); border-color: #3b5278; }
+
+    .card-media {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: linear-gradient(135deg, #162033 0%, #0f1624 100%);
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .card-media img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .fallback-svg {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 16px;
+      color: rgba(255,255,255,0.75);
+    }
+    .card-badges {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: rgba(11, 14, 20, 0.78);
+      backdrop-filter: blur(6px);
+      border: 1px solid rgba(255,255,255,0.12);
+      color: #fff;
+    }
+    .badge-BEV { color: #34d399; border-color: rgba(16,185,129,0.4); }
+    .badge-REEV { color: #fbbf24; border-color: rgba(245,158,11,0.4); }
+    .badge-PHEV { color: #c084fc; border-color: rgba(168,85,247,0.4); }
+
+    .card-body { padding: 15px 16px 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+    .card-brand { font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; }
+    .card-title { font-size: 17px; font-weight: 700; color: var(--text); }
+    .card-price { font-size: 16px; font-weight: 700; color: #60a5fa; }
+    .card-metrics {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 6px;
+      background: var(--surface-2);
+      border-radius: 10px;
+      padding: 8px 10px;
+      font-size: 12px;
+    }
+    .metric-label { color: var(--muted); font-size: 11px; }
+    .metric-val { font-weight: 600; color: var(--text); margin-top: 2px; }
+
+    /* Modal */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(5, 8, 14, 0.78);
+      backdrop-filter: blur(6px);
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+    }
+    .modal-backdrop.open { display: flex; }
+    .modal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      width: min(1120px, 100%);
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .modal-header {
+      padding: 18px 22px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .modal-close {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      width: 34px;
+      height: 34px;
+      border-radius: 8px;
+      font-size: 18px;
+      cursor: pointer;
+    }
+    .modal-body { padding: 20px 22px; overflow: auto; }
+    .sku-table-wrap { overflow-x: auto; margin-top: 12px; }
+    table.spec-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+    table.spec-table th, table.spec-table td {
+      border-bottom: 1px solid var(--border);
+      padding: 9px 12px;
+      text-align: left;
+      vertical-align: top;
+      min-width: 150px;
+    }
+    table.spec-table th:first-child, table.spec-table td:first-child {
+      position: sticky;
+      left: 0;
+      background: var(--surface);
+      min-width: 135px;
+      color: var(--muted);
+      font-weight: 600;
+      z-index: 2;
+    }
+    table.spec-table thead th {
+      background: var(--surface-2);
+      color: var(--text);
+      font-weight: 700;
+    }
+    .diff-row td { background: rgba(59, 130, 246, 0.08); }
+    .btn-sm {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 5px 10px;
+      border-radius: 8px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .btn-sm:hover { border-color: var(--accent); color: #fff; }
+    .btn-sm.added { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+    /* Compare Tray */
+    .compare-tray {
+      position: fixed;
+      bottom: 16px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(19, 24, 35, 0.96);
+      border: 1px solid #3b82f6;
+      border-radius: 14px;
+      padding: 12px 18px;
+      display: none;
+      align-items: center;
+      gap: 14px;
+      z-index: 90;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.5);
+      max-width: calc(100vw - 24px);
+      flex-wrap: wrap;
+    }
+    .compare-tray.show { display: flex; }
+    .tray-chips { display: flex; gap: 8px; flex-wrap: wrap; }
+    .tray-chip {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 4px 10px;
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .tray-chip button {
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .btn-primary {
+      background: var(--accent);
+      border: none;
+      color: #fff;
+      padding: 8px 16px;
+      border-radius: 9px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .empty-state {
+      text-align: center;
+      padding: 64px 20px;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="hero-top">
+        <div>
+          <h1>国产新能源车官方参数配置库</h1>
+          <div class="subtitle">覆盖主流国产新能源品牌在售车型逐 SKU 尺寸、零百、电池、快充、智驾与选装数据 · 支持跨品牌对比</div>
+        </div>
+        <div class="stats-row" id="statsRow">
+          <span class="stat-pill">加载中...</span>
+        </div>
+      </div>
+
+      <div class="controls">
+        <input id="searchInput" class="search-input" type="search" placeholder="搜索品牌、车型、类别（如：理想L9、小米YU7、仰望U8、MPV、猎装）..." />
+        <select id="powertrainFilter">
+          <option value="ALL">全部动力形式</option>
+          <option value="BEV">纯电 (BEV)</option>
+          <option value="REEV">增程 (REEV)</option>
+          <option value="PHEV">插混 (PHEV)</option>
+        </select>
+        <select id="priceFilter">
+          <option value="ALL">全部价格区间</option>
+          <option value="0-15">15万以内</option>
+          <option value="15-25">15万 – 25万</option>
+          <option value="25-40">25万 – 40万</option>
+          <option value="40-999">40万以上</option>
+        </select>
+        <select id="sortSelect">
+          <option value="default">默认排序</option>
+          <option value="price-asc">起售价：低 → 高</option>
+          <option value="price-desc">起售价：高 → 低</option>
+          <option value="acc-asc">零百加速：最快优先</option>
+          <option value="range-desc">纯电续航：最长优先</option>
+          <option value="date-desc">最新上市优先</option>
+        </select>
+      </div>
+
+      <div class="brand-bar" id="brandBar"></div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="result-meta">
+      <span id="resultCount">正在加载车型数据...</span>
+      <span><a href="https://github.com/jihuayu/cars" target="_blank" rel="noopener">GitHub 源码与 JSON 数据 ↗</a></span>
+    </div>
+    <div class="grid" id="carGrid"></div>
+  </main>
+
+  <!-- Model Detail Modal -->
+  <div class="modal-backdrop" id="detailModal">
+    <div class="modal">
+      <div class="modal-header">
+        <div>
+          <h2 id="modalTitle" style="font-size:20px;"></h2>
+          <div id="modalSub" style="font-size:13px;color:var(--muted);margin-top:3px;"></div>
+        </div>
+        <button class="modal-close" id="closeDetail" aria-label="关闭">×</button>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- Compare Modal -->
+  <div class="modal-backdrop" id="compareModal">
+    <div class="modal">
+      <div class="modal-header">
+        <div>
+          <h2 style="font-size:20px;">跨品牌 SKU 横向对比</h2>
+          <label style="font-size:13px;color:var(--muted);margin-top:4px;display:inline-flex;align-items:center;gap:6px;cursor:pointer;">
+            <input type="checkbox" id="diffOnlyToggle" /> 仅高亮差异项
+          </label>
+        </div>
+        <button class="modal-close" id="closeCompare" aria-label="关闭">×</button>
+      </div>
+      <div class="modal-body" id="compareBody"></div>
+    </div>
+  </div>
+
+  <!-- Floating Compare Tray -->
+  <div class="compare-tray" id="compareTray">
+    <strong style="font-size:13px;">对比车库 (<span id="trayCount">0</span>/4)</strong>
+    <div class="tray-chips" id="trayChips"></div>
+    <button class="btn-primary" id="openCompareBtn">开始对比</button>
+    <button class="btn-sm" id="clearCompareBtn">清空</button>
+  </div>
+
+  <script>
+    const state = {
+      catalog: null,
+      brand: 'ALL',
+      powertrain: 'ALL',
+      price: 'ALL',
+      sort: 'default',
+      q: '',
+      modelCache: new Map(),
+      compareList: [], // [{ brand_name, model, sku }]
+    };
+
+    const PT_LABELS = { BEV: '纯电', REEV: '增程', PHEV: '插混' };
+
+    function fmtPrice(rmb) {
+      if (rmb == null) return '未公开';
+      return `¥${(rmb / 10000).toFixed(2)}万`;
+    }
+    function fmtPriceRange(min, max) {
+      if (min == null && max == null) return '价格未公开';
+      if (min === max || max == null) return fmtPrice(min);
+      return `${fmtPrice(min)} – ${fmtPrice(max)}`;
+    }
+    function valOrDash(v, suffix = '') {
+      if (v === null || v === undefined || v === '') return '—';
+      if (typeof v === 'boolean') return v ? '标配' : '无';
+      return `${v}${suffix}`;
+    }
+
+    function bodySilhouette(category = '', brandName = '') {
+      const c = String(category);
+      let path = 'M18 54 L26 36 C30 28 40 24 54 24 L92 24 C106 24 118 30 126 38 L144 42 C150 44 152 49 152 54 Z'; // SUV
+      if (c.includes('MPV')) {
+        path = 'M16 54 L22 28 C25 22 33 20 44 20 L122 20 C134 20 144 28 148 40 L152 54 Z';
+      } else if (c.includes('轿') || c.includes('跑')) {
+        path = 'M14 54 L28 42 L50 28 C60 23 86 23 102 28 L126 40 L152 45 L154 54 Z';
+      } else if (c.includes('两厢') || c.includes('小型')) {
+        path = 'M22 54 L30 34 C35 26 46 23 64 23 L106 23 C118 23 128 32 134 42 L144 46 L144 54 Z';
+      }
+      return `
+        <div class="fallback-svg">
+          <svg viewBox="0 0 168 72" width="150" height="64" fill="none">
+            <path d="${path}" fill="rgba(96,165,250,0.16)" stroke="rgba(147,197,253,0.75)" stroke-width="2" />
+            <circle cx="44" cy="55" r="9" fill="#0b0e14" stroke="rgba(147,197,253,0.85)" stroke-width="2.5" />
+            <circle cx="124" cy="55" r="9" fill="#0b0e14" stroke="rgba(147,197,253,0.85)" stroke-width="2.5" />
+          </svg>
+          <span style="font-size:12px;color:#94a3b8;">${brandName} · ${category || '新能源'}</span>
+        </div>`;
+    }
+
+    async function loadModelDetail(filePath) {
+      if (state.modelCache.has(filePath)) return state.modelCache.get(filePath);
+      const res = await fetch(`./${filePath}`);
+      const data = await res.json();
+      state.modelCache.set(filePath, data);
+      return data;
+    }
+
+    function renderBrandBar() {
+      const bar = document.getElementById('brandBar');
+      const brands = state.catalog.brands;
+      const btns = [
+        `<button class="brand-btn ${state.brand === 'ALL' ? 'active' : ''}" data-brand="ALL">全部 (${state.catalog.total_models})</button>`,
+        ...brands.map(b =>
+          `<button class="brand-btn ${state.brand === b.brand ? 'active' : ''}" data-brand="${b.brand}">${b.brand_name} (${b.model_count})</button>`
+        )
+      ];
+      bar.innerHTML = btns.join('');
+      bar.querySelectorAll('.brand-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          state.brand = btn.dataset.brand;
+          renderBrandBar();
+          renderGrid();
+        });
+      });
+    }
+
+    function filteredModels() {
+      let list = [...state.catalog.models];
+      if (state.brand !== 'ALL') list = list.filter(m => m.brand === state.brand);
+      if (state.powertrain !== 'ALL') list = list.filter(m => (m.powertrains || []).includes(state.powertrain));
+      if (state.price !== 'ALL') {
+        const [lo, hi] = state.price.split('-').map(Number);
+        list = list.filter(m => {
+          if (m.price_min_rmb == null) return false;
+          const p = m.price_min_rmb / 10000;
+          return p >= lo && p <= hi;
+        });
+      }
+      if (state.q) {
+        const q = state.q.toLowerCase();
+        list = list.filter(m =>
+          `${m.brand_name} ${m.brand} ${m.sub_brand || ''} ${m.model} ${m.category || ''}`.toLowerCase().includes(q)
+        );
+      }
+      if (state.sort === 'price-asc') list.sort((a, b) => (a.price_min_rmb ?? 9e9) - (b.price_min_rmb ?? 9e9));
+      if (state.sort === 'price-desc') list.sort((a, b) => (b.price_max_rmb ?? 0) - (a.price_max_rmb ?? 0));
+      if (state.sort === 'acc-asc') list.sort((a, b) => (a.best_zero_to_100_s ?? 99) - (b.best_zero_to_100_s ?? 99));
+      if (state.sort === 'range-desc') list.sort((a, b) => (b.max_cltc_ev_km ?? 0) - (a.max_cltc_ev_km ?? 0));
+      if (state.sort === 'date-desc') list.sort((a, b) => String(b.release_date || '').localeCompare(String(a.release_date || '')));
+      return list;
+    }
+
+    function renderGrid() {
+      const grid = document.getElementById('carGrid');
+      const list = filteredModels();
+      const totalSkus = list.reduce((acc, m) => acc + (m.sku_count || 0), 0);
+      document.getElementById('resultCount').textContent = `当前显示 ${list.length} 款车型（共 ${totalSkus} 个 SKU）`;
+
+      if (!list.length) {
+        grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;">没有匹配当前筛选条件的车型，请尝试放宽关键词或筛选条件。</div>`;
+        return;
+      }
+
+      grid.innerHTML = list.map(m => {
+        const ptBadges = (m.powertrains || []).map(pt => `<span class="badge badge-${pt}">${PT_LABELS[pt] || pt}</span>`).join('');
+        const mediaHtml = m.image_url
+          ? `<img src="${m.image_url}" alt="${m.model}" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML=decodeURIComponent('${encodeURIComponent(bodySilhouette(m.category, m.brand_name))}')" />`
+          : bodySilhouette(m.category, m.brand_name);
+
+        return `
+          <article class="card" data-file="${m.file}">
+            <div class="card-media">
+              ${mediaHtml}
+              <div class="card-badges">${ptBadges}</div>
+            </div>
+            <div class="card-body">
+              <div class="card-brand">
+                <span>${m.brand_name}${m.sub_brand ? ' · ' + m.sub_brand : ''}</span>
+                <span>${m.release_date || ''}</span>
+              </div>
+              <div class="card-title">${m.model}</div>
+              <div class="card-price">${fmtPriceRange(m.price_min_rmb, m.price_max_rmb)}</div>
+              <div class="card-metrics">
+                <div><div class="metric-label">最快零百</div><div class="metric-val">${m.best_zero_to_100_s ? m.best_zero_to_100_s + 's' : '—'}</div></div>
+                <div><div class="metric-label">最高纯电CLTC</div><div class="metric-val">${m.max_cltc_ev_km ? m.max_cltc_ev_km + 'km' : '—'}</div></div>
+                <div><div class="metric-label">在售SKU</div><div class="metric-val">${m.sku_count} 款</div></div>
+              </div>
+            </div>
+          </article>
+        `;
+      }).join('');
+
+      grid.querySelectorAll('.card').forEach(card => {
+        card.addEventListener('click', () => openDetailModal(card.dataset.file));
+      });
+    }
+
+    function specRowsForSkus(skus, brandName, modelName) {
+      const rows = [
+        ['官方指导价', s => fmtPrice(s.price_rmb)],
+        ['BaaS 租电起售价', s => s.baas_price_rmb ? fmtPrice(s.baas_price_rmb) : '—'],
+        ['动力形式', s => PT_LABELS[s.powertrain_type] || valOrDash(s.powertrain_type)],
+        ['长×宽×高 (mm)', s => {
+          const d = s.dimensions || {};
+          return (d.length_mm || d.width_mm || d.height_mm)
+            ? `${d.length_mm ?? '—'} × ${d.width_mm ?? '—'} × ${d.height_mm ?? '—'}` : '—';
+        }],
+        ['轴距 / 座位数', s => `${valOrDash(s.dimensions?.wheelbase_mm, 'mm')} / ${valOrDash(s.dimensions?.seats, '座')}`],
+        ['驱动形式', s => valOrDash(s.performance?.drive_type)],
+        ['电机功率 / 扭矩', s => `${valOrDash(s.performance?.motor_power_kw, 'kW')} / ${valOrDash(s.performance?.motor_torque_nm, 'N·m')}`],
+        ['0–100 km/h', s => valOrDash(s.performance?.zero_to_100_s, 's')],
+        ['电压平台', s => valOrDash(s.battery_and_charging?.voltage_platform_v, typeof s.battery_and_charging?.voltage_platform_v === 'number' ? 'V' : '')],
+        ['电池容量', s => valOrDash(s.battery_and_charging?.battery_capacity_kwh, 'kWh')],
+        ['CLTC 纯电 / 综合', s => `${valOrDash(s.battery_and_charging?.cltc_pure_electric_range_km, 'km')} / ${valOrDash(s.battery_and_charging?.cltc_combined_range_km, 'km')}`],
+        ['快充 / 换电', s => `${valOrDash(s.battery_and_charging?.fast_charge_time)}${s.battery_and_charging?.battery_swap_supported ? '（支持换电）' : ''}`],
+        ['底盘悬架', s => [s.chassis?.front_suspension, s.chassis?.rear_suspension].filter(Boolean).join(' / ') || '—'],
+        ['空气悬架 / CDC', s => `${valOrDash(s.chassis?.air_suspension)} / ${valOrDash(s.chassis?.cdc)}`],
+        ['后轮转向 / 线控转向', s => `${valOrDash(s.chassis?.rear_wheel_steering)} / ${valOrDash(s.chassis?.steer_by_wire)}`],
+        ['智驾芯片 / 算力', s => `${valOrDash(s.adas?.chip)}${s.adas?.compute_tops ? ` (${s.adas.compute_tops} TOPS)` : ''}`],
+        ['激光雷达 / 智驾方案', s => `${valOrDash(s.adas?.lidar)} · ${valOrDash(s.adas?.system)}`],
+        ['座舱芯片 / 屏幕', s => `${valOrDash(s.cockpit?.chip)} · ${valOrDash(s.cockpit?.screens)}`],
+        ['选装及价格', s => (s.options && s.options.length)
+          ? s.options.map(o => `${o.name}${o.price_rmb != null ? ` (${typeof o.price_rmb === 'number' ? '¥' + o.price_rmb.toLocaleString() : o.price_rmb})` : ''}`).join('；')
+          : '以官方配置器为准'
+        ],
+      ];
+      return rows;
+    }
+
+    async function openDetailModal(filePath) {
+      const modal = document.getElementById('detailModal');
+      const body = document.getElementById('modalBody');
+      body.innerHTML = '<div class="empty-state">加载官方 SKU 参数中...</div>';
+      modal.classList.add('open');
+
+      const data = await loadModelDetail(filePath);
+      document.getElementById('modalTitle').textContent = `${data.brand_name} · ${data.model}`;
+      const links = (data.source_urls || []).map((u, i) => `<a href="${u}" target="_blank" rel="noopener">官方配置源${i + 1} ↗</a>`).join(' · ');
+      document.getElementById('modalSub').innerHTML = `${data.category || ''} · 上市时间：${data.release_date || '—'} · 共 ${data.skus.length} 个 SKU ${links ? '· ' + links : ''}`;
+
+      const rows = specRowsForSkus(data.skus, data.brand_name, data.model);
+      const thead = `
+        <thead>
+          <tr>
+            <th>配置项</th>
+            ${data.skus.map((s, idx) => {
+              const inCmp = state.compareList.some(x => x.sku.sku_id === s.sku_id);
+              return `<th>
+                <div>${s.sku_name}</div>
+                <div style="margin-top:6px;">
+                  <button class="btn-sm ${inCmp ? 'added' : ''}" data-sku-idx="${idx}">${inCmp ? '已加入对比' : '+ 加入对比'}</button>
+                </div>
+              </th>`;
+            }).join('')}
+          </tr>
+        </thead>`;
+
+      const tbody = `
+        <tbody>
+          ${rows.map(([label, fn]) => `
+            <tr>
+              <td>${label}</td>
+              ${data.skus.map(s => `<td>${fn(s)}</td>`).join('')}
+            </tr>
+          `).join('')}
+        </tbody>`;
+
+      body.innerHTML = `<div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>`;
+      body.querySelectorAll('button[data-sku-idx]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const sku = data.skus[Number(btn.dataset.skuIdx)];
+          toggleCompare(data.brand_name, data.model, sku);
+          const inCmp = state.compareList.some(x => x.sku.sku_id === sku.sku_id);
+          btn.classList.toggle('added', inCmp);
+          btn.textContent = inCmp ? '已加入对比' : '+ 加入对比';
+        });
+      });
+    }
+
+    function toggleCompare(brand_name, model, sku) {
+      const idx = state.compareList.findIndex(x => x.sku.sku_id === sku.sku_id);
+      if (idx >= 0) {
+        state.compareList.splice(idx, 1);
+      } else {
+        if (state.compareList.length >= 4) {
+          alert('最多同时对比 4 个 SKU，请先移除一个。');
+          return;
+        }
+        state.compareList.push({ brand_name, model, sku });
+      }
+      renderCompareTray();
+    }
+
+    function renderCompareTray() {
+      const tray = document.getElementById('compareTray');
+      document.getElementById('trayCount').textContent = state.compareList.length;
+      tray.classList.toggle('show', state.compareList.length > 0);
+      document.getElementById('trayChips').innerHTML = state.compareList.map((item, idx) => `
+        <span class="tray-chip">
+          ${item.model} · ${item.sku.sku_name}
+          <button data-rm="${idx}" aria-label="移除">×</button>
+        </span>
+      `).join('');
+      tray.querySelectorAll('button[data-rm]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          state.compareList.splice(Number(btn.dataset.rm), 1);
+          renderCompareTray();
+        });
+      });
+    }
+
+    function renderCompareModal() {
+      const diffOnly = document.getElementById('diffOnlyToggle').checked;
+      const items = state.compareList;
+      if (!items.length) return;
+      const skus = items.map(i => i.sku);
+      const rows = specRowsForSkus(skus);
+      const thead = `
+        <thead>
+          <tr>
+            <th>对比参数</th>
+            ${items.map(i => `<th><div style="font-size:11px;color:var(--muted);">${i.brand_name} · ${i.model}</div><div>${i.sku.sku_name}</div></th>`).join('')}
+          </tr>
+        </thead>`;
+      const tbody = `
+        <tbody>
+          ${rows.map(([label, fn]) => {
+            const vals = skus.map(s => fn(s));
+            const isDiff = new Set(vals).size > 1;
+            if (diffOnly && !isDiff) return '';
+            return `<tr class="${isDiff ? 'diff-row' : ''}"><td>${label}</td>${vals.map(v => `<td>${v}</td>`).join('')}</tr>`;
+          }).join('')}
+        </tbody>`;
+      document.getElementById('compareBody').innerHTML = `<div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>`;
+    }
+
+    async function init() {
+      const res = await fetch('./catalog.json');
+      state.catalog = await res.json();
+      document.getElementById('statsRow').innerHTML = `
+        <span class="stat-pill"><strong>${state.catalog.total_brands}</strong> 品牌</span>
+        <span class="stat-pill"><strong>${state.catalog.total_models}</strong> 车型</span>
+        <span class="stat-pill"><strong>${state.catalog.total_skus}</strong> SKU</span>
+        <span class="stat-pill">更新于 <strong>${state.catalog.data_as_of}</strong></span>
+      `;
+      renderBrandBar();
+      renderGrid();
+    }
+
+    document.getElementById('searchInput').addEventListener('input', e => { state.q = e.target.value.trim(); renderGrid(); });
+    document.getElementById('powertrainFilter').addEventListener('change', e => { state.powertrain = e.target.value; renderGrid(); });
+    document.getElementById('priceFilter').addEventListener('change', e => { state.price = e.target.value; renderGrid(); });
+    document.getElementById('sortSelect').addEventListener('change', e => { state.sort = e.target.value; renderGrid(); });
+
+    document.getElementById('closeDetail').addEventListener('click', () => document.getElementById('detailModal').classList.remove('open'));
+    document.getElementById('detailModal').addEventListener('click', e => { if (e.target.id === 'detailModal') e.target.classList.remove('open'); });
+
+    document.getElementById('openCompareBtn').addEventListener('click', () => {
+      renderCompareModal();
+      document.getElementById('compareModal').classList.add('open');
+    });
+    document.getElementById('diffOnlyToggle').addEventListener('change', renderCompareModal);
+    document.getElementById('closeCompare').addEventListener('click', () => document.getElementById('compareModal').classList.remove('open'));
+    document.getElementById('compareModal').addEventListener('click', e => { if (e.target.id === 'compareModal') e.target.classList.remove('open'); });
+    document.getElementById('clearCompareBtn').addEventListener('click', () => { state.compareList = []; renderCompareTray(); });
+
+    init();
+  </script>
+</body>
+</html>

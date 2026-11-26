@@ -1,0 +1,348 @@
+{
+  "brand": "xiaomi",
+  "brand_name": "小米汽车",
+  "data_as_of": "2026-11-26",
+  "model": "小米澎程N70 / N90（2026款增程）",
+  "model_slug": "skynomad-n70-n90-2026",
+  "category": "中大型/全尺寸增程SUV",
+  "release_date": "2026-09-07",
+  "source_urls": [
+    "https://www.xiaomiev.com/skynomad/car-config",
+    "https://www.xiaomiev.com/skynomad/n70"
+  ],
+  "skus": [
+    {
+      "sku_id": "xiaomi-skynomad-n70-pro",
+      "sku_name": "澎程N70 2026款 Pro版",
+      "price_rmb": 209900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4960,
+        "width_mm": 1998,
+        "height_mm": 1785,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 210,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 52,
+        "cltc_pure_electric_range_km": 351,
+        "cltc_combined_range_km": 1351,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive AGX Thor",
+        "compute_tops": 700,
+        "lidar": "1颗禾赛AT128",
+        "system": "Xiaomi HAD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "第三代骁龙8",
+        "screens": "16.1英寸3K+8.88英寸仪表",
+        "hud": "20英寸HUD",
+        "audio": "14扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "前排/二排零重力或旋转座椅（各）",
+          "price_rmb": 18000,
+          "details": "豪华座椅选装"
+        },
+        {
+          "name": "N90 7座豪华套装 / N70 Pro科技舒享套装",
+          "price_rmb": "31000 / 16000",
+          "details": "电动门/后排屏/冰箱等"
+        },
+        {
+          "name": "21.4英寸3K后排屏 / 车载冰箱 / 电动踏板",
+          "price_rmb": "8000 / 3000 / 6000",
+          "details": "家庭出行选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaomi-skynomad-n70-max",
+      "sku_name": "澎程N70 2026款 Max版",
+      "price_rmb": 239900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4960,
+        "width_mm": 1998,
+        "height_mm": 1765,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 310,
+        "motor_torque_nm": 540,
+        "zero_to_100_s": 5.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 76,
+        "cltc_pure_electric_range_km": 505,
+        "cltc_combined_range_km": 1461,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive AGX Thor",
+        "compute_tops": 700,
+        "lidar": "1颗禾赛AT128",
+        "system": "Xiaomi HAD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "第三代骁龙8",
+        "screens": "16.1英寸3K+8.88英寸仪表",
+        "hud": "20英寸HUD",
+        "audio": "25扬声器7.1.4",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "前排/二排零重力或旋转座椅（各）",
+          "price_rmb": 18000,
+          "details": "豪华座椅选装"
+        },
+        {
+          "name": "N90 7座豪华套装 / N70 Pro科技舒享套装",
+          "price_rmb": "31000 / 16000",
+          "details": "电动门/后排屏/冰箱等"
+        },
+        {
+          "name": "21.4英寸3K后排屏 / 车载冰箱 / 电动踏板",
+          "price_rmb": "8000 / 3000 / 6000",
+          "details": "家庭出行选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaomi-skynomad-n90-max-7",
+      "sku_name": "澎程N90 2026款 Max 7座",
+      "price_rmb": 269900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5285,
+        "width_mm": 1998,
+        "height_mm": 1825,
+        "wheelbase_mm": 3080,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 310,
+        "motor_torque_nm": 540,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 76,
+        "cltc_pure_electric_range_km": 464,
+        "cltc_combined_range_km": 1705,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive AGX Thor",
+        "compute_tops": 700,
+        "lidar": "2颗禾赛AT128",
+        "system": "Xiaomi HAD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "第三代骁龙8",
+        "screens": "16.1英寸3K+8.88英寸仪表",
+        "hud": "20英寸HUD",
+        "audio": "25扬声器7.1.4",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "前排/二排零重力或旋转座椅（各）",
+          "price_rmb": 18000,
+          "details": "豪华座椅选装"
+        },
+        {
+          "name": "N90 7座豪华套装 / N70 Pro科技舒享套装",
+          "price_rmb": "31000 / 16000",
+          "details": "电动门/后排屏/冰箱等"
+        },
+        {
+          "name": "21.4英寸3K后排屏 / 车载冰箱 / 电动踏板",
+          "price_rmb": "8000 / 3000 / 6000",
+          "details": "家庭出行选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaomi-skynomad-n90-max-exp",
+      "sku_name": "澎程N90 2026款 Max探索版",
+      "price_rmb": 299900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5285,
+        "width_mm": 1998,
+        "height_mm": 1925,
+        "wheelbase_mm": 3080,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 310,
+        "motor_torque_nm": 540,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 76,
+        "cltc_pure_electric_range_km": 462,
+        "cltc_combined_range_km": 1688,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive AGX Thor",
+        "compute_tops": 700,
+        "lidar": "2颗禾赛AT128",
+        "system": "Xiaomi HAD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "第三代骁龙8",
+        "screens": "16.1英寸3K+8.88英寸仪表",
+        "hud": "20英寸HUD",
+        "audio": "25扬声器7.1.4",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "前排/二排零重力或旋转座椅（各）",
+          "price_rmb": 18000,
+          "details": "豪华座椅选装"
+        },
+        {
+          "name": "N90 7座豪华套装 / N70 Pro科技舒享套装",
+          "price_rmb": "31000 / 16000",
+          "details": "电动门/后排屏/冰箱等"
+        },
+        {
+          "name": "21.4英寸3K后排屏 / 车载冰箱 / 电动踏板",
+          "price_rmb": "8000 / 3000 / 6000",
+          "details": "家庭出行选装"
+        }
+      ]
+    }
+  ],
+  "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/n70_20260907/pc/n90.png"
+}

@@ -1,0 +1,216 @@
+{
+  "brand": "denza",
+  "brand_name": "腾势",
+  "data_as_of": "2026-11-26",
+  "model": "腾势N9（2026款闪充版）",
+  "model_slug": "denza-n9-2026",
+  "category": "全尺寸旗舰6座插混SUV",
+  "release_date": "2026-05-18",
+  "source_urls": [
+    "https://www.denza.com/cn2_0/brand.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "denza-n9-2026-zunrong",
+      "sku_name": "2026款 闪充尊荣型",
+      "price_rmb": 409800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5258,
+        "width_mm": 2030,
+        "height_mm": 1830,
+        "wheelbase_mm": 3125,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "易三方三电机四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.3,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": 1520,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "云辇-A闭式双腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": "±10°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link旗舰多屏",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "denza-n9-2026-zunyue",
+      "sku_name": "2026款 闪充尊越型",
+      "price_rmb": 439800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5258,
+        "width_mm": 2030,
+        "height_mm": 1830,
+        "wheelbase_mm": 3125,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "易三方三电机四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.3,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": 1520,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "云辇-A闭式双腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": "±10°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link旗舰多屏",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "denza-n9-2026-flagship",
+      "sku_name": "2026款 闪充旗舰型",
+      "price_rmb": 469800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5258,
+        "width_mm": 2030,
+        "height_mm": 1830,
+        "wheelbase_mm": 3125,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "易三方三电机四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "闪充刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.3,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": 1520,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "云辇-A闭式双腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": "±10°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "天神之眼B（5.0）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "腾势Link旗舰多屏",
+        "hud": null,
+        "audio": null,
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

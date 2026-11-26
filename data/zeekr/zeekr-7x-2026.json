@@ -1,0 +1,249 @@
+{
+  "brand": "zeekr",
+  "brand_name": "极氪",
+  "data_as_of": "2026-11-26",
+  "model": "极氪7X（2026款）",
+  "model_slug": "zeekr-7x-2026",
+  "category": "中型纯电SUV",
+  "release_date": "2025-10-28",
+  "source_urls": [
+    "https://m.zeekrlife.com/config"
+  ],
+  "skus": [
+    {
+      "sku_id": "zeekr-7x-2026-75-rwd-max",
+      "sku_name": "2026款 75kWh 后驱Max版",
+      "price_rmb": 229800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4825,
+        "width_mm": 1930,
+        "height_mm": 1666,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 535,
+        "zero_to_100_s": 5.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "金砖磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75,
+        "cltc_pure_electric_range_km": 620,
+        "cltc_combined_range_km": 620,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "选装2万",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗禾赛激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16英寸3.5K Mini-LED+13.02英寸仪表",
+        "hud": "36.21英寸AR-HUD",
+        "audio": "21扬声器",
+        "fridge": "选装2999元",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "魔毯单腔空悬套装（Max）",
+          "price_rmb": 20000,
+          "details": "空悬+CCD"
+        },
+        {
+          "name": "自动开合门 / Stargate灯幕 / 后排科技套装",
+          "price_rmb": "16000 / 8000 / 5000",
+          "details": "含13英寸2K OLED后排屏"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-7x-2026-103-rwd-max",
+      "sku_name": "2026款 103kWh 后驱Max版",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4825,
+        "width_mm": 1930,
+        "height_mm": 1666,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 535,
+        "zero_to_100_s": 5.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 802,
+        "cltc_combined_range_km": 802,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "选装2万",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗禾赛激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16英寸3.5K Mini-LED+13.02英寸仪表",
+        "hud": "36.21英寸AR-HUD",
+        "audio": "21扬声器",
+        "fridge": "选装2999元",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "魔毯单腔空悬套装（Max）",
+          "price_rmb": 20000,
+          "details": "空悬+CCD"
+        },
+        {
+          "name": "自动开合门 / Stargate灯幕 / 后排科技套装",
+          "price_rmb": "16000 / 8000 / 5000",
+          "details": "含13英寸2K OLED后排屏"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-7x-2026-103-awd-ultra",
+      "sku_name": "2026款 103kWh 四驱Ultra版",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4825,
+        "width_mm": 1930,
+        "height_mm": 1656,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 585,
+        "motor_torque_nm": 812,
+        "zero_to_100_s": 2.98,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 715,
+        "cltc_combined_range_km": 715,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "标配单腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗禾赛激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16英寸3.5K Mini-LED+13.02英寸仪表",
+        "hud": "36.21英寸AR-HUD",
+        "audio": "21扬声器",
+        "fridge": "选装2999元",
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "魔毯单腔空悬套装（Max）",
+          "price_rmb": 20000,
+          "details": "空悬+CCD"
+        },
+        {
+          "name": "自动开合门 / Stargate灯幕 / 后排科技套装",
+          "price_rmb": "16000 / 8000 / 5000",
+          "details": "含13英寸2K OLED后排屏"
+        }
+      ]
+    }
+  ],
+  "image_url": "https://zcms.zeekrlife.com/published/assets/e43663416a6ef4d925d682a72c7414fbc36f7f3acc414df83565d9ea49287850/1574.jpg"
+}

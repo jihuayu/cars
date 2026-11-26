@@ -1,0 +1,155 @@
+{
+  "brand": "yangwang",
+  "brand_name": "仰望",
+  "data_as_of": "2026-11-26",
+  "model": "仰望U9 / U9 Xtreme",
+  "model_slug": "yangwang-u9",
+  "category": "百万级纯电超跑",
+  "release_date": "2024-02-25",
+  "source_urls": [
+    "https://www.yangwangauto.com/car-u9-detail"
+  ],
+  "skus": [
+    {
+      "sku_id": "yangwang-u9-std",
+      "sku_name": "仰望U9 标准版",
+      "price_rmb": 1680000,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4966,
+        "width_mm": 2029,
+        "height_mm": 1311,
+        "wheelbase_mm": 2900,
+        "seats": 2,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "易四方四电机四驱",
+        "motor_power_kw": 960,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 2.36,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 80.0,
+        "cltc_pure_electric_range_km": 450,
+        "cltc_combined_range_km": 450,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 10min（500kW双枪）",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "云辇-X全主动车身控制",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "超跑智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "极境森林纪念色版",
+          "price_rmb": 200000,
+          "details": "整车188万元"
+        }
+      ]
+    },
+    {
+      "sku_id": "yangwang-u9-xtreme",
+      "sku_name": "仰望U9 Xtreme（全球限量30台）",
+      "price_rmb": null,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4966,
+        "width_mm": 2029,
+        "height_mm": 1311,
+        "wheelbase_mm": 2900,
+        "seats": 2,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "易四方四电机四驱",
+        "motor_power_kw": 2220,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1200,
+        "battery_type": "赛道级刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "云辇-X赛道版",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": null,
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

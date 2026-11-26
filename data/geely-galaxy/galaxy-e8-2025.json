@@ -1,0 +1,235 @@
+{
+  "brand": "geely-galaxy",
+  "brand_name": "吉利银河",
+  "data_as_of": "2026-11-26",
+  "model": "吉利银河E8",
+  "model_slug": "galaxy-e8-2025",
+  "category": "中大型纯电轿车",
+  "release_date": "2025-03-03",
+  "source_urls": [
+    "https://galaxy.geely.com/E8",
+    "https://car.autohome.com.cn/config/series/7170.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "galaxy-e8-610-zx",
+      "sku_name": "610km 尊享版",
+      "price_rmb": 161800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5010,
+        "width_mm": 1920,
+        "height_mm": 1465,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.49,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 67.8,
+        "cltc_pure_electric_range_km": 610,
+        "cltc_combined_range_km": 610,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "45英寸8K无界智慧屏",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "VIP电动行政座椅 / 卫星通信",
+          "price_rmb": "8800 / 5000",
+          "details": "高配可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-e8-700-yh",
+      "sku_name": "700km 远航智驾版",
+      "price_rmb": 178800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5010,
+        "width_mm": 1920,
+        "height_mm": 1465,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.59,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 76.0,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "高速NOA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "45英寸8K无界智慧屏",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "VIP电动行政座椅 / 卫星通信",
+          "price_rmb": "8800 / 5000",
+          "details": "高配可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-e8-620-awd",
+      "sku_name": "620km 四驱星舰激光雷达智驾版",
+      "price_rmb": 198800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5010,
+        "width_mm": 1920,
+        "height_mm": 1465,
+        "wheelbase_mm": 2925,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 475,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.49,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.0,
+        "cltc_pure_electric_range_km": 620,
+        "cltc_combined_range_km": 620,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 8min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "激光雷达智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "45英寸8K无界智慧屏",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "VIP电动行政座椅 / 卫星通信",
+          "price_rmb": "8800 / 5000",
+          "details": "高配可选"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

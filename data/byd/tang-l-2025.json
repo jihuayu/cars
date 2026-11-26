@@ -1,0 +1,418 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "data_as_of": "2026-11-26",
+  "model": "比亚迪唐L（EV / DM）",
+  "model_slug": "tang-l-2025",
+  "category": "中大型7座旗舰SUV",
+  "release_date": "2025-04-09",
+  "source_urls": [
+    "https://www.bydauto.com.cn/pc/",
+    "https://car.autohome.com.cn/config/series/8005.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-tang-l-dm-215",
+      "sku_name": "DM 215KM 激光雷达旗舰型",
+      "price_rmb": 229800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5040,
+        "width_mm": 1996,
+        "height_mm": 1760,
+        "wheelbase_mm": 2950,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 35.6,
+        "cltc_pure_electric_range_km": 215,
+        "cltc_combined_range_km": 1430,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "71kW快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-tang-l-dm-200-awd",
+      "sku_name": "DM 200KM 四驱激光雷达旗舰型",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5040,
+        "width_mm": 1996,
+        "height_mm": 1760,
+        "wheelbase_mm": 2950,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 400,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 35.6,
+        "cltc_pure_electric_range_km": 200,
+        "cltc_combined_range_km": 1270,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "71kW快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-tang-l-dm-175-drone",
+      "sku_name": "DM 175KM 无人机玩家版",
+      "price_rmb": 285800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5040,
+        "width_mm": 1996,
+        "height_mm": 1970,
+        "wheelbase_mm": 2950,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 400,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 35.6,
+        "cltc_pure_electric_range_km": 175,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "71kW快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-tang-l-ev-670-zunxiang",
+      "sku_name": "EV 670KM 激光雷达尊享型",
+      "price_rmb": 239800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5040,
+        "width_mm": 1996,
+        "height_mm": 1760,
+        "wheelbase_mm": 2950,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 500,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 100.5,
+        "cltc_pure_electric_range_km": 670,
+        "cltc_combined_range_km": 670,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "5min补能400km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-tang-l-ev-670-flagship",
+      "sku_name": "EV 670KM 激光雷达旗舰型",
+      "price_rmb": 259800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5040,
+        "width_mm": 1996,
+        "height_mm": 1760,
+        "wheelbase_mm": 2950,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 500,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 100.5,
+        "cltc_pure_electric_range_km": 670,
+        "cltc_combined_range_km": 670,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "5min补能400km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-tang-l-ev-600-awd",
+      "sku_name": "EV 600KM 四驱激光雷达旗舰型",
+      "price_rmb": 289800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5040,
+        "width_mm": 1996,
+        "height_mm": 1760,
+        "wheelbase_mm": 2950,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 810,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "刀片电池",
+        "battery_supplier": "比亚迪弗迪",
+        "battery_capacity_kwh": 100.5,
+        "cltc_pure_electric_range_km": 600,
+        "cltc_combined_range_km": 600,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "5min补能400km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "云辇-C",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "天神之眼B",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "DiLink旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

@@ -1,0 +1,264 @@
+{
+  "brand": "fangchengbao",
+  "brand_name": "方程豹",
+  "data_as_of": "2026-11-26",
+  "model": "方程豹豹8（2026款闪充版）",
+  "model_slug": "bao8-2026",
+  "category": "中大型智能硬派旗舰SUV",
+  "release_date": "2026-05-13",
+  "source_urls": [
+    "https://www.fangchengbao.com/product/bao8.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "fcb-bao8-2026-5seat",
+      "sku_name": "2026款 闪充五座版",
+      "price_rmb": 419800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5195,
+        "width_mm": 1994,
+        "height_mm": 1905,
+        "wheelbase_mm": 2920,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "2.0T+DMO双电机四驱",
+        "motor_power_kw": 500,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "二代刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 49.05,
+        "cltc_pure_electric_range_km": 200,
+        "cltc_combined_range_km": 1380,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": "云辇-P Ultra",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "华为乾崑ADS V4.1.5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "拖车装置",
+          "price_rmb": 4000,
+          "details": "合法拖挂"
+        },
+        {
+          "name": "21英寸多幅轮毂",
+          "price_rmb": 10000,
+          "details": "含半包备胎罩+前定钳"
+        },
+        {
+          "name": "灵鸢车载无人机系统（五座可选）",
+          "price_rmb": 16968,
+          "details": "车载无人机"
+        }
+      ]
+    },
+    {
+      "sku_id": "fcb-bao8-2026-7seat",
+      "sku_name": "2026款 闪充七座版",
+      "price_rmb": 419800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5195,
+        "width_mm": 1994,
+        "height_mm": 1905,
+        "wheelbase_mm": 2920,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "2.0T+DMO双电机四驱",
+        "motor_power_kw": 500,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "二代刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 49.05,
+        "cltc_pure_electric_range_km": 200,
+        "cltc_combined_range_km": 1380,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": "云辇-P Ultra",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "华为乾崑ADS V4.1.5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "拖车装置",
+          "price_rmb": 4000,
+          "details": "合法拖挂"
+        },
+        {
+          "name": "21英寸多幅轮毂",
+          "price_rmb": 10000,
+          "details": "含半包备胎罩+前定钳"
+        },
+        {
+          "name": "灵鸢车载无人机系统（五座可选）",
+          "price_rmb": 16968,
+          "details": "车载无人机"
+        }
+      ]
+    },
+    {
+      "sku_id": "fcb-bao8-2026-6seat",
+      "sku_name": "2026款 闪充六座版",
+      "price_rmb": 427800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5195,
+        "width_mm": 1994,
+        "height_mm": 1905,
+        "wheelbase_mm": 2920,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "2.0T+DMO双电机四驱",
+        "motor_power_kw": 500,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "二代刀片电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 49.05,
+        "cltc_pure_electric_range_km": 200,
+        "cltc_combined_range_km": 1380,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后双叉臂",
+        "air_suspension": "云辇-P Ultra",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "华为乾崑ADS V4.1.5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "FiLink智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "拖车装置",
+          "price_rmb": 4000,
+          "details": "合法拖挂"
+        },
+        {
+          "name": "21英寸多幅轮毂",
+          "price_rmb": 10000,
+          "details": "含半包备胎罩+前定钳"
+        },
+        {
+          "name": "灵鸢车载无人机系统（五座可选）",
+          "price_rmb": 16968,
+          "details": "车载无人机"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

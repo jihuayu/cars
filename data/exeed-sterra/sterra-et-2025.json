@@ -1,0 +1,454 @@
+{
+  "brand": "exeed-sterra",
+  "brand_name": "星途星纪元",
+  "data_as_of": "2026-11-26",
+  "model": "星纪元ET（2025款）",
+  "model_slug": "sterra-et-2025",
+  "category": "中大型SUV",
+  "release_date": "2025-04-19",
+  "source_urls": [
+    "https://www.exeedcars.com/xjy/et_new/",
+    "https://car.autohome.com.cn/config/series/7174.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "sterra-et-2025-reev-230-plus",
+      "sku_name": "增程230 Plus两驱",
+      "price_rmb": 172800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4955,
+        "width_mm": 1975,
+        "height_mm": 1698,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 195,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 8.0,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 34.73,
+        "cltc_pure_electric_range_km": 230,
+        "cltc_combined_range_km": 1580,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 14.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "征程3",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "副驾零重力座椅 / 20-21英寸轮毂",
+          "price_rmb": "8000 / 6000-8000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "sterra-et-2025-reev-265-max",
+      "sku_name": "增程265 Max两驱城区智驾",
+      "price_rmb": 209800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4955,
+        "width_mm": 1975,
+        "height_mm": 1698,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 195,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 41.16,
+        "cltc_pure_electric_range_km": 265,
+        "cltc_combined_range_km": 1615,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 14.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗速腾M2",
+        "system": "EXEED NEP城/高NOA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "副驾零重力座椅 / 20-21英寸轮毂",
+          "price_rmb": "8000 / 6000-8000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "sterra-et-2025-reev-240-max-awd",
+      "sku_name": "增程240 Max四驱城区智驾",
+      "price_rmb": 239800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4955,
+        "width_mm": 1975,
+        "height_mm": 1698,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 345,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 41.16,
+        "cltc_pure_electric_range_km": 240,
+        "cltc_combined_range_km": 1500,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 14.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗速腾M2",
+        "system": "EXEED NEP城/高NOA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "副驾零重力座椅 / 20-21英寸轮毂",
+          "price_rmb": "8000 / 6000-8000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "sterra-et-2025-bev-625-pro",
+      "sku_name": "纯电625 Pro两驱城区智驾",
+      "price_rmb": 219800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4955,
+        "width_mm": 1975,
+        "height_mm": 1698,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 77.0,
+        "cltc_pure_electric_range_km": 625,
+        "cltc_combined_range_km": 625,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "选装空悬1.5万",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "EXEED NEP城/高NOA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "副驾零重力座椅 / 20-21英寸轮毂",
+          "price_rmb": "8000 / 6000-8000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "sterra-et-2025-bev-760-max",
+      "sku_name": "纯电760 Max两驱城区智驾",
+      "price_rmb": 239800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4955,
+        "width_mm": 1975,
+        "height_mm": 1698,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 760,
+        "cltc_combined_range_km": 760,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "EXEED NEP城/高NOA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "副驾零重力座椅 / 20-21英寸轮毂",
+          "price_rmb": "8000 / 6000-8000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "sterra-et-2025-bev-655-ultra",
+      "sku_name": "纯电655 Ultra四驱城区智驾",
+      "price_rmb": 279800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4955,
+        "width_mm": 1975,
+        "height_mm": 1698,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 413,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 655,
+        "cltc_combined_range_km": 655,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "单腔空悬",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "EXEED NEP城/高NOA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "副驾零重力座椅 / 20-21英寸轮毂",
+          "price_rmb": "8000 / 6000-8000",
+          "details": "官方选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

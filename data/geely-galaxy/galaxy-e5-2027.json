@@ -1,0 +1,454 @@
+{
+  "brand": "geely-galaxy",
+  "brand_name": "吉利银河",
+  "data_as_of": "2026-11-26",
+  "model": "吉利银河E5（2027款）",
+  "model_slug": "galaxy-e5-2027",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2026-09-23",
+  "source_urls": [
+    "https://galaxy.geely.com/",
+    "https://car.autohome.com.cn/config/series/7650.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "galaxy-e5-2027-530-classic",
+      "sku_name": "2027款 530 全球经典版",
+      "price_rmb": 107800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4615,
+        "width_mm": 1901,
+        "height_mm": 1670,
+        "wheelbase_mm": 2750,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60.22,
+        "cltc_pure_electric_range_km": 530,
+        "cltc_combined_range_km": 530,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "定速巡航",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰一号",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
+          "price_rmb": "2000 / 2000",
+          "details": "安全与内饰选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-e5-2027-550-qihang",
+      "sku_name": "2027款 550 智充启航版",
+      "price_rmb": 117800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4630,
+        "width_mm": 1920,
+        "height_mm": 1670,
+        "wheelbase_mm": 2745,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 61.52,
+        "cltc_pure_electric_range_km": 550,
+        "cltc_combined_range_km": 550,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 8.4min(6C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "定速巡航",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6E",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
+          "price_rmb": "2000 / 2000",
+          "details": "安全与内饰选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-e5-2027-550-tansuo",
+      "sku_name": "2027款 550 智充探索版",
+      "price_rmb": 125800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4630,
+        "width_mm": 1920,
+        "height_mm": 1670,
+        "wheelbase_mm": 2745,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 61.52,
+        "cltc_pure_electric_range_km": 550,
+        "cltc_combined_range_km": 550,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 8.4min(6C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6E",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
+          "price_rmb": "2000 / 2000",
+          "details": "安全与内饰选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-e5-2027-635-tansuo-plus",
+      "sku_name": "2027款 635 智充探索+版",
+      "price_rmb": 135800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4630,
+        "width_mm": 1920,
+        "height_mm": 1670,
+        "wheelbase_mm": 2745,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 70.01,
+        "cltc_pure_electric_range_km": 635,
+        "cltc_combined_range_km": 635,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 8.4min(6C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6E",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
+          "price_rmb": "2000 / 2000",
+          "details": "安全与内饰选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-e5-2027-550-lidar",
+      "sku_name": "2027款 550 智充激光版",
+      "price_rmb": 137800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4630,
+        "width_mm": 1920,
+        "height_mm": 1670,
+        "wheelbase_mm": 2745,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 61.52,
+        "cltc_pure_electric_range_km": 550,
+        "cltc_combined_range_km": 550,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 8.4min(6C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线J6M",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6E",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
+          "price_rmb": "2000 / 2000",
+          "details": "安全与内饰选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-e5-2027-635-lidar",
+      "sku_name": "2027款 635 智充激光版",
+      "price_rmb": 147800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4630,
+        "width_mm": 1920,
+        "height_mm": 1670,
+        "wheelbase_mm": 2745,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 70.01,
+        "cltc_pure_electric_range_km": 635,
+        "cltc_combined_range_km": 635,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-70% 8.4min(6C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆/四连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线J6M",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H5",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6E",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
+          "price_rmb": "2000 / 2000",
+          "details": "安全与内饰选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

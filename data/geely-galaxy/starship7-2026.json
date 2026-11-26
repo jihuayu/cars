@@ -1,0 +1,381 @@
+{
+  "brand": "geely-galaxy",
+  "brand_name": "吉利银河",
+  "data_as_of": "2026-11-26",
+  "model": "吉利银河星舰7（EM-i / EV）",
+  "model_slug": "starship7-2026",
+  "category": "紧凑型SUV",
+  "release_date": "2025-11-19",
+  "source_urls": [
+    "https://www.galaxy-geely.com/p145",
+    "https://car.autohome.com.cn/config/series/7864.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "galaxy-starship7-emi-130-qihang",
+      "sku_name": "EM-i 130km 启航版",
+      "price_rmb": 101800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4740,
+        "width_mm": 1905,
+        "height_mm": 1685,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 19.09,
+        "cltc_pure_electric_range_km": 130,
+        "cltc_combined_range_km": 1575,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后四连杆/多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "定速巡航",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
+          "price_rmb": "8800 / 2500 / 3000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-starship7-emi-135-zhihang",
+      "sku_name": "EM-i 135km 智航版",
+      "price_rmb": 112800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4740,
+        "width_mm": 1905,
+        "height_mm": 1685,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 19.09,
+        "cltc_pure_electric_range_km": 135,
+        "cltc_combined_range_km": 1575,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后四连杆/多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "千里浩瀚H3",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰一号",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
+          "price_rmb": "8800 / 2500 / 3000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-starship7-emi-135-xingjian",
+      "sku_name": "EM-i 135km 星舰版",
+      "price_rmb": 129800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4740,
+        "width_mm": 1905,
+        "height_mm": 1685,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 19.09,
+        "cltc_pure_electric_range_km": 135,
+        "cltc_combined_range_km": 1575,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后四连杆/多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "千里浩瀚H3",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰一号",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
+          "price_rmb": "8800 / 2500 / 3000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-starship7-ev-525-yh",
+      "sku_name": "EV 525km 远航+",
+      "price_rmb": 119800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4750,
+        "width_mm": 1905,
+        "height_mm": 1685,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60.22,
+        "cltc_pure_electric_range_km": 525,
+        "cltc_combined_range_km": 525,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后四连杆/多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
+          "price_rmb": "8800 / 2500 / 3000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "galaxy-starship7-ev-605-yh",
+      "sku_name": "EV 605km 远航+",
+      "price_rmb": 129800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4750,
+        "width_mm": 1905,
+        "height_mm": 1685,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 68.39,
+        "cltc_pure_electric_range_km": 605,
+        "cltc_combined_range_km": 605,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后四连杆/多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
+          "price_rmb": "8800 / 2500 / 3000",
+          "details": "官方选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

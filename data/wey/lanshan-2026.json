@@ -1,0 +1,217 @@
+{
+  "brand": "wey",
+  "brand_name": "魏牌",
+  "data_as_of": "2026-11-26",
+  "model": "魏牌全新蓝山（2026款智能进阶版）",
+  "model_slug": "lanshan-2026",
+  "category": "中大型6座插混SUV",
+  "release_date": "2025-12-22",
+  "source_urls": [
+    "https://www.wey.com/lanshan.html",
+    "https://www.wey.com/lanshanConfiguration.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "wey-lanshan-2026-max",
+      "sku_name": "2026款智能进阶版 四驱Max",
+      "price_rmb": 299800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5156,
+        "width_mm": 1980,
+        "height_mm": 1805,
+        "wheelbase_mm": 3050,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "Hi4性能版智能四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": "185(WLTC)",
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 26min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "Coffee Pilot Ultra（长城VLA大模型）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "Coffee OS 3旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wey-lanshan-2026-max-plus",
+      "sku_name": "2026款智能进阶版 四驱Max+",
+      "price_rmb": 311800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5156,
+        "width_mm": 1980,
+        "height_mm": 1805,
+        "wheelbase_mm": 3050,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "Hi4性能版智能四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": "220(WLTC)",
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 26min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "Coffee Pilot Ultra（长城VLA大模型）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "Coffee OS 3旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wey-lanshan-2026-ultra-black",
+      "sku_name": "2026款智能进阶版 四驱Ultra黑武士",
+      "price_rmb": 326800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5156,
+        "width_mm": 1980,
+        "height_mm": 1805,
+        "wheelbase_mm": 3050,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "Hi4性能版智能四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": "220(WLTC)",
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 26min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "Coffee Pilot Ultra（长城VLA大模型）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "Coffee OS 3旗舰座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

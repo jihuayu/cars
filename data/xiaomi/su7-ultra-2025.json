@@ -1,0 +1,191 @@
+{
+  "brand": "xiaomi",
+  "brand_name": "小米汽车",
+  "data_as_of": "2026-11-26",
+  "model": "小米SU7 Ultra",
+  "model_slug": "su7-ultra-2025",
+  "category": "高性能纯电四门超跑",
+  "release_date": "2025-02-27",
+  "source_urls": [
+    "https://www.xiaomiev.com/car-config?active=500010402"
+  ],
+  "skus": [
+    {
+      "sku_id": "xiaomi-su7-ultra-std",
+      "sku_name": "2025款 Ultra",
+      "price_rmb": 529900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5070,
+        "width_mm": 1970,
+        "height_mm": 1465,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机四驱",
+        "motor_power_kw": 1138,
+        "motor_torque_nm": 1770,
+        "zero_to_100_s": 2.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "麒麟II三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 93.7,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": 630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 11min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空悬+碳陶刹车",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin x2",
+        "compute_tops": 508,
+        "lidar": "1颗禾赛AT128",
+        "system": "Xiaomi HAD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16.1英寸3K+7.1英寸仪表",
+        "hud": "56英寸HUD",
+        "audio": "25扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "竞速套装",
+          "price_rmb": 100000,
+          "details": "赛道级底盘与制动套件"
+        },
+        {
+          "name": "碳纤维双风道前舱盖",
+          "price_rmb": 42000,
+          "details": "碳纤维开孔机盖"
+        },
+        {
+          "name": "碳纤维车顶 / 外饰 / 内饰 / 方向盘",
+          "price_rmb": "25000 / 18000 / 9000 / 6000",
+          "details": "碳纤维轻量化套件"
+        },
+        {
+          "name": "车载冰箱",
+          "price_rmb": 2000,
+          "details": "智能冷暖箱"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaomi-su7-ultra-nurburgring",
+      "sku_name": "2025款 纽北限量版",
+      "price_rmb": 814900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5115,
+        "width_mm": 1970,
+        "height_mm": 1465,
+        "wheelbase_mm": 3000,
+        "seats": 2,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机四驱",
+        "motor_power_kw": 1138,
+        "motor_torque_nm": 1770,
+        "zero_to_100_s": 1.98,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "麒麟II三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 93.7,
+        "cltc_pure_electric_range_km": 520,
+        "cltc_combined_range_km": 520,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 11min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "倍适登赛道绞牙减振+碳陶刹车",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin x2",
+        "compute_tops": 508,
+        "lidar": "1颗禾赛AT128",
+        "system": "Xiaomi HAD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16.1英寸3K+7.1英寸仪表",
+        "hud": "56英寸HUD",
+        "audio": "25扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "竞速套装",
+          "price_rmb": 100000,
+          "details": "赛道级底盘与制动套件"
+        },
+        {
+          "name": "碳纤维双风道前舱盖",
+          "price_rmb": 42000,
+          "details": "碳纤维开孔机盖"
+        },
+        {
+          "name": "碳纤维车顶 / 外饰 / 内饰 / 方向盘",
+          "price_rmb": "25000 / 18000 / 9000 / 6000",
+          "details": "碳纤维轻量化套件"
+        },
+        {
+          "name": "车载冰箱",
+          "price_rmb": 2000,
+          "details": "智能冷暖箱"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

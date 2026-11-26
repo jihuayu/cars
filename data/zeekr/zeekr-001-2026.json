@@ -1,0 +1,431 @@
+{
+  "brand": "zeekr",
+  "brand_name": "极氪",
+  "data_as_of": "2026-11-26",
+  "model": "极氪001（2026款）",
+  "model_slug": "zeekr-001-2026",
+  "category": "中大型纯电猎装轿跑",
+  "release_date": "2025-10-11",
+  "source_urls": [
+    "https://m.zeekrlife.com/zeekr001",
+    "https://m.zeekrlife.com/config"
+  ],
+  "skus": [
+    {
+      "sku_id": "zeekr-001-2026-103-rwd-max",
+      "sku_name": "2026款 103度后驱Max版",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4977,
+        "width_mm": 1999,
+        "height_mm": 1545,
+        "wheelbase_mm": 3005,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 535,
+        "zero_to_100_s": 4.98,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 810,
+        "cltc_combined_range_km": 810,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16英寸3.5K Mini-LED+13.02英寸仪表+8英寸后排屏",
+        "hud": "39.3英寸AR-HUD",
+        "audio": "29扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "浩瀚星空顶+LV分区调光天幕",
+          "price_rmb": 20000,
+          "details": "调光天幕"
+        },
+        {
+          "name": "智能感应自动门",
+          "price_rmb": 16000,
+          "details": "电动感应门"
+        },
+        {
+          "name": "21/22英寸轮毂 / 电动拖车钩 / 伊姆斯躺椅",
+          "price_rmb": "11000-20000 / 7000 / 6000",
+          "details": "外观与舒适选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-001-2026-95-awd-max",
+      "sku_name": "2026款 95度四驱Max版",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4977,
+        "width_mm": 1999,
+        "height_mm": 1545,
+        "wheelbase_mm": 3005,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": 913,
+        "zero_to_100_s": 3.08,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "神盾金砖磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 95,
+        "cltc_pure_electric_range_km": 710,
+        "cltc_combined_range_km": 710,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 7min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16英寸3.5K Mini-LED+13.02英寸仪表+8英寸后排屏",
+        "hud": "39.3英寸AR-HUD",
+        "audio": "29扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "浩瀚星空顶+LV分区调光天幕",
+          "price_rmb": 20000,
+          "details": "调光天幕"
+        },
+        {
+          "name": "智能感应自动门",
+          "price_rmb": 16000,
+          "details": "电动感应门"
+        },
+        {
+          "name": "21/22英寸轮毂 / 电动拖车钩 / 伊姆斯躺椅",
+          "price_rmb": "11000-20000 / 7000 / 6000",
+          "details": "外观与舒适选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-001-2026-103-awd-ultra",
+      "sku_name": "2026款 103度四驱Ultra版",
+      "price_rmb": 299800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4977,
+        "width_mm": 1999,
+        "height_mm": 1533,
+        "wheelbase_mm": 3005,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": 913,
+        "zero_to_100_s": 2.83,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 762,
+        "cltc_combined_range_km": 762,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16英寸3.5K Mini-LED+13.02英寸仪表+8英寸后排屏",
+        "hud": "39.3英寸AR-HUD",
+        "audio": "29扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "浩瀚星空顶+LV分区调光天幕",
+          "price_rmb": 20000,
+          "details": "调光天幕"
+        },
+        {
+          "name": "智能感应自动门",
+          "price_rmb": 16000,
+          "details": "电动感应门"
+        },
+        {
+          "name": "21/22英寸轮毂 / 电动拖车钩 / 伊姆斯躺椅",
+          "price_rmb": "11000-20000 / 7000 / 6000",
+          "details": "外观与舒适选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-001-2026-103-awd-ultra-plus",
+      "sku_name": "2026款 103度四驱Ultra+版",
+      "price_rmb": 329800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4977,
+        "width_mm": 1999,
+        "height_mm": 1533,
+        "wheelbase_mm": 3005,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": 913,
+        "zero_to_100_s": 2.91,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 730,
+        "cltc_combined_range_km": 730,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16英寸3.5K Mini-LED+13.02英寸仪表+8英寸后排屏",
+        "hud": "39.3英寸AR-HUD",
+        "audio": "29扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "浩瀚星空顶+LV分区调光天幕",
+          "price_rmb": 20000,
+          "details": "调光天幕"
+        },
+        {
+          "name": "智能感应自动门",
+          "price_rmb": 16000,
+          "details": "电动感应门"
+        },
+        {
+          "name": "21/22英寸轮毂 / 电动拖车钩 / 伊姆斯躺椅",
+          "price_rmb": "11000-20000 / 7000 / 6000",
+          "details": "外观与舒适选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-001-2026-5th-anniversary",
+      "sku_name": "2026款 103度四驱五周年纪念版",
+      "price_rmb": 365000,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4977,
+        "width_mm": 1999,
+        "height_mm": 1545,
+        "wheelbase_mm": 3005,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 680,
+        "motor_torque_nm": 913,
+        "zero_to_100_s": 2.91,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 680,
+        "cltc_combined_range_km": 680,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": "KW高性能绞牙避震",
+        "cdc": "CCD+魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Drive Thor-U",
+        "compute_tops": 700,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H7",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "16英寸3.5K Mini-LED+13.02英寸仪表+8英寸后排屏",
+        "hud": "39.3英寸AR-HUD",
+        "audio": "29扬声器+杜比全景声",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "浩瀚星空顶+LV分区调光天幕",
+          "price_rmb": 20000,
+          "details": "调光天幕"
+        },
+        {
+          "name": "智能感应自动门",
+          "price_rmb": 16000,
+          "details": "电动感应门"
+        },
+        {
+          "name": "21/22英寸轮毂 / 电动拖车钩 / 伊姆斯躺椅",
+          "price_rmb": "11000-20000 / 7000 / 6000",
+          "details": "外观与舒适选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

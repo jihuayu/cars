@@ -1,0 +1,3032 @@
+{
+  "data_as_of": "2026-11-26",
+  "total_brands": 27,
+  "total_models": 124,
+  "total_skus": 563,
+  "brands": [
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model_count": 7,
+      "sku_count": 11,
+      "index_file": "data/lixiang/index.json"
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model_count": 8,
+      "sku_count": 40,
+      "index_file": "data/xiaopeng/index.json"
+    },
+    {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
+      "model_count": 6,
+      "sku_count": 28,
+      "index_file": "data/avatr/index.json"
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model_count": 7,
+      "sku_count": 24,
+      "index_file": "data/nio/index.json"
+    },
+    {
+      "brand": "onvo",
+      "brand_name": "乐道",
+      "model_count": 3,
+      "sku_count": 14,
+      "index_file": "data/onvo/index.json"
+    },
+    {
+      "brand": "firefly",
+      "brand_name": "萤火虫",
+      "model_count": 1,
+      "sku_count": 6,
+      "index_file": "data/firefly/index.json"
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model_count": 8,
+      "sku_count": 49,
+      "index_file": "data/leapmotor/index.json"
+    },
+    {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
+      "model_count": 5,
+      "sku_count": 23,
+      "index_file": "data/immotors/index.json"
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model_count": 13,
+      "sku_count": 73,
+      "index_file": "data/hima/index.json"
+    },
+    {
+      "brand": "xiaomi",
+      "brand_name": "小米汽车",
+      "model_count": 4,
+      "sku_count": 14,
+      "index_file": "data/xiaomi/index.json"
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model_count": 6,
+      "sku_count": 28,
+      "index_file": "data/zeekr/index.json"
+    },
+    {
+      "brand": "lynkco",
+      "brand_name": "领克新能源",
+      "model_count": 3,
+      "sku_count": 13,
+      "index_file": "data/lynkco/index.json"
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model_count": 6,
+      "sku_count": 38,
+      "index_file": "data/byd/index.json"
+    },
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model_count": 4,
+      "sku_count": 21,
+      "index_file": "data/denza/index.json"
+    },
+    {
+      "brand": "fangchengbao",
+      "brand_name": "方程豹",
+      "model_count": 4,
+      "sku_count": 17,
+      "index_file": "data/fangchengbao/index.json"
+    },
+    {
+      "brand": "yangwang",
+      "brand_name": "仰望",
+      "model_count": 3,
+      "sku_count": 10,
+      "index_file": "data/yangwang/index.json"
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model_count": 5,
+      "sku_count": 21,
+      "index_file": "data/voyah/index.json"
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model_count": 5,
+      "sku_count": 25,
+      "index_file": "data/deepal/index.json"
+    },
+    {
+      "brand": "geely-galaxy",
+      "brand_name": "吉利银河",
+      "model_count": 5,
+      "sku_count": 24,
+      "index_file": "data/geely-galaxy/index.json"
+    },
+    {
+      "brand": "changan-qiyuan",
+      "brand_name": "长安启源",
+      "model_count": 3,
+      "sku_count": 14,
+      "index_file": "data/changan-qiyuan/index.json"
+    },
+    {
+      "brand": "exeed-sterra",
+      "brand_name": "星途星纪元",
+      "model_count": 2,
+      "sku_count": 9,
+      "index_file": "data/exeed-sterra/index.json"
+    },
+    {
+      "brand": "icar",
+      "brand_name": "iCAR",
+      "model_count": 2,
+      "sku_count": 9,
+      "index_file": "data/icar/index.json"
+    },
+    {
+      "brand": "hyptec",
+      "brand_name": "广汽昊铂",
+      "model_count": 3,
+      "sku_count": 13,
+      "index_file": "data/hyptec/index.json"
+    },
+    {
+      "brand": "aion",
+      "brand_name": "广汽埃安",
+      "model_count": 3,
+      "sku_count": 10,
+      "index_file": "data/aion/index.json"
+    },
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model_count": 4,
+      "sku_count": 15,
+      "index_file": "data/arcfox/index.json"
+    },
+    {
+      "brand": "wey",
+      "brand_name": "魏牌",
+      "model_count": 2,
+      "sku_count": 8,
+      "index_file": "data/wey/index.json"
+    },
+    {
+      "brand": "tank",
+      "brand_name": "坦克新能源",
+      "model_count": 2,
+      "sku_count": 6,
+      "index_file": "data/tank/index.json"
+    }
+  ],
+  "models": [
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model": "2026款理想i6",
+      "model_slug": "i6-2026",
+      "sub_brand": null,
+      "category": "中大型5座纯电SUV",
+      "release_date": "2026-10-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 249800,
+      "price_max_rmb": 269800,
+      "best_zero_to_100_s": 4.8,
+      "max_cltc_ev_km": 780,
+      "file": "data/lixiang/i6-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/i6",
+        "https://www.lixiang.com/news/190.html"
+      ]
+    },
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model": "理想i8",
+      "model_slug": "i8-2026",
+      "sub_brand": null,
+      "category": "中大型6座纯电SUV",
+      "release_date": "2025-07-29",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 309800,
+      "price_max_rmb": 339800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 780,
+      "file": "data/lixiang/i8-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/i8",
+        "https://www.lixiang.com/news/136.html"
+      ]
+    },
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model": "全新理想i9",
+      "model_slug": "i9-2026",
+      "sub_brand": null,
+      "category": "全尺寸6座纯电旗舰SUV",
+      "release_date": "2026-09-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 1,
+      "price_min_rmb": 369800,
+      "price_max_rmb": 369800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 705,
+      "file": "data/lixiang/i9-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/news/188.html",
+        "https://www.lixiang.com/configuration.html"
+      ]
+    },
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model": "新一代理想L6",
+      "model_slug": "l6-2026",
+      "sub_brand": null,
+      "category": "中大型5座SUV",
+      "release_date": "2026-07-16",
+      "image_url": "https://p.ampmake.com/mall/20260723/cms/news/8f9fef5b-62da-4462-b592-03dc5357bdda.JPEG",
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 1,
+      "price_min_rmb": 249800,
+      "price_max_rmb": 249800,
+      "best_zero_to_100_s": 5.4,
+      "max_cltc_ev_km": 300,
+      "file": "data/lixiang/l6-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/configuration.html",
+        "https://www.lixiang.com/L6",
+        "https://www.lixiang.com/news/184.html"
+      ]
+    },
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model": "全新理想L8",
+      "model_slug": "l8-2026",
+      "sub_brand": null,
+      "category": "中大型原生5座旗舰SUV",
+      "release_date": "2026-06-23",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 369800,
+      "price_max_rmb": 429800,
+      "best_zero_to_100_s": 4.8,
+      "max_cltc_ev_km": 430,
+      "file": "data/lixiang/l8-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/configuration.html",
+        "https://www.lixiang.com/L8",
+        "https://www.lixiang.com/news/172.html"
+      ]
+    },
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model": "全新一代理想L9",
+      "model_slug": "l9-2026",
+      "sub_brand": null,
+      "category": "全尺寸6座旗舰SUV",
+      "release_date": "2026-05-15",
+      "image_url": "https://p.ampmake.com/mall/20260515/cms/news/f4158871-9e32-44ec-9bea-118e7d7a0b00.jpg",
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 459800,
+      "price_max_rmb": 509800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 420,
+      "file": "data/lixiang/l9-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/configuration.html",
+        "https://www.lixiang.com/L9",
+        "https://www.lixiang.com/news/159.html"
+      ]
+    },
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model": "新一代理想MEGA",
+      "model_slug": "mega-2026",
+      "sub_brand": null,
+      "category": "科技旗舰纯电MPV",
+      "release_date": "2026-09-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 1,
+      "price_min_rmb": 509800,
+      "price_max_rmb": 509800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 710,
+      "file": "data/lixiang/mega-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/news/186.html",
+        "https://www.lixiang.com/configuration.html"
+      ]
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model": "2026款小鹏G6",
+      "model_slug": "g6-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2026-01-08",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 176800,
+      "price_max_rmb": 186800,
+      "best_zero_to_100_s": 6.4,
+      "max_cltc_ev_km": 625,
+      "file": "data/xiaopeng/g6-2026.json",
+      "source_urls": [
+        "https://www.xiaopeng.com/g6_2026/configuration.html"
+      ]
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model": "2026款小鹏G7",
+      "model_slug": "g7-2026",
+      "sub_brand": null,
+      "category": "中大型SUV",
+      "release_date": "2026-01-08",
+      "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 195800,
+      "price_max_rmb": 205800,
+      "best_zero_to_100_s": 6.5,
+      "max_cltc_ev_km": 702,
+      "file": "data/xiaopeng/g7-2026.json",
+      "source_urls": [
+        "https://www.xiaopeng.com/g7_2026/configuration.html"
+      ]
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model": "2026款小鹏G9",
+      "model_slug": "g9-2026",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2026-01-08",
+      "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/08-07/pic_20260807113423_93692.png",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 248800,
+      "price_max_rmb": 278800,
+      "best_zero_to_100_s": 4.2,
+      "max_cltc_ev_km": 725,
+      "file": "data/xiaopeng/g9-2026.json",
+      "source_urls": [
+        "https://www.xiaopeng.com/g9_2026/configuration.html"
+      ]
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model": "小鹏GX",
+      "model_slug": "gx-2026",
+      "sub_brand": null,
+      "category": "全尺寸大六座旗舰SUV",
+      "release_date": "2026-05-20",
+      "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 279800,
+      "price_max_rmb": 359800,
+      "best_zero_to_100_s": 4.98,
+      "max_cltc_ev_km": 750,
+      "file": "data/xiaopeng/gx-2026.json",
+      "source_urls": [
+        "https://www.xiaopeng.com/gx/configuration.html"
+      ]
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model": "2026款小鹏MONA M03",
+      "model_slug": "mona-m03-2026",
+      "sub_brand": null,
+      "category": "紧凑型纯电掀背轿跑",
+      "release_date": "2026-04-02",
+      "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 119800,
+      "price_max_rmb": 151800,
+      "best_zero_to_100_s": 7.4,
+      "max_cltc_ev_km": 640,
+      "file": "data/xiaopeng/mona-m03-2026.json",
+      "source_urls": [
+        "https://www.xiaopeng.com/m03_2026/configuration.html"
+      ]
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model": "全新小鹏P7",
+      "model_slug": "p7-2026",
+      "sub_brand": null,
+      "category": "中大型纯电运动轿跑",
+      "release_date": "2025-08-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 203800,
+      "price_max_rmb": 301800,
+      "best_zero_to_100_s": 3.7,
+      "max_cltc_ev_km": 820,
+      "file": "data/xiaopeng/p7-2026.json",
+      "source_urls": [
+        "https://www.xiaopeng.com/p7n/configuration.html"
+      ]
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model": "2026款小鹏P7+",
+      "model_slug": "p7-plus-2026",
+      "sub_brand": null,
+      "category": "中大型家用轿跑",
+      "release_date": "2026-01-08",
+      "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 186800,
+      "price_max_rmb": 198800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 725,
+      "file": "data/xiaopeng/p7-plus-2026.json",
+      "source_urls": [
+        "https://www.xiaopeng.com/p7_plus_2026/configuration.html"
+      ]
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model": "2026款小鹏X9",
+      "model_slug": "x9-2026",
+      "sub_brand": null,
+      "category": "中大型7座MPV",
+      "release_date": "2025-11-20",
+      "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 309800,
+      "price_max_rmb": 369800,
+      "best_zero_to_100_s": 8.0,
+      "max_cltc_ev_km": 750,
+      "file": "data/xiaopeng/x9-2026.json",
+      "source_urls": [
+        "https://www.xiaopeng.com/x9_2026/configuration.html"
+      ]
+    },
+    {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
+      "model": "阿维塔06（2026款）",
+      "model_slug": "avatr-06-2026",
+      "sub_brand": null,
+      "category": "中型轿车",
+      "release_date": "2026-10-15",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 229900,
+      "best_zero_to_100_s": 6.1,
+      "max_cltc_ev_km": 650,
+      "file": "data/avatr/avatr-06-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=06",
+        "https://www.avatr.com/rights?car=06"
+      ]
+    },
+    {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
+      "model": "阿维塔06T（2026款猎装）",
+      "model_slug": "avatr-06t-2026",
+      "sub_brand": null,
+      "category": "中型猎装轿跑",
+      "release_date": "2026-04-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 279900,
+      "best_zero_to_100_s": 2.78,
+      "max_cltc_ev_km": 741,
+      "file": "data/avatr/avatr-06t-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=06T",
+        "https://www.avatr.com/pre06T"
+      ]
+    },
+    {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
+      "model": "阿维塔07（2026款）",
+      "model_slug": "avatr-07-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-09-20",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 279900,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 650,
+      "file": "data/avatr/avatr-07-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=07",
+        "https://www.avatr.com/07"
+      ]
+    },
+    {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
+      "model": "阿维塔07L（2026款）",
+      "model_slug": "avatr-07l-2026",
+      "sub_brand": null,
+      "category": "中大型5座纯电SUV",
+      "release_date": "2026-08-08",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 229900,
+      "price_max_rmb": 279900,
+      "best_zero_to_100_s": 3.7,
+      "max_cltc_ev_km": 725,
+      "file": "data/avatr/avatr-07l-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=07L"
+      ]
+    },
+    {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
+      "model": "阿维塔11（2025款改款）",
+      "model_slug": "avatr-11-2025",
+      "sub_brand": null,
+      "category": "中大型轿跑SUV",
+      "release_date": "2025-04-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 289900,
+      "price_max_rmb": 429900,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 815,
+      "file": "data/avatr/avatr-11-2025.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=11",
+        "https://car.autohome.com.cn/config/spec/72862.html"
+      ]
+    },
+    {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
+      "model": "阿维塔12（2026款）",
+      "model_slug": "avatr-12-2026",
+      "sub_brand": null,
+      "category": "中大型豪华掀背轿车",
+      "release_date": "2026-04-08",
+      "image_url": "https://fs.avatr.com/avatar-boss-admin-view/img/095dd7db70475a16d45933716609a8da.png",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 293900,
+      "price_max_rmb": 433900,
+      "best_zero_to_100_s": 2.71,
+      "max_cltc_ev_km": 735,
+      "file": "data/avatr/avatr-12-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=12"
+      ]
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model": "2026款蔚来EC6",
+      "model_slug": "ec6-2026",
+      "sub_brand": null,
+      "category": "中型纯电轿跑SUV",
+      "release_date": "2026-04-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 358000,
+      "price_max_rmb": 373000,
+      "best_zero_to_100_s": 4.4,
+      "max_cltc_ev_km": 635,
+      "file": "data/nio/ec6-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/zh_CN/vehicle/configuration/ec6"
+      ]
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model": "2026款蔚来ES6",
+      "model_slug": "es6-2026",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2026-04-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 338000,
+      "price_max_rmb": 350000,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 630,
+      "file": "data/nio/es6-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/zh_CN/vehicle/configuration/es6"
+      ]
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model": "全新蔚来ES8",
+      "model_slug": "es8-2026",
+      "sub_brand": null,
+      "category": "大型纯电SUV（5/6/7座）",
+      "release_date": "2025-09-20",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 382800,
+      "price_max_rmb": 446800,
+      "best_zero_to_100_s": 3.97,
+      "max_cltc_ev_km": 655,
+      "file": "data/nio/es8-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/es8",
+        "https://www.nio.cn/es8-five-seater"
+      ]
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model": "蔚来ES9",
+      "model_slug": "es9-2026",
+      "sub_brand": null,
+      "category": "全尺寸行政旗舰纯电SUV",
+      "release_date": "2026-05-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 498000,
+      "price_max_rmb": 638000,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 620,
+      "file": "data/nio/es9-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/es9",
+        "https://www.nio.cn/news/20260527001"
+      ]
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model": "2026款蔚来ET5",
+      "model_slug": "et5-2026",
+      "sub_brand": null,
+      "category": "中型纯电轿跑",
+      "release_date": "2026-04-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 298000,
+      "price_max_rmb": 313000,
+      "best_zero_to_100_s": 4.0,
+      "max_cltc_ev_km": 740,
+      "file": "data/nio/et5-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/vehicle/configuration/et5"
+      ]
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model": "2026款蔚来ET5T",
+      "model_slug": "et5t-2026",
+      "sub_brand": null,
+      "category": "中型纯电旅行车",
+      "release_date": "2026-04-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 298000,
+      "price_max_rmb": 313000,
+      "best_zero_to_100_s": 4.0,
+      "max_cltc_ev_km": 710,
+      "file": "data/nio/et5t-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/et5t"
+      ]
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model": "蔚来ET9",
+      "model_slug": "et9-2026",
+      "sub_brand": null,
+      "category": "全尺寸行政四座旗舰轿车",
+      "release_date": "2024-12-21",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 768000,
+      "price_max_rmb": 818000,
+      "best_zero_to_100_s": 4.1,
+      "max_cltc_ev_km": null,
+      "file": "data/nio/et9-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/vehicle/configuration/et9"
+      ]
+    },
+    {
+      "brand": "onvo",
+      "brand_name": "乐道",
+      "model": "乐道L60（2026款）",
+      "model_slug": "l60-2026",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2026-06-11",
+      "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l60/g1.6/soo/highlights/highlights-carousel-02-desktop.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 192800,
+      "price_max_rmb": 251800,
+      "best_zero_to_100_s": 4.6,
+      "max_cltc_ev_km": 740,
+      "file": "data/onvo/l60-2026.json",
+      "source_urls": [
+        "https://configuration.onvo.cn/index?model_code=L60&scene=office"
+      ]
+    },
+    {
+      "brand": "onvo",
+      "brand_name": "乐道",
+      "model": "乐道L80（2026款）",
+      "model_slug": "l80-2026",
+      "sub_brand": null,
+      "category": "中大型5座纯电SUV",
+      "release_date": "2026-05-15",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 242800,
+      "price_max_rmb": 279800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 615,
+      "file": "data/onvo/l80-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/8591.html"
+      ]
+    },
+    {
+      "brand": "onvo",
+      "brand_name": "乐道",
+      "model": "乐道L90（2026款）",
+      "model_slug": "l90-2026",
+      "sub_brand": null,
+      "category": "大型6/7座纯电SUV",
+      "release_date": "2026-04-21",
+      "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 265800,
+      "price_max_rmb": 299800,
+      "best_zero_to_100_s": 4.7,
+      "max_cltc_ev_km": 600,
+      "file": "data/onvo/l90-2026.json",
+      "source_urls": [
+        "https://www.onvo.cn/l90",
+        "https://configuration.onvo.cn/alpsConfigList?carType=L90&scene=office"
+      ]
+    },
+    {
+      "brand": "firefly",
+      "brand_name": "萤火虫",
+      "model": "firefly 萤火虫（2026款）",
+      "model_slug": "firefly-2026",
+      "sub_brand": null,
+      "category": "小型高端纯电两厢车",
+      "release_date": "2026-04-07",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 119800,
+      "price_max_rmb": 152800,
+      "best_zero_to_100_s": 7.9,
+      "max_cltc_ev_km": 560,
+      "file": "data/firefly/firefly-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7990.html"
+      ]
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model": "2027款零跑B01",
+      "model_slug": "b01-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电轿车",
+      "release_date": "2026-07-16",
+      "image_url": "https://ueapp-oss-static.leapmotor.com/img/basedatacartype/card/20261119/24f73f6260484130bbcf35d717a4f883.png",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 95800,
+      "price_max_rmb": 119800,
+      "best_zero_to_100_s": 6.1,
+      "max_cltc_ev_km": 670,
+      "file": "data/leapmotor/b01-2027.json",
+      "source_urls": [
+        "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=15"
+      ]
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model": "2027款零跑B10",
+      "model_slug": "b10-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2026-07-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 99800,
+      "price_max_rmb": 125800,
+      "best_zero_to_100_s": 6.4,
+      "max_cltc_ev_km": 610,
+      "file": "data/leapmotor/b10-2027.json",
+      "source_urls": [
+        "https://leapmotor.cn/B10.html",
+        "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=14"
+      ]
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model": "2027款零跑C10",
+      "model_slug": "c10-2027",
+      "sub_brand": null,
+      "category": "中型5座SUV",
+      "release_date": "2026-06-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 125800,
+      "price_max_rmb": 142800,
+      "best_zero_to_100_s": 6.02,
+      "max_cltc_ev_km": 660,
+      "file": "data/leapmotor/c10-2027.json",
+      "source_urls": [
+        "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=11"
+      ]
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model": "2027款零跑C11",
+      "model_slug": "c11-2027",
+      "sub_brand": null,
+      "category": "中型5座SUV",
+      "release_date": "2026-06-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 143800,
+      "price_max_rmb": 159800,
+      "best_zero_to_100_s": 6.1,
+      "max_cltc_ev_km": 640,
+      "file": "data/leapmotor/c11-2027.json",
+      "source_urls": [
+        "https://cn.leapmotor.com/parameter-pk-web.html?carTypeId=1&platform=web",
+        "https://cn.leapmotor.com/C11-aggregation.html"
+      ]
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model": "2027款零跑C16",
+      "model_slug": "c16-2027",
+      "sub_brand": null,
+      "category": "中大型5/6座SUV",
+      "release_date": "2026-06-16",
+      "image_url": "https://lp-website-oss-static.leapmotor.com/Leapmotor-Chinese-web/C16-New/H5/m-screen3-1.jpg",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 145800,
+      "price_max_rmb": 169800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 630,
+      "file": "data/leapmotor/c16-2027.json",
+      "source_urls": [
+        "https://leapmotor.cn/C16.html",
+        "https://car.autohome.com.cn/config/series/7674.html"
+      ]
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model": "2026款零跑D19",
+      "model_slug": "d19-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰6/7座SUV",
+      "release_date": "2026-04-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 219800,
+      "price_max_rmb": 269800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 720,
+      "file": "data/leapmotor/d19-2026.json",
+      "source_urls": [
+        "https://leapmotor.cn/D19.html",
+        "https://car.autohome.com.cn/config/series/8273.html"
+      ]
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model": "2026款零跑D99",
+      "model_slug": "d99-2026",
+      "sub_brand": null,
+      "category": "旗舰中大型7座MPV",
+      "release_date": "2026-06-25",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 249800,
+      "price_max_rmb": 339800,
+      "best_zero_to_100_s": 5.0,
+      "max_cltc_ev_km": 700,
+      "file": "data/leapmotor/d99-2026.json",
+      "source_urls": [
+        "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=23"
+      ]
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model": "零跑Lafa5（2026款）",
+      "model_slug": "lafa5-2026",
+      "sub_brand": null,
+      "category": "紧凑型纯电两厢掀背车",
+      "release_date": "2025-11-27",
+      "image_url": "https://ueapp-oss-static.leapmotor.com/img/basedatacartype/card/20261119/24f73f6260484130bbcf35d717a4f883.png",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 97800,
+      "price_max_rmb": 129800,
+      "best_zero_to_100_s": 6.4,
+      "max_cltc_ev_km": 605,
+      "file": "data/leapmotor/lafa5-2026.json",
+      "source_urls": [
+        "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18"
+      ]
+    },
+    {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
+      "model": "全新一代智己L6",
+      "model_slug": "l6-2026",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2026-08-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 209900,
+      "price_max_rmb": 269900,
+      "best_zero_to_100_s": 2.74,
+      "max_cltc_ev_km": 850,
+      "file": "data/immotors/l6-2026.json",
+      "source_urls": [
+        "https://www.immotors.com/website/vehicle_config/l6m2",
+        "https://www.immotors.com/website/news_detail/238"
+      ]
+    },
+    {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
+      "model": "智己LS6（全新一代纯电 / 2026款超级增程）",
+      "model_slug": "ls6-2026",
+      "sub_brand": null,
+      "category": "中大型5座SUV",
+      "release_date": "2026-09-23",
+      "image_url": "https://portal-static.immotors.com/images/portal/1790162846471%2540vr0wwwhh.jpeg",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 202900,
+      "price_max_rmb": 264900,
+      "best_zero_to_100_s": 3.48,
+      "max_cltc_ev_km": 782,
+      "file": "data/immotors/ls6-2026.json",
+      "source_urls": [
+        "https://www.immotors.com/website/vehicle_config/ls6m3",
+        "https://www.immotors.com/website/vehicle_config/ls6m2"
+      ]
+    },
+    {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
+      "model": "智己LS7 焕新版",
+      "model_slug": "ls7-2026",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2025-06-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 309900,
+      "price_max_rmb": 339900,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 700,
+      "file": "data/immotors/ls7-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/price/brand-448-632.html"
+      ]
+    },
+    {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
+      "model": "智己LS8（超级增程 / NEO纯电）",
+      "model_slug": "ls8-2026",
+      "sub_brand": null,
+      "category": "中大型5/6座SUV",
+      "release_date": "2026-04-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 249800,
+      "price_max_rmb": 311800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 752,
+      "file": "data/immotors/ls8-2026.json",
+      "source_urls": [
+        "https://www.immotors.com/website/news_detail/242"
+      ]
+    },
+    {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
+      "model": "智己LS9（旗舰大六座）",
+      "model_slug": "ls9-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰6座SUV",
+      "release_date": "2025-11-12",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 332800,
+      "price_max_rmb": 379800,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 402,
+      "file": "data/immotors/ls9-2026.json",
+      "source_urls": [
+        "https://www.immotors.com/website/news_detail/234"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "问界新M5 Ultra（2025款）",
+      "model_slug": "aito-m5-ultra-2025",
+      "sub_brand": "问界 AITO",
+      "category": "中型5座SUV",
+      "release_date": "2025-03-20",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 249800,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 602,
+      "file": "data/hima/aito-m5-ultra-2025.json",
+      "source_urls": [
+        "https://hima.auto/wenjie/m5-new/configuration/",
+        "https://aito.auto/model/m5-new/configuration/"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "问界M6（2026款）",
+      "model_slug": "aito-m6-2026",
+      "sub_brand": "问界 AITO",
+      "category": "中大型5座SUV",
+      "release_date": "2026-04-22",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 299800,
+      "best_zero_to_100_s": 5.2,
+      "max_cltc_ev_km": 760,
+      "file": "data/hima/aito-m6-2026.json",
+      "source_urls": [
+        "https://aito.auto/model/m6/configuration/",
+        "https://aito.auto/model/m6/"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "问界M7（2026款）",
+      "model_slug": "aito-m7-2026",
+      "sub_brand": "问界 AITO",
+      "category": "中大型5/6座SUV",
+      "release_date": "2025-09-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 279800,
+      "price_max_rmb": 389800,
+      "best_zero_to_100_s": 4.7,
+      "max_cltc_ev_km": 710,
+      "file": "data/hima/aito-m7-2026.json",
+      "source_urls": [
+        "https://hima.auto/wenjie/m7-new/configuration/",
+        "https://aito.auto/model/m7-new/"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "问界新M8（2027款）",
+      "model_slug": "aito-m8-2027",
+      "sub_brand": "问界 AITO",
+      "category": "大型家庭智慧旗舰SUV（5/6座）",
+      "release_date": "2026-11-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 10,
+      "price_min_rmb": 379800,
+      "price_max_rmb": 469800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 830,
+      "file": "data/hima/aito-m8-2027.json",
+      "source_urls": [
+        "https://aito.auto/model/m8/configuration/",
+        "https://car.autohome.com.cn/config/series/8003.html"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "全新一代问界M9（2026款）",
+      "model_slug": "aito-m9-2026",
+      "sub_brand": "问界 AITO",
+      "category": "全尺寸旗舰SUV（含领世加长版）",
+      "release_date": "2026-05-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 479800,
+      "price_max_rmb": 659800,
+      "best_zero_to_100_s": 3.99,
+      "max_cltc_ev_km": 750,
+      "file": "data/hima/aito-m9-2026.json",
+      "source_urls": [
+        "https://aito.auto/model/m9/configuration/",
+        "https://aito.auto/model/m9-new/"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "智界R7（2027款焕新版）",
+      "model_slug": "luxeed-r7-2027",
+      "sub_brand": "智界 LUXEED",
+      "category": "中大型轿跑SUV",
+      "release_date": "2026-09-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 239800,
+      "price_max_rmb": 319800,
+      "best_zero_to_100_s": 4.4,
+      "max_cltc_ev_km": 855,
+      "file": "data/hima/luxeed-r7-2027.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7730.html"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "智界新S7（2026款）",
+      "model_slug": "luxeed-s7-2026",
+      "sub_brand": "智界 LUXEED",
+      "category": "中大型纯电轿跑",
+      "release_date": "2026-03-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 299800,
+      "best_zero_to_100_s": 3.3,
+      "max_cltc_ev_km": 855,
+      "file": "data/hima/luxeed-s7-2026.json",
+      "source_urls": [
+        "https://hima.auto/zhijie/s7/configuration/"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "智界V9（2026款）",
+      "model_slug": "luxeed-v9-2026",
+      "sub_brand": "智界 LUXEED",
+      "category": "旗舰大型7座增程MPV",
+      "release_date": "2026-05-15",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 389800,
+      "price_max_rmb": 519800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 305,
+      "file": "data/hima/luxeed-v9-2026.json",
+      "source_urls": [
+        "https://hima.auto/zhijie/v9/configuration/"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "尊界S800（含典藏大观）",
+      "model_slug": "maextro-s800-2026",
+      "sub_brand": "尊界 MAEXTRO",
+      "category": "超豪华大型行政轿车",
+      "release_date": "2025-05-30",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 728000,
+      "price_max_rmb": 1388000,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 702,
+      "file": "data/hima/maextro-s800-2026.json",
+      "source_urls": [
+        "https://hima.auto/zunjie/s800/configuration/",
+        "https://hima.auto/zunjie/s800/"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "尚界H5（2026款）",
+      "model_slug": "saic-h5-2026",
+      "sub_brand": "尚界 SAIC",
+      "category": "中型5座SUV",
+      "release_date": "2025-09-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 159800,
+      "price_max_rmb": 199800,
+      "best_zero_to_100_s": 7.3,
+      "max_cltc_ev_km": 655,
+      "file": "data/hima/saic-h5-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/8205.html"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "尚界Z7 / Z7T（2026款）",
+      "model_slug": "saic-z7-2026",
+      "sub_brand": "尚界 SAIC",
+      "category": "中型纯电轿跑 / 猎装轿跑",
+      "release_date": "2026-04-22",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 219800,
+      "price_max_rmb": 229800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": null,
+      "file": "data/hima/saic-z7-2026.json",
+      "source_urls": [
+        "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "享界S9（2026款 896线激光雷达版）",
+      "model_slug": "stelato-s9-2026",
+      "sub_brand": "享界 STELATO",
+      "category": "中大型行政豪华轿车",
+      "release_date": "2026-03-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 319800,
+      "price_max_rmb": 379800,
+      "best_zero_to_100_s": 3.92,
+      "max_cltc_ev_km": 816,
+      "file": "data/hima/stelato-s9-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7630.html"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model": "享界S9T（2026款 896线旅行车）",
+      "model_slug": "stelato-s9t-2026",
+      "sub_brand": "享界 STELATO",
+      "category": "中大型豪华旅行车",
+      "release_date": "2026-03-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 319800,
+      "price_max_rmb": 379800,
+      "best_zero_to_100_s": 3.95,
+      "max_cltc_ev_km": 801,
+      "file": "data/hima/stelato-s9t-2026.json",
+      "source_urls": [
+        "https://hima.auto/xiangjie/s9t/configuration/"
+      ]
+    },
+    {
+      "brand": "xiaomi",
+      "brand_name": "小米汽车",
+      "model": "小米澎程N70 / N90（2026款增程）",
+      "model_slug": "skynomad-n70-n90-2026",
+      "sub_brand": null,
+      "category": "中大型/全尺寸增程SUV",
+      "release_date": "2026-09-07",
+      "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/n70_20260907/pc/n90.png",
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 209900,
+      "price_max_rmb": 299900,
+      "best_zero_to_100_s": 5.5,
+      "max_cltc_ev_km": 505,
+      "file": "data/xiaomi/skynomad-n70-n90-2026.json",
+      "source_urls": [
+        "https://www.xiaomiev.com/skynomad/car-config",
+        "https://www.xiaomiev.com/skynomad/n70"
+      ]
+    },
+    {
+      "brand": "xiaomi",
+      "brand_name": "小米汽车",
+      "model": "小米SU7（2026款）",
+      "model_slug": "su7-2026",
+      "sub_brand": null,
+      "category": "中大型纯电轿跑",
+      "release_date": "2026-03-19",
+      "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/su7_20260319/pc/0-1_1.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 303900,
+      "best_zero_to_100_s": 3.08,
+      "max_cltc_ev_km": 902,
+      "file": "data/xiaomi/su7-2026.json",
+      "source_urls": [
+        "https://www.xiaomiev.com/car-config",
+        "https://www.xiaomiev.com/su7"
+      ]
+    },
+    {
+      "brand": "xiaomi",
+      "brand_name": "小米汽车",
+      "model": "小米SU7 Ultra",
+      "model_slug": "su7-ultra-2025",
+      "sub_brand": null,
+      "category": "高性能纯电四门超跑",
+      "release_date": "2025-02-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 529900,
+      "price_max_rmb": 814900,
+      "best_zero_to_100_s": 1.98,
+      "max_cltc_ev_km": 630,
+      "file": "data/xiaomi/su7-ultra-2025.json",
+      "source_urls": [
+        "https://www.xiaomiev.com/car-config?active=500010402"
+      ]
+    },
+    {
+      "brand": "xiaomi",
+      "brand_name": "小米汽车",
+      "model": "小米YU7（2025/2026款）",
+      "model_slug": "yu7-2026",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2025-06-26",
+      "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/yu7_20260521/pc/1.jpg?x-fds-process=image/resize,f_webp,q_100",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 233500,
+      "price_max_rmb": 389900,
+      "best_zero_to_100_s": 2.92,
+      "max_cltc_ev_km": 835,
+      "file": "data/xiaomi/yu7-2026.json",
+      "source_urls": [
+        "https://www.xiaomiev.com/yu7"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪001（2026款）",
+      "model_slug": "zeekr-001-2026",
+      "sub_brand": null,
+      "category": "中大型纯电猎装轿跑",
+      "release_date": "2025-10-11",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 269800,
+      "price_max_rmb": 365000,
+      "best_zero_to_100_s": 2.83,
+      "max_cltc_ev_km": 810,
+      "file": "data/zeekr/zeekr-001-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/zeekr001",
+        "https://m.zeekrlife.com/config"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪007 / 007GT（2026款）",
+      "model_slug": "zeekr-007-2026",
+      "sub_brand": null,
+      "category": "中型纯电轿车 / 猎装车",
+      "release_date": "2026-04-10",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 203900,
+      "price_max_rmb": 243900,
+      "best_zero_to_100_s": 2.73,
+      "max_cltc_ev_km": 905,
+      "file": "data/zeekr/zeekr-007-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/zeekr007",
+        "https://m.zeekrlife.com/zeekr007GT"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪009（2026款 / 光辉版）",
+      "model_slug": "zeekr-009-2026",
+      "sub_brand": null,
+      "category": "中大型豪华纯电MPV",
+      "release_date": "2026-05-19",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 439800,
+      "price_max_rmb": 899000,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 740,
+      "file": "data/zeekr/zeekr-009-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/zeekr009"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪7X（2026款）",
+      "model_slug": "zeekr-7x-2026",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2025-10-28",
+      "image_url": "https://zcms.zeekrlife.com/published/assets/e43663416a6ef4d925d682a72c7414fbc36f7f3acc414df83565d9ea49287850/1574.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 269800,
+      "best_zero_to_100_s": 2.98,
+      "max_cltc_ev_km": 802,
+      "file": "data/zeekr/zeekr-7x-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/config"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪9X（2026款）",
+      "model_slug": "zeekr-9x-2026",
+      "sub_brand": null,
+      "category": "全尺寸超豪华电混旗舰SUV",
+      "release_date": "2025-09-29",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 465900,
+      "price_max_rmb": 599900,
+      "best_zero_to_100_s": 3.1,
+      "max_cltc_ev_km": 380,
+      "file": "data/zeekr/zeekr-9x-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/zeekr9x"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪MIX（2025款）",
+      "model_slug": "zeekr-mix-2025",
+      "sub_brand": null,
+      "category": "中型纯电家庭跨界MPV",
+      "release_date": "2024-10-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 279900,
+      "price_max_rmb": 299900,
+      "best_zero_to_100_s": 6.8,
+      "max_cltc_ev_km": 702,
+      "file": "data/zeekr/zeekr-mix-2025.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/config"
+      ]
+    },
+    {
+      "brand": "lynkco",
+      "brand_name": "领克新能源",
+      "model": "领克900（2025/2026款）",
+      "model_slug": "lynkco-900-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰插混SUV（5/6座）",
+      "release_date": "2025-04-28",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 299800,
+      "price_max_rmb": 416900,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 280,
+      "file": "data/lynkco/lynkco-900-2026.json",
+      "source_urls": [
+        "https://www.lynkco.com.cn/cars/900/900-configurator"
+      ]
+    },
+    {
+      "brand": "lynkco",
+      "brand_name": "领克新能源",
+      "model": "领克Z10（2025款）",
+      "model_slug": "lynkco-z10-2025",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2024-12-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 1,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 229800,
+      "best_zero_to_100_s": 3.5,
+      "max_cltc_ev_km": 702,
+      "file": "data/lynkco/lynkco-z10-2025.json",
+      "source_urls": [
+        "https://www.lynkco.com.cn/cars/model-config",
+        "https://www.lynkco.com.cn/cars/10ev"
+      ]
+    },
+    {
+      "brand": "lynkco",
+      "brand_name": "领克新能源",
+      "model": "领克Z20 / 领克20（2027款）",
+      "model_slug": "lynkco-z20-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2026-09-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 123800,
+      "price_max_rmb": 163800,
+      "best_zero_to_100_s": 6.4,
+      "max_cltc_ev_km": 630,
+      "file": "data/lynkco/lynkco-z20-2027.json",
+      "source_urls": [
+        "https://www.lynkco.com.cn/cars/model-config"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪汉L（EV / DM）",
+      "model_slug": "han-l-2025",
+      "sub_brand": null,
+      "category": "中大型旗舰轿车",
+      "release_date": "2025-04-09",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 209800,
+      "price_max_rmb": 279800,
+      "best_zero_to_100_s": 2.7,
+      "max_cltc_ev_km": 701,
+      "file": "data/byd/han-l-2025.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/series/7859.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪海豹06（2027款 DM-i / EV）",
+      "model_slug": "seal-06-2027",
+      "sub_brand": null,
+      "category": "中型轿车",
+      "release_date": "2026-08-11",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 99900,
+      "price_max_rmb": 155900,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 630,
+      "file": "data/byd/seal-06-2027.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/spec/78809.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪海狮07（EV / DM-i）",
+      "model_slug": "sealion-07-2025",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-05-08",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 169800,
+      "price_max_rmb": 239800,
+      "best_zero_to_100_s": 4.2,
+      "max_cltc_ev_km": 610,
+      "file": "data/byd/sealion-07-2025.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/series/6851.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪宋L（EV 智驾版 / 2026款 DM-i）",
+      "model_slug": "song-l-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-10-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 139800,
+      "price_max_rmb": 249800,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 662,
+      "file": "data/byd/song-l-2026.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/series/7220.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪唐L（EV / DM）",
+      "model_slug": "tang-l-2025",
+      "sub_brand": null,
+      "category": "中大型7座旗舰SUV",
+      "release_date": "2025-04-09",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 289800,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 670,
+      "file": "data/byd/tang-l-2025.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/",
+        "https://car.autohome.com.cn/config/series/8005.html"
+      ]
+    },
+    {
+      "brand": "byd",
+      "brand_name": "比亚迪",
+      "model": "比亚迪夏（2026款 DM-i）",
+      "model_slug": "xia-2026",
+      "sub_brand": null,
+      "category": "中大型7座插混MPV",
+      "release_date": "2025-11-04",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 206800,
+      "price_max_rmb": 269800,
+      "best_zero_to_100_s": 8.1,
+      "max_cltc_ev_km": 218,
+      "file": "data/byd/xia-2026.json",
+      "source_urls": [
+        "https://www.bydauto.com.cn/pc/"
+      ]
+    },
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model": "腾势D9（2026款第二代）",
+      "model_slug": "denza-d9-2026",
+      "sub_brand": null,
+      "category": "中大型7座豪华MPV",
+      "release_date": "2026-04-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 309800,
+      "price_max_rmb": 469800,
+      "best_zero_to_100_s": 8.5,
+      "max_cltc_ev_km": 800,
+      "file": "data/denza/denza-d9-2026.json",
+      "source_urls": [
+        "https://www.denza.com/cn2_0/brand.html"
+      ]
+    },
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model": "腾势N8L（2026款闪充版）",
+      "model_slug": "denza-n8l-2026",
+      "sub_brand": null,
+      "category": "中大型6座豪华SUV",
+      "release_date": "2026-06-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 299800,
+      "price_max_rmb": 349800,
+      "best_zero_to_100_s": 3.7,
+      "max_cltc_ev_km": 960,
+      "file": "data/denza/denza-n8l-2026.json",
+      "source_urls": [
+        "https://www.denza.com/cn2_0/brand.html"
+      ]
+    },
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model": "腾势N9（2026款闪充版）",
+      "model_slug": "denza-n9-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰6座插混SUV",
+      "release_date": "2026-05-18",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 409800,
+      "price_max_rmb": 469800,
+      "best_zero_to_100_s": 3.7,
+      "max_cltc_ev_km": 420,
+      "file": "data/denza/denza-n9-2026.json",
+      "source_urls": [
+        "https://www.denza.com/cn2_0/brand.html"
+      ]
+    },
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model": "腾势Z9GT / Z9S（2026款闪充版）",
+      "model_slug": "denza-z9gt-2026",
+      "sub_brand": null,
+      "category": "中大型豪华猎装/旗舰轿车",
+      "release_date": "2026-03-05",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 269800,
+      "price_max_rmb": 369800,
+      "best_zero_to_100_s": 2.68,
+      "max_cltc_ev_km": 1036,
+      "file": "data/denza/denza-z9gt-2026.json",
+      "source_urls": [
+        "https://www.denza.com/cn2_0/care-compare?goodsId=31"
+      ]
+    },
+    {
+      "brand": "fangchengbao",
+      "brand_name": "方程豹",
+      "model": "方程豹豹5（2026款）",
+      "model_slug": "bao5-2026",
+      "sub_brand": null,
+      "category": "中型硬派电驱越野SUV",
+      "release_date": "2025-10-20",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 259800,
+      "price_max_rmb": 329800,
+      "best_zero_to_100_s": 4.8,
+      "max_cltc_ev_km": 210,
+      "file": "data/fangchengbao/bao5-2026.json",
+      "source_urls": [
+        "https://www.fangchengbao.com/bao5"
+      ]
+    },
+    {
+      "brand": "fangchengbao",
+      "brand_name": "方程豹",
+      "model": "方程豹豹8（2026款闪充版）",
+      "model_slug": "bao8-2026",
+      "sub_brand": null,
+      "category": "中大型智能硬派旗舰SUV",
+      "release_date": "2026-05-13",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 419800,
+      "price_max_rmb": 427800,
+      "best_zero_to_100_s": 4.8,
+      "max_cltc_ev_km": 200,
+      "file": "data/fangchengbao/bao8-2026.json",
+      "source_urls": [
+        "https://www.fangchengbao.com/product/bao8.html"
+      ]
+    },
+    {
+      "brand": "fangchengbao",
+      "brand_name": "方程豹",
+      "model": "方程豹钛3（2026款闪充版）",
+      "model_slug": "tai3-2026",
+      "sub_brand": null,
+      "category": "紧凑型纯电潮玩SUV",
+      "release_date": "2026-03-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 143800,
+      "price_max_rmb": 169800,
+      "best_zero_to_100_s": 4.7,
+      "max_cltc_ev_km": 620,
+      "file": "data/fangchengbao/tai3-2026.json",
+      "source_urls": [
+        "https://www.fangchengbao.com/"
+      ]
+    },
+    {
+      "brand": "fangchengbao",
+      "brand_name": "方程豹",
+      "model": "方程豹钛7（2026款 PHEV / EV闪充版）",
+      "model_slug": "tai7-2026",
+      "sub_brand": null,
+      "category": "中大型方盒子SUV",
+      "release_date": "2026-04-29",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 195800,
+      "price_max_rmb": 239800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 755,
+      "file": "data/fangchengbao/tai7-2026.json",
+      "source_urls": [
+        "https://www.fangchengbao.com/disposition-tai7.html"
+      ]
+    },
+    {
+      "brand": "yangwang",
+      "brand_name": "仰望",
+      "model": "仰望U7（2026款）",
+      "model_slug": "yangwang-u7-2026",
+      "sub_brand": null,
+      "category": "百万级旗舰行政轿车",
+      "release_date": "2026-03-05",
+      "image_url": "https://www.yangwangauto.com/material/yangwang_cn/images/u7-202511/u720251118/yangwangu7buchongsucai-1117/U7-%E9%A6%96%E5%B1%8F%E9%A1%B5%E9%9D%A2-001-3840x2160.jpg",
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 658000,
+      "price_max_rmb": 888000,
+      "best_zero_to_100_s": 2.9,
+      "max_cltc_ev_km": 1006,
+      "file": "data/yangwang/yangwang-u7-2026.json",
+      "source_urls": [
+        "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4"
+      ]
+    },
+    {
+      "brand": "yangwang",
+      "brand_name": "仰望",
+      "model": "仰望U8 / U8L（2026款）",
+      "model_slug": "yangwang-u8-2026",
+      "sub_brand": null,
+      "category": "百万级全尺寸硬派/行政SUV",
+      "release_date": "2026-03-05",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 1008000,
+      "price_max_rmb": 1458000,
+      "best_zero_to_100_s": 3.5,
+      "max_cltc_ev_km": 230,
+      "file": "data/yangwang/yangwang-u8-2026.json",
+      "source_urls": [
+        "https://www.yangwangauto.com/car-detail-u8",
+        "https://www.yangwangauto.com/c-u8-l.html"
+      ]
+    },
+    {
+      "brand": "yangwang",
+      "brand_name": "仰望",
+      "model": "仰望U9 / U9 Xtreme",
+      "model_slug": "yangwang-u9",
+      "sub_brand": null,
+      "category": "百万级纯电超跑",
+      "release_date": "2024-02-25",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 1680000,
+      "price_max_rmb": 1680000,
+      "best_zero_to_100_s": 2.36,
+      "max_cltc_ev_km": 450,
+      "file": "data/yangwang/yangwang-u9.json",
+      "source_urls": [
+        "https://www.yangwangauto.com/car-u9-detail"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "全新岚图梦想家（2026款）",
+      "model_slug": "dreamer-2026",
+      "sub_brand": null,
+      "category": "中大型豪华MPV",
+      "release_date": "2025-09-15",
+      "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/dreamer-champion/kv_0408_375.jpg",
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 329900,
+      "price_max_rmb": 709900,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 701,
+      "file": "data/voyah/dreamer-2026.json",
+      "source_urls": [
+        "https://www.voyah.com.cn/dreamer9.html",
+        "https://car.autohome.com.cn/config/series/6459.html"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "岚图FREE+（2025款）",
+      "model_slug": "free-plus-2025",
+      "sub_brand": null,
+      "category": "中大型5座增程SUV",
+      "release_date": "2025-07-12",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 279900,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": 318,
+      "file": "data/voyah/free-plus-2025.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/spec/73126.html"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "岚图泰山（2026款）",
+      "model_slug": "titan-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰6座插混SUV",
+      "release_date": "2025-11-18",
+      "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/titan/375/sc_1.jpg",
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 379900,
+      "price_max_rmb": 509900,
+      "best_zero_to_100_s": 5.2,
+      "max_cltc_ev_km": 350,
+      "file": "data/voyah/titan-2026.json",
+      "source_urls": [
+        "https://www.voyah.com.cn/titan.html",
+        "https://car.autohome.com.cn/config/series/8291.html"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "岚图知音（2027款 896线乾崑版）",
+      "model_slug": "zhiyin-2027",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2026-11-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 212900,
+      "price_max_rmb": 242900,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 901,
+      "file": "data/voyah/zhiyin-2027.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7728.html"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "岚图追光L（2026款）",
+      "model_slug": "zhuiguang-l-2026",
+      "sub_brand": null,
+      "category": "中大型插混行政轿车",
+      "release_date": "2025-12-10",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 279900,
+      "price_max_rmb": 339900,
+      "best_zero_to_100_s": 4.8,
+      "max_cltc_ev_km": 410,
+      "file": "data/voyah/zhuiguang-l-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/8259.html"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝G318（2026款）",
+      "model_slug": "g318-2026",
+      "sub_brand": null,
+      "category": "中大型科技硬派增程SUV",
+      "release_date": "2026-08-21",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 185900,
+      "price_max_rmb": 239800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 200,
+      "file": "data/deepal/g318-2026.json",
+      "source_urls": [
+        "https://www.deepal.com.cn/car/parameter",
+        "https://car.autohome.com.cn/config/series/7569.html"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝L07（2026款）",
+      "model_slug": "l07-2026",
+      "sub_brand": null,
+      "category": "中型轿车",
+      "release_date": "2025-08-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 145900,
+      "price_max_rmb": 165900,
+      "best_zero_to_100_s": 6.2,
+      "max_cltc_ev_km": 660,
+      "file": "data/deepal/l07-2026.json",
+      "source_urls": [
+        "https://deepal.com.cn/car/configuration?car=L07&source=1&sort=1"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝S05（2027款）",
+      "model_slug": "s05-2027",
+      "sub_brand": null,
+      "category": "紧凑型SUV",
+      "release_date": "2026-08-06",
+      "image_url": "https://files.deepal.com.cn/operate/official/1542255672441536513/202511/21DF7E8FF3D0D905D7E8355F1312A120.png",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 119900,
+      "price_max_rmb": 151900,
+      "best_zero_to_100_s": 6.28,
+      "max_cltc_ev_km": 620,
+      "file": "data/deepal/s05-2027.json",
+      "source_urls": [
+        "https://www.deepal.com.cn/car/configuration?car=S05&sort=1&source=1"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝S07（2026款）",
+      "model_slug": "s07-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-09-19",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 149900,
+      "price_max_rmb": 176900,
+      "best_zero_to_100_s": 7.4,
+      "max_cltc_ev_km": 630,
+      "file": "data/deepal/s07-2026.json",
+      "source_urls": [
+        "https://www.deepal.com.cn/car/parameter",
+        "https://car.autohome.com.cn/config/series/6817.html"
+      ]
+    },
+    {
+      "brand": "deepal",
+      "brand_name": "深蓝",
+      "model": "深蓝S09（2025/2026款）",
+      "model_slug": "s09-2026",
+      "sub_brand": null,
+      "category": "大型6座家庭增程SUV",
+      "release_date": "2025-04-23",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 239900,
+      "price_max_rmb": 309900,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 310,
+      "file": "data/deepal/s09-2026.json",
+      "source_urls": [
+        "https://www.deepal.com.cn/car/parameter",
+        "https://car.autohome.com.cn/config/series/7979.html"
+      ]
+    },
+    {
+      "brand": "geely-galaxy",
+      "brand_name": "吉利银河",
+      "model": "吉利银河E5（2027款）",
+      "model_slug": "galaxy-e5-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2026-09-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 107800,
+      "price_max_rmb": 147800,
+      "best_zero_to_100_s": 5.8,
+      "max_cltc_ev_km": 635,
+      "file": "data/geely-galaxy/galaxy-e5-2027.json",
+      "source_urls": [
+        "https://galaxy.geely.com/",
+        "https://car.autohome.com.cn/config/series/7650.html"
+      ]
+    },
+    {
+      "brand": "geely-galaxy",
+      "brand_name": "吉利银河",
+      "model": "吉利银河E8",
+      "model_slug": "galaxy-e8-2025",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2025-03-03",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 161800,
+      "price_max_rmb": 198800,
+      "best_zero_to_100_s": 3.49,
+      "max_cltc_ev_km": 700,
+      "file": "data/geely-galaxy/galaxy-e8-2025.json",
+      "source_urls": [
+        "https://galaxy.geely.com/E8",
+        "https://car.autohome.com.cn/config/series/7170.html"
+      ]
+    },
+    {
+      "brand": "geely-galaxy",
+      "brand_name": "吉利银河",
+      "model": "吉利银河M9（旗舰6座）",
+      "model_slug": "galaxy-m9-2026",
+      "sub_brand": null,
+      "category": "全尺寸6座插混旗舰SUV",
+      "release_date": "2025-09-17",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 183800,
+      "price_max_rmb": 269800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 230,
+      "file": "data/geely-galaxy/galaxy-m9-2026.json",
+      "source_urls": [
+        "https://www.galaxy-geely.com/M9"
+      ]
+    },
+    {
+      "brand": "geely-galaxy",
+      "brand_name": "吉利银河",
+      "model": "吉利银河星舰7（EM-i / EV）",
+      "model_slug": "starship7-2026",
+      "sub_brand": null,
+      "category": "紧凑型SUV",
+      "release_date": "2025-11-19",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 101800,
+      "price_max_rmb": 129800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 605,
+      "file": "data/geely-galaxy/starship7-2026.json",
+      "source_urls": [
+        "https://www.galaxy-geely.com/p145",
+        "https://car.autohome.com.cn/config/series/7864.html"
+      ]
+    },
+    {
+      "brand": "geely-galaxy",
+      "brand_name": "吉利银河",
+      "model": "吉利星愿（2026/2027款）",
+      "model_slug": "xingyuan-2026",
+      "sub_brand": null,
+      "category": "小型纯电两厢车",
+      "release_date": "2026-05-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 64800,
+      "price_max_rmb": 94800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 480,
+      "file": "data/geely-galaxy/xingyuan-2026.json",
+      "source_urls": [
+        "https://galaxy.geely.com/xingyuan/"
+      ]
+    },
+    {
+      "brand": "changan-qiyuan",
+      "brand_name": "长安启源",
+      "model": "长安启源A07（2026款）",
+      "model_slug": "qiyuan-a07-2026",
+      "sub_brand": null,
+      "category": "中大型轿车",
+      "release_date": "2025-09-10",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 139900,
+      "price_max_rmb": 159900,
+      "best_zero_to_100_s": 6.7,
+      "max_cltc_ev_km": 730,
+      "file": "data/changan-qiyuan/qiyuan-a07-2026.json",
+      "source_urls": [
+        "https://www.changan.com.cn/qiyuan/",
+        "https://car.autohome.com.cn/config/series/7209.html"
+      ]
+    },
+    {
+      "brand": "changan-qiyuan",
+      "brand_name": "长安启源",
+      "model": "长安启源E07（2026款）",
+      "model_slug": "qiyuan-e07-2026",
+      "sub_brand": null,
+      "category": "中大型变形智能SUV",
+      "release_date": "2025-08-29",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 309900,
+      "best_zero_to_100_s": 3.96,
+      "max_cltc_ev_km": 701,
+      "file": "data/changan-qiyuan/qiyuan-e07-2026.json",
+      "source_urls": [
+        "https://www.changan.com.cn/qiyuan/",
+        "https://car.autohome.com.cn/config/series/7575.html"
+      ]
+    },
+    {
+      "brand": "changan-qiyuan",
+      "brand_name": "长安启源",
+      "model": "长安启源Q07（2027款）",
+      "model_slug": "qiyuan-q07-2027",
+      "sub_brand": null,
+      "category": "中型插混SUV",
+      "release_date": "2026-10-20",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 139800,
+      "price_max_rmb": 169800,
+      "best_zero_to_100_s": 7.4,
+      "max_cltc_ev_km": 215,
+      "file": "data/changan-qiyuan/qiyuan-q07-2027.json",
+      "source_urls": [
+        "https://www.changan.com.cn/qiyuan/",
+        "https://car.autohome.com.cn/config/series/7975.html"
+      ]
+    },
+    {
+      "brand": "exeed-sterra",
+      "brand_name": "星途星纪元",
+      "model": "星纪元ES（2027款）",
+      "model_slug": "sterra-es-2027",
+      "sub_brand": null,
+      "category": "中大型轿跑",
+      "release_date": "2026-07-20",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 179900,
+      "price_max_rmb": 209900,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": 860,
+      "file": "data/exeed-sterra/sterra-es-2027.json",
+      "source_urls": [
+        "https://www.exeedcars.com/xjy/es_reev/",
+        "https://car.autohome.com.cn/config/series/7035.html"
+      ]
+    },
+    {
+      "brand": "exeed-sterra",
+      "brand_name": "星途星纪元",
+      "model": "星纪元ET（2025款）",
+      "model_slug": "sterra-et-2025",
+      "sub_brand": null,
+      "category": "中大型SUV",
+      "release_date": "2025-04-19",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 172800,
+      "price_max_rmb": 279800,
+      "best_zero_to_100_s": 3.8,
+      "max_cltc_ev_km": 760,
+      "file": "data/exeed-sterra/sterra-et-2025.json",
+      "source_urls": [
+        "https://www.exeedcars.com/xjy/et_new/",
+        "https://car.autohome.com.cn/config/series/7174.html"
+      ]
+    },
+    {
+      "brand": "icar",
+      "brand_name": "iCAR",
+      "model": "iCAR 超级V23（2027款）",
+      "model_slug": "icar-v23-2027",
+      "sub_brand": null,
+      "category": "紧凑型方盒子纯电SUV",
+      "release_date": "2026-11-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 109800,
+      "price_max_rmb": 154800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 550,
+      "file": "data/icar/icar-v23-2027.json",
+      "source_urls": [
+        "https://www.icarglobal.com/zh/carview/iCARV23/"
+      ]
+    },
+    {
+      "brand": "icar",
+      "brand_name": "iCAR",
+      "model": "iCAR V27（2026/2027款）",
+      "model_slug": "icar-v27-2027",
+      "sub_brand": null,
+      "category": "中大型方盒子增程SUV",
+      "release_date": "2026-03-13",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 169800,
+      "price_max_rmb": 203800,
+      "best_zero_to_100_s": 5.5,
+      "max_cltc_ev_km": 300,
+      "file": "data/icar/icar-v27-2027.json",
+      "source_urls": [
+        "https://www.icarglobal.com/zh/carview/iCARV27/"
+      ]
+    },
+    {
+      "brand": "hyptec",
+      "brand_name": "广汽昊铂",
+      "model": "昊铂GT（2025/2026款）",
+      "model_slug": "hyptec-gt-2026",
+      "sub_brand": null,
+      "category": "中大型纯电运动轿跑",
+      "release_date": "2026-07-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 153800,
+      "price_max_rmb": 203900,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": 710,
+      "file": "data/hyptec/hyptec-gt-2026.json",
+      "source_urls": [
+        "https://www.hyptec.com/",
+        "https://car.autohome.com.cn/config/series/7084.html"
+      ]
+    },
+    {
+      "brand": "hyptec",
+      "brand_name": "广汽昊铂",
+      "model": "昊铂HL",
+      "model_slug": "hyptec-hl-2025",
+      "sub_brand": null,
+      "category": "中大型豪华SUV（5/6座）",
+      "release_date": "2025-04-12",
+      "image_url": "https://hyper-resouce.aion.com.cn/Public/Uploads/Picture/images/2026/05/171899946559347713698486637227.jpg",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 269800,
+      "price_max_rmb": 319800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 750,
+      "file": "data/hyptec/hyptec-hl-2025.json",
+      "source_urls": [
+        "https://www.hyptec.com/vehicle/config/table?alias=aHlwZXJfaGw%3D"
+      ]
+    },
+    {
+      "brand": "hyptec",
+      "brand_name": "广汽昊铂",
+      "model": "昊铂HT（2025款）",
+      "model_slug": "hyptec-ht-2025",
+      "sub_brand": null,
+      "category": "中大型纯电轿跑SUV",
+      "release_date": "2025-07-03",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 189900,
+      "price_max_rmb": 229900,
+      "best_zero_to_100_s": 5.8,
+      "max_cltc_ev_km": 825,
+      "file": "data/hyptec/hyptec-ht-2025.json",
+      "source_urls": [
+        "https://www.hyptec.com/",
+        "https://car.autohome.com.cn/config/series/7395.html"
+      ]
+    },
+    {
+      "brand": "aion",
+      "brand_name": "广汽埃安",
+      "model": "AION RT（2027款）",
+      "model_slug": "aion-rt-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电轿跑",
+      "release_date": "2026-08-05",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 99800,
+      "price_max_rmb": 128800,
+      "best_zero_to_100_s": 7.5,
+      "max_cltc_ev_km": 710,
+      "file": "data/aion/aion-rt-2027.json",
+      "source_urls": [
+        "https://www.aion.com.cn/",
+        "https://car.autohome.com.cn/config/series/7860.html"
+      ]
+    },
+    {
+      "brand": "aion",
+      "brand_name": "广汽埃安",
+      "model": "AION UT（2027款）",
+      "model_slug": "aion-ut-2027",
+      "sub_brand": null,
+      "category": "小型纯电两厢车",
+      "release_date": "2026-08-22",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 86800,
+      "price_max_rmb": 89800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 530,
+      "file": "data/aion/aion-ut-2027.json",
+      "source_urls": [
+        "https://www.aion.com.cn/vehicle/config/table?cid=NjI%3D"
+      ]
+    },
+    {
+      "brand": "aion",
+      "brand_name": "广汽埃安",
+      "model": "埃安霸王龙（第二代AION V 家庭版）",
+      "model_slug": "aion-v-2026",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2025-08-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 109800,
+      "price_max_rmb": 135800,
+      "best_zero_to_100_s": 7.9,
+      "max_cltc_ev_km": 650,
+      "file": "data/aion/aion-v-2026.json",
+      "source_urls": [
+        "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57"
+      ]
+    },
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model": "极狐阿尔法S5（2027款）",
+      "model_slug": "alpha-s5-2027",
+      "sub_brand": null,
+      "category": "中型纯电轿跑",
+      "release_date": "2026-11-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 121800,
+      "price_max_rmb": 144800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 750,
+      "file": "data/arcfox/alpha-s5-2027.json",
+      "source_urls": [
+        "https://www.arcfox.com.cn/"
+      ]
+    },
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model": "极狐阿尔法S6 / T6",
+      "model_slug": "alpha-s6-t6-2026",
+      "sub_brand": null,
+      "category": "中大型纯电轿车 / SUV",
+      "release_date": "2025-04-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 195800,
+      "price_max_rmb": 225800,
+      "best_zero_to_100_s": 4.6,
+      "max_cltc_ev_km": 735,
+      "file": "data/arcfox/alpha-s6-t6-2026.json",
+      "source_urls": [
+        "https://www.arcfox.com.cn/S6/index.html"
+      ]
+    },
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model": "极狐全新阿尔法T5（2026款）",
+      "model_slug": "alpha-t5-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-10-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 113800,
+      "price_max_rmb": 158800,
+      "best_zero_to_100_s": 6.5,
+      "max_cltc_ev_km": 705,
+      "file": "data/arcfox/alpha-t5-2026.json",
+      "source_urls": [
+        "https://www.arcfox.com.cn/T5/index.html"
+      ]
+    },
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model": "极狐考拉S（2026款）",
+      "model_slug": "kaola-s-2026",
+      "sub_brand": null,
+      "category": "紧凑型电动侧滑门纯电SUV",
+      "release_date": "2026-01-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 99800,
+      "price_max_rmb": 119800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 520,
+      "file": "data/arcfox/kaola-s-2026.json",
+      "source_urls": [
+        "https://www.arcfox.com.cn/"
+      ]
+    },
+    {
+      "brand": "wey",
+      "brand_name": "魏牌",
+      "model": "魏牌高山（7/8/9及2027款智慧版）",
+      "model_slug": "gaoshan-2026",
+      "sub_brand": null,
+      "category": "中大型豪华插混MPV",
+      "release_date": "2026-09-23",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 272800,
+      "price_max_rmb": 385800,
+      "best_zero_to_100_s": 5.6,
+      "max_cltc_ev_km": 270,
+      "file": "data/wey/gaoshan-2026.json",
+      "source_urls": [
+        "https://www.wey.com/gaoshan.html",
+        "https://www.wey.com/gaoshan-intelligence.html"
+      ]
+    },
+    {
+      "brand": "wey",
+      "brand_name": "魏牌",
+      "model": "魏牌全新蓝山（2026款智能进阶版）",
+      "model_slug": "lanshan-2026",
+      "sub_brand": null,
+      "category": "中大型6座插混SUV",
+      "release_date": "2025-12-22",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 299800,
+      "price_max_rmb": 326800,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": null,
+      "file": "data/wey/lanshan-2026.json",
+      "source_urls": [
+        "https://www.wey.com/lanshan.html",
+        "https://www.wey.com/lanshanConfiguration.html"
+      ]
+    },
+    {
+      "brand": "tank",
+      "brand_name": "坦克新能源",
+      "model": "全新坦克400 Hi4-T / Hi4-Z（2026款）",
+      "model_slug": "tank-400-2026",
+      "sub_brand": null,
+      "category": "中大型机甲硬派插混越野SUV",
+      "release_date": "2025-11-06",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 285800,
+      "price_max_rmb": 319800,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": null,
+      "file": "data/tank/tank-400-2026.json",
+      "source_urls": [
+        "https://www.tanksuv.com/tank400.html"
+      ]
+    },
+    {
+      "brand": "tank",
+      "brand_name": "坦克新能源",
+      "model": "27款坦克500 Hi4-T / Hi4-Z",
+      "model_slug": "tank-500-2027",
+      "sub_brand": null,
+      "category": "中大型豪华硬派插混越野SUV",
+      "release_date": "2026-10-23",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 335000,
+      "price_max_rmb": 375000,
+      "best_zero_to_100_s": 4.6,
+      "max_cltc_ev_km": null,
+      "file": "data/tank/tank-500-2027.json",
+      "source_urls": [
+        "https://www.tanksuv.com/carparam-500.html"
+      ]
+    }
+  ]
+}

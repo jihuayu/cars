@@ -1,0 +1,235 @@
+{
+  "brand": "exeed-sterra",
+  "brand_name": "星途星纪元",
+  "data_as_of": "2026-11-26",
+  "model": "星纪元ES（2027款）",
+  "model_slug": "sterra-es-2027",
+  "category": "中大型轿跑",
+  "release_date": "2026-07-20",
+  "source_urls": [
+    "https://www.exeedcars.com/xjy/es_reev/",
+    "https://car.autohome.com.cn/config/series/7035.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "sterra-es-2027-reev-302-max",
+      "sku_name": "2027款 增程302 Max激光雷达版",
+      "price_rmb": 179900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4945,
+        "width_mm": 1978,
+        "height_mm": 1480,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 227,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 41.1,
+        "cltc_pure_electric_range_km": 302,
+        "cltc_combined_range_km": 1685,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 17.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-Y",
+        "compute_tops": null,
+        "lidar": "1颗禾赛ATX激光雷达",
+        "system": "猎鹰700（城/高NOA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "疾影运动套件（电动尾翼+ISD灯） / 20英寸胎",
+          "price_rmb": "8999 / 6000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "sterra-es-2027-reev-255-ultra",
+      "sku_name": "2027款 增程255 Ultra四驱激光雷达版",
+      "price_rmb": 199900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4945,
+        "width_mm": 1978,
+        "height_mm": 1480,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 345,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 41.1,
+        "cltc_pure_electric_range_km": 255,
+        "cltc_combined_range_km": 1570,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 17.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-Y",
+        "compute_tops": null,
+        "lidar": "1颗禾赛ATX激光雷达",
+        "system": "猎鹰700（城/高NOA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "疾影运动套件（电动尾翼+ISD灯） / 20英寸胎",
+          "price_rmb": "8999 / 6000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "sterra-es-2027-bev-860-max",
+      "sku_name": "2027款 纯电860 Max激光雷达版",
+      "price_rmb": 209900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4945,
+        "width_mm": 1978,
+        "height_mm": 1480,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100.2,
+        "cltc_pure_electric_range_km": 860,
+        "cltc_combined_range_km": 860,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-Y",
+        "compute_tops": null,
+        "lidar": "1颗禾赛ATX激光雷达",
+        "system": "猎鹰700（城/高NOA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "疾影运动套件（电动尾翼+ISD灯） / 20英寸胎",
+          "price_rmb": "8999 / 6000",
+          "details": "官方选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

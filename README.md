@@ -5,7 +5,7 @@
 ## 数据规模总览
 
 <!-- STATS:START -->
-共收录 **7 大品牌 / 54 款主力车型 / 248 个在售 SKU**（数据更新日期：**2026-11-26**），全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。
+共收录 **27 大品牌 / 124 款主力车型 / 563 个在售 SKU**（数据更新日期：**2026-11-26**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。
 
 | 厂商目录 | 品牌 | 车型数 | SKU 数 | 品牌索引 |
 | :--- | :--- | ---: | ---: | :--- |
@@ -13,9 +13,29 @@
 | `data/xiaopeng/` | 小鹏汽车 | 8 | 40 | [`data/xiaopeng/index.json`](./data/xiaopeng/index.json) |
 | `data/avatr/` | 阿维塔 | 6 | 28 | [`data/avatr/index.json`](./data/avatr/index.json) |
 | `data/nio/` | 蔚来 | 7 | 24 | [`data/nio/index.json`](./data/nio/index.json) |
+| `data/onvo/` | 乐道 | 3 | 14 | [`data/onvo/index.json`](./data/onvo/index.json) |
+| `data/firefly/` | 萤火虫 | 1 | 6 | [`data/firefly/index.json`](./data/firefly/index.json) |
 | `data/leapmotor/` | 零跑汽车 | 8 | 49 | [`data/leapmotor/index.json`](./data/leapmotor/index.json) |
 | `data/immotors/` | 智己汽车 | 5 | 23 | [`data/immotors/index.json`](./data/immotors/index.json) |
 | `data/hima/` | 鸿蒙智行 | 13 | 73 | [`data/hima/index.json`](./data/hima/index.json) |
+| `data/xiaomi/` | 小米汽车 | 4 | 14 | [`data/xiaomi/index.json`](./data/xiaomi/index.json) |
+| `data/zeekr/` | 极氪 | 6 | 28 | [`data/zeekr/index.json`](./data/zeekr/index.json) |
+| `data/lynkco/` | 领克新能源 | 3 | 13 | [`data/lynkco/index.json`](./data/lynkco/index.json) |
+| `data/byd/` | 比亚迪 | 6 | 38 | [`data/byd/index.json`](./data/byd/index.json) |
+| `data/denza/` | 腾势 | 4 | 21 | [`data/denza/index.json`](./data/denza/index.json) |
+| `data/fangchengbao/` | 方程豹 | 4 | 17 | [`data/fangchengbao/index.json`](./data/fangchengbao/index.json) |
+| `data/yangwang/` | 仰望 | 3 | 10 | [`data/yangwang/index.json`](./data/yangwang/index.json) |
+| `data/voyah/` | 岚图 | 5 | 21 | [`data/voyah/index.json`](./data/voyah/index.json) |
+| `data/deepal/` | 深蓝 | 5 | 25 | [`data/deepal/index.json`](./data/deepal/index.json) |
+| `data/geely-galaxy/` | 吉利银河 | 5 | 24 | [`data/geely-galaxy/index.json`](./data/geely-galaxy/index.json) |
+| `data/changan-qiyuan/` | 长安启源 | 3 | 14 | [`data/changan-qiyuan/index.json`](./data/changan-qiyuan/index.json) |
+| `data/exeed-sterra/` | 星途星纪元 | 2 | 9 | [`data/exeed-sterra/index.json`](./data/exeed-sterra/index.json) |
+| `data/icar/` | iCAR | 2 | 9 | [`data/icar/index.json`](./data/icar/index.json) |
+| `data/hyptec/` | 广汽昊铂 | 3 | 13 | [`data/hyptec/index.json`](./data/hyptec/index.json) |
+| `data/aion/` | 广汽埃安 | 3 | 10 | [`data/aion/index.json`](./data/aion/index.json) |
+| `data/arcfox/` | 极狐 | 4 | 15 | [`data/arcfox/index.json`](./data/arcfox/index.json) |
+| `data/wey/` | 魏牌 | 2 | 8 | [`data/wey/index.json`](./data/wey/index.json) |
+| `data/tank/` | 坦克新能源 | 2 | 6 | [`data/tank/index.json`](./data/tank/index.json) |
 <!-- STATS:END -->
 
 ## 目录结构

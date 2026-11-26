@@ -6,14 +6,23 @@
   "sku_count": 73,
   "models": [
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "问界新M5 Ultra（2025款）",
       "model_slug": "aito-m5-ultra-2025",
       "sub_brand": "问界 AITO",
       "category": "中型5座SUV",
       "release_date": "2025-03-20",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 3,
       "price_min_rmb": 229800,
       "price_max_rmb": 249800,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 602,
       "file": "data/hima/aito-m5-ultra-2025.json",
       "source_urls": [
         "https://hima.auto/wenjie/m5-new/configuration/",
@@ -21,14 +30,23 @@
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "问界M6（2026款）",
       "model_slug": "aito-m6-2026",
       "sub_brand": "问界 AITO",
       "category": "中大型5座SUV",
       "release_date": "2026-04-22",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 7,
       "price_min_rmb": 229800,
       "price_max_rmb": 299800,
+      "best_zero_to_100_s": 5.2,
+      "max_cltc_ev_km": 760,
       "file": "data/hima/aito-m6-2026.json",
       "source_urls": [
         "https://aito.auto/model/m6/configuration/",
@@ -36,14 +54,23 @@
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "问界M7（2026款）",
       "model_slug": "aito-m7-2026",
       "sub_brand": "问界 AITO",
       "category": "中大型5/6座SUV",
       "release_date": "2025-09-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 4,
       "price_min_rmb": 279800,
       "price_max_rmb": 389800,
+      "best_zero_to_100_s": 4.7,
+      "max_cltc_ev_km": 710,
       "file": "data/hima/aito-m7-2026.json",
       "source_urls": [
         "https://hima.auto/wenjie/m7-new/configuration/",
@@ -51,14 +78,23 @@
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "问界新M8（2027款）",
       "model_slug": "aito-m8-2027",
       "sub_brand": "问界 AITO",
       "category": "大型家庭智慧旗舰SUV（5/6座）",
       "release_date": "2026-11-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 10,
       "price_min_rmb": 379800,
       "price_max_rmb": 469800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 830,
       "file": "data/hima/aito-m8-2027.json",
       "source_urls": [
         "https://aito.auto/model/m8/configuration/",
@@ -66,14 +102,23 @@
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "全新一代问界M9（2026款）",
       "model_slug": "aito-m9-2026",
       "sub_brand": "问界 AITO",
       "category": "全尺寸旗舰SUV（含领世加长版）",
       "release_date": "2026-05-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 8,
       "price_min_rmb": 479800,
       "price_max_rmb": 659800,
+      "best_zero_to_100_s": 3.99,
+      "max_cltc_ev_km": 750,
       "file": "data/hima/aito-m9-2026.json",
       "source_urls": [
         "https://aito.auto/model/m9/configuration/",
@@ -81,56 +126,90 @@
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "智界R7（2027款焕新版）",
       "model_slug": "luxeed-r7-2027",
       "sub_brand": "智界 LUXEED",
       "category": "中大型轿跑SUV",
       "release_date": "2026-09-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 6,
       "price_min_rmb": 239800,
       "price_max_rmb": 319800,
+      "best_zero_to_100_s": 4.4,
+      "max_cltc_ev_km": 855,
       "file": "data/hima/luxeed-r7-2027.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/7730.html"
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "智界新S7（2026款）",
       "model_slug": "luxeed-s7-2026",
       "sub_brand": "智界 LUXEED",
       "category": "中大型纯电轿跑",
       "release_date": "2026-03-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 6,
       "price_min_rmb": 229800,
       "price_max_rmb": 299800,
+      "best_zero_to_100_s": 3.3,
+      "max_cltc_ev_km": 855,
       "file": "data/hima/luxeed-s7-2026.json",
       "source_urls": [
         "https://hima.auto/zhijie/s7/configuration/"
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "智界V9（2026款）",
       "model_slug": "luxeed-v9-2026",
       "sub_brand": "智界 LUXEED",
       "category": "旗舰大型7座增程MPV",
       "release_date": "2026-05-15",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
       "sku_count": 4,
       "price_min_rmb": 389800,
       "price_max_rmb": 519800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 305,
       "file": "data/hima/luxeed-v9-2026.json",
       "source_urls": [
         "https://hima.auto/zhijie/v9/configuration/"
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "尊界S800（含典藏大观）",
       "model_slug": "maextro-s800-2026",
       "sub_brand": "尊界 MAEXTRO",
       "category": "超豪华大型行政轿车",
       "release_date": "2025-05-30",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 5,
       "price_min_rmb": 728000,
       "price_max_rmb": 1388000,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 702,
       "file": "data/hima/maextro-s800-2026.json",
       "source_urls": [
         "https://hima.auto/zunjie/s800/configuration/",
@@ -138,56 +217,91 @@
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "尚界H5（2026款）",
       "model_slug": "saic-h5-2026",
       "sub_brand": "尚界 SAIC",
       "category": "中型5座SUV",
       "release_date": "2025-09-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 6,
       "price_min_rmb": 159800,
       "price_max_rmb": 199800,
+      "best_zero_to_100_s": 7.3,
+      "max_cltc_ev_km": 655,
       "file": "data/hima/saic-h5-2026.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/8205.html"
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "尚界Z7 / Z7T（2026款）",
       "model_slug": "saic-z7-2026",
       "sub_brand": "尚界 SAIC",
       "category": "中型纯电轿跑 / 猎装轿跑",
       "release_date": "2026-04-22",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 2,
       "price_min_rmb": 219800,
       "price_max_rmb": 229800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": null,
       "file": "data/hima/saic-z7-2026.json",
       "source_urls": [
         "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025"
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "享界S9（2026款 896线激光雷达版）",
       "model_slug": "stelato-s9-2026",
       "sub_brand": "享界 STELATO",
       "category": "中大型行政豪华轿车",
       "release_date": "2026-03-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 6,
       "price_min_rmb": 319800,
       "price_max_rmb": 379800,
+      "best_zero_to_100_s": 3.92,
+      "max_cltc_ev_km": 816,
       "file": "data/hima/stelato-s9-2026.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/7630.html"
       ]
     },
     {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
       "model": "享界S9T（2026款 896线旅行车）",
       "model_slug": "stelato-s9t-2026",
       "sub_brand": "享界 STELATO",
       "category": "中大型豪华旅行车",
       "release_date": "2026-03-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 6,
       "price_min_rmb": 319800,
       "price_max_rmb": 379800,
+      "best_zero_to_100_s": 3.95,
+      "max_cltc_ev_km": 801,
       "file": "data/hima/stelato-s9t-2026.json",
       "source_urls": [
         "https://hima.auto/xiangjie/s9t/configuration/"

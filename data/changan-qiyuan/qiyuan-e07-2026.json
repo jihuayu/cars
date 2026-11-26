@@ -1,0 +1,454 @@
+{
+  "brand": "changan-qiyuan",
+  "brand_name": "长安启源",
+  "data_as_of": "2026-11-26",
+  "model": "长安启源E07（2026款）",
+  "model_slug": "qiyuan-e07-2026",
+  "category": "中大型变形智能SUV",
+  "release_date": "2025-08-29",
+  "source_urls": [
+    "https://www.changan.com.cn/qiyuan/",
+    "https://car.autohome.com.cn/config/series/7575.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "qiyuan-e07-2026-reev-pro",
+      "sku_name": "增程后驱 39kWh Pro+",
+      "price_rmb": 219900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5045,
+        "width_mm": 1996,
+        "height_mm": 1665,
+        "wheelbase_mm": 3120,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 231,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 39.05,
+        "cltc_pure_electric_range_km": 245,
+        "cltc_combined_range_km": 1145,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": "标配空气悬架",
+        "cdc": "CDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线J3",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "长安智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "21英寸轮毂 / 行李架",
+          "price_rmb": "20000 / 1000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "qiyuan-e07-2026-reev-max",
+      "sku_name": "增程四驱 39kWh Max+",
+      "price_rmb": 259900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5045,
+        "width_mm": 1996,
+        "height_mm": 1665,
+        "wheelbase_mm": 3120,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 362,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.15,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 39.05,
+        "cltc_pure_electric_range_km": 230,
+        "cltc_combined_range_km": 1130,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": "标配空气悬架",
+        "cdc": "CDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗禾赛AT128",
+        "system": "长安智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "21英寸轮毂 / 行李架",
+          "price_rmb": "20000 / 1000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "qiyuan-e07-2026-reev-ultra",
+      "sku_name": "增程四驱 39kWh Ultra",
+      "price_rmb": 289900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5045,
+        "width_mm": 1996,
+        "height_mm": 1695,
+        "wheelbase_mm": 3120,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 362,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.15,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 39.05,
+        "cltc_pure_electric_range_km": 230,
+        "cltc_combined_range_km": 1130,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": "标配空气悬架",
+        "cdc": "CDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗禾赛AT128",
+        "system": "长安智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "21英寸轮毂 / 行李架",
+          "price_rmb": "20000 / 1000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "qiyuan-e07-2026-bev-pro",
+      "sku_name": "纯电后驱 90kWh Pro+",
+      "price_rmb": 239900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5045,
+        "width_mm": 1996,
+        "height_mm": 1665,
+        "wheelbase_mm": 3120,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 252,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 89.98,
+        "cltc_pure_electric_range_km": 701,
+        "cltc_combined_range_km": 701,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": "标配空气悬架",
+        "cdc": "CDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线J3",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "长安智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "21英寸轮毂 / 行李架",
+          "price_rmb": "20000 / 1000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "qiyuan-e07-2026-bev-max",
+      "sku_name": "纯电四驱 90kWh Max+",
+      "price_rmb": 279900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5045,
+        "width_mm": 1996,
+        "height_mm": 1695,
+        "wheelbase_mm": 3120,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 440,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.96,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 89.98,
+        "cltc_pure_electric_range_km": 651,
+        "cltc_combined_range_km": 651,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": "标配空气悬架",
+        "cdc": "CDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "Orin-X",
+        "compute_tops": null,
+        "lidar": "2颗禾赛AT128",
+        "system": "长安智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "21英寸轮毂 / 行李架",
+          "price_rmb": "20000 / 1000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "qiyuan-e07-2026-bev-ultra",
+      "sku_name": "纯电四驱 90kWh Ultra",
+      "price_rmb": 309900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5045,
+        "width_mm": 1996,
+        "height_mm": 1695,
+        "wheelbase_mm": 3120,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 440,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.96,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 89.98,
+        "cltc_pure_electric_range_km": 651,
+        "cltc_combined_range_km": 651,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": "标配空气悬架",
+        "cdc": "CDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "Orin-X",
+        "compute_tops": null,
+        "lidar": "2颗禾赛AT128",
+        "system": "长安智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "21英寸轮毂 / 行李架",
+          "price_rmb": "20000 / 1000",
+          "details": "官方选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

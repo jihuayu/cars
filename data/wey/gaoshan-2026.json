@@ -1,0 +1,351 @@
+{
+  "brand": "wey",
+  "brand_name": "魏牌",
+  "data_as_of": "2026-11-26",
+  "model": "魏牌高山（7/8/9及2027款智慧版）",
+  "model_slug": "gaoshan-2026",
+  "category": "中大型豪华插混MPV",
+  "release_date": "2026-09-23",
+  "source_urls": [
+    "https://www.wey.com/gaoshan.html",
+    "https://www.wey.com/gaoshan-intelligence.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "wey-gaoshan-7-2026",
+      "sku_name": "2026款 四驱高山7 商务畅享版",
+      "price_rmb": 272800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5050,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3085,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "Hi4智能电四驱",
+        "motor_power_kw": 215,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 44.28,
+        "cltc_pure_electric_range_km": "172(WLTC)",
+        "cltc_combined_range_km": 945,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前麦弗逊",
+        "rear_suspension": "全铝后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "Coffee Pilot Ultra",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8295",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wey-gaoshan-8-2025",
+      "sku_name": "2025款 四驱高山8",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3145,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "Hi4智能电四驱",
+        "motor_power_kw": 215,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 44.28,
+        "cltc_pure_electric_range_km": "172(WLTC)",
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前麦弗逊",
+        "rear_suspension": "全铝后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "Coffee Pilot Ultra",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8295",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wey-gaoshan-9-2025",
+      "sku_name": "2025款 四驱高山9",
+      "price_rmb": 353800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5410,
+        "width_mm": 1960,
+        "height_mm": 1890,
+        "wheelbase_mm": 3275,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "Hi4智能电四驱",
+        "motor_power_kw": 215,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 51.55,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前麦弗逊",
+        "rear_suspension": "全铝后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "Coffee Pilot Ultra",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8295",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wey-gaoshan-8-smart-2027",
+      "sku_name": "2027款 高山8 智慧版",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1960,
+        "height_mm": 1900,
+        "wheelbase_mm": 3145,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "Hi4智能电四驱",
+        "motor_power_kw": 235,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 53.9,
+        "cltc_pure_electric_range_km": 270,
+        "cltc_combined_range_km": 1199,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前麦弗逊",
+        "rear_suspension": "全铝后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": 700,
+        "lidar": "双激光雷达",
+        "system": "Coffee Pilot 4 (CP4)",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wey-gaoshan-9-smart-2027",
+      "sku_name": "2027款 高山9 智慧版",
+      "price_rmb": 385800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5410,
+        "width_mm": 1960,
+        "height_mm": 1890,
+        "wheelbase_mm": 3275,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "Hi4智能电四驱",
+        "motor_power_kw": 235,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 53.9,
+        "cltc_pure_electric_range_km": 265,
+        "cltc_combined_range_km": 1166,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "18min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前麦弗逊",
+        "rear_suspension": "全铝后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": 700,
+        "lidar": "双激光雷达",
+        "system": "Coffee Pilot 4 (CP4)",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8797",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

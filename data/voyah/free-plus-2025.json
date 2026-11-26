@@ -1,0 +1,216 @@
+{
+  "brand": "voyah",
+  "brand_name": "岚图",
+  "data_as_of": "2026-11-26",
+  "model": "岚图FREE+（2025款）",
+  "model_slug": "free-plus-2025",
+  "category": "中大型5座增程SUV",
+  "release_date": "2025-07-12",
+  "source_urls": [
+    "https://car.autohome.com.cn/config/spec/73126.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "voyah-free-plus-rwd",
+      "sku_name": "FREE+ 后驱乾崑版",
+      "price_rmb": 219900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4915,
+        "width_mm": 1960,
+        "height_mm": 1660,
+        "wheelbase_mm": 2960,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 215,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 45.0,
+        "cltc_pure_electric_range_km": 318,
+        "cltc_combined_range_km": 1458,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前四球节双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": false,
+        "cdc": "EDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "192线激光雷达",
+        "system": "华为乾崑ADS 4",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱HarmonySpace 5",
+        "hud": null,
+        "audio": "22扬声器",
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "voyah-free-plus-awd",
+      "sku_name": "FREE+ 四驱乾崑版",
+      "price_rmb": 249900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4915,
+        "width_mm": 1960,
+        "height_mm": 1660,
+        "wheelbase_mm": 2960,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 350,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 45.0,
+        "cltc_pure_electric_range_km": 259,
+        "cltc_combined_range_km": 1357,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前四球节双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": "单腔空气悬架",
+        "cdc": "EDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "192线激光雷达",
+        "system": "华为乾崑ADS 4",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱HarmonySpace 5",
+        "hud": null,
+        "audio": "22扬声器",
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "voyah-free-plus-awd-sport",
+      "sku_name": "FREE+ 四驱运动定制版",
+      "price_rmb": 279900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4915,
+        "width_mm": 1960,
+        "height_mm": 1660,
+        "wheelbase_mm": 2960,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 350,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 45.0,
+        "cltc_pure_electric_range_km": 259,
+        "cltc_combined_range_km": 1357,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前四球节双叉臂",
+        "rear_suspension": "后H臂多连杆",
+        "air_suspension": "单腔空气悬架",
+        "cdc": "EDC魔毯",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "192线激光雷达",
+        "system": "华为乾崑ADS 4",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱HarmonySpace 5",
+        "hud": null,
+        "audio": "22扬声器",
+        "fridge": "冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

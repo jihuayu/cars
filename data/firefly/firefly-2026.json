@@ -1,0 +1,417 @@
+{
+  "brand": "firefly",
+  "brand_name": "萤火虫",
+  "data_as_of": "2026-11-26",
+  "model": "firefly 萤火虫（2026款）",
+  "model_slug": "firefly-2026",
+  "category": "小型高端纯电两厢车",
+  "release_date": "2026-04-07",
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7990.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "firefly-2026-42-zizai",
+      "sku_name": "自在版 42.1kWh",
+      "price_rmb": 119800,
+      "baas_price_rmb": 79800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4003,
+        "width_mm": 1781,
+        "height_mm": 1557,
+        "wheelbase_mm": 2615,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 42.1,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": 420,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 29min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程5",
+        "compute_tops": 128,
+        "lidar": null,
+        "system": "L2+高速NOP+自动泊车",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155P",
+        "screens": "智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "firefly-2026-42-faguang",
+      "sku_name": "发光版 42.1kWh",
+      "price_rmb": 125800,
+      "baas_price_rmb": 85800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4003,
+        "width_mm": 1781,
+        "height_mm": 1557,
+        "wheelbase_mm": 2615,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 42.1,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": 420,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 29min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程5",
+        "compute_tops": 128,
+        "lidar": null,
+        "system": "L2+高速NOP+自动泊车",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155P",
+        "screens": "智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "firefly-2026-42-qixidi",
+      "sku_name": "栖息地 42.1kWh",
+      "price_rmb": 133300,
+      "baas_price_rmb": 93300,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4003,
+        "width_mm": 1781,
+        "height_mm": 1557,
+        "wheelbase_mm": 2615,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 42.1,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": 420,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 29min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程5",
+        "compute_tops": 128,
+        "lidar": null,
+        "system": "L2+高速NOP+自动泊车",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155P",
+        "screens": "智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "firefly-2026-60-zizai",
+      "sku_name": "自在版 60kWh",
+      "price_rmb": 136800,
+      "baas_price_rmb": 79800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4003,
+        "width_mm": 1781,
+        "height_mm": 1557,
+        "wheelbase_mm": 2615,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60.0,
+        "cltc_pure_electric_range_km": 560,
+        "cltc_combined_range_km": 560,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 33min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程5",
+        "compute_tops": 128,
+        "lidar": null,
+        "system": "L2+高速NOP+自动泊车",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155P",
+        "screens": "智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "firefly-2026-60-faguang",
+      "sku_name": "发光版 60kWh",
+      "price_rmb": 142800,
+      "baas_price_rmb": 85800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4003,
+        "width_mm": 1781,
+        "height_mm": 1557,
+        "wheelbase_mm": 2615,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60.0,
+        "cltc_pure_electric_range_km": 560,
+        "cltc_combined_range_km": 560,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 33min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程5",
+        "compute_tops": 128,
+        "lidar": null,
+        "system": "L2+高速NOP+自动泊车",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155P",
+        "screens": "智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "firefly-2026-60-liujin",
+      "sku_name": "片刻流金 60kWh",
+      "price_rmb": 152800,
+      "baas_price_rmb": 95800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4003,
+        "width_mm": 1781,
+        "height_mm": 1557,
+        "wheelbase_mm": 2615,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60.0,
+        "cltc_pure_electric_range_km": 560,
+        "cltc_combined_range_km": 560,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 33min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程5",
+        "compute_tops": 128,
+        "lidar": null,
+        "system": "L2+高速NOP+自动泊车",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155P",
+        "screens": "智能座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

@@ -1,0 +1,284 @@
+{
+  "brand": "voyah",
+  "brand_name": "岚图",
+  "data_as_of": "2026-11-26",
+  "model": "岚图泰山（2026款）",
+  "model_slug": "titan-2026",
+  "category": "全尺寸旗舰6座插混SUV",
+  "release_date": "2025-11-18",
+  "source_urls": [
+    "https://www.voyah.com.cn/titan.html",
+    "https://car.autohome.com.cn/config/series/8291.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "voyah-titan-2026-max",
+      "sku_name": "2026款 Max",
+      "price_rmb": 379900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5230,
+        "width_mm": 2025,
+        "height_mm": 1817,
+        "wheelbase_mm": 3120,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 380,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65,
+        "cltc_pure_electric_range_km": 350,
+        "cltc_combined_range_km": 1400,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 12min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "三腔空气悬架",
+        "cdc": "EDC魔毯",
+        "rear_wheel_steering": "双向16°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "四激光雷达(192线主+3固态)",
+        "system": "华为乾崑ADS 4",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱HarmonySpace 5",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "voyah-titan-2026-max-plus",
+      "sku_name": "2026款 Max+",
+      "price_rmb": 409900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5230,
+        "width_mm": 2025,
+        "height_mm": 1817,
+        "wheelbase_mm": 3120,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 380,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65,
+        "cltc_pure_electric_range_km": 350,
+        "cltc_combined_range_km": 1400,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 12min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "三腔空气悬架",
+        "cdc": "EDC魔毯",
+        "rear_wheel_steering": "双向16°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "四激光雷达(192线主+3固态)",
+        "system": "华为乾崑ADS 4",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱HarmonySpace 5",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "voyah-titan-2026-ultra",
+      "sku_name": "2026款 Ultra",
+      "price_rmb": 459900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5230,
+        "width_mm": 2025,
+        "height_mm": 1817,
+        "wheelbase_mm": 3120,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 380,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65,
+        "cltc_pure_electric_range_km": 350,
+        "cltc_combined_range_km": 1400,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 12min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "三腔空气悬架",
+        "cdc": "EDC魔毯",
+        "rear_wheel_steering": "双向16°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "四激光雷达(896线双光路主)",
+        "system": "华为乾崑ADS 4/L3冗余",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱HarmonySpace 5",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "voyah-titan-2026-black",
+      "sku_name": "2026款 黑武士",
+      "price_rmb": 509900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5230,
+        "width_mm": 2025,
+        "height_mm": 1817,
+        "wheelbase_mm": 3120,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 380,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.2,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65,
+        "cltc_pure_electric_range_km": 350,
+        "cltc_combined_range_km": 1400,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20%-80% 12min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "三腔空气悬架",
+        "cdc": "EDC魔毯",
+        "rear_wheel_steering": "双向16°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "四激光雷达(896线双光路主)",
+        "system": "华为乾崑ADS 4/L3冗余",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱HarmonySpace 5",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/titan/375/sc_1.jpg"
+}

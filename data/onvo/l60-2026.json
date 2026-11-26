@@ -1,0 +1,513 @@
+{
+  "brand": "onvo",
+  "brand_name": "乐道",
+  "data_as_of": "2026-11-26",
+  "model": "乐道L60（2026款）",
+  "model_slug": "l60-2026",
+  "category": "中型纯电SUV",
+  "release_date": "2026-06-11",
+  "source_urls": [
+    "https://configuration.onvo.cn/index?model_code=L60&scene=office"
+  ],
+  "skus": [
+    {
+      "sku_id": "onvo-l60-2026-60-pro",
+      "sku_name": "60kWh Pro",
+      "price_rmb": 192800,
+      "baas_price_rmb": 135800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4828,
+        "width_mm": 1930,
+        "height_mm": 1616,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 240,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60,
+        "cltc_pure_electric_range_km": 560,
+        "cltc_combined_range_km": 560,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双球节麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "Orin-X",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "纯视觉智驾",
+        "subscription_or_buyout": "NOP+ 380元/月；NOA 320元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "SkyOS·天枢座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "85kWh电池包",
+          "price_rmb": 29000,
+          "details": "长续航电池包"
+        },
+        {
+          "name": "后排舒享娱乐套装",
+          "price_rmb": 12800,
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+        },
+        {
+          "name": "20英寸轮圈 / Nappa豪华内饰",
+          "price_rmb": "8000 / 6000",
+          "details": "Ultra+标配"
+        }
+      ]
+    },
+    {
+      "sku_id": "onvo-l60-2026-85-pro",
+      "sku_name": "85kWh Pro",
+      "price_rmb": 221800,
+      "baas_price_rmb": 135800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4828,
+        "width_mm": 1930,
+        "height_mm": 1616,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 240,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 740,
+        "cltc_combined_range_km": 740,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双球节麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "Orin-X",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "纯视觉智驾",
+        "subscription_or_buyout": "NOP+ 380元/月；NOA 320元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "SkyOS·天枢座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "85kWh电池包",
+          "price_rmb": 29000,
+          "details": "长续航电池包"
+        },
+        {
+          "name": "后排舒享娱乐套装",
+          "price_rmb": 12800,
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+        },
+        {
+          "name": "20英寸轮圈 / Nappa豪华内饰",
+          "price_rmb": "8000 / 6000",
+          "details": "Ultra+标配"
+        }
+      ]
+    },
+    {
+      "sku_id": "onvo-l60-2026-60-max-plus",
+      "sku_name": "60kWh Max+",
+      "price_rmb": 202800,
+      "baas_price_rmb": 145800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4828,
+        "width_mm": 1930,
+        "height_mm": 1616,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 240,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60,
+        "cltc_pure_electric_range_km": 555,
+        "cltc_combined_range_km": 555,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双球节麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "NWM高阶智驾",
+        "subscription_or_buyout": "NOP+ 380元/月；NOA 320元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "SkyOS·天枢座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "85kWh电池包",
+          "price_rmb": 29000,
+          "details": "长续航电池包"
+        },
+        {
+          "name": "后排舒享娱乐套装",
+          "price_rmb": 12800,
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+        },
+        {
+          "name": "20英寸轮圈 / Nappa豪华内饰",
+          "price_rmb": "8000 / 6000",
+          "details": "Ultra+标配"
+        }
+      ]
+    },
+    {
+      "sku_id": "onvo-l60-2026-85-max-plus",
+      "sku_name": "85kWh Max+",
+      "price_rmb": 231800,
+      "baas_price_rmb": 145800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4828,
+        "width_mm": 1930,
+        "height_mm": 1616,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 240,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 730,
+        "cltc_combined_range_km": 730,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双球节麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "NWM高阶智驾",
+        "subscription_or_buyout": "NOP+ 380元/月；NOA 320元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "SkyOS·天枢座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "85kWh电池包",
+          "price_rmb": 29000,
+          "details": "长续航电池包"
+        },
+        {
+          "name": "后排舒享娱乐套装",
+          "price_rmb": 12800,
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+        },
+        {
+          "name": "20英寸轮圈 / Nappa豪华内饰",
+          "price_rmb": "8000 / 6000",
+          "details": "Ultra+标配"
+        }
+      ]
+    },
+    {
+      "sku_id": "onvo-l60-2026-60-ultra-plus",
+      "sku_name": "60kWh Ultra+",
+      "price_rmb": 222800,
+      "baas_price_rmb": 165800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4828,
+        "width_mm": 1930,
+        "height_mm": 1616,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60,
+        "cltc_pure_electric_range_km": 525,
+        "cltc_combined_range_km": 525,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双球节麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "NWM高阶智驾",
+        "subscription_or_buyout": "NOP+ 380元/月；NOA 320元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "SkyOS·天枢座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "85kWh电池包",
+          "price_rmb": 29000,
+          "details": "长续航电池包"
+        },
+        {
+          "name": "后排舒享娱乐套装",
+          "price_rmb": 12800,
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+        },
+        {
+          "name": "20英寸轮圈 / Nappa豪华内饰",
+          "price_rmb": "8000 / 6000",
+          "details": "Ultra+标配"
+        }
+      ]
+    },
+    {
+      "sku_id": "onvo-l60-2026-85-ultra-plus",
+      "sku_name": "85kWh Ultra+",
+      "price_rmb": 251800,
+      "baas_price_rmb": 165800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4828,
+        "width_mm": 1930,
+        "height_mm": 1616,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双球节麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "NWM高阶智驾",
+        "subscription_or_buyout": "NOP+ 380元/月；NOA 320元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "SkyOS·天枢座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "85kWh电池包",
+          "price_rmb": 29000,
+          "details": "长续航电池包"
+        },
+        {
+          "name": "后排舒享娱乐套装",
+          "price_rmb": 12800,
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+        },
+        {
+          "name": "20英寸轮圈 / Nappa豪华内饰",
+          "price_rmb": "8000 / 6000",
+          "details": "Ultra+标配"
+        }
+      ]
+    }
+  ],
+  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l60/g1.6/soo/highlights/highlights-carousel-02-desktop.jpg"
+}

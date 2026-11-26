@@ -1,0 +1,350 @@
+{
+  "brand": "hyptec",
+  "brand_name": "广汽昊铂",
+  "data_as_of": "2026-11-26",
+  "model": "昊铂HL",
+  "model_slug": "hyptec-hl-2025",
+  "category": "中大型豪华SUV（5/6座）",
+  "release_date": "2025-04-12",
+  "source_urls": [
+    "https://www.hyptec.com/vehicle/config/table?alias=aHlwZXJfaGw%3D"
+  ],
+  "skus": [
+    {
+      "sku_id": "hyptec-hl-350-pro-5",
+      "sku_name": "350 Pro五座激光雷达版",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5126,
+        "width_mm": 1990,
+        "height_mm": 1750,
+        "wheelbase_mm": 3088,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60.33,
+        "cltc_pure_electric_range_km": 350,
+        "cltc_combined_range_km": 1369,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 10min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "标配空气悬架+超级魔毯",
+        "cdc": "SDC可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "广汽GSD高阶智驾（城/高NDA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hyptec-hl-350-max-6",
+      "sku_name": "350 Max六座激光雷达版",
+      "price_rmb": 299800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5126,
+        "width_mm": 1990,
+        "height_mm": 1750,
+        "wheelbase_mm": 3088,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 60.33,
+        "cltc_pure_electric_range_km": 350,
+        "cltc_combined_range_km": 1369,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 10min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "标配空气悬架+超级魔毯",
+        "cdc": "SDC可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "广汽GSD高阶智驾（城/高NDA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hyptec-hl-750-max-5",
+      "sku_name": "750 Max五座激光雷达版",
+      "price_rmb": 299800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5126,
+        "width_mm": 1990,
+        "height_mm": 1750,
+        "wheelbase_mm": 3088,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 108.35,
+        "cltc_pure_electric_range_km": 750,
+        "cltc_combined_range_km": 750,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 10min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "标配空气悬架+超级魔毯",
+        "cdc": "SDC可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "广汽GSD高阶智驾（城/高NDA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hyptec-hl-750-max-6",
+      "sku_name": "750 Max六座激光雷达版",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5126,
+        "width_mm": 1990,
+        "height_mm": 1750,
+        "wheelbase_mm": 3088,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 108.35,
+        "cltc_pure_electric_range_km": 750,
+        "cltc_combined_range_km": 750,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 10min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "标配空气悬架+超级魔毯",
+        "cdc": "SDC可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "广汽GSD高阶智驾（城/高NDA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hyptec-hl-700-ultra-6",
+      "sku_name": "700 Ultra六座四驱激光雷达版",
+      "price_rmb": 319800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5126,
+        "width_mm": 1990,
+        "height_mm": 1750,
+        "wheelbase_mm": 3088,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": 380,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 108.35,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 10min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "标配空气悬架+超级魔毯",
+        "cdc": "SDC可变阻尼",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin-X",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "广汽GSD高阶智驾（城/高NDA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": "https://hyper-resouce.aion.com.cn/Public/Uploads/Picture/images/2026/05/171899946559347713698486637227.jpg"
+}

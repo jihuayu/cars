@@ -1,0 +1,161 @@
+{
+  "brand": "zeekr",
+  "brand_name": "极氪",
+  "data_as_of": "2026-11-26",
+  "model": "极氪MIX（2025款）",
+  "model_slug": "zeekr-mix-2025",
+  "category": "中型纯电家庭跨界MPV",
+  "release_date": "2024-10-23",
+  "source_urls": [
+    "https://m.zeekrlife.com/config"
+  ],
+  "skus": [
+    {
+      "sku_id": "zeekr-mix-76",
+      "sku_name": "2025款 智驾版 76kWh",
+      "price_rmb": 279900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4688,
+        "width_mm": 1995,
+        "height_mm": 1755,
+        "wheelbase_mm": 3008,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 310,
+        "motor_torque_nm": 440,
+        "zero_to_100_s": 6.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "第二代金砖磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 76,
+        "cltc_pure_electric_range_km": 550,
+        "cltc_combined_range_km": 550,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": 508,
+        "lidar": "1颗速腾激光雷达",
+        "system": "ZEEKR AD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.05英寸2.5K OLED向日葵屏",
+        "hud": "AR-HUD",
+        "audio": "21扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "ZEEKR AD完全智驾 / Stargate灯幕 / 20英寸轮毂",
+          "price_rmb": "35000 / 8000 / 8000",
+          "details": "官方选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "zeekr-mix-102",
+      "sku_name": "2025款 长续航智驾版 102kWh",
+      "price_rmb": 299900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4688,
+        "width_mm": 1995,
+        "height_mm": 1755,
+        "wheelbase_mm": 3008,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 310,
+        "motor_torque_nm": 440,
+        "zero_to_100_s": 6.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "麒麟三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": 702,
+        "cltc_combined_range_km": 702,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": "CCD",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双Orin-X",
+        "compute_tops": 508,
+        "lidar": "1颗速腾激光雷达",
+        "system": "ZEEKR AD",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "15.05英寸2.5K OLED向日葵屏",
+        "hud": "AR-HUD",
+        "audio": "21扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "ZEEKR AD完全智驾 / Stargate灯幕 / 20英寸轮毂",
+          "price_rmb": "35000 / 8000 / 8000",
+          "details": "官方选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

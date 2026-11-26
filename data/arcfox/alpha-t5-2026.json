@@ -1,0 +1,380 @@
+{
+  "brand": "arcfox",
+  "brand_name": "极狐",
+  "data_as_of": "2026-11-26",
+  "model": "极狐全新阿尔法T5（2026款）",
+  "model_slug": "alpha-t5-2026",
+  "category": "中型SUV",
+  "release_date": "2025-10-28",
+  "source_urls": [
+    "https://www.arcfox.com.cn/T5/index.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "arcfox-t5-2026-reev-1215-yx",
+      "sku_name": "增程 1215 悦享版",
+      "price_rmb": 113800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4760,
+        "width_mm": 1936,
+        "height_mm": 1650,
+        "wheelbase_mm": 2845,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 27.4,
+        "cltc_pure_electric_range_km": 215,
+        "cltc_combined_range_km": 1215,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通8155",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8155",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "特殊外观色",
+          "price_rmb": 5000,
+          "details": "限时赠送"
+        }
+      ]
+    },
+    {
+      "sku_id": "arcfox-t5-2026-reev-1215-yj",
+      "sku_name": "增程 1215 元境智行版",
+      "price_rmb": 131800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4760,
+        "width_mm": 1936,
+        "height_mm": 1650,
+        "wheelbase_mm": 2845,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 27.4,
+        "cltc_pure_electric_range_km": 215,
+        "cltc_combined_range_km": 1215,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通8775",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "北汽元境+卓驭双目(城区NOA)",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8775",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "特殊外观色",
+          "price_rmb": 5000,
+          "details": "限时赠送"
+        }
+      ]
+    },
+    {
+      "sku_id": "arcfox-t5-2026-bev-560-yj",
+      "sku_name": "纯电 560 元境智行版",
+      "price_rmb": 135800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4760,
+        "width_mm": 1936,
+        "height_mm": 1650,
+        "wheelbase_mm": 2845,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 185,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65.0,
+        "cltc_pure_electric_range_km": 560,
+        "cltc_combined_range_km": 560,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通8775",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "北汽元境+卓驭双目(城区NOA)",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8775",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "特殊外观色",
+          "price_rmb": 5000,
+          "details": "限时赠送"
+        }
+      ]
+    },
+    {
+      "sku_id": "arcfox-t5-2026-bev-660-sx",
+      "sku_name": "纯电 660 元境神行版",
+      "price_rmb": 151800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4760,
+        "width_mm": 1936,
+        "height_mm": 1650,
+        "wheelbase_mm": 2845,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 74.4,
+        "cltc_pure_electric_range_km": 660,
+        "cltc_combined_range_km": 660,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 8.9min(5C)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通8775",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "北汽元境+卓驭双目(城区NOA)",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8775",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "特殊外观色",
+          "price_rmb": 5000,
+          "details": "限时赠送"
+        }
+      ]
+    },
+    {
+      "sku_id": "arcfox-t5-2026-bev-705-yj",
+      "sku_name": "纯电 705 元境智行版",
+      "price_rmb": 158800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4760,
+        "width_mm": 1936,
+        "height_mm": 1650,
+        "wheelbase_mm": 2845,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 79.2,
+        "cltc_pure_electric_range_km": 705,
+        "cltc_combined_range_km": 705,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通8775",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "北汽元境+卓驭双目(城区NOA)",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通8775",
+        "screens": null,
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "特殊外观色",
+          "price_rmb": 5000,
+          "details": "限时赠送"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

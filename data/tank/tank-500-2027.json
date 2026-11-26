@@ -1,0 +1,216 @@
+{
+  "brand": "tank",
+  "brand_name": "坦克新能源",
+  "data_as_of": "2026-11-26",
+  "model": "27款坦克500 Hi4-T / Hi4-Z",
+  "model_slug": "tank-500-2027",
+  "category": "中大型豪华硬派插混越野SUV",
+  "release_date": "2026-10-23",
+  "source_urls": [
+    "https://www.tanksuv.com/carparam-500.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "tank-500-2027-hi4t",
+      "sku_name": "27款 坦克500 Hi4-T",
+      "price_rmb": 335000,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5078,
+        "width_mm": 1934,
+        "height_mm": 1905,
+        "wheelbase_mm": 2850,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "机械四驱(9HAT)",
+        "motor_power_kw": 130,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 37.1,
+        "cltc_pure_electric_range_km": "110(WLTC)",
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆整体桥/迪翁五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "基础L2",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "Coffee OS 3",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "tank-500-2027-hi4t-smart",
+      "sku_name": "27款 坦克500 Hi4-T 智享版",
+      "price_rmb": 355000,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5078,
+        "width_mm": 1934,
+        "height_mm": 1905,
+        "wheelbase_mm": 2850,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "机械四驱(9HAT)",
+        "motor_power_kw": 130,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 37.1,
+        "cltc_pure_electric_range_km": "110(WLTC)",
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆整体桥/迪翁五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "Coffee Pilot 4",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "Coffee OS 3",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "tank-500-2027-hi4z-smart",
+      "sku_name": "27款 坦克500 Hi4-Z 智享版",
+      "price_rmb": 375000,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5078,
+        "width_mm": 1934,
+        "height_mm": 1905,
+        "wheelbase_mm": 2850,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "解耦电四驱(3挡DHT)",
+        "motor_power_kw": 455,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 59.05,
+        "cltc_pure_electric_range_km": "201(WLTC)",
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆整体桥/迪翁五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "Coffee Pilot 4",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "Coffee OS 3",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

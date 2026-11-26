@@ -1,0 +1,143 @@
+{
+  "brand": "zeekr",
+  "brand_name": "极氪",
+  "data_as_of": "2026-11-26",
+  "model_count": 6,
+  "sku_count": 28,
+  "models": [
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪001（2026款）",
+      "model_slug": "zeekr-001-2026",
+      "sub_brand": null,
+      "category": "中大型纯电猎装轿跑",
+      "release_date": "2025-10-11",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 269800,
+      "price_max_rmb": 365000,
+      "best_zero_to_100_s": 2.83,
+      "max_cltc_ev_km": 810,
+      "file": "data/zeekr/zeekr-001-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/zeekr001",
+        "https://m.zeekrlife.com/config"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪007 / 007GT（2026款）",
+      "model_slug": "zeekr-007-2026",
+      "sub_brand": null,
+      "category": "中型纯电轿车 / 猎装车",
+      "release_date": "2026-04-10",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 203900,
+      "price_max_rmb": 243900,
+      "best_zero_to_100_s": 2.73,
+      "max_cltc_ev_km": 905,
+      "file": "data/zeekr/zeekr-007-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/zeekr007",
+        "https://m.zeekrlife.com/zeekr007GT"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪009（2026款 / 光辉版）",
+      "model_slug": "zeekr-009-2026",
+      "sub_brand": null,
+      "category": "中大型豪华纯电MPV",
+      "release_date": "2026-05-19",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 439800,
+      "price_max_rmb": 899000,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 740,
+      "file": "data/zeekr/zeekr-009-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/zeekr009"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪7X（2026款）",
+      "model_slug": "zeekr-7x-2026",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2025-10-28",
+      "image_url": "https://zcms.zeekrlife.com/published/assets/e43663416a6ef4d925d682a72c7414fbc36f7f3acc414df83565d9ea49287850/1574.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 269800,
+      "best_zero_to_100_s": 2.98,
+      "max_cltc_ev_km": 802,
+      "file": "data/zeekr/zeekr-7x-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/config"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪9X（2026款）",
+      "model_slug": "zeekr-9x-2026",
+      "sub_brand": null,
+      "category": "全尺寸超豪华电混旗舰SUV",
+      "release_date": "2025-09-29",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 465900,
+      "price_max_rmb": 599900,
+      "best_zero_to_100_s": 3.1,
+      "max_cltc_ev_km": 380,
+      "file": "data/zeekr/zeekr-9x-2026.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/zeekr9x"
+      ]
+    },
+    {
+      "brand": "zeekr",
+      "brand_name": "极氪",
+      "model": "极氪MIX（2025款）",
+      "model_slug": "zeekr-mix-2025",
+      "sub_brand": null,
+      "category": "中型纯电家庭跨界MPV",
+      "release_date": "2024-10-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 279900,
+      "price_max_rmb": 299900,
+      "best_zero_to_100_s": 6.8,
+      "max_cltc_ev_km": 702,
+      "file": "data/zeekr/zeekr-mix-2025.json",
+      "source_urls": [
+        "https://m.zeekrlife.com/config"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "brand": "arcfox",
+  "brand_name": "极狐",
+  "data_as_of": "2026-11-26",
+  "model_count": 4,
+  "sku_count": 15,
+  "models": [
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model": "极狐阿尔法S5（2027款）",
+      "model_slug": "alpha-s5-2027",
+      "sub_brand": null,
+      "category": "中型纯电轿跑",
+      "release_date": "2026-11-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 121800,
+      "price_max_rmb": 144800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 750,
+      "file": "data/arcfox/alpha-s5-2027.json",
+      "source_urls": [
+        "https://www.arcfox.com.cn/"
+      ]
+    },
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model": "极狐阿尔法S6 / T6",
+      "model_slug": "alpha-s6-t6-2026",
+      "sub_brand": null,
+      "category": "中大型纯电轿车 / SUV",
+      "release_date": "2025-04-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 195800,
+      "price_max_rmb": 225800,
+      "best_zero_to_100_s": 4.6,
+      "max_cltc_ev_km": 735,
+      "file": "data/arcfox/alpha-s6-t6-2026.json",
+      "source_urls": [
+        "https://www.arcfox.com.cn/S6/index.html"
+      ]
+    },
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model": "极狐全新阿尔法T5（2026款）",
+      "model_slug": "alpha-t5-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-10-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 113800,
+      "price_max_rmb": 158800,
+      "best_zero_to_100_s": 6.5,
+      "max_cltc_ev_km": 705,
+      "file": "data/arcfox/alpha-t5-2026.json",
+      "source_urls": [
+        "https://www.arcfox.com.cn/T5/index.html"
+      ]
+    },
+    {
+      "brand": "arcfox",
+      "brand_name": "极狐",
+      "model": "极狐考拉S（2026款）",
+      "model_slug": "kaola-s-2026",
+      "sub_brand": null,
+      "category": "紧凑型电动侧滑门纯电SUV",
+      "release_date": "2026-01-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 99800,
+      "price_max_rmb": 119800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 520,
+      "file": "data/arcfox/kaola-s-2026.json",
+      "source_urls": [
+        "https://www.arcfox.com.cn/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "brand": "firefly",
+  "brand_name": "萤火虫",
+  "data_as_of": "2026-11-26",
+  "model_count": 1,
+  "sku_count": 6,
+  "models": [
+    {
+      "brand": "firefly",
+      "brand_name": "萤火虫",
+      "model": "firefly 萤火虫（2026款）",
+      "model_slug": "firefly-2026",
+      "sub_brand": null,
+      "category": "小型高端纯电两厢车",
+      "release_date": "2026-04-07",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 119800,
+      "price_max_rmb": 152800,
+      "best_zero_to_100_s": 7.9,
+      "max_cltc_ev_km": 560,
+      "file": "data/firefly/firefly-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7990.html"
+      ]
+    }
+  ]
+}

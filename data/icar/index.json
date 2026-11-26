@@ -1,0 +1,53 @@
+{
+  "brand": "icar",
+  "brand_name": "iCAR",
+  "data_as_of": "2026-11-26",
+  "model_count": 2,
+  "sku_count": 9,
+  "models": [
+    {
+      "brand": "icar",
+      "brand_name": "iCAR",
+      "model": "iCAR 超级V23（2027款）",
+      "model_slug": "icar-v23-2027",
+      "sub_brand": null,
+      "category": "紧凑型方盒子纯电SUV",
+      "release_date": "2026-11-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 109800,
+      "price_max_rmb": 154800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 550,
+      "file": "data/icar/icar-v23-2027.json",
+      "source_urls": [
+        "https://www.icarglobal.com/zh/carview/iCARV23/"
+      ]
+    },
+    {
+      "brand": "icar",
+      "brand_name": "iCAR",
+      "model": "iCAR V27（2026/2027款）",
+      "model_slug": "icar-v27-2027",
+      "sub_brand": null,
+      "category": "中大型方盒子增程SUV",
+      "release_date": "2026-03-13",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 169800,
+      "price_max_rmb": 203800,
+      "best_zero_to_100_s": 5.5,
+      "max_cltc_ev_km": 300,
+      "file": "data/icar/icar-v27-2027.json",
+      "source_urls": [
+        "https://www.icarglobal.com/zh/carview/iCARV27/"
+      ]
+    }
+  ]
+}

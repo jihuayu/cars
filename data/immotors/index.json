@@ -6,14 +6,22 @@
   "sku_count": 23,
   "models": [
     {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
       "model": "全新一代智己L6",
       "model_slug": "l6-2026",
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2026-08-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 5,
       "price_min_rmb": 209900,
       "price_max_rmb": 269900,
+      "best_zero_to_100_s": 2.74,
+      "max_cltc_ev_km": 850,
       "file": "data/immotors/l6-2026.json",
       "source_urls": [
         "https://www.immotors.com/website/vehicle_config/l6m2",
@@ -21,14 +29,23 @@
       ]
     },
     {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
       "model": "智己LS6（全新一代纯电 / 2026款超级增程）",
       "model_slug": "ls6-2026",
       "sub_brand": null,
       "category": "中大型5座SUV",
       "release_date": "2026-09-23",
+      "image_url": "https://portal-static.immotors.com/images/portal/1790162846471%2540vr0wwwhh.jpeg",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 5,
       "price_min_rmb": 202900,
       "price_max_rmb": 264900,
+      "best_zero_to_100_s": 3.48,
+      "max_cltc_ev_km": 782,
       "file": "data/immotors/ls6-2026.json",
       "source_urls": [
         "https://www.immotors.com/website/vehicle_config/ls6m3",
@@ -36,42 +53,67 @@
       ]
     },
     {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
       "model": "智己LS7 焕新版",
       "model_slug": "ls7-2026",
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2025-06-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 2,
       "price_min_rmb": 309900,
       "price_max_rmb": 339900,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 700,
       "file": "data/immotors/ls7-2026.json",
       "source_urls": [
         "https://car.autohome.com.cn/price/brand-448-632.html"
       ]
     },
     {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
       "model": "智己LS8（超级增程 / NEO纯电）",
       "model_slug": "ls8-2026",
       "sub_brand": null,
       "category": "中大型5/6座SUV",
       "release_date": "2026-04-16",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 8,
       "price_min_rmb": 249800,
       "price_max_rmb": 311800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 752,
       "file": "data/immotors/ls8-2026.json",
       "source_urls": [
         "https://www.immotors.com/website/news_detail/242"
       ]
     },
     {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
       "model": "智己LS9（旗舰大六座）",
       "model_slug": "ls9-2026",
       "sub_brand": null,
       "category": "全尺寸旗舰6座SUV",
       "release_date": "2025-11-12",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
       "sku_count": 3,
       "price_min_rmb": 332800,
       "price_max_rmb": 379800,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 402,
       "file": "data/immotors/ls9-2026.json",
       "source_urls": [
         "https://www.immotors.com/website/news_detail/234"

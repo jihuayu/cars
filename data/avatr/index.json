@@ -6,14 +6,23 @@
   "sku_count": 28,
   "models": [
     {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
       "model": "阿维塔06（2026款）",
       "model_slug": "avatr-06-2026",
       "sub_brand": null,
       "category": "中型轿车",
       "release_date": "2026-10-15",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 2,
       "price_min_rmb": 219900,
       "price_max_rmb": 229900,
+      "best_zero_to_100_s": 6.1,
+      "max_cltc_ev_km": 650,
       "file": "data/avatr/avatr-06-2026.json",
       "source_urls": [
         "https://www.avatr.com/configuration?car=06",
@@ -21,14 +30,23 @@
       ]
     },
     {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
       "model": "阿维塔06T（2026款猎装）",
       "model_slug": "avatr-06t-2026",
       "sub_brand": null,
       "category": "中型猎装轿跑",
       "release_date": "2026-04-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 7,
       "price_min_rmb": 219900,
       "price_max_rmb": 279900,
+      "best_zero_to_100_s": 2.78,
+      "max_cltc_ev_km": 741,
       "file": "data/avatr/avatr-06t-2026.json",
       "source_urls": [
         "https://www.avatr.com/configuration?car=06T",
@@ -36,14 +54,23 @@
       ]
     },
     {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
       "model": "阿维塔07（2026款）",
       "model_slug": "avatr-07-2026",
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2025-09-20",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 6,
       "price_min_rmb": 219900,
       "price_max_rmb": 279900,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 650,
       "file": "data/avatr/avatr-07-2026.json",
       "source_urls": [
         "https://www.avatr.com/configuration?car=07",
@@ -51,28 +78,45 @@
       ]
     },
     {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
       "model": "阿维塔07L（2026款）",
       "model_slug": "avatr-07l-2026",
       "sub_brand": null,
       "category": "中大型5座纯电SUV",
       "release_date": "2026-08-08",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
       "sku_count": 3,
       "price_min_rmb": 229900,
       "price_max_rmb": 279900,
+      "best_zero_to_100_s": 3.7,
+      "max_cltc_ev_km": 725,
       "file": "data/avatr/avatr-07l-2026.json",
       "source_urls": [
         "https://www.avatr.com/configuration?car=07L"
       ]
     },
     {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
       "model": "阿维塔11（2025款改款）",
       "model_slug": "avatr-11-2025",
       "sub_brand": null,
       "category": "中大型轿跑SUV",
       "release_date": "2025-04-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 6,
       "price_min_rmb": 289900,
       "price_max_rmb": 429900,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 815,
       "file": "data/avatr/avatr-11-2025.json",
       "source_urls": [
         "https://www.avatr.com/configuration?car=11",
@@ -80,14 +124,23 @@
       ]
     },
     {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
       "model": "阿维塔12（2026款）",
       "model_slug": "avatr-12-2026",
       "sub_brand": null,
       "category": "中大型豪华掀背轿车",
       "release_date": "2026-04-08",
+      "image_url": "https://fs.avatr.com/avatar-boss-admin-view/img/095dd7db70475a16d45933716609a8da.png",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
       "sku_count": 4,
       "price_min_rmb": 293900,
       "price_max_rmb": 433900,
+      "best_zero_to_100_s": 2.71,
+      "max_cltc_ev_km": 735,
       "file": "data/avatr/avatr-12-2026.json",
       "source_urls": [
         "https://www.avatr.com/configuration?car=12"

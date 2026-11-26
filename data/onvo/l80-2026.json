@@ -1,0 +1,216 @@
+{
+  "brand": "onvo",
+  "brand_name": "乐道",
+  "data_as_of": "2026-11-26",
+  "model": "乐道L80（2026款）",
+  "model_slug": "l80-2026",
+  "category": "中大型5座纯电SUV",
+  "release_date": "2026-05-15",
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/8591.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "onvo-l80-2026-pro",
+      "sku_name": "L80 Pro",
+      "price_rmb": 242800,
+      "baas_price_rmb": 156800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1998,
+        "height_mm": 1766,
+        "wheelbase_mm": 3110,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 615,
+        "cltc_combined_range_km": 615,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "标配智能空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "Orin-X",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "纯视觉智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "SkyOS+椰子系统（Max+含17.3英寸3K吸顶屏）",
+        "hud": null,
+        "audio": null,
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "onvo-l80-2026-max-plus",
+      "sku_name": "L80 Max+",
+      "price_rmb": 259800,
+      "baas_price_rmb": 173800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1998,
+        "height_mm": 1766,
+        "wheelbase_mm": 3110,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 615,
+        "cltc_combined_range_km": 615,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "标配智能空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "高阶智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "SkyOS+椰子系统（Max+含17.3英寸3K吸顶屏）",
+        "hud": null,
+        "audio": null,
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    },
+    {
+      "sku_id": "onvo-l80-2026-ultra-plus",
+      "sku_name": "L80 Ultra+",
+      "price_rmb": 279800,
+      "baas_price_rmb": 193800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5145,
+        "width_mm": 1998,
+        "height_mm": 1766,
+        "wheelbase_mm": 3110,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 440,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": null,
+        "battery_supplier": null,
+        "battery_capacity_kwh": 85,
+        "cltc_pure_electric_range_km": 570,
+        "cltc_combined_range_km": 570,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 25min / 换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": "标配智能空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "神玑NX9031",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "高阶智驾",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "SkyOS+椰子系统（Max+含17.3英寸3K吸顶屏）",
+        "hud": null,
+        "audio": null,
+        "fridge": "标配冷暖箱",
+        "seat_features": null
+      },
+      "options": []
+    }
+  ],
+  "image_url": null
+}

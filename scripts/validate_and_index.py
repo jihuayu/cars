@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Validate all brand/model SKU JSON files and rebuild index files & README stats.
+"""Validate all brand/model SKU JSON files and rebuild index.json, catalog.json & README stats.
 
 Usage:
-  python3 scripts/validate_and_index.py          # validate + regenerate index.json & README stats
-  python3 scripts/validate_and_index.py --check  # validate only (CI mode, fails if index is out of sync)
+  python3 scripts/validate_and_index.py          # validate + regenerate indexes & README stats
+  python3 scripts/validate_and_index.py --check  # validate only (CI mode, fails if indexes are stale)
 """
 
 from __future__ import annotations
@@ -12,12 +12,12 @@ import argparse
 import json
 import re
 import sys
-from datetime import date
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "data"
 ROOT_INDEX = REPO_ROOT / "index.json"
+CATALOG_FILE = REPO_ROOT / "catalog.json"
 README_FILE = REPO_ROOT / "README.md"
 
 BRAND_ORDER = [
@@ -25,9 +25,29 @@ BRAND_ORDER = [
     ("xiaopeng", "小鹏汽车"),
     ("avatr", "阿维塔"),
     ("nio", "蔚来"),
+    ("onvo", "乐道"),
+    ("firefly", "萤火虫"),
     ("leapmotor", "零跑汽车"),
     ("immotors", "智己汽车"),
     ("hima", "鸿蒙智行"),
+    ("xiaomi", "小米汽车"),
+    ("zeekr", "极氪"),
+    ("lynkco", "领克新能源"),
+    ("byd", "比亚迪"),
+    ("denza", "腾势"),
+    ("fangchengbao", "方程豹"),
+    ("yangwang", "仰望"),
+    ("voyah", "岚图"),
+    ("deepal", "深蓝"),
+    ("geely-galaxy", "吉利银河"),
+    ("changan-qiyuan", "长安启源"),
+    ("exeed-sterra", "星途星纪元"),
+    ("icar", "iCAR"),
+    ("hyptec", "广汽昊铂"),
+    ("aion", "广汽埃安"),
+    ("arcfox", "极狐"),
+    ("wey", "魏牌"),
+    ("tank", "坦克新能源"),
 ]
 
 REQUIRED_MODEL_KEYS = {"brand", "brand_name", "model", "model_slug", "data_as_of", "skus"}
@@ -99,7 +119,7 @@ def validate_model_file(path: Path, expected_brand: str, seen_sku_ids: set[str])
 def build_readme_stats_block(root_index: dict) -> str:
     lines = [
         "<!-- STATS:START -->",
-        f"共收录 **{root_index['total_brands']} 大品牌 / {root_index['total_models']} 款主力车型 / {root_index['total_skus']} 个在售 SKU**（数据更新日期：**{root_index['data_as_of']}**），全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。",
+        f"共收录 **{root_index['total_brands']} 大品牌 / {root_index['total_models']} 款主力车型 / {root_index['total_skus']} 个在售 SKU**（数据更新日期：**{root_index['data_as_of']}**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。",
         "",
         "| 厂商目录 | 品牌 | 车型数 | SKU 数 | 品牌索引 |",
         "| :--- | :--- | ---: | ---: | :--- |",
@@ -136,7 +156,7 @@ def main() -> int:
         "total_skus": 0,
         "brands": [],
     }
-
+    catalog_models = []
     pending_writes: list[tuple[Path, str]] = []
 
     for brand_slug, brand_cn in ordered_brands:
@@ -164,21 +184,38 @@ def main() -> int:
 
             skus = data.get("skus", [])
             prices = [s["price_rmb"] for s in skus if isinstance(s.get("price_rmb"), (int, float))]
+            pts = sorted({s["powertrain_type"] for s in skus if s.get("powertrain_type")})
+            accs = [
+                s["performance"]["zero_to_100_s"]
+                for s in skus
+                if isinstance((s.get("performance") or {}).get("zero_to_100_s"), (int, float))
+            ]
+            cltcs = [
+                s["battery_and_charging"]["cltc_pure_electric_range_km"]
+                for s in skus
+                if isinstance((s.get("battery_and_charging") or {}).get("cltc_pure_electric_range_km"), (int, float))
+            ]
             brand_skus += len(skus)
-            models_summary.append(
-                {
-                    "model": data["model"],
-                    "model_slug": data["model_slug"],
-                    "sub_brand": data.get("sub_brand"),
-                    "category": data.get("category"),
-                    "release_date": data.get("release_date"),
-                    "sku_count": len(skus),
-                    "price_min_rmb": min(prices) if prices else None,
-                    "price_max_rmb": max(prices) if prices else None,
-                    "file": f"data/{brand_slug}/{mf.name}",
-                    "source_urls": data.get("source_urls", []),
-                }
-            )
+            entry = {
+                "brand": brand_slug,
+                "brand_name": resolved_brand_name,
+                "model": data["model"],
+                "model_slug": data["model_slug"],
+                "sub_brand": data.get("sub_brand"),
+                "category": data.get("category"),
+                "release_date": data.get("release_date"),
+                "image_url": data.get("image_url"),
+                "powertrains": pts,
+                "sku_count": len(skus),
+                "price_min_rmb": min(prices) if prices else None,
+                "price_max_rmb": max(prices) if prices else None,
+                "best_zero_to_100_s": min(accs) if accs else None,
+                "max_cltc_ev_km": max(cltcs) if cltcs else None,
+                "file": f"data/{brand_slug}/{mf.name}",
+                "source_urls": data.get("source_urls", []),
+            }
+            models_summary.append(entry)
+            catalog_models.append(entry)
 
         brand_index = {
             "brand": brand_slug,
@@ -205,6 +242,15 @@ def main() -> int:
 
     root_index["data_as_of"] = latest_date
     pending_writes.append((ROOT_INDEX, json.dumps(root_index, ensure_ascii=False, indent=2) + "\n"))
+    catalog_payload = {
+        "data_as_of": latest_date,
+        "total_brands": root_index["total_brands"],
+        "total_models": root_index["total_models"],
+        "total_skus": root_index["total_skus"],
+        "brands": root_index["brands"],
+        "models": catalog_models,
+    }
+    pending_writes.append((CATALOG_FILE, json.dumps(catalog_payload, ensure_ascii=False, indent=2) + "\n"))
 
     if README_FILE.exists():
         readme_text = README_FILE.read_text(encoding="utf-8")

@@ -1,0 +1,380 @@
+{
+  "brand": "lynkco",
+  "brand_name": "领克新能源",
+  "data_as_of": "2026-11-26",
+  "model": "领克Z20 / 领克20（2027款）",
+  "model_slug": "lynkco-z20-2027",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2026-09-28",
+  "source_urls": [
+    "https://www.lynkco.com.cn/cars/model-config"
+  ],
+  "skus": [
+    {
+      "sku_id": "lynkco-z20-2027-545-pro",
+      "sku_name": "2027款 545 长续航Pro",
+      "price_rmb": 123800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4495,
+        "width_mm": 1845,
+        "height_mm": 1573,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "吉曜通行",
+        "battery_capacity_kwh": 61.52,
+        "cltc_pure_electric_range_km": 545,
+        "cltc_combined_range_km": 545,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程6M",
+        "compute_tops": 128,
+        "lidar": "1颗192线激光雷达",
+        "system": "千里浩瀚H5（城/高NOA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6P",
+        "screens": "15.4英寸中控+10.2英寸仪表",
+        "hud": "13.8英寸HUD（高配）",
+        "audio": "8/23扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "电动前备厢 / 车载冰箱",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-z20-2027-545-max",
+      "sku_name": "2027款 545 长续航Max",
+      "price_rmb": 133800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4495,
+        "width_mm": 1845,
+        "height_mm": 1573,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "吉曜通行",
+        "battery_capacity_kwh": 61.52,
+        "cltc_pure_electric_range_km": 545,
+        "cltc_combined_range_km": 545,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程6M",
+        "compute_tops": 128,
+        "lidar": "1颗192线激光雷达",
+        "system": "千里浩瀚H5（城/高NOA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6P",
+        "screens": "15.4英寸中控+10.2英寸仪表",
+        "hud": "13.8英寸HUD（高配）",
+        "audio": "8/23扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "电动前备厢 / 车载冰箱",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-z20-2027-630-max",
+      "sku_name": "2027款 630 超长续航Max",
+      "price_rmb": 143800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4495,
+        "width_mm": 1845,
+        "height_mm": 1573,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "吉曜通行",
+        "battery_capacity_kwh": 70.01,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": 630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程6M",
+        "compute_tops": 128,
+        "lidar": "1颗192线激光雷达",
+        "system": "千里浩瀚H5（城/高NOA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6P",
+        "screens": "15.4英寸中控+10.2英寸仪表",
+        "hud": "13.8英寸HUD（高配）",
+        "audio": "8/23扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "电动前备厢 / 车载冰箱",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-z20-2027-630-ultra",
+      "sku_name": "2027款 630 超长续航Ultra",
+      "price_rmb": 153800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4495,
+        "width_mm": 1845,
+        "height_mm": 1573,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "吉曜通行",
+        "battery_capacity_kwh": 70.01,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": 630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程6M",
+        "compute_tops": 128,
+        "lidar": "1颗192线激光雷达",
+        "system": "千里浩瀚H5（城/高NOA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6P",
+        "screens": "15.4英寸中控+10.2英寸仪表",
+        "hud": "13.8英寸HUD（高配）",
+        "audio": "8/23扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "电动前备厢 / 车载冰箱",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "lynkco-z20-2027-feichi",
+      "sku_name": "2027款 飞驰版",
+      "price_rmb": 163800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4520,
+        "width_mm": 1866,
+        "height_mm": 1573,
+        "wheelbase_mm": 2755,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "吉曜通行",
+        "battery_capacity_kwh": 70.01,
+        "cltc_pure_electric_range_km": 580,
+        "cltc_combined_range_km": 580,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊",
+        "rear_suspension": "后五连杆",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "地平线征程6M",
+        "compute_tops": 128,
+        "lidar": "1颗192线激光雷达",
+        "system": "千里浩瀚H5（城/高NOA）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰6P",
+        "screens": "15.4英寸中控+10.2英寸仪表",
+        "hud": "13.8英寸HUD（高配）",
+        "audio": "8/23扬声器",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "电动前备厢 / 车载冰箱",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

@@ -1,0 +1,80 @@
+{
+  "brand": "changan-qiyuan",
+  "brand_name": "长安启源",
+  "data_as_of": "2026-11-26",
+  "model_count": 3,
+  "sku_count": 14,
+  "models": [
+    {
+      "brand": "changan-qiyuan",
+      "brand_name": "长安启源",
+      "model": "长安启源A07（2026款）",
+      "model_slug": "qiyuan-a07-2026",
+      "sub_brand": null,
+      "category": "中大型轿车",
+      "release_date": "2025-09-10",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 139900,
+      "price_max_rmb": 159900,
+      "best_zero_to_100_s": 6.7,
+      "max_cltc_ev_km": 730,
+      "file": "data/changan-qiyuan/qiyuan-a07-2026.json",
+      "source_urls": [
+        "https://www.changan.com.cn/qiyuan/",
+        "https://car.autohome.com.cn/config/series/7209.html"
+      ]
+    },
+    {
+      "brand": "changan-qiyuan",
+      "brand_name": "长安启源",
+      "model": "长安启源E07（2026款）",
+      "model_slug": "qiyuan-e07-2026",
+      "sub_brand": null,
+      "category": "中大型变形智能SUV",
+      "release_date": "2025-08-29",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "sku_count": 6,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 309900,
+      "best_zero_to_100_s": 3.96,
+      "max_cltc_ev_km": 701,
+      "file": "data/changan-qiyuan/qiyuan-e07-2026.json",
+      "source_urls": [
+        "https://www.changan.com.cn/qiyuan/",
+        "https://car.autohome.com.cn/config/series/7575.html"
+      ]
+    },
+    {
+      "brand": "changan-qiyuan",
+      "brand_name": "长安启源",
+      "model": "长安启源Q07（2027款）",
+      "model_slug": "qiyuan-q07-2027",
+      "sub_brand": null,
+      "category": "中型插混SUV",
+      "release_date": "2026-10-20",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 139800,
+      "price_max_rmb": 169800,
+      "best_zero_to_100_s": 7.4,
+      "max_cltc_ev_km": 215,
+      "file": "data/changan-qiyuan/qiyuan-q07-2027.json",
+      "source_urls": [
+        "https://www.changan.com.cn/qiyuan/",
+        "https://car.autohome.com.cn/config/series/7975.html"
+      ]
+    }
+  ]
+}

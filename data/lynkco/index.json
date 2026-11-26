@@ -1,0 +1,76 @@
+{
+  "brand": "lynkco",
+  "brand_name": "领克新能源",
+  "data_as_of": "2026-11-26",
+  "model_count": 3,
+  "sku_count": 13,
+  "models": [
+    {
+      "brand": "lynkco",
+      "brand_name": "领克新能源",
+      "model": "领克900（2025/2026款）",
+      "model_slug": "lynkco-900-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰插混SUV（5/6座）",
+      "release_date": "2025-04-28",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 299800,
+      "price_max_rmb": 416900,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 280,
+      "file": "data/lynkco/lynkco-900-2026.json",
+      "source_urls": [
+        "https://www.lynkco.com.cn/cars/900/900-configurator"
+      ]
+    },
+    {
+      "brand": "lynkco",
+      "brand_name": "领克新能源",
+      "model": "领克Z10（2025款）",
+      "model_slug": "lynkco-z10-2025",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2024-12-02",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 1,
+      "price_min_rmb": 229800,
+      "price_max_rmb": 229800,
+      "best_zero_to_100_s": 3.5,
+      "max_cltc_ev_km": 702,
+      "file": "data/lynkco/lynkco-z10-2025.json",
+      "source_urls": [
+        "https://www.lynkco.com.cn/cars/model-config",
+        "https://www.lynkco.com.cn/cars/10ev"
+      ]
+    },
+    {
+      "brand": "lynkco",
+      "brand_name": "领克新能源",
+      "model": "领克Z20 / 领克20（2027款）",
+      "model_slug": "lynkco-z20-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2026-09-28",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 5,
+      "price_min_rmb": 123800,
+      "price_max_rmb": 163800,
+      "best_zero_to_100_s": 6.4,
+      "max_cltc_ev_km": 630,
+      "file": "data/lynkco/lynkco-z20-2027.json",
+      "source_urls": [
+        "https://www.lynkco.com.cn/cars/model-config"
+      ]
+    }
+  ]
+}

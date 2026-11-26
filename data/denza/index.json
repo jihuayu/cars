@@ -1,0 +1,100 @@
+{
+  "brand": "denza",
+  "brand_name": "腾势",
+  "data_as_of": "2026-11-26",
+  "model_count": 4,
+  "sku_count": 21,
+  "models": [
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model": "腾势D9（2026款第二代）",
+      "model_slug": "denza-d9-2026",
+      "sub_brand": null,
+      "category": "中大型7座豪华MPV",
+      "release_date": "2026-04-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 309800,
+      "price_max_rmb": 469800,
+      "best_zero_to_100_s": 8.5,
+      "max_cltc_ev_km": 800,
+      "file": "data/denza/denza-d9-2026.json",
+      "source_urls": [
+        "https://www.denza.com/cn2_0/brand.html"
+      ]
+    },
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model": "腾势N8L（2026款闪充版）",
+      "model_slug": "denza-n8l-2026",
+      "sub_brand": null,
+      "category": "中大型6座豪华SUV",
+      "release_date": "2026-06-23",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 299800,
+      "price_max_rmb": 349800,
+      "best_zero_to_100_s": 3.7,
+      "max_cltc_ev_km": 960,
+      "file": "data/denza/denza-n8l-2026.json",
+      "source_urls": [
+        "https://www.denza.com/cn2_0/brand.html"
+      ]
+    },
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model": "腾势N9（2026款闪充版）",
+      "model_slug": "denza-n9-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰6座插混SUV",
+      "release_date": "2026-05-18",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 409800,
+      "price_max_rmb": 469800,
+      "best_zero_to_100_s": 3.7,
+      "max_cltc_ev_km": 420,
+      "file": "data/denza/denza-n9-2026.json",
+      "source_urls": [
+        "https://www.denza.com/cn2_0/brand.html"
+      ]
+    },
+    {
+      "brand": "denza",
+      "brand_name": "腾势",
+      "model": "腾势Z9GT / Z9S（2026款闪充版）",
+      "model_slug": "denza-z9gt-2026",
+      "sub_brand": null,
+      "category": "中大型豪华猎装/旗舰轿车",
+      "release_date": "2026-03-05",
+      "image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 7,
+      "price_min_rmb": 269800,
+      "price_max_rmb": 369800,
+      "best_zero_to_100_s": 2.68,
+      "max_cltc_ev_km": 1036,
+      "file": "data/denza/denza-z9gt-2026.json",
+      "source_urls": [
+        "https://www.denza.com/cn2_0/care-compare?goodsId=31"
+      ]
+    }
+  ]
+}

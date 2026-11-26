@@ -1,0 +1,94 @@
+{
+  "brand": "lynkco",
+  "brand_name": "领克新能源",
+  "data_as_of": "2026-11-26",
+  "model": "领克Z10（2025款）",
+  "model_slug": "lynkco-z10-2025",
+  "category": "中大型纯电轿车",
+  "release_date": "2024-12-02",
+  "source_urls": [
+    "https://www.lynkco.com.cn/cars/model-config",
+    "https://www.lynkco.com.cn/cars/10ev"
+  ],
+  "skus": [
+    {
+      "sku_id": "lynkco-z10-halo-awd",
+      "sku_name": "2025款 95kWh 702km 四驱Halo",
+      "price_rmb": 229800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5028,
+        "width_mm": 1966,
+        "height_mm": 1468,
+        "wheelbase_mm": 3005,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 580,
+        "motor_torque_nm": 810,
+        "zero_to_100_s": 3.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "衢州极电",
+        "battery_capacity_kwh": 95,
+        "cltc_pure_electric_range_km": 702,
+        "cltc_combined_range_km": 702,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂",
+        "rear_suspension": "后多连杆",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "选装Orin-X",
+        "compute_tops": 254,
+        "lidar": "选装1颗速腾125线",
+        "system": "L2（高阶智驾选装2万）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "AMD V2000A",
+        "screens": "15.4英寸2.5K+12.66英寸仪表",
+        "hud": "25.6英寸AR-HUD",
+        "audio": "12扬（选装23扬哈曼卡顿1万）",
+        "fridge": null,
+        "seat_features": null
+      },
+      "options": [
+        {
+          "name": "高阶智驾套装",
+          "price_rmb": 20000,
+          "details": "Orin-X+激光雷达"
+        },
+        {
+          "name": "23扬哈曼卡顿 / 豪华座舱套装 / 主动尾翼",
+          "price_rmb": "10000 / 8000 / 5000",
+          "details": "官方选装"
+        }
+      ]
+    }
+  ],
+  "image_url": null
+}

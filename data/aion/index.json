@@ -1,0 +1,76 @@
+{
+  "brand": "aion",
+  "brand_name": "广汽埃安",
+  "data_as_of": "2026-11-26",
+  "model_count": 3,
+  "sku_count": 10,
+  "models": [
+    {
+      "brand": "aion",
+      "brand_name": "广汽埃安",
+      "model": "AION RT（2027款）",
+      "model_slug": "aion-rt-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电轿跑",
+      "release_date": "2026-08-05",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 99800,
+      "price_max_rmb": 128800,
+      "best_zero_to_100_s": 7.5,
+      "max_cltc_ev_km": 710,
+      "file": "data/aion/aion-rt-2027.json",
+      "source_urls": [
+        "https://www.aion.com.cn/",
+        "https://car.autohome.com.cn/config/series/7860.html"
+      ]
+    },
+    {
+      "brand": "aion",
+      "brand_name": "广汽埃安",
+      "model": "AION UT（2027款）",
+      "model_slug": "aion-ut-2027",
+      "sub_brand": null,
+      "category": "小型纯电两厢车",
+      "release_date": "2026-08-22",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 2,
+      "price_min_rmb": 86800,
+      "price_max_rmb": 89800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 530,
+      "file": "data/aion/aion-ut-2027.json",
+      "source_urls": [
+        "https://www.aion.com.cn/vehicle/config/table?cid=NjI%3D"
+      ]
+    },
+    {
+      "brand": "aion",
+      "brand_name": "广汽埃安",
+      "model": "埃安霸王龙（第二代AION V 家庭版）",
+      "model_slug": "aion-v-2026",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2025-08-27",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 109800,
+      "price_max_rmb": 135800,
+      "best_zero_to_100_s": 7.9,
+      "max_cltc_ev_km": 650,
+      "file": "data/aion/aion-v-2026.json",
+      "source_urls": [
+        "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57"
+      ]
+    }
+  ]
+}

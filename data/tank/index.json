@@ -1,0 +1,53 @@
+{
+  "brand": "tank",
+  "brand_name": "坦克新能源",
+  "data_as_of": "2026-11-26",
+  "model_count": 2,
+  "sku_count": 6,
+  "models": [
+    {
+      "brand": "tank",
+      "brand_name": "坦克新能源",
+      "model": "全新坦克400 Hi4-T / Hi4-Z（2026款）",
+      "model_slug": "tank-400-2026",
+      "sub_brand": null,
+      "category": "中大型机甲硬派插混越野SUV",
+      "release_date": "2025-11-06",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 285800,
+      "price_max_rmb": 319800,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": null,
+      "file": "data/tank/tank-400-2026.json",
+      "source_urls": [
+        "https://www.tanksuv.com/tank400.html"
+      ]
+    },
+    {
+      "brand": "tank",
+      "brand_name": "坦克新能源",
+      "model": "27款坦克500 Hi4-T / Hi4-Z",
+      "model_slug": "tank-500-2027",
+      "sub_brand": null,
+      "category": "中大型豪华硬派插混越野SUV",
+      "release_date": "2026-10-23",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 335000,
+      "price_max_rmb": 375000,
+      "best_zero_to_100_s": 4.6,
+      "max_cltc_ev_km": null,
+      "file": "data/tank/tank-500-2027.json",
+      "source_urls": [
+        "https://www.tanksuv.com/carparam-500.html"
+      ]
+    }
+  ]
+}

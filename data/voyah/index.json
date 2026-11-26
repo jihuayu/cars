@@ -1,0 +1,122 @@
+{
+  "brand": "voyah",
+  "brand_name": "岚图",
+  "data_as_of": "2026-11-26",
+  "model_count": 5,
+  "sku_count": 21,
+  "models": [
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "全新岚图梦想家（2026款）",
+      "model_slug": "dreamer-2026",
+      "sub_brand": null,
+      "category": "中大型豪华MPV",
+      "release_date": "2025-09-15",
+      "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/dreamer-champion/kv_0408_375.jpg",
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "sku_count": 8,
+      "price_min_rmb": 329900,
+      "price_max_rmb": 709900,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 701,
+      "file": "data/voyah/dreamer-2026.json",
+      "source_urls": [
+        "https://www.voyah.com.cn/dreamer9.html",
+        "https://car.autohome.com.cn/config/series/6459.html"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "岚图FREE+（2025款）",
+      "model_slug": "free-plus-2025",
+      "sub_brand": null,
+      "category": "中大型5座增程SUV",
+      "release_date": "2025-07-12",
+      "image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 279900,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": 318,
+      "file": "data/voyah/free-plus-2025.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/spec/73126.html"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "岚图泰山（2026款）",
+      "model_slug": "titan-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰6座插混SUV",
+      "release_date": "2025-11-18",
+      "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/titan/375/sc_1.jpg",
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 4,
+      "price_min_rmb": 379900,
+      "price_max_rmb": 509900,
+      "best_zero_to_100_s": 5.2,
+      "max_cltc_ev_km": 350,
+      "file": "data/voyah/titan-2026.json",
+      "source_urls": [
+        "https://www.voyah.com.cn/titan.html",
+        "https://car.autohome.com.cn/config/series/8291.html"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "岚图知音（2027款 896线乾崑版）",
+      "model_slug": "zhiyin-2027",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2026-11-13",
+      "image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 212900,
+      "price_max_rmb": 242900,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 901,
+      "file": "data/voyah/zhiyin-2027.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7728.html"
+      ]
+    },
+    {
+      "brand": "voyah",
+      "brand_name": "岚图",
+      "model": "岚图追光L（2026款）",
+      "model_slug": "zhuiguang-l-2026",
+      "sub_brand": null,
+      "category": "中大型插混行政轿车",
+      "release_date": "2025-12-10",
+      "image_url": null,
+      "powertrains": [
+        "PHEV"
+      ],
+      "sku_count": 3,
+      "price_min_rmb": 279900,
+      "price_max_rmb": 339900,
+      "best_zero_to_100_s": 4.8,
+      "max_cltc_ev_km": 410,
+      "file": "data/voyah/zhuiguang-l-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/8259.html"
+      ]
+    }
+  ]
+}
