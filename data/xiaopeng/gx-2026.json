@@ -1,0 +1,798 @@
+{
+  "brand": "xiaopeng",
+  "brand_name": "小鹏汽车",
+  "data_as_of": "2026-11-26",
+  "model": "小鹏GX",
+  "model_slug": "gx-2026",
+  "category": "全尺寸大六座旗舰SUV",
+  "release_date": "2026-05-20",
+  "source_urls": [
+    "https://www.xiaopeng.com/gx/configuration.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "xiaopeng-gx-2026-reev-1585-max",
+      "sku_name": "超级增程 1585四驱Max",
+      "price_rmb": 289800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 695,
+        "zero_to_100_s": 4.98,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 63.3,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 1585,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后H臂多连杆独立悬架",
+        "air_suspension": "双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "线控后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "17.3英寸中控+8英寸后排智控屏",
+        "hud": "88英寸AR-HUD",
+        "audio": "标配音响",
+        "fridge": "无菌双温区车载冰箱",
+        "seat_features": "六座全排可躺平"
+      },
+      "options": [
+        {
+          "name": "二排娱乐套装（Max可选）",
+          "price_rmb": 12000,
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+        },
+        {
+          "name": "科技升级套装（Ultra SE可选）",
+          "price_rmb": 15000,
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+        },
+        {
+          "name": "智能电动迎宾踏板",
+          "price_rmb": 6000,
+          "details": "含迎宾光毯，旗舰版标配"
+        },
+        {
+          "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
+          "price_rmb": "6000 / 12000",
+          "details": "轮毂升级"
+        },
+        {
+          "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
+          "price_rmb": "6000-15000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "林雾紫内饰",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-gx-2026-reev-1585-ultra-se",
+      "sku_name": "超级增程 1585四驱Ultra SE",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 695,
+        "zero_to_100_s": 4.98,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 63.3,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 1585,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后H臂多连杆独立悬架",
+        "air_suspension": "双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "线控后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x2",
+        "compute_tops": 1500,
+        "lidar": null,
+        "system": "图灵第二代VLA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "17.3英寸中控+8英寸后排智控屏+21.4英寸3K娱乐屏",
+        "hud": "88英寸AR-HUD",
+        "audio": "33扬声器音响",
+        "fridge": "无菌双温区车载冰箱",
+        "seat_features": "六座全排可躺平"
+      },
+      "options": [
+        {
+          "name": "二排娱乐套装（Max可选）",
+          "price_rmb": 12000,
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+        },
+        {
+          "name": "科技升级套装（Ultra SE可选）",
+          "price_rmb": 15000,
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+        },
+        {
+          "name": "智能电动迎宾踏板",
+          "price_rmb": 6000,
+          "details": "含迎宾光毯，旗舰版标配"
+        },
+        {
+          "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
+          "price_rmb": "6000 / 12000",
+          "details": "轮毂升级"
+        },
+        {
+          "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
+          "price_rmb": "6000-15000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "林雾紫内饰",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-gx-2026-reev-1585-ultra",
+      "sku_name": "超级增程 1585四驱Ultra",
+      "price_rmb": 329800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 695,
+        "zero_to_100_s": 4.98,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 63.3,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 1585,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后H臂多连杆独立悬架",
+        "air_suspension": "双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "线控后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "17.3英寸中控+8英寸后排智控屏+21.4英寸3K娱乐屏",
+        "hud": "88英寸AR-HUD",
+        "audio": "33扬声器音响",
+        "fridge": "无菌双温区车载冰箱",
+        "seat_features": "六座全排可躺平"
+      },
+      "options": [
+        {
+          "name": "二排娱乐套装（Max可选）",
+          "price_rmb": 12000,
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+        },
+        {
+          "name": "科技升级套装（Ultra SE可选）",
+          "price_rmb": 15000,
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+        },
+        {
+          "name": "智能电动迎宾踏板",
+          "price_rmb": 6000,
+          "details": "含迎宾光毯，旗舰版标配"
+        },
+        {
+          "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
+          "price_rmb": "6000 / 12000",
+          "details": "轮毂升级"
+        },
+        {
+          "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
+          "price_rmb": "6000-15000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "林雾紫内饰",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-gx-2026-reev-1585-ultra-flagship",
+      "sku_name": "超级增程 1585四驱Ultra旗舰版",
+      "price_rmb": 359800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 695,
+        "zero_to_100_s": 4.98,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 63.3,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 1585,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后H臂多连杆独立悬架",
+        "air_suspension": "双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "线控后轮转向",
+        "steer_by_wire": true,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "17.3英寸中控+8英寸后排智控屏+21.4英寸3K娱乐屏",
+        "hud": "88英寸AR-HUD",
+        "audio": "33扬声器音响",
+        "fridge": "无菌双温区车载冰箱",
+        "seat_features": "六座全排可躺平"
+      },
+      "options": [
+        {
+          "name": "二排娱乐套装（Max可选）",
+          "price_rmb": 12000,
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+        },
+        {
+          "name": "科技升级套装（Ultra SE可选）",
+          "price_rmb": 15000,
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+        },
+        {
+          "name": "智能电动迎宾踏板",
+          "price_rmb": 6000,
+          "details": "含迎宾光毯，旗舰版标配"
+        },
+        {
+          "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
+          "price_rmb": "6000 / 12000",
+          "details": "轮毂升级"
+        },
+        {
+          "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
+          "price_rmb": "6000-15000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "林雾紫内饰",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-gx-2026-bev-665-max",
+      "sku_name": "纯电 665两驱Max",
+      "price_rmb": 279800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机两驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 665,
+        "cltc_combined_range_km": 665,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后H臂多连杆独立悬架",
+        "air_suspension": "双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "线控后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "17.3英寸中控+8英寸后排智控屏",
+        "hud": "88英寸AR-HUD",
+        "audio": "标配音响",
+        "fridge": "无菌双温区车载冰箱",
+        "seat_features": "六座全排可躺平"
+      },
+      "options": [
+        {
+          "name": "二排娱乐套装（Max可选）",
+          "price_rmb": 12000,
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+        },
+        {
+          "name": "科技升级套装（Ultra SE可选）",
+          "price_rmb": 15000,
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+        },
+        {
+          "name": "智能电动迎宾踏板",
+          "price_rmb": 6000,
+          "details": "含迎宾光毯，旗舰版标配"
+        },
+        {
+          "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
+          "price_rmb": "6000 / 12000",
+          "details": "轮毂升级"
+        },
+        {
+          "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
+          "price_rmb": "6000-15000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "林雾紫内饰",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-gx-2026-bev-665-ultra-se",
+      "sku_name": "纯电 665两驱Ultra SE",
+      "price_rmb": 299800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机两驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 665,
+        "cltc_combined_range_km": 665,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后H臂多连杆独立悬架",
+        "air_suspension": "双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "线控后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x2",
+        "compute_tops": 1500,
+        "lidar": null,
+        "system": "图灵第二代VLA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "17.3英寸中控+8英寸后排智控屏+21.4英寸3K娱乐屏",
+        "hud": "88英寸AR-HUD",
+        "audio": "33扬声器音响",
+        "fridge": "无菌双温区车载冰箱",
+        "seat_features": "六座全排可躺平"
+      },
+      "options": [
+        {
+          "name": "二排娱乐套装（Max可选）",
+          "price_rmb": 12000,
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+        },
+        {
+          "name": "科技升级套装（Ultra SE可选）",
+          "price_rmb": 15000,
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+        },
+        {
+          "name": "智能电动迎宾踏板",
+          "price_rmb": 6000,
+          "details": "含迎宾光毯，旗舰版标配"
+        },
+        {
+          "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
+          "price_rmb": "6000 / 12000",
+          "details": "轮毂升级"
+        },
+        {
+          "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
+          "price_rmb": "6000-15000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "林雾紫内饰",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-gx-2026-bev-665-ultra",
+      "sku_name": "纯电 665两驱Ultra",
+      "price_rmb": 319800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机两驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 665,
+        "cltc_combined_range_km": 665,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后H臂多连杆独立悬架",
+        "air_suspension": "双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "线控后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "17.3英寸中控+8英寸后排智控屏+21.4英寸3K娱乐屏",
+        "hud": "88英寸AR-HUD",
+        "audio": "33扬声器音响",
+        "fridge": "无菌双温区车载冰箱",
+        "seat_features": "六座全排可躺平"
+      },
+      "options": [
+        {
+          "name": "二排娱乐套装（Max可选）",
+          "price_rmb": 12000,
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+        },
+        {
+          "name": "科技升级套装（Ultra SE可选）",
+          "price_rmb": 15000,
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+        },
+        {
+          "name": "智能电动迎宾踏板",
+          "price_rmb": 6000,
+          "details": "含迎宾光毯，旗舰版标配"
+        },
+        {
+          "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
+          "price_rmb": "6000 / 12000",
+          "details": "轮毂升级"
+        },
+        {
+          "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
+          "price_rmb": "6000-15000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "林雾紫内饰",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-gx-2026-bev-750-awd-flagship",
+      "sku_name": "纯电 750四驱Ultra旗舰版",
+      "price_rmb": 359800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 750,
+        "cltc_combined_range_km": 750,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后H臂多连杆独立悬架",
+        "air_suspension": "双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "线控后轮转向",
+        "steer_by_wire": true,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "17.3英寸中控+8英寸后排智控屏+21.4英寸3K娱乐屏",
+        "hud": "88英寸AR-HUD",
+        "audio": "33扬声器音响",
+        "fridge": "无菌双温区车载冰箱",
+        "seat_features": "六座全排可躺平"
+      },
+      "options": [
+        {
+          "name": "二排娱乐套装（Max可选）",
+          "price_rmb": 12000,
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+        },
+        {
+          "name": "科技升级套装（Ultra SE可选）",
+          "price_rmb": 15000,
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+        },
+        {
+          "name": "智能电动迎宾踏板",
+          "price_rmb": 6000,
+          "details": "含迎宾光毯，旗舰版标配"
+        },
+        {
+          "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
+          "price_rmb": "6000 / 12000",
+          "details": "轮毂升级"
+        },
+        {
+          "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
+          "price_rmb": "6000-15000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "林雾紫内饰",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    }
+  ]
+}

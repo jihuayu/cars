@@ -1,0 +1,125 @@
+{
+  "brand": "leapmotor",
+  "brand_name": "零跑汽车",
+  "data_as_of": "2026-11-26",
+  "model_count": 8,
+  "sku_count": 49,
+  "models": [
+    {
+      "model": "2027款零跑B01",
+      "model_slug": "b01-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电轿车",
+      "release_date": "2026-07-16",
+      "sku_count": 5,
+      "price_min_rmb": 95800,
+      "price_max_rmb": 119800,
+      "file": "data/leapmotor/b01-2027.json",
+      "source_urls": [
+        "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=15"
+      ]
+    },
+    {
+      "model": "2027款零跑B10",
+      "model_slug": "b10-2027",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2026-07-16",
+      "sku_count": 5,
+      "price_min_rmb": 99800,
+      "price_max_rmb": 125800,
+      "file": "data/leapmotor/b10-2027.json",
+      "source_urls": [
+        "https://leapmotor.cn/B10.html",
+        "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=14"
+      ]
+    },
+    {
+      "model": "2027款零跑C10",
+      "model_slug": "c10-2027",
+      "sub_brand": null,
+      "category": "中型5座SUV",
+      "release_date": "2026-06-16",
+      "sku_count": 4,
+      "price_min_rmb": 125800,
+      "price_max_rmb": 142800,
+      "file": "data/leapmotor/c10-2027.json",
+      "source_urls": [
+        "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=11"
+      ]
+    },
+    {
+      "model": "2027款零跑C11",
+      "model_slug": "c11-2027",
+      "sub_brand": null,
+      "category": "中型5座SUV",
+      "release_date": "2026-06-16",
+      "sku_count": 5,
+      "price_min_rmb": 143800,
+      "price_max_rmb": 159800,
+      "file": "data/leapmotor/c11-2027.json",
+      "source_urls": [
+        "https://cn.leapmotor.com/parameter-pk-web.html?carTypeId=1&platform=web",
+        "https://cn.leapmotor.com/C11-aggregation.html"
+      ]
+    },
+    {
+      "model": "2027款零跑C16",
+      "model_slug": "c16-2027",
+      "sub_brand": null,
+      "category": "中大型5/6座SUV",
+      "release_date": "2026-06-16",
+      "sku_count": 8,
+      "price_min_rmb": 145800,
+      "price_max_rmb": 169800,
+      "file": "data/leapmotor/c16-2027.json",
+      "source_urls": [
+        "https://leapmotor.cn/C16.html",
+        "https://car.autohome.com.cn/config/series/7674.html"
+      ]
+    },
+    {
+      "model": "2026款零跑D19",
+      "model_slug": "d19-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰6/7座SUV",
+      "release_date": "2026-04-16",
+      "sku_count": 7,
+      "price_min_rmb": 219800,
+      "price_max_rmb": 269800,
+      "file": "data/leapmotor/d19-2026.json",
+      "source_urls": [
+        "https://leapmotor.cn/D19.html",
+        "https://car.autohome.com.cn/config/series/8273.html"
+      ]
+    },
+    {
+      "model": "2026款零跑D99",
+      "model_slug": "d99-2026",
+      "sub_brand": null,
+      "category": "旗舰中大型7座MPV",
+      "release_date": "2026-06-25",
+      "sku_count": 8,
+      "price_min_rmb": 249800,
+      "price_max_rmb": 339800,
+      "file": "data/leapmotor/d99-2026.json",
+      "source_urls": [
+        "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=23"
+      ]
+    },
+    {
+      "model": "零跑Lafa5（2026款）",
+      "model_slug": "lafa5-2026",
+      "sub_brand": null,
+      "category": "紧凑型纯电两厢掀背车",
+      "release_date": "2025-11-27",
+      "sku_count": 7,
+      "price_min_rmb": 97800,
+      "price_max_rmb": 129800,
+      "file": "data/leapmotor/lafa5-2026.json",
+      "source_urls": [
+        "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18"
+      ]
+    }
+  ]
+}

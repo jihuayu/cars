@@ -1,0 +1,119 @@
+{
+  "brand": "lixiang",
+  "brand_name": "理想汽车",
+  "data_as_of": "2026-11-26",
+  "model": "新一代理想L6",
+  "model_slug": "l6-2026",
+  "category": "中大型5座SUV",
+  "release_date": "2026-07-16",
+  "source_urls": [
+    "https://www.lixiang.com/configuration.html",
+    "https://www.lixiang.com/L6",
+    "https://www.lixiang.com/news/184.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "lixiang-l6-2026-standard",
+      "sku_name": "新一代理想L6（全国统一配置）",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4935,
+        "width_mm": 1960,
+        "height_mm": 1735,
+        "wheelbase_mm": 2920,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前后双电机智能全时四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "增程专用超充电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 51.0,
+        "cltc_pure_electric_range_km": 300,
+        "cltc_combined_range_km": 1250,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "准5C",
+        "max_charge_power_kw": 260,
+        "fast_charge_time": "20%-80% 12min",
+        "v2l_power_kw": 3.5,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 50,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": false,
+        "cdc": "标配第二代双阀连续可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "静音轮胎"
+      },
+      "adas": {
+        "chip": "理想自研5nm马赫M100 x1",
+        "compute_tops": 1280,
+        "lidar": "1颗前向ATL-P高性能激光雷达",
+        "system": "马赫VLA智能辅助驾驶",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797",
+        "screens": "29英寸6K一体式全景屏",
+        "hud": null,
+        "audio": "标配音响（可选7.3.4铂金音响）",
+        "fridge": "标配智能电动冷暖双用冰箱（支持-6℃冷冻）",
+        "seat_features": "标配二排140°大躺椅、高密度侧窗隐私帘、四门静音电吸门"
+      },
+      "options": [
+        {
+          "name": "特殊车漆（沙丘黄/风信紫/小象灰/曜石黑）",
+          "price_rmb": 6000,
+          "details": "标配陨石灰、珍珠白、GT银"
+        },
+        {
+          "name": "原厂曜黑套件",
+          "price_rmb": 2000,
+          "details": "高亮黑窗框饰条、后视镜底座、轮毂"
+        },
+        {
+          "name": "前排双零重力座椅",
+          "price_rmb": 20000,
+          "details": "16向电调、4向加热腿托、18点揉捏按摩"
+        },
+        {
+          "name": "后排娱乐套装",
+          "price_rmb": 10000,
+          "details": "21英寸4K二排屏、顶棚化妆镜、流媒体后视镜、中置音响、二排RGB视觉模组"
+        },
+        {
+          "name": "双马赫具身智能套装",
+          "price_rmb": 30000,
+          "details": "增加1颗马赫M100芯片、3颗固态可变焦激光雷达、前排电动门"
+        },
+        {
+          "name": "原厂电动拖车钩",
+          "price_rmb": 6000,
+          "details": "原厂电动拖车钩"
+        },
+        {
+          "name": "铂金音响系统",
+          "price_rmb": 5000,
+          "details": "7.3.4全景声布局"
+        }
+      ]
+    }
+  ]
+}

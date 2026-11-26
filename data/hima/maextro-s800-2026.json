@@ -1,0 +1,431 @@
+{
+  "brand": "hima",
+  "brand_name": "鸿蒙智行",
+  "data_as_of": "2026-11-26",
+  "sub_brand": "尊界 MAEXTRO",
+  "model": "尊界S800（含典藏大观）",
+  "model_slug": "maextro-s800-2026",
+  "category": "超豪华大型行政轿车",
+  "release_date": "2025-05-30",
+  "source_urls": [
+    "https://hima.auto/zunjie/s800/configuration/",
+    "https://hima.auto/zunjie/s800/"
+  ],
+  "skus": [
+    {
+      "sku_id": "hima-maextro-s800-xinghui-5seat-896",
+      "sku_name": "星辉尊享 5座（896线）",
+      "price_rmb": 728000,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5480,
+        "width_mm": 2000,
+        "height_mm": 1542,
+        "wheelbase_mm": 3370,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.206
+      },
+      "performance": {
+        "drive_type": "多电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "6C雪鸮增程电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65.0,
+        "cltc_pure_electric_range_km": 400,
+        "cltc_combined_range_km": 1333,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "6C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "全主动空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "±12°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 4（32传感器）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "一体环宇三联屏 + 40英寸激光投影巨幕",
+        "hud": "76英寸华为临境HUD",
+        "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
+        "fridge": "后排冷暖箱",
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "典藏大观“锦绣繁花主题套装”",
+          "price_rmb": 200000,
+          "details": "高定主题套装"
+        },
+        {
+          "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
+          "price_rmb": null,
+          "details": "以官方定制器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-maextro-s800-xinghui-4seat-896",
+      "sku_name": "星辉行政 4座（896线）",
+      "price_rmb": 838000,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5480,
+        "width_mm": 2000,
+        "height_mm": 1542,
+        "wheelbase_mm": 3370,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.206
+      },
+      "performance": {
+        "drive_type": "多电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "6C雪鸮增程电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65.0,
+        "cltc_pure_electric_range_km": 400,
+        "cltc_combined_range_km": 1333,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "6C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "全主动空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "±12°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 4（32传感器）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "一体环宇三联屏 + 40英寸激光投影巨幕",
+        "hud": "76英寸华为临境HUD",
+        "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
+        "fridge": "后排冷暖箱",
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "典藏大观“锦绣繁花主题套装”",
+          "price_rmb": 200000,
+          "details": "高定主题套装"
+        },
+        {
+          "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
+          "price_rmb": null,
+          "details": "以官方定制器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-maextro-s800-xingyao-4seat-896",
+      "sku_name": "星耀行政 4座（896线）",
+      "price_rmb": 1018000,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5480,
+        "width_mm": 2000,
+        "height_mm": 1542,
+        "wheelbase_mm": 3370,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.206
+      },
+      "performance": {
+        "drive_type": "多电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "6C雪鸮增程电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65.0,
+        "cltc_pure_electric_range_km": 400,
+        "cltc_combined_range_km": 1333,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "6C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "全主动空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "±12°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 4（32传感器）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "一体环宇三联屏 + 40英寸激光投影巨幕",
+        "hud": "76英寸华为临境HUD",
+        "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
+        "fridge": "后排冷暖箱",
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "典藏大观“锦绣繁花主题套装”",
+          "price_rmb": 200000,
+          "details": "高定主题套装"
+        },
+        {
+          "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
+          "price_rmb": null,
+          "details": "以官方定制器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-maextro-s800-grand-design-reev",
+      "sku_name": "Grand Design 典藏大观 增程4座",
+      "price_rmb": 1388000,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5480,
+        "width_mm": 2000,
+        "height_mm": 1542,
+        "wheelbase_mm": 3370,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.206
+      },
+      "performance": {
+        "drive_type": "多电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "6C雪鸮增程电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 65.0,
+        "cltc_pure_electric_range_km": 400,
+        "cltc_combined_range_km": 1333,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "6C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10.5min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "全主动空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "±12°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 4（32传感器）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "一体环宇三联屏 + 40英寸激光投影巨幕",
+        "hud": "76英寸华为临境HUD",
+        "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
+        "fridge": "后排冷暖箱",
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "典藏大观“锦绣繁花主题套装”",
+          "price_rmb": 200000,
+          "details": "高定主题套装"
+        },
+        {
+          "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
+          "price_rmb": null,
+          "details": "以官方定制器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-maextro-s800-grand-design-bev",
+      "sku_name": "Grand Design 典藏大观 纯电4座",
+      "price_rmb": 1388000,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5480,
+        "width_mm": 2000,
+        "height_mm": 1542,
+        "wheelbase_mm": 3370,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.206
+      },
+      "performance": {
+        "drive_type": "多电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C纯电超充电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 97.0,
+        "cltc_pure_electric_range_km": 702,
+        "cltc_combined_range_km": 702,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "全主动空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "±12°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 4（32传感器）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "一体环宇三联屏 + 40英寸激光投影巨幕",
+        "hud": "76英寸华为临境HUD",
+        "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
+        "fridge": "后排冷暖箱",
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "典藏大观“锦绣繁花主题套装”",
+          "price_rmb": 200000,
+          "details": "高定主题套装"
+        },
+        {
+          "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
+          "price_rmb": null,
+          "details": "以官方定制器为准"
+        }
+      ]
+    }
+  ]
+}

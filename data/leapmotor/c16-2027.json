@@ -1,0 +1,639 @@
+{
+  "brand": "leapmotor",
+  "brand_name": "零跑汽车",
+  "data_as_of": "2026-11-26",
+  "model": "2027款零跑C16",
+  "model_slug": "c16-2027",
+  "category": "中大型5/6座SUV",
+  "release_date": "2026-06-16",
+  "source_urls": [
+    "https://leapmotor.cn/C16.html",
+    "https://car.autohome.com.cn/config/series/7674.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "leapmotor-c16-2027-reev-280-5seat",
+      "sku_name": "增程280 尊享版5座",
+      "price_rmb": 145800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 38.7,
+        "cltc_pure_electric_range_km": 280,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸3K中控屏（可选/标配后排3K娱乐屏）",
+        "hud": "60英寸AR-HUD",
+        "audio": "23扬声器7.1.4杜比全景声",
+        "fridge": "7.5L宽温域冷暖冰箱（-6℃至50℃）",
+        "seat_features": "5座/6座可选"
+      },
+      "options": [
+        {
+          "name": "全配套装（尊享版可选）",
+          "price_rmb": 10000,
+          "details": "21英寸轮毂+分段遮阳帘+17.3英寸3K后排屏+23扬声器"
+        },
+        {
+          "name": "悦境零压尊享套装（智尊版可选）",
+          "price_rmb": 10000,
+          "details": "Nappa真皮+主副驾双零重力+4向电动腿托+10点按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-c16-2027-reev-280-6seat",
+      "sku_name": "增程280 尊享版6座",
+      "price_rmb": 148800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 38.7,
+        "cltc_pure_electric_range_km": 280,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸3K中控屏（可选/标配后排3K娱乐屏）",
+        "hud": "60英寸AR-HUD",
+        "audio": "23扬声器7.1.4杜比全景声",
+        "fridge": "7.5L宽温域冷暖冰箱（-6℃至50℃）",
+        "seat_features": "5座/6座可选"
+      },
+      "options": [
+        {
+          "name": "全配套装（尊享版可选）",
+          "price_rmb": 10000,
+          "details": "21英寸轮毂+分段遮阳帘+17.3英寸3K后排屏+23扬声器"
+        },
+        {
+          "name": "悦境零压尊享套装（智尊版可选）",
+          "price_rmb": 10000,
+          "details": "Nappa真皮+主副驾双零重力+4向电动腿托+10点按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-c16-2027-reev-280-lidar-5seat",
+      "sku_name": "增程280 激光雷达智尊版5座",
+      "price_rmb": 159800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 38.7,
+        "cltc_pure_electric_range_km": 280,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通骁龙8650",
+        "compute_tops": 200,
+        "lidar": "1颗激光雷达",
+        "system": "Leapmotor Pilot领航辅助",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸3K中控屏（可选/标配后排3K娱乐屏）",
+        "hud": "60英寸AR-HUD",
+        "audio": "23扬声器7.1.4杜比全景声",
+        "fridge": "7.5L宽温域冷暖冰箱（-6℃至50℃）",
+        "seat_features": "5座/6座可选"
+      },
+      "options": [
+        {
+          "name": "全配套装（尊享版可选）",
+          "price_rmb": 10000,
+          "details": "21英寸轮毂+分段遮阳帘+17.3英寸3K后排屏+23扬声器"
+        },
+        {
+          "name": "悦境零压尊享套装（智尊版可选）",
+          "price_rmb": 10000,
+          "details": "Nappa真皮+主副驾双零重力+4向电动腿托+10点按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-c16-2027-reev-280-lidar-6seat",
+      "sku_name": "增程280 激光雷达智尊版6座",
+      "price_rmb": 162800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 38.7,
+        "cltc_pure_electric_range_km": 280,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通骁龙8650",
+        "compute_tops": 200,
+        "lidar": "1颗激光雷达",
+        "system": "Leapmotor Pilot领航辅助",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸3K中控屏（可选/标配后排3K娱乐屏）",
+        "hud": "60英寸AR-HUD",
+        "audio": "23扬声器7.1.4杜比全景声",
+        "fridge": "7.5L宽温域冷暖冰箱（-6℃至50℃）",
+        "seat_features": "5座/6座可选"
+      },
+      "options": [
+        {
+          "name": "全配套装（尊享版可选）",
+          "price_rmb": 10000,
+          "details": "21英寸轮毂+分段遮阳帘+17.3英寸3K后排屏+23扬声器"
+        },
+        {
+          "name": "悦境零压尊享套装（智尊版可选）",
+          "price_rmb": 10000,
+          "details": "Nappa真皮+主副驾双零重力+4向电动腿托+10点按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-c16-2027-bev-630-5seat",
+      "sku_name": "纯电630 尊享版5座",
+      "price_rmb": 152800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 81.9,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": 630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "3C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸3K中控屏（可选/标配后排3K娱乐屏）",
+        "hud": "60英寸AR-HUD",
+        "audio": "23扬声器7.1.4杜比全景声",
+        "fridge": "7.5L宽温域冷暖冰箱（-6℃至50℃）",
+        "seat_features": "5座/6座可选"
+      },
+      "options": [
+        {
+          "name": "全配套装（尊享版可选）",
+          "price_rmb": 10000,
+          "details": "21英寸轮毂+分段遮阳帘+17.3英寸3K后排屏+23扬声器"
+        },
+        {
+          "name": "悦境零压尊享套装（智尊版可选）",
+          "price_rmb": 10000,
+          "details": "Nappa真皮+主副驾双零重力+4向电动腿托+10点按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-c16-2027-bev-630-6seat",
+      "sku_name": "纯电630 尊享版6座",
+      "price_rmb": 155800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 81.9,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": 630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "3C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸3K中控屏（可选/标配后排3K娱乐屏）",
+        "hud": "60英寸AR-HUD",
+        "audio": "23扬声器7.1.4杜比全景声",
+        "fridge": "7.5L宽温域冷暖冰箱（-6℃至50℃）",
+        "seat_features": "5座/6座可选"
+      },
+      "options": [
+        {
+          "name": "全配套装（尊享版可选）",
+          "price_rmb": 10000,
+          "details": "21英寸轮毂+分段遮阳帘+17.3英寸3K后排屏+23扬声器"
+        },
+        {
+          "name": "悦境零压尊享套装（智尊版可选）",
+          "price_rmb": 10000,
+          "details": "Nappa真皮+主副驾双零重力+4向电动腿托+10点按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-c16-2027-bev-630-lidar-5seat",
+      "sku_name": "纯电630 激光雷达智尊版5座",
+      "price_rmb": 166800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 81.9,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": 630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "3C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通骁龙8650",
+        "compute_tops": 200,
+        "lidar": "1颗激光雷达",
+        "system": "Leapmotor Pilot领航辅助",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸3K中控屏（可选/标配后排3K娱乐屏）",
+        "hud": "60英寸AR-HUD",
+        "audio": "23扬声器7.1.4杜比全景声",
+        "fridge": "7.5L宽温域冷暖冰箱（-6℃至50℃）",
+        "seat_features": "5座/6座可选"
+      },
+      "options": [
+        {
+          "name": "全配套装（尊享版可选）",
+          "price_rmb": 10000,
+          "details": "21英寸轮毂+分段遮阳帘+17.3英寸3K后排屏+23扬声器"
+        },
+        {
+          "name": "悦境零压尊享套装（智尊版可选）",
+          "price_rmb": 10000,
+          "details": "Nappa真皮+主副驾双零重力+4向电动腿托+10点按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-c16-2027-bev-630-lidar-6seat",
+      "sku_name": "纯电630 激光雷达智尊版6座",
+      "price_rmb": 169800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 81.9,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": 630,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "3C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": "FSD可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "高通骁龙8650",
+        "compute_tops": 200,
+        "lidar": "1颗激光雷达",
+        "system": "Leapmotor Pilot领航辅助",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸3K中控屏（可选/标配后排3K娱乐屏）",
+        "hud": "60英寸AR-HUD",
+        "audio": "23扬声器7.1.4杜比全景声",
+        "fridge": "7.5L宽温域冷暖冰箱（-6℃至50℃）",
+        "seat_features": "5座/6座可选"
+      },
+      "options": [
+        {
+          "name": "全配套装（尊享版可选）",
+          "price_rmb": 10000,
+          "details": "21英寸轮毂+分段遮阳帘+17.3英寸3K后排屏+23扬声器"
+        },
+        {
+          "name": "悦境零压尊享套装（智尊版可选）",
+          "price_rmb": 10000,
+          "details": "Nappa真皮+主副驾双零重力+4向电动腿托+10点按摩"
+        }
+      ]
+    }
+  ]
+}

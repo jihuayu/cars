@@ -1,0 +1,446 @@
+{
+  "brand": "xiaopeng",
+  "brand_name": "小鹏汽车",
+  "data_as_of": "2026-11-26",
+  "model": "全新小鹏P7",
+  "model_slug": "p7-2026",
+  "category": "中大型纯电运动轿跑",
+  "release_date": "2025-08-27",
+  "source_urls": [
+    "https://www.xiaopeng.com/p7n/configuration.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "xiaopeng-p7n-702-max",
+      "sku_name": "702 Max",
+      "price_rmb": 203800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5017,
+        "width_mm": 1970,
+        "height_mm": 1427,
+        "wheelbase_mm": 3008,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "575-1929",
+        "frunk_volume_l": 56,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "中置单电机后驱",
+        "motor_power_kw": 270,
+        "motor_torque_nm": 465,
+        "zero_to_100_s": 5.8,
+        "top_speed_kmh": 230
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 702,
+        "cltc_combined_range_km": 702,
+        "energy_consumption_kwh_100km": 12.0,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥12.0min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "智能可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "20英寸（前245/后275）"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "15.6英寸三轴灵动屏 + 8.8英寸仪表 + 8英寸后排屏 + 9英寸流媒体后视镜",
+        "hud": "87英寸追光全景HUD",
+        "audio": "23扬声器7.1.4音响",
+        "fridge": null,
+        "seat_features": "运动奢享座椅"
+      },
+      "options": [
+        {
+          "name": "Ultra SE智能升级包",
+          "price_rmb": 12000,
+          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS"
+        },
+        {
+          "name": "Ultra智能升级包",
+          "price_rmb": 20000,
+          "details": "3颗图灵AI芯片（2250 TOPS）+VLM+小P管家"
+        },
+        {
+          "name": "20英寸运动轮毂+橙卡钳",
+          "price_rmb": 6000,
+          "details": "Max版可选，四驱版标配"
+        },
+        {
+          "name": "21英寸锻造轮毂+米其林胎",
+          "price_rmb": 16000,
+          "details": "含炽焰橙卡钳"
+        },
+        {
+          "name": "暗夜骑士/星曜骑士套装",
+          "price_rmb": 10000,
+          "details": "专属车漆+20英寸六辐轮毂+烈焰红卡钳"
+        },
+        {
+          "name": "主动式升降电动尾翼",
+          "price_rmb": 6000,
+          "details": "主动电动尾翼"
+        },
+        {
+          "name": "副驾零重力座椅",
+          "price_rmb": 6000,
+          "details": "副驾零重力座椅"
+        },
+        {
+          "name": "付费车漆（律动黄/星瀚绿/星芒蓝）",
+          "price_rmb": 6000,
+          "details": "付费外观色"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-p7n-820-max",
+      "sku_name": "820 Max",
+      "price_rmb": 223800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5017,
+        "width_mm": 1970,
+        "height_mm": 1427,
+        "wheelbase_mm": 3008,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "575-1929",
+        "frunk_volume_l": 56,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "中置单电机后驱",
+        "motor_power_kw": 270,
+        "motor_torque_nm": 465,
+        "zero_to_100_s": 5.4,
+        "top_speed_kmh": 230
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 820,
+        "cltc_combined_range_km": 820,
+        "energy_consumption_kwh_100km": 12.0,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.3min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "智能可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "20英寸（前245/后275）"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "15.6英寸三轴灵动屏 + 8.8英寸仪表 + 8英寸后排屏 + 9英寸流媒体后视镜",
+        "hud": "87英寸追光全景HUD",
+        "audio": "23扬声器7.1.4音响",
+        "fridge": null,
+        "seat_features": "运动奢享座椅"
+      },
+      "options": [
+        {
+          "name": "Ultra SE智能升级包",
+          "price_rmb": 12000,
+          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS"
+        },
+        {
+          "name": "Ultra智能升级包",
+          "price_rmb": 20000,
+          "details": "3颗图灵AI芯片（2250 TOPS）+VLM+小P管家"
+        },
+        {
+          "name": "20英寸运动轮毂+橙卡钳",
+          "price_rmb": 6000,
+          "details": "Max版可选，四驱版标配"
+        },
+        {
+          "name": "21英寸锻造轮毂+米其林胎",
+          "price_rmb": 16000,
+          "details": "含炽焰橙卡钳"
+        },
+        {
+          "name": "暗夜骑士/星曜骑士套装",
+          "price_rmb": 10000,
+          "details": "专属车漆+20英寸六辐轮毂+烈焰红卡钳"
+        },
+        {
+          "name": "主动式升降电动尾翼",
+          "price_rmb": 6000,
+          "details": "主动电动尾翼"
+        },
+        {
+          "name": "副驾零重力座椅",
+          "price_rmb": 6000,
+          "details": "副驾零重力座椅"
+        },
+        {
+          "name": "付费车漆（律动黄/星瀚绿/星芒蓝）",
+          "price_rmb": 6000,
+          "details": "付费外观色"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-p7n-750-awd-max",
+      "sku_name": "750 四驱Max",
+      "price_rmb": 243800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5017,
+        "width_mm": 1970,
+        "height_mm": 1427,
+        "wheelbase_mm": 3008,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "575-1929",
+        "frunk_volume_l": 56,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "中置双电机四驱",
+        "motor_power_kw": 437,
+        "motor_torque_nm": 695,
+        "zero_to_100_s": 3.7,
+        "top_speed_kmh": 230
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 750,
+        "cltc_combined_range_km": 750,
+        "energy_consumption_kwh_100km": 13.5,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.3min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "智能可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "20英寸（前245/后275）"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "15.6英寸三轴灵动屏 + 8.8英寸仪表 + 8英寸后排屏 + 9英寸流媒体后视镜",
+        "hud": "87英寸追光全景HUD",
+        "audio": "23扬声器7.1.4音响",
+        "fridge": null,
+        "seat_features": "运动奢享座椅"
+      },
+      "options": [
+        {
+          "name": "Ultra SE智能升级包",
+          "price_rmb": 12000,
+          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS"
+        },
+        {
+          "name": "Ultra智能升级包",
+          "price_rmb": 20000,
+          "details": "3颗图灵AI芯片（2250 TOPS）+VLM+小P管家"
+        },
+        {
+          "name": "20英寸运动轮毂+橙卡钳",
+          "price_rmb": 6000,
+          "details": "Max版可选，四驱版标配"
+        },
+        {
+          "name": "21英寸锻造轮毂+米其林胎",
+          "price_rmb": 16000,
+          "details": "含炽焰橙卡钳"
+        },
+        {
+          "name": "暗夜骑士/星曜骑士套装",
+          "price_rmb": 10000,
+          "details": "专属车漆+20英寸六辐轮毂+烈焰红卡钳"
+        },
+        {
+          "name": "主动式升降电动尾翼",
+          "price_rmb": 6000,
+          "details": "主动电动尾翼"
+        },
+        {
+          "name": "副驾零重力座椅",
+          "price_rmb": 6000,
+          "details": "副驾零重力座椅"
+        },
+        {
+          "name": "付费车漆（律动黄/星瀚绿/星芒蓝）",
+          "price_rmb": 6000,
+          "details": "付费外观色"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-p7n-750-awd-wing-ultra",
+      "sku_name": "750 四驱鹏翼Ultra",
+      "price_rmb": 301800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5017,
+        "width_mm": 1970,
+        "height_mm": 1427,
+        "wheelbase_mm": 3008,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "575-1929",
+        "frunk_volume_l": 56,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "中置双电机四驱",
+        "motor_power_kw": 437,
+        "motor_torque_nm": 695,
+        "zero_to_100_s": 3.7,
+        "top_speed_kmh": 230
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 750,
+        "cltc_combined_range_km": 750,
+        "energy_consumption_kwh_100km": 13.5,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.3min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销双叉臂",
+        "rear_suspension": "后五连杆",
+        "air_suspension": "双腔空气悬架",
+        "cdc": "智能可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "20英寸（前245/后275）"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P + 图灵VLMU",
+        "screens": "15.6英寸三轴灵动屏 + 8.8英寸仪表 + 8英寸后排屏 + 9英寸流媒体后视镜",
+        "hud": "87英寸追光全景HUD",
+        "audio": "23扬声器7.1.4音响",
+        "fridge": null,
+        "seat_features": "运动奢享座椅"
+      },
+      "options": [
+        {
+          "name": "Ultra SE智能升级包",
+          "price_rmb": 12000,
+          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS"
+        },
+        {
+          "name": "Ultra智能升级包",
+          "price_rmb": 20000,
+          "details": "3颗图灵AI芯片（2250 TOPS）+VLM+小P管家"
+        },
+        {
+          "name": "20英寸运动轮毂+橙卡钳",
+          "price_rmb": 6000,
+          "details": "Max版可选，四驱版标配"
+        },
+        {
+          "name": "21英寸锻造轮毂+米其林胎",
+          "price_rmb": 16000,
+          "details": "含炽焰橙卡钳"
+        },
+        {
+          "name": "暗夜骑士/星曜骑士套装",
+          "price_rmb": 10000,
+          "details": "专属车漆+20英寸六辐轮毂+烈焰红卡钳"
+        },
+        {
+          "name": "主动式升降电动尾翼",
+          "price_rmb": 6000,
+          "details": "主动电动尾翼"
+        },
+        {
+          "name": "副驾零重力座椅",
+          "price_rmb": 6000,
+          "details": "副驾零重力座椅"
+        },
+        {
+          "name": "付费车漆（律动黄/星瀚绿/星芒蓝）",
+          "price_rmb": 6000,
+          "details": "付费外观色"
+        }
+      ]
+    }
+  ]
+}

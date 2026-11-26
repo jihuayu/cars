@@ -1,0 +1,171 @@
+{
+  "brand": "hima",
+  "brand_name": "鸿蒙智行",
+  "data_as_of": "2026-11-26",
+  "sub_brand": "尚界 SAIC",
+  "model": "尚界Z7 / Z7T（2026款）",
+  "model_slug": "saic-z7-2026",
+  "category": "中型纯电轿跑 / 猎装轿跑",
+  "release_date": "2026-04-22",
+  "source_urls": [
+    "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025"
+  ],
+  "skus": [
+    {
+      "sku_id": "hima-saic-z7-2026-base",
+      "sku_name": "尚界Z7 纯电轿跑（起售）",
+      "price_rmb": 219800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": null,
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "纯电",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "独立悬架",
+        "air_suspension": null,
+        "cdc": null,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "全系标配激光雷达",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "运动轿跑座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "星野套装 / 车漆轮毂",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-saic-z7t-2026-base",
+      "sku_name": "尚界Z7T 猎装轿跑（起售）",
+      "price_rmb": 229800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": null,
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "纯电",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "独立悬架",
+        "air_suspension": null,
+        "cdc": null,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "全系标配激光雷达",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "猎装运动空间"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "星野套装 / 车漆轮毂",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

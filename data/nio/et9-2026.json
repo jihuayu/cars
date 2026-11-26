@@ -1,0 +1,353 @@
+{
+  "brand": "nio",
+  "brand_name": "蔚来",
+  "data_as_of": "2026-11-26",
+  "model": "蔚来ET9",
+  "model_slug": "et9-2026",
+  "category": "全尺寸行政四座旗舰轿车",
+  "release_date": "2024-12-21",
+  "source_urls": [
+    "https://www.nio.cn/vehicle/configuration/et9"
+  ],
+  "skus": [
+    {
+      "sku_id": "nio-et9-standard",
+      "sku_name": "ET9 标准版",
+      "price_rmb": 768000,
+      "baas_price_rmb": 660000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5325,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3250,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前180kW/后340kW）",
+        "motor_power_kw": 520,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "102kWh电池包",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": "620-650",
+        "cltc_combined_range_km": "620-650",
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 600,
+        "fast_charge_time": "900V 5C超快充+3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前五连杆独立悬架",
+        "rear_suspension": "后H-Arm多连杆独立悬架",
+        "air_suspension": "天行全主动悬架",
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": true,
+        "tire_spec": "六活塞前卡钳"
+      },
+      "adas": {
+        "chip": "自研神玑NX9031 x2",
+        "compute_tops": null,
+        "lidar": "3颗激光雷达+4D成像雷达（31感知硬件）",
+        "system": "AQUILA超感系统",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P + N-Box增强计算单元",
+        "screens": "Skyline数字天际线 + 15.6英寸AMOLED + 8英寸后排屏",
+        "hud": "蓝宝石全焦段AR-HUD",
+        "audio": "九霄天琴8.2.4.8音响（35扬声器/4420W）",
+        "fridge": "行政冷暖箱",
+        "seat_features": "原生行政四座飞航头等舱"
+      },
+      "options": [
+        {
+          "name": "子夜镜瓷蓝专属车漆",
+          "price_rmb": 30000,
+          "details": "高定车漆"
+        },
+        {
+          "name": "其余特殊车漆（月辉银/南极星蓝/曙光金等）",
+          "price_rmb": 10000,
+          "details": "付费外观色"
+        },
+        {
+          "name": "轮圈升级（22英寸星叶 / 23英寸锻造）",
+          "price_rmb": "6500-23500",
+          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500"
+        },
+        {
+          "name": "气辉橙卡钳",
+          "price_rmb": 3500,
+          "details": "卡钳涂装"
+        },
+        {
+          "name": "24K镀金车标套件",
+          "price_rmb": 8000,
+          "details": "镀金车标"
+        },
+        {
+          "name": "特殊内饰主题（探索/远航）",
+          "price_rmb": 8000,
+          "details": "专属内饰"
+        },
+        {
+          "name": "NOMI Mate 3.0",
+          "price_rmb": 4900,
+          "details": "情感交互伙伴"
+        },
+        {
+          "name": "NIO Link全景互联行政屏",
+          "price_rmb": 13000,
+          "details": "后排双行政屏"
+        },
+        {
+          "name": "天琴钻石高音",
+          "price_rmb": 12000,
+          "details": "声学升级"
+        }
+      ]
+    },
+    {
+      "sku_id": "nio-et9-signature",
+      "sku_name": "ET9 签名版",
+      "price_rmb": 788000,
+      "baas_price_rmb": 680000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5325,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3250,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前180kW/后340kW）",
+        "motor_power_kw": 520,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "102kWh电池包",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": "620-650",
+        "cltc_combined_range_km": "620-650",
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 600,
+        "fast_charge_time": "900V 5C超快充+3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前五连杆独立悬架",
+        "rear_suspension": "后H-Arm多连杆独立悬架",
+        "air_suspension": "天行全主动悬架",
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": true,
+        "tire_spec": "六活塞前卡钳"
+      },
+      "adas": {
+        "chip": "自研神玑NX9031 x2",
+        "compute_tops": null,
+        "lidar": "3颗激光雷达+4D成像雷达（31感知硬件）",
+        "system": "AQUILA超感系统",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P + N-Box增强计算单元",
+        "screens": "Skyline数字天际线 + 15.6英寸AMOLED + 8英寸后排屏",
+        "hud": "蓝宝石全焦段AR-HUD",
+        "audio": "九霄天琴8.2.4.8音响（35扬声器/4420W）",
+        "fridge": "行政冷暖箱",
+        "seat_features": "原生行政四座飞航头等舱"
+      },
+      "options": [
+        {
+          "name": "子夜镜瓷蓝专属车漆",
+          "price_rmb": 30000,
+          "details": "高定车漆"
+        },
+        {
+          "name": "其余特殊车漆（月辉银/南极星蓝/曙光金等）",
+          "price_rmb": 10000,
+          "details": "付费外观色"
+        },
+        {
+          "name": "轮圈升级（22英寸星叶 / 23英寸锻造）",
+          "price_rmb": "6500-23500",
+          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500"
+        },
+        {
+          "name": "气辉橙卡钳",
+          "price_rmb": 3500,
+          "details": "卡钳涂装"
+        },
+        {
+          "name": "24K镀金车标套件",
+          "price_rmb": 8000,
+          "details": "镀金车标"
+        },
+        {
+          "name": "特殊内饰主题（探索/远航）",
+          "price_rmb": 8000,
+          "details": "专属内饰"
+        },
+        {
+          "name": "NOMI Mate 3.0",
+          "price_rmb": 4900,
+          "details": "情感交互伙伴"
+        },
+        {
+          "name": "NIO Link全景互联行政屏",
+          "price_rmb": 13000,
+          "details": "后排双行政屏"
+        },
+        {
+          "name": "天琴钻石高音",
+          "price_rmb": 12000,
+          "details": "声学升级"
+        }
+      ]
+    },
+    {
+      "sku_id": "nio-et9-horizon",
+      "sku_name": "ET9 地平线特别版",
+      "price_rmb": 818000,
+      "baas_price_rmb": 710000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5325,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3250,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前180kW/后340kW）",
+        "motor_power_kw": 520,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "102kWh电池包",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": "620-650",
+        "cltc_combined_range_km": "620-650",
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 600,
+        "fast_charge_time": "900V 5C超快充+3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前五连杆独立悬架",
+        "rear_suspension": "后H-Arm多连杆独立悬架",
+        "air_suspension": "天行全主动悬架",
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": true,
+        "tire_spec": "六活塞前卡钳"
+      },
+      "adas": {
+        "chip": "自研神玑NX9031 x2",
+        "compute_tops": null,
+        "lidar": "3颗激光雷达+4D成像雷达（31感知硬件）",
+        "system": "AQUILA超感系统",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P + N-Box增强计算单元",
+        "screens": "Skyline数字天际线 + 15.6英寸AMOLED + 8英寸后排屏",
+        "hud": "蓝宝石全焦段AR-HUD",
+        "audio": "九霄天琴8.2.4.8音响（35扬声器/4420W）",
+        "fridge": "行政冷暖箱",
+        "seat_features": "原生行政四座飞航头等舱"
+      },
+      "options": [
+        {
+          "name": "子夜镜瓷蓝专属车漆",
+          "price_rmb": 30000,
+          "details": "高定车漆"
+        },
+        {
+          "name": "其余特殊车漆（月辉银/南极星蓝/曙光金等）",
+          "price_rmb": 10000,
+          "details": "付费外观色"
+        },
+        {
+          "name": "轮圈升级（22英寸星叶 / 23英寸锻造）",
+          "price_rmb": "6500-23500",
+          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500"
+        },
+        {
+          "name": "气辉橙卡钳",
+          "price_rmb": 3500,
+          "details": "卡钳涂装"
+        },
+        {
+          "name": "24K镀金车标套件",
+          "price_rmb": 8000,
+          "details": "镀金车标"
+        },
+        {
+          "name": "特殊内饰主题（探索/远航）",
+          "price_rmb": 8000,
+          "details": "专属内饰"
+        },
+        {
+          "name": "NOMI Mate 3.0",
+          "price_rmb": 4900,
+          "details": "情感交互伙伴"
+        },
+        {
+          "name": "NIO Link全景互联行政屏",
+          "price_rmb": 13000,
+          "details": "后排双行政屏"
+        },
+        {
+          "name": "天琴钻石高音",
+          "price_rmb": 12000,
+          "details": "声学升级"
+        }
+      ]
+    }
+  ]
+}

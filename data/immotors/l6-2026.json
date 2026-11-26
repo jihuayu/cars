@@ -1,0 +1,405 @@
+{
+  "brand": "immotors",
+  "brand_name": "智己汽车",
+  "data_as_of": "2026-11-26",
+  "model": "全新一代智己L6",
+  "model_slug": "l6-2026",
+  "category": "中大型纯电轿车",
+  "release_date": "2026-08-28",
+  "source_urls": [
+    "https://www.immotors.com/website/vehicle_config/l6m2",
+    "https://www.immotors.com/website/news_detail/238"
+  ],
+  "skus": [
+    {
+      "sku_id": "immotors-l6-2026-max",
+      "sku_name": "Max",
+      "price_rmb": 209900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4924,
+        "width_mm": 1960,
+        "height_mm": 1474,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "457-1300",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.69,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "超级后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 430,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": "全域800V",
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 76,
+        "cltc_pure_electric_range_km": 725,
+        "cltc_combined_range_km": 725,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 18min（15min补460km）",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": "双向18°智慧四轮转向",
+        "steer_by_wire": true,
+        "tire_spec": "标配19英寸（可选20英寸倍耐力P ZERO）"
+      },
+      "adas": {
+        "chip": "NVIDIA DRIVE AGX Orin X",
+        "compute_tops": 254,
+        "lidar": "超远距高精度激光雷达",
+        "system": "IM AD全功能包",
+        "subscription_or_buyout": "标价36800元（上市期常赠5年/终身）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "27.1英寸Mini LED主驾屏 + 16.2英寸副驾娱乐屏",
+        "hud": null,
+        "audio": "丹麦B&O 16扬声器7.1.2音响",
+        "fridge": "智能冷暖双用冰箱",
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "都市出行闪耀套装 / 特殊外观色",
+          "price_rmb": null,
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "immotors-l6-2026-pro-max",
+      "sku_name": "Pro Max",
+      "price_rmb": 227900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4924,
+        "width_mm": 1960,
+        "height_mm": 1474,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "457-1300",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.69,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "超级后驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 500,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": 220
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": "全域准900V",
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 93,
+        "cltc_pure_electric_range_km": 850,
+        "cltc_combined_range_km": 850,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 20.3min（15min补510km）",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": "双向18°智慧四轮转向",
+        "steer_by_wire": true,
+        "tire_spec": "标配19英寸（可选20英寸倍耐力P ZERO）"
+      },
+      "adas": {
+        "chip": "NVIDIA DRIVE AGX Orin X",
+        "compute_tops": 254,
+        "lidar": "超远距高精度激光雷达",
+        "system": "IM AD全功能包",
+        "subscription_or_buyout": "标价36800元（上市期常赠5年/终身）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "27.1英寸Mini LED主驾屏 + 16.2英寸副驾娱乐屏",
+        "hud": null,
+        "audio": "丹麦B&O 16扬声器7.1.2音响",
+        "fridge": "智能冷暖双用冰箱",
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "都市出行闪耀套装 / 特殊外观色",
+          "price_rmb": null,
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "immotors-l6-2026-ultra",
+      "sku_name": "Ultra",
+      "price_rmb": 269900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4924,
+        "width_mm": 1960,
+        "height_mm": 1474,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "457-1300",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.39,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "矢量四驱（前200/后300kW）",
+        "motor_power_kw": 500,
+        "motor_torque_nm": 800,
+        "zero_to_100_s": 2.74,
+        "top_speed_kmh": 268
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": "全域准900V",
+        "battery_type": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 103,
+        "cltc_pure_electric_range_km": 840,
+        "cltc_combined_range_km": 840,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 16.8min（15min补580km）",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "全场景智慧空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "双向18°智慧四轮转向",
+        "steer_by_wire": true,
+        "tire_spec": "标配19英寸（可选20英寸倍耐力P ZERO）"
+      },
+      "adas": {
+        "chip": "NVIDIA DRIVE AGX Orin X",
+        "compute_tops": 254,
+        "lidar": "超远距高精度激光雷达",
+        "system": "IM AD全功能包",
+        "subscription_or_buyout": "标价36800元（上市期常赠5年/终身）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "27.1英寸Mini LED主驾屏 + 16.2英寸副驾娱乐屏",
+        "hud": null,
+        "audio": "丹麦B&O 16扬声器7.1.2音响",
+        "fridge": "智能冷暖双用冰箱",
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "都市出行闪耀套装 / 特殊外观色",
+          "price_rmb": null,
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "immotors-l6-2026-jimmychoo-76",
+      "sku_name": "Prof. JimmyChoo高定限量版（76kWh）",
+      "price_rmb": 229900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4924,
+        "width_mm": 1960,
+        "height_mm": 1474,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "457-1300",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.69,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "超级后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 430,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": "全域800V",
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 76,
+        "cltc_pure_electric_range_km": 725,
+        "cltc_combined_range_km": 725,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 18min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": "双向18°智慧四轮转向",
+        "steer_by_wire": true,
+        "tire_spec": "标配19英寸（可选20英寸倍耐力P ZERO）"
+      },
+      "adas": {
+        "chip": "NVIDIA DRIVE AGX Orin X",
+        "compute_tops": 254,
+        "lidar": "超远距高精度激光雷达",
+        "system": "IM AD全功能包",
+        "subscription_or_buyout": "标价36800元（上市期常赠5年/终身）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "27.1英寸Mini LED主驾屏 + 16.2英寸副驾娱乐屏",
+        "hud": null,
+        "audio": "丹麦B&O 16扬声器7.1.2音响",
+        "fridge": "智能冷暖双用冰箱",
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "都市出行闪耀套装 / 特殊外观色",
+          "price_rmb": null,
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "immotors-l6-2026-jimmychoo-93",
+      "sku_name": "Prof. JimmyChoo高定限量版（93kWh）",
+      "price_rmb": 247900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4924,
+        "width_mm": 1960,
+        "height_mm": 1474,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "457-1300",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.69,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "超级后驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 500,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": 220
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": "全域准900V",
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 93,
+        "cltc_pure_electric_range_km": 850,
+        "cltc_combined_range_km": 850,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 20.3min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": "双向18°智慧四轮转向",
+        "steer_by_wire": true,
+        "tire_spec": "标配19英寸（可选20英寸倍耐力P ZERO）"
+      },
+      "adas": {
+        "chip": "NVIDIA DRIVE AGX Orin X",
+        "compute_tops": 254,
+        "lidar": "超远距高精度激光雷达",
+        "system": "IM AD全功能包",
+        "subscription_or_buyout": "标价36800元（上市期常赠5年/终身）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "27.1英寸Mini LED主驾屏 + 16.2英寸副驾娱乐屏",
+        "hud": null,
+        "audio": "丹麦B&O 16扬声器7.1.2音响",
+        "fridge": "智能冷暖双用冰箱",
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "都市出行闪耀套装 / 特殊外观色",
+          "price_rmb": null,
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

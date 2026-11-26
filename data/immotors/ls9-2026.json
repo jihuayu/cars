@@ -1,0 +1,293 @@
+{
+  "brand": "immotors",
+  "brand_name": "智己汽车",
+  "data_as_of": "2026-11-26",
+  "model": "智己LS9（旗舰大六座）",
+  "model_slug": "ls9-2026",
+  "category": "全尺寸旗舰6座SUV",
+  "release_date": "2025-11-12",
+  "source_urls": [
+    "https://www.immotors.com/website/news_detail/234"
+  ],
+  "skus": [
+    {
+      "sku_id": "immotors-ls9-2026-52-ultra",
+      "sku_name": "52 Ultra 线控版",
+      "price_rmb": 332800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.77,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机矢量四驱",
+        "motor_power_kw": 390,
+        "motor_torque_nm": 670,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "超级骁遥MAX电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 52,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 17min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "150mm行程双腔闭式空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "双向24°智慧四轮转向",
+        "steer_by_wire": true,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor（64GB）",
+        "compute_tops": null,
+        "lidar": "520线超视域激光雷达",
+        "system": "IM AD ZETA",
+        "subscription_or_buyout": "标价36800元（上市期首任车主终身免费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "27.1英寸5K Mini LED + 15.6英寸3K副驾屏",
+        "hud": null,
+        "audio": "丹麦B&O音响",
+        "fridge": null,
+        "seat_features": "4D机械按摩+智控地暖系统"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "高定大师艺术车色",
+          "price_rmb": 5000,
+          "details": "上市权益免费升级"
+        },
+        {
+          "name": "21英寸星耀多辐轮毂",
+          "price_rmb": 12800,
+          "details": "上市权益免费升级"
+        },
+        {
+          "name": "22英寸星芒镜面轮毂",
+          "price_rmb": 26800,
+          "details": "大饼式轮毂"
+        },
+        {
+          "name": "豪华配置升级包",
+          "price_rmb": 58800,
+          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+        }
+      ]
+    },
+    {
+      "sku_id": "immotors-ls9-2026-66-ultra",
+      "sku_name": "66 Ultra",
+      "price_rmb": 362800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.77,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机矢量四驱",
+        "motor_power_kw": 390,
+        "motor_torque_nm": 670,
+        "zero_to_100_s": 4.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "超级骁遥MAX电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 66,
+        "cltc_pure_electric_range_km": 402,
+        "cltc_combined_range_km": 1508,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 17min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "150mm行程双腔闭式空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "双向24°智慧四轮转向",
+        "steer_by_wire": true,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor（64GB）",
+        "compute_tops": null,
+        "lidar": "520线超视域激光雷达",
+        "system": "IM AD ZETA",
+        "subscription_or_buyout": "标价36800元（上市期首任车主终身免费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "27.1英寸5K Mini LED + 15.6英寸3K副驾屏",
+        "hud": null,
+        "audio": "丹麦B&O音响",
+        "fridge": null,
+        "seat_features": "4D机械按摩+智控地暖系统"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "高定大师艺术车色",
+          "price_rmb": 5000,
+          "details": "上市权益免费升级"
+        },
+        {
+          "name": "21英寸星耀多辐轮毂",
+          "price_rmb": 12800,
+          "details": "上市权益免费升级"
+        },
+        {
+          "name": "22英寸星芒镜面轮毂",
+          "price_rmb": 26800,
+          "details": "大饼式轮毂"
+        },
+        {
+          "name": "豪华配置升级包",
+          "price_rmb": 58800,
+          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+        }
+      ]
+    },
+    {
+      "sku_id": "immotors-ls9-2026-hyper",
+      "sku_name": "LS9 Hyper 三电机旗舰",
+      "price_rmb": 379800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.77,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "金标飓风三电机四驱",
+        "motor_power_kw": 550,
+        "motor_torque_nm": 730,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "超级骁遥MAX电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 66,
+        "cltc_pure_electric_range_km": 390,
+        "cltc_combined_range_km": 1460,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 17min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "150mm行程双腔闭式空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": "双向24°智慧四轮转向",
+        "steer_by_wire": true,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Thor（64GB）",
+        "compute_tops": null,
+        "lidar": "520线超视域激光雷达",
+        "system": "IM AD ZETA",
+        "subscription_or_buyout": "标价36800元（上市期首任车主终身免费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "27.1英寸5K Mini LED + 15.6英寸3K副驾屏",
+        "hud": null,
+        "audio": "丹麦B&O音响",
+        "fridge": null,
+        "seat_features": "4D机械按摩+智控地暖系统"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        },
+        {
+          "name": "高定大师艺术车色",
+          "price_rmb": 5000,
+          "details": "上市权益免费升级"
+        },
+        {
+          "name": "21英寸星耀多辐轮毂",
+          "price_rmb": 12800,
+          "details": "上市权益免费升级"
+        },
+        {
+          "name": "22英寸星芒镜面轮毂",
+          "price_rmb": 26800,
+          "details": "大饼式轮毂"
+        },
+        {
+          "name": "豪华配置升级包",
+          "price_rmb": 58800,
+          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+        }
+      ]
+    }
+  ]
+}

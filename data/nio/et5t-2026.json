@@ -1,0 +1,308 @@
+{
+  "brand": "nio",
+  "brand_name": "蔚来",
+  "data_as_of": "2026-11-26",
+  "model": "2026款蔚来ET5T",
+  "model_slug": "et5t-2026",
+  "category": "中型纯电旅行车",
+  "release_date": "2026-04-02",
+  "source_urls": [
+    "https://www.nio.cn/et5t"
+  ],
+  "skus": [
+    {
+      "sku_id": "nio-et5t-2026-standard",
+      "sku_name": "2026款ET5T",
+      "price_rmb": 298000,
+      "baas_price_rmb": 190000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1960,
+        "height_mm": 1499,
+        "wheelbase_mm": 2888,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "最大1687",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.25
+      },
+      "performance": {
+        "drive_type": "双电机智能四驱（前150kW/后210kW）",
+        "motor_power_kw": 360,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.0,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "标配100kWh（支持换电75/100/150kWh）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100,
+        "cltc_pure_electric_range_km": 710,
+        "cltc_combined_range_km": 710,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "支持3分钟自动换电+直流快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "五连杆式前悬架",
+        "rear_suspension": "五连杆式后悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "自研5nm神玑NX9031 x1",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达+4D成像雷达",
+        "system": "AQUILA超感系统（NOP+/NAD）",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "15.6英寸AMOLED中控屏 + 10.2英寸仪表",
+        "hud": "18.8英寸HUD",
+        "audio": "7.1.4沉浸声音响（23扬声器/1000W）",
+        "fridge": null,
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+      },
+      "options": [
+        {
+          "name": "20英寸轮圈",
+          "price_rmb": 9500,
+          "details": "轮圈升级"
+        },
+        {
+          "name": "光感天幕",
+          "price_rmb": 9500,
+          "details": "智能调光全景天幕"
+        },
+        {
+          "name": "NOMI Mate 3.0",
+          "price_rmb": 4900,
+          "details": "车载情感伙伴"
+        },
+        {
+          "name": "拖挂套装（1400kg）",
+          "price_rmb": 7500,
+          "details": "隐藏式电动拖钩"
+        },
+        {
+          "name": "超清流媒体内后视镜",
+          "price_rmb": 3800,
+          "details": "流媒体后视镜"
+        },
+        {
+          "name": "交流充放电套装",
+          "price_rmb": 3000,
+          "details": "含车载OBC"
+        }
+      ]
+    },
+    {
+      "sku_id": "nio-et5t-2026-nature",
+      "sku_name": "2026款ET5T 自然奇境版",
+      "price_rmb": 310000,
+      "baas_price_rmb": 202000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1960,
+        "height_mm": 1499,
+        "wheelbase_mm": 2888,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "最大1687",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.25
+      },
+      "performance": {
+        "drive_type": "双电机智能四驱（前150kW/后210kW）",
+        "motor_power_kw": 360,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.0,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "标配100kWh（支持换电75/100/150kWh）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100,
+        "cltc_pure_electric_range_km": 710,
+        "cltc_combined_range_km": 710,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "支持3分钟自动换电+直流快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "五连杆式前悬架",
+        "rear_suspension": "五连杆式后悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "自研5nm神玑NX9031 x1",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达+4D成像雷达",
+        "system": "AQUILA超感系统（NOP+/NAD）",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "15.6英寸AMOLED中控屏 + 10.2英寸仪表",
+        "hud": "18.8英寸HUD",
+        "audio": "7.1.4沉浸声音响（23扬声器/1000W）",
+        "fridge": null,
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+      },
+      "options": [
+        {
+          "name": "20英寸轮圈",
+          "price_rmb": 9500,
+          "details": "轮圈升级"
+        },
+        {
+          "name": "光感天幕",
+          "price_rmb": 9500,
+          "details": "智能调光全景天幕"
+        },
+        {
+          "name": "NOMI Mate 3.0",
+          "price_rmb": 4900,
+          "details": "车载情感伙伴"
+        },
+        {
+          "name": "拖挂套装（1400kg）",
+          "price_rmb": 7500,
+          "details": "隐藏式电动拖钩"
+        },
+        {
+          "name": "超清流媒体内后视镜",
+          "price_rmb": 3800,
+          "details": "流媒体后视镜"
+        },
+        {
+          "name": "交流充放电套装",
+          "price_rmb": 3000,
+          "details": "含车载OBC"
+        }
+      ]
+    },
+    {
+      "sku_id": "nio-et5t-2026-champion",
+      "sku_name": "2026款ET5T 冠军纪念版",
+      "price_rmb": 313000,
+      "baas_price_rmb": 205000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1960,
+        "height_mm": 1499,
+        "wheelbase_mm": 2888,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "最大1687",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.25
+      },
+      "performance": {
+        "drive_type": "双电机智能四驱（前150kW/后210kW）",
+        "motor_power_kw": 360,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.0,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "标配100kWh（支持换电75/100/150kWh）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100,
+        "cltc_pure_electric_range_km": 710,
+        "cltc_combined_range_km": 710,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "支持3分钟自动换电+直流快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "五连杆式前悬架",
+        "rear_suspension": "五连杆式后悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "自研5nm神玑NX9031 x1",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达+4D成像雷达",
+        "system": "AQUILA超感系统（NOP+/NAD）",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "15.6英寸AMOLED中控屏 + 10.2英寸仪表",
+        "hud": "18.8英寸HUD",
+        "audio": "7.1.4沉浸声音响（23扬声器/1000W）",
+        "fridge": null,
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+      },
+      "options": [
+        {
+          "name": "20英寸轮圈",
+          "price_rmb": 9500,
+          "details": "轮圈升级"
+        },
+        {
+          "name": "光感天幕",
+          "price_rmb": 9500,
+          "details": "智能调光全景天幕"
+        },
+        {
+          "name": "NOMI Mate 3.0",
+          "price_rmb": 4900,
+          "details": "车载情感伙伴"
+        },
+        {
+          "name": "拖挂套装（1400kg）",
+          "price_rmb": 7500,
+          "details": "隐藏式电动拖钩"
+        },
+        {
+          "name": "超清流媒体内后视镜",
+          "price_rmb": 3800,
+          "details": "流媒体后视镜"
+        },
+        {
+          "name": "交流充放电套装",
+          "price_rmb": 3000,
+          "details": "含车载OBC"
+        }
+      ]
+    }
+  ]
+}

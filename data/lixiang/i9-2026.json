@@ -1,0 +1,103 @@
+{
+  "brand": "lixiang",
+  "brand_name": "理想汽车",
+  "data_as_of": "2026-11-26",
+  "model": "全新理想i9",
+  "model_slug": "i9-2026",
+  "category": "全尺寸6座纯电旗舰SUV",
+  "release_date": "2026-09-16",
+  "source_urls": [
+    "https://www.lixiang.com/news/188.html",
+    "https://www.lixiang.com/configuration.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "lixiang-i9-2026-home",
+      "sku_name": "全新理想i9 Home（单版本）",
+      "price_rmb": 369800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": 0.215
+      },
+      "performance": {
+        "drive_type": "前后双电机智能四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C超充电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 101.0,
+        "cltc_pure_electric_range_km": 705,
+        "cltc_combined_range_km": 705,
+        "energy_consumption_kwh_100km": 15.1,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10分钟补能500km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "第三代双腔双阀魔毯空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": true,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "理想自研马赫M100 x1",
+        "compute_tops": 1280,
+        "lidar": "标配激光雷达+UWB近场感知",
+        "system": "马赫VLA 2.5智能辅助驾驶",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797",
+        "screens": "29英寸6K全景屏 + 21.4英寸4K电动滑移后排屏（首发CarPlay）",
+        "hud": null,
+        "audio": "23扬声器Home音乐厅音响",
+        "fridge": "标配冷暖冰箱",
+        "seat_features": "标配四把全尺寸零重力座椅与二排旋转座椅"
+      },
+      "options": [
+        {
+          "name": "双马赫M100具身智能套装",
+          "price_rmb": 30000,
+          "details": "首销20000元：增配1颗M100+3颗补盲激光雷达+三色星环大灯"
+        },
+        {
+          "name": "理想Home剧院音响",
+          "price_rmb": 20000,
+          "details": "首销10000元：9.3.6布局/29扬声器/4960W"
+        },
+        {
+          "name": "电动调光玻璃",
+          "price_rmb": 10000,
+          "details": "电动调光玻璃"
+        },
+        {
+          "name": "悬浮组合桌板",
+          "price_rmb": 3500,
+          "details": "二排悬浮组合桌板"
+        }
+      ]
+    }
+  ]
+}

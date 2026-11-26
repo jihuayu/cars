@@ -1,0 +1,1046 @@
+{
+  "brand": "hima",
+  "brand_name": "鸿蒙智行",
+  "data_as_of": "2026-11-26",
+  "sub_brand": "问界 AITO",
+  "model": "问界新M8（2027款）",
+  "model_slug": "aito-m8-2027",
+  "category": "大型家庭智慧旗舰SUV（5/6座）",
+  "release_date": "2026-11-13",
+  "source_urls": [
+    "https://aito.auto/model/m8/configuration/",
+    "https://car.autohome.com.cn/config/series/8003.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "hima-aito-m8-2027-reev-max-5",
+      "sku_name": "增程 阔五座 Max",
+      "price_rmb": 379800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 56.0,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": 1435,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-reev-max-plus-5",
+      "sku_name": "增程 阔五座 Max+",
+      "price_rmb": 399800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": 1435,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-reev-ultra-5",
+      "sku_name": "增程 阔五座 Ultra",
+      "price_rmb": 449800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": 1435,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-reev-max-6",
+      "sku_name": "增程 享六座 Max",
+      "price_rmb": 389800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 56.0,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": 1435,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-reev-max-plus-6",
+      "sku_name": "增程 享六座 Max+",
+      "price_rmb": 419800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": 1435,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-reev-ultra-6",
+      "sku_name": "增程 享六座 Ultra",
+      "price_rmb": 469800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": 1435,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-bev-max-plus-5",
+      "sku_name": "纯电 阔五座 Max+",
+      "price_rmb": 399800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-bev-ultra-5",
+      "sku_name": "纯电 阔五座 Ultra",
+      "price_rmb": 449800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 120.0,
+        "cltc_pure_electric_range_km": 830,
+        "cltc_combined_range_km": 830,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-bev-max-plus-6",
+      "sku_name": "纯电 享六座 Max+",
+      "price_rmb": 419800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": null,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m8-2027-bev-ultra-6",
+      "sku_name": "纯电 享六座 Ultra",
+      "price_rmb": 469800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5190,
+        "width_mm": 1999,
+        "height_mm": 1795,
+        "wheelbase_mm": 3105,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为巨鲸电池平台3.0",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 120.0,
+        "cltc_pure_electric_range_km": 830,
+        "cltc_combined_range_km": 830,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "800V超快充",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": "可选装（20000元）",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（含1颗896线）+38传感器",
+        "system": "华为乾崑ADS 5（面向L3架构）",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "寰宇三联屏",
+        "hud": "AR-HUD",
+        "audio": "HUAWEI SOUND",
+        "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
+        "seat_features": "Ultra六座标配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "专属车色（瑞红等4色）",
+          "price_rmb": 8000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "电动踏板",
+          "price_rmb": 8000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "副驾零重力座椅 / 主驾零重力座椅",
+          "price_rmb": "8000 / 10000",
+          "details": "零重力座椅选装"
+        },
+        {
+          "name": "21英寸后排柔光娱乐屏",
+          "price_rmb": 10000,
+          "details": "后排吸顶屏"
+        },
+        {
+          "name": "智慧电动门",
+          "price_rmb": 15000,
+          "details": "电动开合车门"
+        },
+        {
+          "name": "后轮转向",
+          "price_rmb": 20000,
+          "details": "主动后轮转向"
+        }
+      ]
+    }
+  ]
+}

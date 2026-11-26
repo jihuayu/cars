@@ -1,0 +1,718 @@
+{
+  "brand": "leapmotor",
+  "brand_name": "零跑汽车",
+  "data_as_of": "2026-11-26",
+  "model": "2026款零跑D99",
+  "model_slug": "d99-2026",
+  "category": "旗舰中大型7座MPV",
+  "release_date": "2026-06-25",
+  "source_urls": [
+    "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=23"
+  ],
+  "skus": [
+    {
+      "sku_id": "leapmotor-d99-2026-reev-480-zunxiang",
+      "sku_name": "增程480 尊享版",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1995,
+        "height_mm": 1880,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": 2965,
+        "trunk_volume_l": 706,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 525,
+        "zero_to_100_s": 6.3,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.3,
+        "cltc_pure_electric_range_km": 480,
+        "cltc_combined_range_km": 1160,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 40,
+        "wltc_fuel_consumption_l_100km": 6.72
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": false,
+        "cdc": "魔毯智能悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗禾赛AT128 128线激光雷达",
+        "system": "端到端大模型辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797",
+        "screens": "10.25英寸仪表 + 17.3英寸中控 + 21.4英寸3K后排屏 + 6英寸后排控制屏",
+        "hud": "50英寸AR-HUD",
+        "audio": "23扬声器PSS 7.1.4杜比全景声（2304W）",
+        "fridge": "高配车载冷暖冰箱",
+        "seat_features": "7座豪华MPV"
+      },
+      "options": [
+        {
+          "name": "森野氧舱",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸制氧"
+        },
+        {
+          "name": "商务套装",
+          "price_rmb": 10000,
+          "details": "镀铬饰条+向往之境轮毂"
+        },
+        {
+          "name": "智影套装",
+          "price_rmb": 10000,
+          "details": "百万像素DLP投影大灯+ISD灯幕"
+        },
+        {
+          "name": "豪华座椅套装（二排航空座椅+半苯胺真皮）",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d99-2026-reev-480-zhizun",
+      "sku_name": "增程480 智尊版",
+      "price_rmb": 279800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1995,
+        "height_mm": 1880,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": 2965,
+        "trunk_volume_l": 706,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 525,
+        "zero_to_100_s": 6.3,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.3,
+        "cltc_pure_electric_range_km": 480,
+        "cltc_combined_range_km": 1160,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 40,
+        "wltc_fuel_consumption_l_100km": 6.72
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔空气悬架（中高配标配）",
+        "cdc": "魔毯智能悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗禾赛AT128 128线激光雷达",
+        "system": "端到端大模型辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797",
+        "screens": "10.25英寸仪表 + 17.3英寸中控 + 21.4英寸3K后排屏 + 6英寸后排控制屏",
+        "hud": "50英寸AR-HUD",
+        "audio": "23扬声器PSS 7.1.4杜比全景声（2304W）",
+        "fridge": "高配车载冷暖冰箱",
+        "seat_features": "7座豪华MPV"
+      },
+      "options": [
+        {
+          "name": "森野氧舱",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸制氧"
+        },
+        {
+          "name": "商务套装",
+          "price_rmb": 10000,
+          "details": "镀铬饰条+向往之境轮毂"
+        },
+        {
+          "name": "智影套装",
+          "price_rmb": 10000,
+          "details": "百万像素DLP投影大灯+ISD灯幕"
+        },
+        {
+          "name": "豪华座椅套装（二排航空座椅+半苯胺真皮）",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d99-2026-reev-480-flagship",
+      "sku_name": "增程480 旗舰版",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1995,
+        "height_mm": 1880,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": 2965,
+        "trunk_volume_l": 706,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 525,
+        "zero_to_100_s": 6.3,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.3,
+        "cltc_pure_electric_range_km": 480,
+        "cltc_combined_range_km": 1160,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 40,
+        "wltc_fuel_consumption_l_100km": 6.72
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔空气悬架（中高配标配）",
+        "cdc": "魔毯智能悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗禾赛AT128 128线激光雷达",
+        "system": "端到端大模型辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797",
+        "screens": "10.25英寸仪表 + 17.3英寸中控 + 21.4英寸3K后排屏 + 6英寸后排控制屏",
+        "hud": "50英寸AR-HUD",
+        "audio": "23扬声器PSS 7.1.4杜比全景声（2304W）",
+        "fridge": "高配车载冷暖冰箱",
+        "seat_features": "7座豪华MPV"
+      },
+      "options": [
+        {
+          "name": "森野氧舱",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸制氧"
+        },
+        {
+          "name": "商务套装",
+          "price_rmb": 10000,
+          "details": "镀铬饰条+向往之境轮毂"
+        },
+        {
+          "name": "智影套装",
+          "price_rmb": 10000,
+          "details": "百万像素DLP投影大灯+ISD灯幕"
+        },
+        {
+          "name": "豪华座椅套装（二排航空座椅+半苯胺真皮）",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d99-2026-reev-480-pilot",
+      "sku_name": "增程480 领航版",
+      "price_rmb": 329800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1995,
+        "height_mm": 1880,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": 2965,
+        "trunk_volume_l": 706,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 525,
+        "zero_to_100_s": 6.3,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.3,
+        "cltc_pure_electric_range_km": 480,
+        "cltc_combined_range_km": 1160,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 40,
+        "wltc_fuel_consumption_l_100km": 6.72
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔空气悬架（中高配标配）",
+        "cdc": "魔毯智能悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗禾赛AT128 128线激光雷达",
+        "system": "端到端大模型辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797",
+        "screens": "10.25英寸仪表 + 17.3英寸中控 + 21.4英寸3K后排屏 + 6英寸后排控制屏",
+        "hud": "50英寸AR-HUD",
+        "audio": "23扬声器PSS 7.1.4杜比全景声（2304W）",
+        "fridge": "高配车载冷暖冰箱",
+        "seat_features": "7座豪华MPV"
+      },
+      "options": [
+        {
+          "name": "森野氧舱",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸制氧"
+        },
+        {
+          "name": "商务套装",
+          "price_rmb": 10000,
+          "details": "镀铬饰条+向往之境轮毂"
+        },
+        {
+          "name": "智影套装",
+          "price_rmb": 10000,
+          "details": "百万像素DLP投影大灯+ISD灯幕"
+        },
+        {
+          "name": "豪华座椅套装（二排航空座椅+半苯胺真皮）",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d99-2026-bev-700-zunxiang",
+      "sku_name": "纯电700 尊享版",
+      "price_rmb": 259800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1995,
+        "height_mm": 1880,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": 706,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 410,
+        "motor_torque_nm": 625,
+        "zero_to_100_s": 5.0,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "混合电芯",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115.0,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": false,
+        "cdc": "魔毯智能悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗禾赛AT128 128线激光雷达",
+        "system": "端到端大模型辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797",
+        "screens": "10.25英寸仪表 + 17.3英寸中控 + 21.4英寸3K后排屏 + 6英寸后排控制屏",
+        "hud": "50英寸AR-HUD",
+        "audio": "23扬声器PSS 7.1.4杜比全景声（2304W）",
+        "fridge": "高配车载冷暖冰箱",
+        "seat_features": "7座豪华MPV"
+      },
+      "options": [
+        {
+          "name": "森野氧舱",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸制氧"
+        },
+        {
+          "name": "商务套装",
+          "price_rmb": 10000,
+          "details": "镀铬饰条+向往之境轮毂"
+        },
+        {
+          "name": "智影套装",
+          "price_rmb": 10000,
+          "details": "百万像素DLP投影大灯+ISD灯幕"
+        },
+        {
+          "name": "豪华座椅套装（二排航空座椅+半苯胺真皮）",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d99-2026-bev-700-zhizun",
+      "sku_name": "纯电700 智尊版",
+      "price_rmb": 289800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1995,
+        "height_mm": 1880,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": 706,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 410,
+        "motor_torque_nm": 625,
+        "zero_to_100_s": 5.0,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "混合电芯",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115.0,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔空气悬架（中高配标配）",
+        "cdc": "魔毯智能悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗禾赛AT128 128线激光雷达",
+        "system": "端到端大模型辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797",
+        "screens": "10.25英寸仪表 + 17.3英寸中控 + 21.4英寸3K后排屏 + 6英寸后排控制屏",
+        "hud": "50英寸AR-HUD",
+        "audio": "23扬声器PSS 7.1.4杜比全景声（2304W）",
+        "fridge": "高配车载冷暖冰箱",
+        "seat_features": "7座豪华MPV"
+      },
+      "options": [
+        {
+          "name": "森野氧舱",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸制氧"
+        },
+        {
+          "name": "商务套装",
+          "price_rmb": 10000,
+          "details": "镀铬饰条+向往之境轮毂"
+        },
+        {
+          "name": "智影套装",
+          "price_rmb": 10000,
+          "details": "百万像素DLP投影大灯+ISD灯幕"
+        },
+        {
+          "name": "豪华座椅套装（二排航空座椅+半苯胺真皮）",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d99-2026-bev-700-flagship",
+      "sku_name": "纯电700 旗舰版",
+      "price_rmb": 319800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1995,
+        "height_mm": 1880,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": 706,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 410,
+        "motor_torque_nm": 625,
+        "zero_to_100_s": 5.0,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "混合电芯",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115.0,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔空气悬架（中高配标配）",
+        "cdc": "魔毯智能悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗禾赛AT128 128线激光雷达",
+        "system": "端到端大模型辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797",
+        "screens": "10.25英寸仪表 + 17.3英寸中控 + 21.4英寸3K后排屏 + 6英寸后排控制屏",
+        "hud": "50英寸AR-HUD",
+        "audio": "23扬声器PSS 7.1.4杜比全景声（2304W）",
+        "fridge": "高配车载冷暖冰箱",
+        "seat_features": "7座豪华MPV"
+      },
+      "options": [
+        {
+          "name": "森野氧舱",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸制氧"
+        },
+        {
+          "name": "商务套装",
+          "price_rmb": 10000,
+          "details": "镀铬饰条+向往之境轮毂"
+        },
+        {
+          "name": "智影套装",
+          "price_rmb": 10000,
+          "details": "百万像素DLP投影大灯+ISD灯幕"
+        },
+        {
+          "name": "豪华座椅套装（二排航空座椅+半苯胺真皮）",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d99-2026-bev-700-pilot",
+      "sku_name": "纯电700 领航版",
+      "price_rmb": 339800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": 1995,
+        "height_mm": 1880,
+        "wheelbase_mm": 3110,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": 706,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 410,
+        "motor_torque_nm": 625,
+        "zero_to_100_s": 5.0,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "混合电芯",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115.0,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔空气悬架（中高配标配）",
+        "cdc": "魔毯智能悬架",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗禾赛AT128 128线激光雷达",
+        "system": "端到端大模型辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797",
+        "screens": "10.25英寸仪表 + 17.3英寸中控 + 21.4英寸3K后排屏 + 6英寸后排控制屏",
+        "hud": "50英寸AR-HUD",
+        "audio": "23扬声器PSS 7.1.4杜比全景声（2304W）",
+        "fridge": "高配车载冷暖冰箱",
+        "seat_features": "7座豪华MPV"
+      },
+      "options": [
+        {
+          "name": "森野氧舱",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸制氧"
+        },
+        {
+          "name": "商务套装",
+          "price_rmb": 10000,
+          "details": "镀铬饰条+向往之境轮毂"
+        },
+        {
+          "name": "智影套装",
+          "price_rmb": 10000,
+          "details": "百万像素DLP投影大灯+ISD灯幕"
+        },
+        {
+          "name": "豪华座椅套装（二排航空座椅+半苯胺真皮）",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

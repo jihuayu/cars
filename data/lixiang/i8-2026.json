@@ -1,0 +1,186 @@
+{
+  "brand": "lixiang",
+  "brand_name": "理想汽车",
+  "data_as_of": "2026-11-26",
+  "model": "理想i8",
+  "model_slug": "i8-2026",
+  "category": "中大型6座纯电SUV",
+  "release_date": "2025-07-29",
+  "source_urls": [
+    "https://www.lixiang.com/i8",
+    "https://www.lixiang.com/news/136.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "lixiang-i8-rwd",
+      "sku_name": "理想i8 后驱长续航版",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5085,
+        "width_mm": 1960,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.218
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": 425,
+        "zero_to_100_s": 6.6,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C超充电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 97.8,
+        "cltc_pure_electric_range_km": 780,
+        "cltc_combined_range_km": 780,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 300,
+        "fast_charge_time": "10分钟补能500km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔魔毯空气悬架（四档调节）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "标配20英寸低风阻轮毂（可选21英寸）"
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U",
+        "compute_tops": 700,
+        "lidar": "ATL全天候激光雷达",
+        "system": "AD Max（VLA司机大模型）",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "双15.7英寸联屏",
+        "hud": "HUD抬头显示",
+        "audio": "铂金音响系统（最高22扬声器PSS）",
+        "fridge": "8.8L智能冷暖双用冰箱",
+        "seat_features": "标配二排右侧零重力座椅、三排加热电动调节"
+      },
+      "options": [
+        {
+          "name": "后舱娱乐屏套装",
+          "price_rmb": 10000,
+          "details": "21.4英寸3K屏+流媒体后视镜+8295P高性能版+二排中置音响"
+        },
+        {
+          "name": "主副驾全尺寸零重力座椅",
+          "price_rmb": 20000,
+          "details": "带16点揉捏按摩"
+        },
+        {
+          "name": "特别版冷光漆（小象灰/天空蓝）",
+          "price_rmb": 8000,
+          "details": "冷光车漆"
+        },
+        {
+          "name": "21英寸轮毂",
+          "price_rmb": 10000,
+          "details": "配米其林静音轮胎"
+        }
+      ]
+    },
+    {
+      "sku_id": "lixiang-i8-awd",
+      "sku_name": "理想i8 四驱高性能版",
+      "price_rmb": 339800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5085,
+        "width_mm": 1960,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.218
+      },
+      "performance": {
+        "drive_type": "双电机智能四驱",
+        "motor_power_kw": 400,
+        "motor_torque_nm": 660,
+        "zero_to_100_s": 4.5,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C超充电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 97.8,
+        "cltc_pure_electric_range_km": 720,
+        "cltc_combined_range_km": 720,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 300,
+        "fast_charge_time": "10分钟补能500km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔魔毯空气悬架（四档调节）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "标配20英寸低风阻轮毂（可选21英寸）"
+      },
+      "adas": {
+        "chip": "NVIDIA Thor-U",
+        "compute_tops": 700,
+        "lidar": "ATL全天候激光雷达",
+        "system": "AD Max（VLA司机大模型）",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "screens": "双15.7英寸联屏",
+        "hud": "HUD抬头显示",
+        "audio": "铂金音响系统（最高22扬声器PSS）",
+        "fridge": "8.8L智能冷暖双用冰箱",
+        "seat_features": "标配二排右侧零重力座椅、三排加热电动调节"
+      },
+      "options": [
+        {
+          "name": "后舱娱乐屏套装",
+          "price_rmb": 10000,
+          "details": "21.4英寸3K屏+流媒体后视镜+8295P高性能版+二排中置音响"
+        },
+        {
+          "name": "特别版冷光漆（小象灰/天空蓝）",
+          "price_rmb": 8000,
+          "details": "冷光车漆"
+        },
+        {
+          "name": "21英寸轮毂",
+          "price_rmb": 10000,
+          "details": "配米其林静音轮胎"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data_as_of": "2026-11-26",
+  "schema": "./schema.json",
+  "total_brands": 7,
+  "total_models": 54,
+  "total_skus": 248,
+  "brands": [
+    {
+      "brand": "lixiang",
+      "brand_name": "理想汽车",
+      "model_count": 7,
+      "sku_count": 11,
+      "index_file": "data/lixiang/index.json"
+    },
+    {
+      "brand": "xiaopeng",
+      "brand_name": "小鹏汽车",
+      "model_count": 8,
+      "sku_count": 40,
+      "index_file": "data/xiaopeng/index.json"
+    },
+    {
+      "brand": "avatr",
+      "brand_name": "阿维塔",
+      "model_count": 6,
+      "sku_count": 28,
+      "index_file": "data/avatr/index.json"
+    },
+    {
+      "brand": "nio",
+      "brand_name": "蔚来",
+      "model_count": 7,
+      "sku_count": 24,
+      "index_file": "data/nio/index.json"
+    },
+    {
+      "brand": "leapmotor",
+      "brand_name": "零跑汽车",
+      "model_count": 8,
+      "sku_count": 49,
+      "index_file": "data/leapmotor/index.json"
+    },
+    {
+      "brand": "immotors",
+      "brand_name": "智己汽车",
+      "model_count": 5,
+      "sku_count": 23,
+      "index_file": "data/immotors/index.json"
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "model_count": 13,
+      "sku_count": 73,
+      "index_file": "data/hima/index.json"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "brand": "hima",
+  "brand_name": "鸿蒙智行",
+  "data_as_of": "2026-11-26",
+  "sub_brand": "智界 LUXEED",
+  "model": "智界新S7（2026款）",
+  "model_slug": "luxeed-s7-2026",
+  "category": "中大型纯电轿跑",
+  "release_date": "2026-03-23",
+  "source_urls": [
+    "https://hima.auto/zhijie/s7/configuration/"
+  ],
+  "skus": [
+    {
+      "sku_id": "hima-luxeed-s7-2026-max-192",
+      "sku_name": "Max（192线）",
+      "price_rmb": 229800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4971,
+        "width_mm": 1963,
+        "height_mm": 1474,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为DriveONE 800V碳化硅",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 705,
+        "cltc_combined_range_km": 705,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "途灵平台（高配空悬）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "192线激光雷达",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "丝云座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "轮毂升级包1（20英寸低风阻轮毂）",
+          "price_rmb": 6000,
+          "details": "双五辐低风阻轮毂"
+        },
+        {
+          "name": "科技智享包",
+          "price_rmb": 10000,
+          "details": "主驾侧翼调节+肩枕音响+后排通风加热+星光触控黑带"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-s7-2026-max-896",
+      "sku_name": "Max（896线）",
+      "price_rmb": 239800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4971,
+        "width_mm": 1963,
+        "height_mm": 1474,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为DriveONE 800V碳化硅",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 705,
+        "cltc_combined_range_km": 705,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "途灵平台（高配空悬）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "丝云座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "轮毂升级包1（20英寸低风阻轮毂）",
+          "price_rmb": 6000,
+          "details": "双五辐低风阻轮毂"
+        },
+        {
+          "name": "科技智享包",
+          "price_rmb": 10000,
+          "details": "主驾侧翼调节+肩枕音响+后排通风加热+星光触控黑带"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-s7-2026-max-plus-192",
+      "sku_name": "Max+（192线）",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4971,
+        "width_mm": 1963,
+        "height_mm": 1474,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为DriveONE 800V碳化硅",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 100,
+        "cltc_pure_electric_range_km": 855,
+        "cltc_combined_range_km": 855,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "途灵平台（高配空悬）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "192线激光雷达",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "丝云座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "轮毂升级包1（20英寸低风阻轮毂）",
+          "price_rmb": 6000,
+          "details": "双五辐低风阻轮毂"
+        },
+        {
+          "name": "科技智享包",
+          "price_rmb": 10000,
+          "details": "主驾侧翼调节+肩枕音响+后排通风加热+星光触控黑带"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-s7-2026-max-plus-896",
+      "sku_name": "Max+（896线）",
+      "price_rmb": 259800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4971,
+        "width_mm": 1963,
+        "height_mm": 1474,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为DriveONE 800V碳化硅",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 100,
+        "cltc_pure_electric_range_km": 855,
+        "cltc_combined_range_km": 855,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "途灵平台（高配空悬）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "丝云座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "轮毂升级包1（20英寸低风阻轮毂）",
+          "price_rmb": 6000,
+          "details": "双五辐低风阻轮毂"
+        },
+        {
+          "name": "科技智享包",
+          "price_rmb": 10000,
+          "details": "主驾侧翼调节+肩枕音响+后排通风加热+星光触控黑带"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-s7-2026-ultra-192",
+      "sku_name": "Ultra 四驱（192线）",
+      "price_rmb": 289800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4971,
+        "width_mm": 1963,
+        "height_mm": 1474,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 365,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为DriveONE 800V碳化硅",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 100,
+        "cltc_pure_electric_range_km": 785,
+        "cltc_combined_range_km": 785,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "途灵平台（高配空悬）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "192线激光雷达",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "丝云座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "轮毂升级包1（20英寸低风阻轮毂）",
+          "price_rmb": 6000,
+          "details": "双五辐低风阻轮毂"
+        },
+        {
+          "name": "科技智享包",
+          "price_rmb": 10000,
+          "details": "主驾侧翼调节+肩枕音响+后排通风加热+星光触控黑带"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-s7-2026-ultra-896",
+      "sku_name": "Ultra 四驱（896线）",
+      "price_rmb": 299800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4971,
+        "width_mm": 1963,
+        "height_mm": 1474,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 365,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "华为DriveONE 800V碳化硅",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 100,
+        "cltc_pure_electric_range_km": 785,
+        "cltc_combined_range_km": 785,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "途灵平台（高配空悬）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线双光路激光雷达",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "丝云座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "轮毂升级包1（20英寸低风阻轮毂）",
+          "price_rmb": 6000,
+          "details": "双五辐低风阻轮毂"
+        },
+        {
+          "name": "科技智享包",
+          "price_rmb": 10000,
+          "details": "主驾侧翼调节+肩枕音响+后排通风加热+星光触控黑带"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "brand": "avatr",
+  "brand_name": "阿维塔",
+  "data_as_of": "2026-11-26",
+  "model": "阿维塔11（2025款改款）",
+  "model_slug": "avatr-11-2025",
+  "category": "中大型轿跑SUV",
+  "release_date": "2025-04-27",
+  "source_urls": [
+    "https://www.avatr.com/configuration?car=11",
+    "https://car.autohome.com.cn/config/spec/72862.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "avatr-11-2025-max-reev",
+      "sku_name": "Max 增程版",
+      "price_rmb": 289900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 231,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂骁遥",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 39.05,
+        "cltc_pure_electric_range_km": 225,
+        "cltc_combined_range_km": 1065,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "3C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后五连杆全铝独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "标配3颗激光雷达",
+        "system": "华为乾崑ADS 3.0（可OTA升级）",
+        "subscription_or_buyout": "ADS高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "15.6英寸中控 + 双10.25英寸仪表/副驾屏",
+        "hud": null,
+        "audio": "英国之宝音响",
+        "fridge": null,
+        "seat_features": "前排双零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "哑光车漆 / 轮毂 / 智能电动门",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "avatr-11-2025-max-bev-rwd",
+      "sku_name": "Max 纯电后驱版",
+      "price_rmb": 309900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 237,
+        "motor_torque_nm": 396,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 116.79,
+        "cltc_pure_electric_range_km": 815,
+        "cltc_combined_range_km": 815,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后五连杆全铝独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "标配3颗激光雷达",
+        "system": "华为乾崑ADS 3.0（可OTA升级）",
+        "subscription_or_buyout": "ADS高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "15.6英寸中控 + 双10.25英寸仪表/副驾屏",
+        "hud": null,
+        "audio": "英国之宝音响",
+        "fridge": null,
+        "seat_features": "前排双零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "哑光车漆 / 轮毂 / 智能电动门",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "avatr-11-2025-max-bev-awd",
+      "sku_name": "Max 纯电四驱版",
+      "price_rmb": 329900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 402,
+        "motor_torque_nm": 687,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 116.79,
+        "cltc_pure_electric_range_km": 760,
+        "cltc_combined_range_km": 760,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后五连杆全铝独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "标配3颗激光雷达",
+        "system": "华为乾崑ADS 3.0（可OTA升级）",
+        "subscription_or_buyout": "ADS高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "15.6英寸中控 + 双10.25英寸仪表/副驾屏",
+        "hud": null,
+        "audio": "英国之宝音响",
+        "fridge": null,
+        "seat_features": "前排双零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "哑光车漆 / 轮毂 / 智能电动门",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "avatr-11-2025-ultra-bev-awd",
+      "sku_name": "Ultra 纯电四驱版",
+      "price_rmb": 369900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 402,
+        "motor_torque_nm": 687,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 116.79,
+        "cltc_pure_electric_range_km": 760,
+        "cltc_combined_range_km": 760,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后五连杆全铝独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "标配3颗激光雷达",
+        "system": "华为乾崑ADS 3.0（可OTA升级）",
+        "subscription_or_buyout": "ADS高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "15.6英寸中控 + 双10.25英寸仪表/副驾屏",
+        "hud": null,
+        "audio": "英国之宝音响",
+        "fridge": null,
+        "seat_features": "前排双零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "哑光车漆 / 轮毂 / 智能电动门",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "avatr-11-2025-dark-knight",
+      "sku_name": "暗夜骑士版（纯电四驱）",
+      "price_rmb": 389900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 402,
+        "motor_torque_nm": 687,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 116.79,
+        "cltc_pure_electric_range_km": 760,
+        "cltc_combined_range_km": 760,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后五连杆全铝独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "标配3颗激光雷达",
+        "system": "华为乾崑ADS 3.0（可OTA升级）",
+        "subscription_or_buyout": "ADS高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "15.6英寸中控 + 双10.25英寸仪表/副驾屏",
+        "hud": null,
+        "audio": "英国之宝音响",
+        "fridge": null,
+        "seat_features": "前排双零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "哑光车漆 / 轮毂 / 智能电动门",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "avatr-11-2025-royal-theatre",
+      "sku_name": "皇家剧院版（纯电四驱）",
+      "price_rmb": 429900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 4,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 402,
+        "motor_torque_nm": 687,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 116.79,
+        "cltc_pure_electric_range_km": 760,
+        "cltc_combined_range_km": 760,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 25min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后五连杆全铝独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "标配3颗激光雷达",
+        "system": "华为乾崑ADS 3.0（可OTA升级）",
+        "subscription_or_buyout": "ADS高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "15.6英寸中控 + 双10.25英寸仪表/副驾屏",
+        "hud": null,
+        "audio": "英国之宝音响",
+        "fridge": null,
+        "seat_features": "前排双零重力座椅"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "哑光车漆 / 轮毂 / 智能电动门",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

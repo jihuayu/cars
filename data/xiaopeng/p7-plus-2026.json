@@ -1,0 +1,426 @@
+{
+  "brand": "xiaopeng",
+  "brand_name": "小鹏汽车",
+  "data_as_of": "2026-11-26",
+  "model": "2026款小鹏P7+",
+  "model_slug": "p7-plus-2026",
+  "category": "中大型家用轿跑",
+  "release_date": "2026-01-08",
+  "source_urls": [
+    "https://www.xiaopeng.com/p7_plus_2026/configuration.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "xiaopeng-p7plus-2026-1550-max-tech",
+      "sku_name": "1550 Max 科技版",
+      "price_rmb": 186800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5071,
+        "width_mm": 1937,
+        "height_mm": 1512,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "708-2204",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": 450,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 49.2,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 1550,
+        "energy_consumption_kwh_100km": 12.5,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥12.0min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 45,
+        "wltc_fuel_consumption_l_100km": 5.3
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": false,
+        "cdc": "DCC智能可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "19英寸 235/55 R19"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "小鹏图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸中控+8.8英寸仪表",
+        "hud": "全场景HUD",
+        "audio": "20扬声器7.1.4 Xopera音响",
+        "fridge": null,
+        "seat_features": "云感舒适座椅"
+      },
+      "options": [
+        {
+          "name": "Ultra SE智能升级包",
+          "price_rmb": 12000,
+          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+        },
+        {
+          "name": "Ultra智能升级包",
+          "price_rmb": 20000,
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+        },
+        {
+          "name": "20英寸运动轮毂+米其林胎",
+          "price_rmb": 6000,
+          "details": "255/45 R20+卡钳罩"
+        },
+        {
+          "name": "副驾零重力座椅（旗舰版可选）",
+          "price_rmb": 6000,
+          "details": "副驾零重力座椅"
+        },
+        {
+          "name": "黑武士套装",
+          "price_rmb": 10000,
+          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰"
+        },
+        {
+          "name": "星镜蓝外观色",
+          "price_rmb": 6000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "晨雾蓝座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-p7plus-2026-1550-max-flagship",
+      "sku_name": "1550 Max 旗舰版",
+      "price_rmb": 198800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5071,
+        "width_mm": 1937,
+        "height_mm": 1512,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "708-2204",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": 450,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 49.2,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 1550,
+        "energy_consumption_kwh_100km": 12.5,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥12.0min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 45,
+        "wltc_fuel_consumption_l_100km": 5.3
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": false,
+        "cdc": "DCC智能可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "19英寸 235/55 R19"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "小鹏图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸中控+8.8英寸仪表+8英寸后排屏+9英寸流媒体后视镜",
+        "hud": "全场景HUD",
+        "audio": "20扬声器7.1.4 Xopera音响",
+        "fridge": null,
+        "seat_features": "云感舒适座椅"
+      },
+      "options": [
+        {
+          "name": "Ultra SE智能升级包",
+          "price_rmb": 12000,
+          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+        },
+        {
+          "name": "Ultra智能升级包",
+          "price_rmb": 20000,
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+        },
+        {
+          "name": "20英寸运动轮毂+米其林胎",
+          "price_rmb": 6000,
+          "details": "255/45 R20+卡钳罩"
+        },
+        {
+          "name": "副驾零重力座椅（旗舰版可选）",
+          "price_rmb": 6000,
+          "details": "副驾零重力座椅"
+        },
+        {
+          "name": "黑武士套装",
+          "price_rmb": 10000,
+          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰"
+        },
+        {
+          "name": "星镜蓝外观色",
+          "price_rmb": 6000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "晨雾蓝座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-p7plus-2026-615-max-flagship",
+      "sku_name": "615 Max 旗舰版",
+      "price_rmb": 186800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5071,
+        "width_mm": 1937,
+        "height_mm": 1512,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "725-2221",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": 450,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 61.7,
+        "cltc_pure_electric_range_km": 615,
+        "cltc_combined_range_km": 615,
+        "energy_consumption_kwh_100km": 10.9,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥12.0min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": false,
+        "cdc": "DCC智能可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "19英寸 235/55 R19"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "小鹏图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸中控+8.8英寸仪表+8英寸后排屏+9英寸流媒体后视镜",
+        "hud": "全场景HUD",
+        "audio": "20扬声器7.1.4 Xopera音响",
+        "fridge": null,
+        "seat_features": "云感舒适座椅"
+      },
+      "options": [
+        {
+          "name": "Ultra SE智能升级包",
+          "price_rmb": 12000,
+          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+        },
+        {
+          "name": "Ultra智能升级包",
+          "price_rmb": 20000,
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+        },
+        {
+          "name": "20英寸运动轮毂+米其林胎",
+          "price_rmb": 6000,
+          "details": "255/45 R20+卡钳罩"
+        },
+        {
+          "name": "副驾零重力座椅（旗舰版可选）",
+          "price_rmb": 6000,
+          "details": "副驾零重力座椅"
+        },
+        {
+          "name": "黑武士套装",
+          "price_rmb": 10000,
+          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰"
+        },
+        {
+          "name": "星镜蓝外观色",
+          "price_rmb": 6000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "晨雾蓝座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-p7plus-2026-725-max-flagship",
+      "sku_name": "725 Max 旗舰版",
+      "price_rmb": 198800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5071,
+        "width_mm": 1937,
+        "height_mm": 1512,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "725-2221",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": 450,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 74.9,
+        "cltc_pure_electric_range_km": 725,
+        "cltc_combined_range_km": 725,
+        "energy_consumption_kwh_100km": 11.7,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥12.0min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": false,
+        "cdc": "DCC智能可变阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "19英寸 235/55 R19"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "小鹏图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸中控+8.8英寸仪表+8英寸后排屏+9英寸流媒体后视镜",
+        "hud": "全场景HUD",
+        "audio": "20扬声器7.1.4 Xopera音响",
+        "fridge": null,
+        "seat_features": "云感舒适座椅"
+      },
+      "options": [
+        {
+          "name": "Ultra SE智能升级包",
+          "price_rmb": 12000,
+          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+        },
+        {
+          "name": "Ultra智能升级包",
+          "price_rmb": 20000,
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+        },
+        {
+          "name": "20英寸运动轮毂+米其林胎",
+          "price_rmb": 6000,
+          "details": "255/45 R20+卡钳罩"
+        },
+        {
+          "name": "副驾零重力座椅（旗舰版可选）",
+          "price_rmb": 6000,
+          "details": "副驾零重力座椅"
+        },
+        {
+          "name": "黑武士套装",
+          "price_rmb": 10000,
+          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰"
+        },
+        {
+          "name": "星镜蓝外观色",
+          "price_rmb": 6000,
+          "details": "付费车漆"
+        },
+        {
+          "name": "晨雾蓝座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    }
+  ]
+}

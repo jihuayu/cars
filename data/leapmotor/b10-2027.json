@@ -1,0 +1,400 @@
+{
+  "brand": "leapmotor",
+  "brand_name": "零跑汽车",
+  "data_as_of": "2026-11-26",
+  "model": "2027款零跑B10",
+  "model_slug": "b10-2027",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2026-07-16",
+  "source_urls": [
+    "https://leapmotor.cn/B10.html",
+    "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=14"
+  ],
+  "skus": [
+    {
+      "sku_id": "leapmotor-b10-2027-540-comfort",
+      "sku_name": "B10 540舒享版",
+      "price_rmb": 99800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4515,
+        "width_mm": 1885,
+        "height_mm": 1655,
+        "wheelbase_mm": 2735,
+        "seats": 5,
+        "curb_weight_kg": 1690,
+        "trunk_volume_l": "557/1704",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 132,
+        "motor_torque_nm": 175,
+        "zero_to_100_s": 9.6,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "国轩高科",
+        "battery_capacity_kwh": 60.8,
+        "cltc_pure_electric_range_km": 540,
+        "cltc_combined_range_km": 540,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 21min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 前225/50 后235/50 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "8.8英寸仪表 + 17.3英寸3K中控屏",
+        "hud": null,
+        "audio": "6扬声器",
+        "fridge": null,
+        "seat_features": "可选前排双零重力舒适套装"
+      },
+      "options": [
+        {
+          "name": "极寒辅热套装（空调PTC辅热）",
+          "price_rmb": 1300,
+          "details": "PTC辅热"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-b10-2027-540-joy",
+      "sku_name": "B10 540悦享版",
+      "price_rmb": 109800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4515,
+        "width_mm": 1885,
+        "height_mm": 1655,
+        "wheelbase_mm": 2735,
+        "seats": 5,
+        "curb_weight_kg": 1745,
+        "trunk_volume_l": "557/1704",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": 255,
+        "zero_to_100_s": 6.6,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "欣旺达/中创新航/国轩高科",
+        "battery_capacity_kwh": 60.8,
+        "cltc_pure_electric_range_km": 540,
+        "cltc_combined_range_km": 540,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 21min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 前225/50 后235/50 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "8.8英寸仪表 + 17.3英寸3K中控屏",
+        "hud": "55英寸AR-HUD",
+        "audio": "14扬声器（含2头枕）",
+        "fridge": null,
+        "seat_features": "可选前排双零重力舒适套装"
+      },
+      "options": [
+        {
+          "name": "双零重力舒适套装",
+          "price_rmb": 10000,
+          "details": "前排双零重力+4向电动腿托+10点按摩"
+        },
+        {
+          "name": "极寒辅热套装（空调PTC辅热）",
+          "price_rmb": 1300,
+          "details": "PTC辅热"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-b10-2027-540-lidar",
+      "sku_name": "B10 540激光雷达版",
+      "price_rmb": 119800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4515,
+        "width_mm": 1885,
+        "height_mm": 1655,
+        "wheelbase_mm": 2735,
+        "seats": 5,
+        "curb_weight_kg": 1745,
+        "trunk_volume_l": "557/1704",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": 255,
+        "zero_to_100_s": 6.6,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "欣旺达/中创新航/国轩高科",
+        "battery_capacity_kwh": 60.8,
+        "cltc_pure_electric_range_km": 540,
+        "cltc_combined_range_km": 540,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 21min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "19英寸 前225/45 后235/45 R19"
+      },
+      "adas": {
+        "chip": "高通骁龙8650",
+        "compute_tops": 200,
+        "lidar": "1颗128线激光雷达（禾赛）",
+        "system": "Leapmotor Pilot全场景领航",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "8.8英寸仪表 + 17.3英寸3K中控屏",
+        "hud": "55英寸AR-HUD",
+        "audio": "14扬声器（含2头枕）",
+        "fridge": null,
+        "seat_features": "可选前排双零重力舒适套装"
+      },
+      "options": [
+        {
+          "name": "双零重力舒适套装",
+          "price_rmb": 10000,
+          "details": "前排双零重力+4向电动腿托+10点按摩"
+        },
+        {
+          "name": "极寒辅热套装（空调PTC辅热）",
+          "price_rmb": 1300,
+          "details": "PTC辅热"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-b10-2027-610-joy",
+      "sku_name": "B10 610悦享版",
+      "price_rmb": 115800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4515,
+        "width_mm": 1885,
+        "height_mm": 1655,
+        "wheelbase_mm": 2735,
+        "seats": 5,
+        "curb_weight_kg": 1795,
+        "trunk_volume_l": "557/1704",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 185,
+        "motor_torque_nm": 260,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "欣旺达/中创新航/国轩高科",
+        "battery_capacity_kwh": 69.7,
+        "cltc_pure_electric_range_km": 610,
+        "cltc_combined_range_km": 610,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "3C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 前225/50 后235/50 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "8.8英寸仪表 + 17.3英寸3K中控屏",
+        "hud": "55英寸AR-HUD",
+        "audio": "14扬声器（含2头枕）",
+        "fridge": null,
+        "seat_features": "可选前排双零重力舒适套装"
+      },
+      "options": [
+        {
+          "name": "双零重力舒适套装",
+          "price_rmb": 10000,
+          "details": "前排双零重力+4向电动腿托+10点按摩"
+        },
+        {
+          "name": "极寒辅热套装（空调PTC辅热）",
+          "price_rmb": 1300,
+          "details": "PTC辅热"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-b10-2027-610-lidar",
+      "sku_name": "B10 610激光雷达版",
+      "price_rmb": 125800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4515,
+        "width_mm": 1885,
+        "height_mm": 1655,
+        "wheelbase_mm": 2735,
+        "seats": 5,
+        "curb_weight_kg": 1795,
+        "trunk_volume_l": "557/1704",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 185,
+        "motor_torque_nm": 260,
+        "zero_to_100_s": 6.4,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "欣旺达/中创新航/国轩高科",
+        "battery_capacity_kwh": 69.7,
+        "cltc_pure_electric_range_km": 610,
+        "cltc_combined_range_km": 610,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "3C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "19英寸 前225/45 后235/45 R19"
+      },
+      "adas": {
+        "chip": "高通骁龙8650",
+        "compute_tops": 200,
+        "lidar": "1颗128线激光雷达（禾赛）",
+        "system": "Leapmotor Pilot全场景领航",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "8.8英寸仪表 + 17.3英寸3K中控屏",
+        "hud": "55英寸AR-HUD",
+        "audio": "14扬声器（含2头枕）",
+        "fridge": null,
+        "seat_features": "可选前排双零重力舒适套装"
+      },
+      "options": [
+        {
+          "name": "双零重力舒适套装",
+          "price_rmb": 10000,
+          "details": "前排双零重力+4向电动腿托+10点按摩"
+        },
+        {
+          "name": "极寒辅热套装（空调PTC辅热）",
+          "price_rmb": 1300,
+          "details": "PTC辅热"
+        }
+      ]
+    }
+  ]
+}

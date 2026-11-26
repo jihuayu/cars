@@ -1,0 +1,561 @@
+{
+  "brand": "leapmotor",
+  "brand_name": "零跑汽车",
+  "data_as_of": "2026-11-26",
+  "model": "2026款零跑D19",
+  "model_slug": "d19-2026",
+  "category": "全尺寸旗舰6/7座SUV",
+  "release_date": "2026-04-16",
+  "source_urls": [
+    "https://leapmotor.cn/D19.html",
+    "https://car.autohome.com.cn/config/series/8273.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "leapmotor-d19-2026-reev-400-6seat",
+      "sku_name": "增程400 尊享版六座",
+      "price_rmb": 219800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 525,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "宁德时代电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.3,
+        "cltc_pure_electric_range_km": 400,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架+魔毯",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗激光雷达",
+        "system": "VLA辅助驾驶系统",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797（舱驾融合）",
+        "screens": "端侧大模型智能座舱",
+        "hud": "AR-HUD",
+        "audio": null,
+        "fridge": null,
+        "seat_features": "6座/7座旗舰空间"
+      },
+      "options": [
+        {
+          "name": "森野氧舱（车规级制氧8L/min）",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸供氧（智尊版及以上可选）"
+        },
+        {
+          "name": "智影套装（百万像素DLP投影大灯+ISD灯幕）",
+          "price_rmb": 10000,
+          "details": "智慧灯光套装"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d19-2026-reev-500-6seat",
+      "sku_name": "增程500 智尊版六座",
+      "price_rmb": 239800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 525,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "宁德时代电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.3,
+        "cltc_pure_electric_range_km": 500,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架+魔毯",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗激光雷达",
+        "system": "VLA辅助驾驶系统",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797（舱驾融合）",
+        "screens": "端侧大模型智能座舱",
+        "hud": "AR-HUD",
+        "audio": null,
+        "fridge": null,
+        "seat_features": "6座/7座旗舰空间"
+      },
+      "options": [
+        {
+          "name": "森野氧舱（车规级制氧8L/min）",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸供氧（智尊版及以上可选）"
+        },
+        {
+          "name": "智影套装（百万像素DLP投影大灯+ISD灯幕）",
+          "price_rmb": 10000,
+          "details": "智慧灯光套装"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d19-2026-reev-500-7seat",
+      "sku_name": "增程500 智尊版七座",
+      "price_rmb": 239800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 525,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "宁德时代电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.3,
+        "cltc_pure_electric_range_km": 500,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架+魔毯",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗激光雷达",
+        "system": "VLA辅助驾驶系统",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797（舱驾融合）",
+        "screens": "端侧大模型智能座舱",
+        "hud": "AR-HUD",
+        "audio": null,
+        "fridge": null,
+        "seat_features": "6座/7座旗舰空间"
+      },
+      "options": [
+        {
+          "name": "森野氧舱（车规级制氧8L/min）",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸供氧（智尊版及以上可选）"
+        },
+        {
+          "name": "智影套装（百万像素DLP投影大灯+ISD灯幕）",
+          "price_rmb": 10000,
+          "details": "智慧灯光套装"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d19-2026-bev-620-6seat",
+      "sku_name": "纯电620 智尊版六座",
+      "price_rmb": 239800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "宁德时代混合电芯",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115.0,
+        "cltc_pure_electric_range_km": 620,
+        "cltc_combined_range_km": 620,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架+魔毯",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗激光雷达",
+        "system": "VLA辅助驾驶系统",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797（舱驾融合）",
+        "screens": "端侧大模型智能座舱",
+        "hud": "AR-HUD",
+        "audio": null,
+        "fridge": null,
+        "seat_features": "6座/7座旗舰空间"
+      },
+      "options": [
+        {
+          "name": "森野氧舱（车规级制氧8L/min）",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸供氧（智尊版及以上可选）"
+        },
+        {
+          "name": "智影套装（百万像素DLP投影大灯+ISD灯幕）",
+          "price_rmb": 10000,
+          "details": "智慧灯光套装"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d19-2026-bev-720-6seat",
+      "sku_name": "纯电720 智尊版六座",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "宁德时代混合电芯",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115.0,
+        "cltc_pure_electric_range_km": 720,
+        "cltc_combined_range_km": 720,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架+魔毯",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗激光雷达",
+        "system": "VLA辅助驾驶系统",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797（舱驾融合）",
+        "screens": "端侧大模型智能座舱",
+        "hud": "AR-HUD",
+        "audio": null,
+        "fridge": null,
+        "seat_features": "6座/7座旗舰空间"
+      },
+      "options": [
+        {
+          "name": "森野氧舱（车规级制氧8L/min）",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸供氧（智尊版及以上可选）"
+        },
+        {
+          "name": "智影套装（百万像素DLP投影大灯+ISD灯幕）",
+          "price_rmb": 10000,
+          "details": "智慧灯光套装"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d19-2026-bev-720-7seat",
+      "sku_name": "纯电720 智尊版七座",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "宁德时代混合电芯",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115.0,
+        "cltc_pure_electric_range_km": 720,
+        "cltc_combined_range_km": 720,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架+魔毯",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗激光雷达",
+        "system": "VLA辅助驾驶系统",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797（舱驾融合）",
+        "screens": "端侧大模型智能座舱",
+        "hud": "AR-HUD",
+        "audio": null,
+        "fridge": null,
+        "seat_features": "6座/7座旗舰空间"
+      },
+      "options": [
+        {
+          "name": "森野氧舱（车规级制氧8L/min）",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸供氧（智尊版及以上可选）"
+        },
+        {
+          "name": "智影套装（百万像素DLP投影大灯+ISD灯幕）",
+          "price_rmb": 10000,
+          "details": "智慧灯光套装"
+        }
+      ]
+    },
+    {
+      "sku_id": "leapmotor-d19-2026-bev-680-tri-6seat",
+      "sku_name": "纯电680 三电机性能版六座",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机四驱（3秒级）",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 1000,
+        "battery_type": "宁德时代混合电芯",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 115.0,
+        "cltc_pure_electric_range_km": 680,
+        "cltc_combined_range_km": 680,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "双腔闭式空气悬架+魔毯",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "双高通骁龙8797",
+        "compute_tops": 1280,
+        "lidar": "1颗激光雷达",
+        "system": "VLA辅助驾驶系统",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "双高通骁龙8797（舱驾融合）",
+        "screens": "端侧大模型智能座舱",
+        "hud": "AR-HUD",
+        "audio": null,
+        "fridge": null,
+        "seat_features": "6座/7座旗舰空间"
+      },
+      "options": [
+        {
+          "name": "森野氧舱（车规级制氧8L/min）",
+          "price_rmb": 10000,
+          "details": "弥散+鼻吸供氧（智尊版及以上可选）"
+        },
+        {
+          "name": "智影套装（百万像素DLP投影大灯+ISD灯幕）",
+          "price_rmb": 10000,
+          "details": "智慧灯光套装"
+        }
+      ]
+    }
+  ]
+}

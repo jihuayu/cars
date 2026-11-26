@@ -1,0 +1,483 @@
+{
+  "brand": "hima",
+  "brand_name": "鸿蒙智行",
+  "data_as_of": "2026-11-26",
+  "sub_brand": "享界 STELATO",
+  "model": "享界S9（2026款 896线激光雷达版）",
+  "model_slug": "stelato-s9-2026",
+  "category": "中大型行政豪华轿车",
+  "release_date": "2026-03-23",
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7630.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "hima-stelato-s9-2026-reev-max-37",
+      "sku_name": "增程 Max 后驱 37kWh",
+      "price_rmb": 319800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5160,
+        "width_mm": 2005,
+        "height_mm": 1492,
+        "wheelbase_mm": 3050,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.193
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂/巨鲸电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 37.0,
+        "cltc_pure_electric_range_km": 260,
+        "cltc_combined_range_km": 1000,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵底盘",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（1颗896线+3颗固态）",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "行政级后排零重力套装可选"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "智能电子外后视镜 / 后排零重力 / 激光投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-stelato-s9-2026-reev-max-53",
+      "sku_name": "增程 Max 后驱 53kWh",
+      "price_rmb": 339800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5160,
+        "width_mm": 2005,
+        "height_mm": 1492,
+        "wheelbase_mm": 3050,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.193
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂/巨鲸电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 53.4,
+        "cltc_pure_electric_range_km": 372,
+        "cltc_combined_range_km": 1200,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵底盘",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（1颗896线+3颗固态）",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "行政级后排零重力套装可选"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "智能电子外后视镜 / 后排零重力 / 激光投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-stelato-s9-2026-reev-ultra-53",
+      "sku_name": "增程 Ultra 后驱 53kWh",
+      "price_rmb": 359800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5160,
+        "width_mm": 2005,
+        "height_mm": 1492,
+        "wheelbase_mm": 3050,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.193
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "三元锂/巨鲸电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 53.4,
+        "cltc_pure_electric_range_km": 372,
+        "cltc_combined_range_km": 1200,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵底盘",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（1颗896线+3颗固态）",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "行政级后排零重力套装可选"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "智能电子外后视镜 / 后排零重力 / 激光投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-stelato-s9-2026-bev-max-rwd",
+      "sku_name": "纯电 Max 后驱 100kWh",
+      "price_rmb": 339800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5160,
+        "width_mm": 2005,
+        "height_mm": 1492,
+        "wheelbase_mm": 3050,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.193
+      },
+      "performance": {
+        "drive_type": "后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂/巨鲸电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 816,
+        "cltc_combined_range_km": 816,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵底盘",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（1颗896线+3颗固态）",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "行政级后排零重力套装可选"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "智能电子外后视镜 / 后排零重力 / 激光投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-stelato-s9-2026-bev-max-awd",
+      "sku_name": "纯电 Max 四驱 100kWh",
+      "price_rmb": 359800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5160,
+        "width_mm": 2005,
+        "height_mm": 1492,
+        "wheelbase_mm": 3050,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.193
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 385,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.92,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂/巨鲸电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 721,
+        "cltc_combined_range_km": 721,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵底盘",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（1颗896线+3颗固态）",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "行政级后排零重力套装可选"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "智能电子外后视镜 / 后排零重力 / 激光投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-stelato-s9-2026-bev-ultra-awd",
+      "sku_name": "纯电 Ultra 四驱 100kWh",
+      "price_rmb": 379800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5160,
+        "width_mm": 2005,
+        "height_mm": 1492,
+        "wheelbase_mm": 3050,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.193
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 385,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.92,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂/巨鲸电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 721,
+        "cltc_combined_range_km": 721,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵底盘",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "4颗激光雷达（1颗896线+3颗固态）",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": "HUAWEI SOUND",
+        "fridge": null,
+        "seat_features": "行政级后排零重力套装可选"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "智能电子外后视镜 / 后排零重力 / 激光投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

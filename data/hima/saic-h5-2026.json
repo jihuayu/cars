@@ -1,0 +1,483 @@
+{
+  "brand": "hima",
+  "brand_name": "鸿蒙智行",
+  "data_as_of": "2026-11-26",
+  "sub_brand": "尚界 SAIC",
+  "model": "尚界H5（2026款）",
+  "model_slug": "saic-h5-2026",
+  "category": "中型5座SUV",
+  "release_date": "2025-09-23",
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/8205.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "hima-saic-h5-2026-reev-pro",
+      "sku_name": "增程 Pro",
+      "price_rmb": 159800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1910,
+        "height_mm": 1657,
+        "wheelbase_mm": 2840,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 32.6,
+        "cltc_pure_electric_range_km": 235,
+        "cltc_combined_range_km": 1360,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 50,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "Max高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "家用5座"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "车漆 / 轮毂选装",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-saic-h5-2026-bev-pro",
+      "sku_name": "纯电 Pro",
+      "price_rmb": 165800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1910,
+        "height_mm": 1657,
+        "wheelbase_mm": 2840,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 64.6,
+        "cltc_pure_electric_range_km": 535,
+        "cltc_combined_range_km": 535,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "Max高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "家用5座"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "车漆 / 轮毂选装",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-saic-h5-2026-reev-max",
+      "sku_name": "增程 Max",
+      "price_rmb": 179800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1910,
+        "height_mm": 1657,
+        "wheelbase_mm": 2840,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 32.6,
+        "cltc_pure_electric_range_km": 235,
+        "cltc_combined_range_km": 1360,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 50,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "Max版配激光雷达",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "Max高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "家用5座"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "车漆 / 轮毂选装",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-saic-h5-2026-bev-pro-lr",
+      "sku_name": "纯电 Pro 长续航",
+      "price_rmb": 179800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1910,
+        "height_mm": 1657,
+        "wheelbase_mm": 2840,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.0,
+        "cltc_pure_electric_range_km": 655,
+        "cltc_combined_range_km": 655,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": null,
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "Max高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "家用5座"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "车漆 / 轮毂选装",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-saic-h5-2026-bev-max",
+      "sku_name": "纯电 Max",
+      "price_rmb": 185800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1910,
+        "height_mm": 1657,
+        "wheelbase_mm": 2840,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 64.6,
+        "cltc_pure_electric_range_km": 525,
+        "cltc_combined_range_km": 525,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "Max版配激光雷达",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "Max高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "家用5座"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "车漆 / 轮毂选装",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-saic-h5-2026-bev-max-lr",
+      "sku_name": "纯电 Max 长续航",
+      "price_rmb": 199800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1910,
+        "height_mm": 1657,
+        "wheelbase_mm": 2840,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.3,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_type": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 80.0,
+        "cltc_pure_electric_range_km": 640,
+        "cltc_combined_range_km": 640,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "独立悬架",
+        "rear_suspension": "独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "Max版配激光雷达",
+        "system": "华为乾崑ADS",
+        "subscription_or_buyout": "Max高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "家用5座"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "车漆 / 轮毂选装",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

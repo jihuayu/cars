@@ -1,0 +1,206 @@
+{
+  "brand": "lixiang",
+  "brand_name": "理想汽车",
+  "data_as_of": "2026-11-26",
+  "model": "2026款理想i6",
+  "model_slug": "i6-2026",
+  "category": "中大型5座纯电SUV",
+  "release_date": "2026-10-28",
+  "source_urls": [
+    "https://www.lixiang.com/i6",
+    "https://www.lixiang.com/news/190.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "lixiang-i6-2026-rwd",
+      "sku_name": "2026款理想i6 后驱标准版",
+      "price_rmb": 249800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4950,
+        "width_mm": 1935,
+        "height_mm": 1655,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C超充电池",
+        "battery_supplier": "理想自研连山",
+        "battery_capacity_kwh": 96.0,
+        "cltc_pure_electric_range_km": 780,
+        "cltc_combined_range_km": 780,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10分钟补能500km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "标配双腔魔毯空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "理想自研马赫M100 x1",
+        "compute_tops": 1280,
+        "lidar": "1颗ATL-P高性能激光雷达",
+        "system": "马赫VLA 2.5智能辅助驾驶",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797",
+        "screens": "29英寸6K全景屏（支持CarPlay/HiCar/Carlink）",
+        "hud": null,
+        "audio": "标配音响（可选7.3.4铂金音响）",
+        "fridge": "标配电动智能冷暖冰箱",
+        "seat_features": "标配主副驾双全尺寸零重力座椅（18点按摩）+二排140°皇后座"
+      },
+      "options": [
+        {
+          "name": "双电机智能四驱系统（含21英寸七辐运动轮毂）",
+          "price_rmb": 20000,
+          "details": "综合400kW，零百4.8s，CLTC 710km"
+        },
+        {
+          "name": "双马赫M100套装",
+          "price_rmb": 20000,
+          "details": "2颗M100（2560 TOPS）+3颗固态激光雷达+前排电动门"
+        },
+        {
+          "name": "后舱娱乐屏套装",
+          "price_rmb": 10000,
+          "details": "21英寸4K屏+流媒体后视镜+化妆镜+中置扬声器"
+        },
+        {
+          "name": "原厂电动拖车钩",
+          "price_rmb": 6000,
+          "details": "1.5吨牵引能力"
+        },
+        {
+          "name": "铂金音响系统",
+          "price_rmb": 5000,
+          "details": "1920W/20扬声器7.3.4布局"
+        },
+        {
+          "name": "特殊车漆（云朵黄/风信紫/磁力蓝）",
+          "price_rmb": 6000,
+          "details": "首销期限时免费"
+        }
+      ]
+    },
+    {
+      "sku_id": "lixiang-i6-2026-awd",
+      "sku_name": "2026款理想i6 四驱版（选装四驱）",
+      "price_rmb": 269800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4950,
+        "width_mm": 1935,
+        "height_mm": 1655,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机智能四驱",
+        "motor_power_kw": 400,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C超充电池",
+        "battery_supplier": "理想自研连山",
+        "battery_capacity_kwh": 96.0,
+        "cltc_pure_electric_range_km": 710,
+        "cltc_combined_range_km": 710,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10分钟补能500km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "标配双腔魔毯空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "21英寸七辐运动轮毂"
+      },
+      "adas": {
+        "chip": "理想自研马赫M100 x1",
+        "compute_tops": 1280,
+        "lidar": "1颗ATL-P高性能激光雷达",
+        "system": "马赫VLA 2.5智能辅助驾驶",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797",
+        "screens": "29英寸6K全景屏（支持CarPlay/HiCar/Carlink）",
+        "hud": null,
+        "audio": "标配音响（可选7.3.4铂金音响）",
+        "fridge": "标配电动智能冷暖冰箱",
+        "seat_features": "标配主副驾双全尺寸零重力座椅（18点按摩）+二排140°皇后座"
+      },
+      "options": [
+        {
+          "name": "双马赫M100套装",
+          "price_rmb": 20000,
+          "details": "2颗M100（2560 TOPS）+3颗固态激光雷达+前排电动门"
+        },
+        {
+          "name": "后舱娱乐屏套装",
+          "price_rmb": 10000,
+          "details": "21英寸4K屏+流媒体后视镜+化妆镜+中置扬声器"
+        },
+        {
+          "name": "原厂电动拖车钩",
+          "price_rmb": 6000,
+          "details": "1.5吨牵引能力"
+        },
+        {
+          "name": "铂金音响系统",
+          "price_rmb": 5000,
+          "details": "1920W/20扬声器7.3.4布局"
+        },
+        {
+          "name": "特殊车漆（云朵黄/风信紫/磁力蓝）",
+          "price_rmb": 6000,
+          "details": "首销期限时免费"
+        }
+      ]
+    }
+  ]
+}

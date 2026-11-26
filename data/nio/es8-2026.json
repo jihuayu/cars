@@ -1,0 +1,405 @@
+{
+  "brand": "nio",
+  "brand_name": "蔚来",
+  "data_as_of": "2026-11-26",
+  "model": "全新蔚来ES8",
+  "model_slug": "es8-2026",
+  "category": "大型纯电SUV（5/6/7座）",
+  "release_date": "2025-09-20",
+  "source_urls": [
+    "https://www.nio.cn/es8",
+    "https://www.nio.cn/es8-five-seater"
+  ],
+  "skus": [
+    {
+      "sku_id": "nio-es8-2026-5seat-luxury",
+      "sku_name": "大五座 行政豪华版",
+      "price_rmb": 382800,
+      "baas_price_rmb": 274800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3130,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "1334-2845",
+        "frunk_volume_l": 230,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.259
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前180kW/后340kW）",
+        "motor_power_kw": 520,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 3.97,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "三元锂（宁德时代）",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": 655,
+        "cltc_combined_range_km": 655,
+        "energy_consumption_kwh_100km": 16.3,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 600,
+        "fast_charge_time": "支持超快充+3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "五连杆独立悬架",
+        "rear_suspension": "五连杆独立悬架",
+        "air_suspension": "标配100mm行程双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "265/40 R22（签名版）"
+      },
+      "adas": {
+        "chip": "自研神玑NX9031",
+        "compute_tops": null,
+        "lidar": "3颗激光雷达+4D成像雷达（31感知硬件）",
+        "system": "AQUILA天鹰座超感系统",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "48英寸5K天际线屏 + 21.4英寸天空屏",
+        "hud": "AR-HUD",
+        "audio": "天琴8.1.4.2音响",
+        "fridge": null,
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
+          "price_rmb": "豪华版25800 / 签名版10800",
+          "details": "锻造轮圈套件"
+        },
+        {
+          "name": "其余车漆/轮毂/NOMI选装",
+          "price_rmb": null,
+          "details": "以蔚来官方App配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "nio-es8-2026-5seat-signature",
+      "sku_name": "大五座 行政签名版",
+      "price_rmb": 422800,
+      "baas_price_rmb": 314800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3130,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "1334-2845",
+        "frunk_volume_l": 230,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.259
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前180kW/后340kW）",
+        "motor_power_kw": 520,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 3.97,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "三元锂（宁德时代）",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": 655,
+        "cltc_combined_range_km": 655,
+        "energy_consumption_kwh_100km": 16.3,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 600,
+        "fast_charge_time": "支持超快充+3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "五连杆独立悬架",
+        "rear_suspension": "五连杆独立悬架",
+        "air_suspension": "标配100mm行程双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "265/40 R22（签名版）"
+      },
+      "adas": {
+        "chip": "自研神玑NX9031",
+        "compute_tops": null,
+        "lidar": "3颗激光雷达+4D成像雷达（31感知硬件）",
+        "system": "AQUILA天鹰座超感系统",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "48英寸5K天际线屏 + 21.4英寸天空屏",
+        "hud": "AR-HUD",
+        "audio": "天琴8.1.4.2音响",
+        "fridge": null,
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
+          "price_rmb": "豪华版25800 / 签名版10800",
+          "details": "锻造轮圈套件"
+        },
+        {
+          "name": "其余车漆/轮毂/NOMI选装",
+          "price_rmb": null,
+          "details": "以蔚来官方App配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "nio-es8-2026-6seat-luxury",
+      "sku_name": "六座 行政豪华版",
+      "price_rmb": 406800,
+      "baas_price_rmb": 298800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3130,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": 230,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.259
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前180kW/后340kW）",
+        "motor_power_kw": 520,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 3.97,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "三元锂（宁德时代）",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": 635,
+        "cltc_combined_range_km": 635,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 600,
+        "fast_charge_time": "支持超快充+3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "五连杆独立悬架",
+        "rear_suspension": "五连杆独立悬架",
+        "air_suspension": "标配100mm行程双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "265/40 R22（签名版）"
+      },
+      "adas": {
+        "chip": "自研神玑NX9031",
+        "compute_tops": null,
+        "lidar": "3颗激光雷达+4D成像雷达（31感知硬件）",
+        "system": "AQUILA天鹰座超感系统",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "48英寸5K天际线屏 + 21.4英寸天空屏",
+        "hud": "AR-HUD",
+        "audio": "天琴8.1.4.2音响",
+        "fridge": null,
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
+          "price_rmb": "豪华版25800 / 签名版10800",
+          "details": "锻造轮圈套件"
+        },
+        {
+          "name": "其余车漆/轮毂/NOMI选装",
+          "price_rmb": null,
+          "details": "以蔚来官方App配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "nio-es8-2026-7seat-luxury",
+      "sku_name": "七座 行政豪华版",
+      "price_rmb": 406800,
+      "baas_price_rmb": 298800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3130,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": 230,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.259
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前180kW/后340kW）",
+        "motor_power_kw": 520,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 3.97,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "三元锂（宁德时代）",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": 635,
+        "cltc_combined_range_km": 635,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 600,
+        "fast_charge_time": "支持超快充+3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "五连杆独立悬架",
+        "rear_suspension": "五连杆独立悬架",
+        "air_suspension": "标配100mm行程双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "265/40 R22（签名版）"
+      },
+      "adas": {
+        "chip": "自研神玑NX9031",
+        "compute_tops": null,
+        "lidar": "3颗激光雷达+4D成像雷达（31感知硬件）",
+        "system": "AQUILA天鹰座超感系统",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "48英寸5K天际线屏 + 21.4英寸天空屏",
+        "hud": "AR-HUD",
+        "audio": "天琴8.1.4.2音响",
+        "fridge": null,
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
+          "price_rmb": "豪华版25800 / 签名版10800",
+          "details": "锻造轮圈套件"
+        },
+        {
+          "name": "其余车漆/轮毂/NOMI选装",
+          "price_rmb": null,
+          "details": "以蔚来官方App配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "nio-es8-2026-6seat-signature",
+      "sku_name": "六座 行政签名版",
+      "price_rmb": 446800,
+      "baas_price_rmb": 338800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5280,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3130,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": 230,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.259
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前180kW/后340kW）",
+        "motor_power_kw": 520,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 3.97,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 900,
+        "battery_type": "三元锂（宁德时代）",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 102,
+        "cltc_pure_electric_range_km": 635,
+        "cltc_combined_range_km": 635,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 600,
+        "fast_charge_time": "支持超快充+3分钟换电",
+        "v2l_power_kw": null,
+        "battery_swap_supported": true,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "五连杆独立悬架",
+        "rear_suspension": "五连杆独立悬架",
+        "air_suspension": "标配100mm行程双腔空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "265/40 R22（签名版）"
+      },
+      "adas": {
+        "chip": "自研神玑NX9031",
+        "compute_tops": null,
+        "lidar": "3颗激光雷达+4D成像雷达（31感知硬件）",
+        "system": "AQUILA天鹰座超感系统",
+        "subscription_or_buyout": "NOP+ 380元/月；NAD 680元/月"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "48英寸5K天际线屏 + 21.4英寸天空屏",
+        "hud": "AR-HUD",
+        "audio": "天琴8.1.4.2音响",
+        "fridge": null,
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+      },
+      "options": [
+        {
+          "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
+          "price_rmb": "豪华版25800 / 签名版10800",
+          "details": "锻造轮圈套件"
+        },
+        {
+          "name": "其余车漆/轮毂/NOMI选装",
+          "price_rmb": null,
+          "details": "以蔚来官方App配置器为准"
+        }
+      ]
+    }
+  ]
+}

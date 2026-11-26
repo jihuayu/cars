@@ -1,0 +1,197 @@
+{
+  "brand": "lixiang",
+  "brand_name": "理想汽车",
+  "data_as_of": "2026-11-26",
+  "model": "全新理想L8",
+  "model_slug": "l8-2026",
+  "category": "中大型原生5座旗舰SUV",
+  "release_date": "2026-06-23",
+  "source_urls": [
+    "https://www.lixiang.com/configuration.html",
+    "https://www.lixiang.com/L8",
+    "https://www.lixiang.com/news/172.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "lixiang-l8-2026-ultra",
+      "sku_name": "全新理想L8 Ultra",
+      "price_rmb": 369800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5135,
+        "width_mm": 2000,
+        "height_mm": 1800,
+        "wheelbase_mm": 3045,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "820-2388",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机智能四驱（前145kW/后275kW）",
+        "motor_power_kw": 420,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C超充电池",
+        "battery_supplier": "理想自研",
+        "battery_capacity_kwh": 72.7,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 1670,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": 3.5,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 6.2
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "第三代双腔双阀魔毯空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": true,
+        "steer_by_wire": "线控转向（制动EHB）",
+        "tire_spec": "285mm米其林PS5 energy静音轮胎"
+      },
+      "adas": {
+        "chip": "理想自研马赫M100 x1",
+        "compute_tops": 1280,
+        "lidar": "1颗前向ATL-P激光雷达",
+        "system": "马赫VLA智能辅助驾驶",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797 Max",
+        "screens": "29英寸6K 90Hz一体式全景屏 + 后舱交互屏",
+        "hud": "超清投影式HUD",
+        "audio": "标配音响（含主副驾Livis Pods头枕音响）",
+        "fridge": "10L智能电动冷暖冰箱",
+        "seat_features": "标配四把零重力座椅（含二排联排双零重力、Nappa真皮、30点热石按摩）"
+      },
+      "options": [
+        {
+          "name": "后舱21英寸4K移动屏",
+          "price_rmb": 12000,
+          "details": "21英寸4K后舱神奇移动屏"
+        },
+        {
+          "name": "无瑕星环剧院音响",
+          "price_rmb": 20000,
+          "details": "27扬声器/4720W 7.3.4双全景声"
+        },
+        {
+          "name": "马赫具身智能套装",
+          "price_rmb": 20000,
+          "details": "首销限时价：增配1颗M100+3颗固态激光雷达+全车电容防夹电动门+三色星环大灯"
+        },
+        {
+          "name": "22英寸七辐轮毂（黑/银）",
+          "price_rmb": 10000,
+          "details": "配285/40 R22米其林静音轮胎"
+        },
+        {
+          "name": "原厂电动拖车钩",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "lixiang-l8-2026-livis",
+      "sku_name": "全新理想L8 Livis",
+      "price_rmb": 429800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5135,
+        "width_mm": 2000,
+        "height_mm": 1800,
+        "wheelbase_mm": 3045,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "820-2388",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机智能四驱（前145kW/后275kW）",
+        "motor_power_kw": 420,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C超充电池",
+        "battery_supplier": "理想自研",
+        "battery_capacity_kwh": 72.7,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 1670,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 10min",
+        "v2l_power_kw": 3.5,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 6.2
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "800V液压主动悬架（四轮独立液压泵+空气弹簧）",
+        "cdc": "双阀CDC（5ms响应）",
+        "rear_wheel_steering": true,
+        "steer_by_wire": "全线控底盘（线控转向+线控机械制动EMB）",
+        "tire_spec": "285mm米其林PS5 energy静音轮胎"
+      },
+      "adas": {
+        "chip": "理想自研马赫M100 x2",
+        "compute_tops": 2560,
+        "lidar": "360°四激光雷达（1颗ATL-P + 3颗固态可变焦）",
+        "system": "双马赫智能辅助驾驶（VLA + Edge端侧大模型）",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797 Elite",
+        "screens": "29英寸6K 90Hz全景屏 + 21英寸4K后舱移动屏 + 后舱交互屏",
+        "hud": "超清投影式HUD",
+        "audio": "标配音响（可选4720W无瑕星环剧院音响）",
+        "fridge": "10L智能电动冷暖冰箱",
+        "seat_features": "标配四把零重力座椅（含二排联排双零重力、Nappa真皮、30点热石按摩）"
+      },
+      "options": [
+        {
+          "name": "无瑕星环剧院音响",
+          "price_rmb": 20000,
+          "details": "27扬声器/4720W 7.3.4双全景声"
+        },
+        {
+          "name": "22英寸晶灰/七辐轮毂",
+          "price_rmb": 10000,
+          "details": "配285/40 R22米其林静音轮胎"
+        },
+        {
+          "name": "Livis专属双色车身",
+          "price_rmb": null,
+          "details": "4款定制双色车身，以官方配置器为准"
+        },
+        {
+          "name": "原厂电动拖车钩",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

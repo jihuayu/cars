@@ -1,0 +1,81 @@
+{
+  "brand": "immotors",
+  "brand_name": "智己汽车",
+  "data_as_of": "2026-11-26",
+  "model_count": 5,
+  "sku_count": 23,
+  "models": [
+    {
+      "model": "全新一代智己L6",
+      "model_slug": "l6-2026",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2026-08-28",
+      "sku_count": 5,
+      "price_min_rmb": 209900,
+      "price_max_rmb": 269900,
+      "file": "data/immotors/l6-2026.json",
+      "source_urls": [
+        "https://www.immotors.com/website/vehicle_config/l6m2",
+        "https://www.immotors.com/website/news_detail/238"
+      ]
+    },
+    {
+      "model": "智己LS6（全新一代纯电 / 2026款超级增程）",
+      "model_slug": "ls6-2026",
+      "sub_brand": null,
+      "category": "中大型5座SUV",
+      "release_date": "2026-09-23",
+      "sku_count": 5,
+      "price_min_rmb": 202900,
+      "price_max_rmb": 264900,
+      "file": "data/immotors/ls6-2026.json",
+      "source_urls": [
+        "https://www.immotors.com/website/vehicle_config/ls6m3",
+        "https://www.immotors.com/website/vehicle_config/ls6m2"
+      ]
+    },
+    {
+      "model": "智己LS7 焕新版",
+      "model_slug": "ls7-2026",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2025-06-16",
+      "sku_count": 2,
+      "price_min_rmb": 309900,
+      "price_max_rmb": 339900,
+      "file": "data/immotors/ls7-2026.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/price/brand-448-632.html"
+      ]
+    },
+    {
+      "model": "智己LS8（超级增程 / NEO纯电）",
+      "model_slug": "ls8-2026",
+      "sub_brand": null,
+      "category": "中大型5/6座SUV",
+      "release_date": "2026-04-16",
+      "sku_count": 8,
+      "price_min_rmb": 249800,
+      "price_max_rmb": 311800,
+      "file": "data/immotors/ls8-2026.json",
+      "source_urls": [
+        "https://www.immotors.com/website/news_detail/242"
+      ]
+    },
+    {
+      "model": "智己LS9（旗舰大六座）",
+      "model_slug": "ls9-2026",
+      "sub_brand": null,
+      "category": "全尺寸旗舰6座SUV",
+      "release_date": "2025-11-12",
+      "sku_count": 3,
+      "price_min_rmb": 332800,
+      "price_max_rmb": 379800,
+      "file": "data/immotors/ls9-2026.json",
+      "source_urls": [
+        "https://www.immotors.com/website/news_detail/234"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "brand": "lixiang",
+  "brand_name": "理想汽车",
+  "data_as_of": "2026-11-26",
+  "model": "新一代理想MEGA",
+  "model_slug": "mega-2026",
+  "category": "科技旗舰纯电MPV",
+  "release_date": "2026-09-02",
+  "source_urls": [
+    "https://www.lixiang.com/news/186.html",
+    "https://www.lixiang.com/configuration.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "lixiang-mega-2026-home",
+      "sku_name": "新一代理想MEGA Home（单版本）",
+      "price_rmb": 509800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.5,
+        "drag_coefficient_cd": 0.215
+      },
+      "performance": {
+        "drive_type": "前后双电机智能四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂5C超充电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 108.0,
+        "cltc_pure_electric_range_km": 710,
+        "cltc_combined_range_km": 710,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10分钟补能500km",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "800V主动防倾魔毯底盘（双腔空悬+800V主动防倾杆）",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": true,
+        "steer_by_wire": true,
+        "tire_spec": "3款轮毂全免费"
+      },
+      "adas": {
+        "chip": "理想自研马赫M100 x2",
+        "compute_tops": 2560,
+        "lidar": "标配4颗激光雷达",
+        "system": "双马赫具身智能辅助驾驶",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797",
+        "screens": "29英寸6K OLED全景屏 + 21英寸4K OLED后排移动屏",
+        "hud": null,
+        "audio": "5440W 9.3.6星环剧院音响",
+        "fridge": "标配冷暖冰箱",
+        "seat_features": "标配一排双零重力+二排悬浮座垫旋转零重力座椅+双电动桌板"
+      },
+      "options": [
+        {
+          "name": "特殊车漆（新大象灰）",
+          "price_rmb": 10000,
+          "details": "其余4色全免费"
+        },
+        {
+          "name": "270°电动变色玻璃",
+          "price_rmb": 15000,
+          "details": "全车唯一配置选装项"
+        }
+      ]
+    }
+  ]
+}

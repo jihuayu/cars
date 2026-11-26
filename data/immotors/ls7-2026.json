@@ -1,0 +1,160 @@
+{
+  "brand": "immotors",
+  "brand_name": "智己汽车",
+  "data_as_of": "2026-11-26",
+  "model": "智己LS7 焕新版",
+  "model_slug": "ls7-2026",
+  "category": "中大型纯电SUV",
+  "release_date": "2025-06-16",
+  "source_urls": [
+    "https://car.autohome.com.cn/price/brand-448-632.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "immotors-ls7-max-plus",
+      "sku_name": "LS7 焕新版 Max+（后驱）",
+      "price_rmb": 309900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 248,
+        "motor_torque_nm": 500,
+        "zero_to_100_s": 6.1,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 83,
+        "cltc_pure_electric_range_km": 640,
+        "cltc_combined_range_km": 640,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 16.8min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin X",
+        "compute_tops": 254,
+        "lidar": "激光雷达",
+        "system": "IM AD",
+        "subscription_or_buyout": "标价36800元"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "穹顶式智慧座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "零重力座椅"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        }
+      ]
+    },
+    {
+      "sku_id": "immotors-ls7-ultra",
+      "sku_name": "LS7 焕新版 Ultra（四驱）",
+      "price_rmb": 339900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 579,
+        "motor_torque_nm": 800,
+        "zero_to_100_s": 3.9,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 875,
+        "battery_type": "三元锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 100,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 16.8min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "NVIDIA Orin X",
+        "compute_tops": 254,
+        "lidar": "激光雷达",
+        "system": "IM AD",
+        "subscription_or_buyout": "标价36800元"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295",
+        "screens": "穹顶式智慧座舱",
+        "hud": null,
+        "audio": null,
+        "fridge": null,
+        "seat_features": "零重力座椅"
+      },
+      "options": [
+        {
+          "name": "IM AD高级辅助驾驶全功能包",
+          "price_rmb": 36800,
+          "details": "新车上市首任车主常赠5年或终身免费使用权"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "brand": "lixiang",
+  "brand_name": "理想汽车",
+  "data_as_of": "2026-11-26",
+  "model_count": 7,
+  "sku_count": 11,
+  "models": [
+    {
+      "model": "2026款理想i6",
+      "model_slug": "i6-2026",
+      "sub_brand": null,
+      "category": "中大型5座纯电SUV",
+      "release_date": "2026-10-28",
+      "sku_count": 2,
+      "price_min_rmb": 249800,
+      "price_max_rmb": 269800,
+      "file": "data/lixiang/i6-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/i6",
+        "https://www.lixiang.com/news/190.html"
+      ]
+    },
+    {
+      "model": "理想i8",
+      "model_slug": "i8-2026",
+      "sub_brand": null,
+      "category": "中大型6座纯电SUV",
+      "release_date": "2025-07-29",
+      "sku_count": 2,
+      "price_min_rmb": 309800,
+      "price_max_rmb": 339800,
+      "file": "data/lixiang/i8-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/i8",
+        "https://www.lixiang.com/news/136.html"
+      ]
+    },
+    {
+      "model": "全新理想i9",
+      "model_slug": "i9-2026",
+      "sub_brand": null,
+      "category": "全尺寸6座纯电旗舰SUV",
+      "release_date": "2026-09-16",
+      "sku_count": 1,
+      "price_min_rmb": 369800,
+      "price_max_rmb": 369800,
+      "file": "data/lixiang/i9-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/news/188.html",
+        "https://www.lixiang.com/configuration.html"
+      ]
+    },
+    {
+      "model": "新一代理想L6",
+      "model_slug": "l6-2026",
+      "sub_brand": null,
+      "category": "中大型5座SUV",
+      "release_date": "2026-07-16",
+      "sku_count": 1,
+      "price_min_rmb": 249800,
+      "price_max_rmb": 249800,
+      "file": "data/lixiang/l6-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/configuration.html",
+        "https://www.lixiang.com/L6",
+        "https://www.lixiang.com/news/184.html"
+      ]
+    },
+    {
+      "model": "全新理想L8",
+      "model_slug": "l8-2026",
+      "sub_brand": null,
+      "category": "中大型原生5座旗舰SUV",
+      "release_date": "2026-06-23",
+      "sku_count": 2,
+      "price_min_rmb": 369800,
+      "price_max_rmb": 429800,
+      "file": "data/lixiang/l8-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/configuration.html",
+        "https://www.lixiang.com/L8",
+        "https://www.lixiang.com/news/172.html"
+      ]
+    },
+    {
+      "model": "全新一代理想L9",
+      "model_slug": "l9-2026",
+      "sub_brand": null,
+      "category": "全尺寸6座旗舰SUV",
+      "release_date": "2026-05-15",
+      "sku_count": 2,
+      "price_min_rmb": 459800,
+      "price_max_rmb": 509800,
+      "file": "data/lixiang/l9-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/configuration.html",
+        "https://www.lixiang.com/L9",
+        "https://www.lixiang.com/news/159.html"
+      ]
+    },
+    {
+      "model": "新一代理想MEGA",
+      "model_slug": "mega-2026",
+      "sub_brand": null,
+      "category": "科技旗舰纯电MPV",
+      "release_date": "2026-09-02",
+      "sku_count": 1,
+      "price_min_rmb": 509800,
+      "price_max_rmb": 509800,
+      "file": "data/lixiang/mega-2026.json",
+      "source_urls": [
+        "https://www.lixiang.com/news/186.html",
+        "https://www.lixiang.com/configuration.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "brand": "xiaopeng",
+  "brand_name": "小鹏汽车",
+  "data_as_of": "2026-11-26",
+  "model": "2026款小鹏X9",
+  "model_slug": "x9-2026",
+  "category": "中大型7座MPV",
+  "release_date": "2025-11-20",
+  "source_urls": [
+    "https://www.xiaopeng.com/x9_2026/configuration.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "xiaopeng-x9-2026-reev-1602-max",
+      "sku_name": "超级增程 1602 Max",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5316,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 210,
+        "motor_torque_nm": 465,
+        "zero_to_100_s": 8.0,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 63.3,
+        "cltc_pure_electric_range_km": 452,
+        "cltc_combined_range_km": 1602,
+        "energy_consumption_kwh_100km": 16.5,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 6.4
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后H臂多连杆全铝悬架",
+        "air_suspension": "双腔空气悬架（90mm行程）",
+        "cdc": true,
+        "rear_wheel_steering": "主动式后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸中控屏 + 21.4英寸后排娱乐屏",
+        "hud": null,
+        "audio": "23扬声器音响",
+        "fridge": "10.8L冷暖电动冰箱",
+        "seat_features": "三排一键电动收纳魔变空间"
+      },
+      "options": [
+        {
+          "name": "20英寸星耀悬浮轮毂+米其林胎",
+          "price_rmb": 8000,
+          "details": "轮毂轮胎升级套装"
+        },
+        {
+          "name": "座舱舒享套装",
+          "price_rmb": 10000,
+          "details": "一二排全粒面Nappa真皮+二排腿托加热+27扬声器7.1.6音响"
+        },
+        {
+          "name": "黑武士套件",
+          "price_rmb": 8800,
+          "details": "极夜黑车色+星舰尾翼+20英寸星刃轮毂"
+        },
+        {
+          "name": "星舰尾翼",
+          "price_rmb": 1298,
+          "details": "单选尾翼"
+        },
+        {
+          "name": "极光青车漆 / 星舰灰哑光漆",
+          "price_rmb": "6000 / 8000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "云间玫棕座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-x9-2026-reev-1602-ultra-se",
+      "sku_name": "超级增程 1602 Ultra SE",
+      "price_rmb": 321800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5316,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 210,
+        "motor_torque_nm": 465,
+        "zero_to_100_s": 8.0,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 63.3,
+        "cltc_pure_electric_range_km": 452,
+        "cltc_combined_range_km": 1602,
+        "energy_consumption_kwh_100km": 16.5,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 6.4
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后H臂多连杆全铝悬架",
+        "air_suspension": "双腔空气悬架（90mm行程）",
+        "cdc": true,
+        "rear_wheel_steering": "主动式后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x2",
+        "compute_tops": 1500,
+        "lidar": null,
+        "system": "图灵第二代VLA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸中控屏 + 21.4英寸后排娱乐屏",
+        "hud": null,
+        "audio": "23扬声器音响",
+        "fridge": "10.8L冷暖电动冰箱",
+        "seat_features": "三排一键电动收纳魔变空间"
+      },
+      "options": [
+        {
+          "name": "20英寸星耀悬浮轮毂+米其林胎",
+          "price_rmb": 8000,
+          "details": "轮毂轮胎升级套装"
+        },
+        {
+          "name": "座舱舒享套装",
+          "price_rmb": 10000,
+          "details": "一二排全粒面Nappa真皮+二排腿托加热+27扬声器7.1.6音响"
+        },
+        {
+          "name": "黑武士套件",
+          "price_rmb": 8800,
+          "details": "极夜黑车色+星舰尾翼+20英寸星刃轮毂"
+        },
+        {
+          "name": "星舰尾翼",
+          "price_rmb": 1298,
+          "details": "单选尾翼"
+        },
+        {
+          "name": "极光青车漆 / 星舰灰哑光漆",
+          "price_rmb": "6000 / 8000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "云间玫棕座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-x9-2026-reev-1602-ultra",
+      "sku_name": "超级增程 1602 Ultra",
+      "price_rmb": 329800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5316,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 210,
+        "motor_torque_nm": 465,
+        "zero_to_100_s": 8.0,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 63.3,
+        "cltc_pure_electric_range_km": 452,
+        "cltc_combined_range_km": 1602,
+        "energy_consumption_kwh_100km": 16.5,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 6.4
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后H臂多连杆全铝悬架",
+        "air_suspension": "双腔空气悬架（90mm行程）",
+        "cdc": true,
+        "rear_wheel_steering": "主动式后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸中控屏 + 21.4英寸后排娱乐屏",
+        "hud": null,
+        "audio": "23扬声器音响",
+        "fridge": "10.8L冷暖电动冰箱",
+        "seat_features": "三排一键电动收纳魔变空间"
+      },
+      "options": [
+        {
+          "name": "20英寸星耀悬浮轮毂+米其林胎",
+          "price_rmb": 8000,
+          "details": "轮毂轮胎升级套装"
+        },
+        {
+          "name": "座舱舒享套装",
+          "price_rmb": 10000,
+          "details": "一二排全粒面Nappa真皮+二排腿托加热+27扬声器7.1.6音响"
+        },
+        {
+          "name": "黑武士套件",
+          "price_rmb": 8800,
+          "details": "极夜黑车色+星舰尾翼+20英寸星刃轮毂"
+        },
+        {
+          "name": "星舰尾翼",
+          "price_rmb": 1298,
+          "details": "单选尾翼"
+        },
+        {
+          "name": "极光青车漆 / 星舰灰哑光漆",
+          "price_rmb": "6000 / 8000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "云间玫棕座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-x9-2026-bev-665-max",
+      "sku_name": "纯电 665 Max",
+      "price_rmb": 309800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5316,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 665,
+        "cltc_combined_range_km": 665,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后H臂多连杆全铝悬架",
+        "air_suspension": "双腔空气悬架（90mm行程）",
+        "cdc": true,
+        "rear_wheel_steering": "主动式后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸中控屏 + 21.4英寸后排娱乐屏",
+        "hud": null,
+        "audio": "23扬声器音响",
+        "fridge": "10.8L冷暖电动冰箱",
+        "seat_features": "三排一键电动收纳魔变空间"
+      },
+      "options": [
+        {
+          "name": "20英寸星耀悬浮轮毂+米其林胎",
+          "price_rmb": 8000,
+          "details": "轮毂轮胎升级套装"
+        },
+        {
+          "name": "座舱舒享套装",
+          "price_rmb": 10000,
+          "details": "一二排全粒面Nappa真皮+二排腿托加热+27扬声器7.1.6音响"
+        },
+        {
+          "name": "黑武士套件",
+          "price_rmb": 8800,
+          "details": "极夜黑车色+星舰尾翼+20英寸星刃轮毂"
+        },
+        {
+          "name": "星舰尾翼",
+          "price_rmb": 1298,
+          "details": "单选尾翼"
+        },
+        {
+          "name": "极光青车漆 / 星舰灰哑光漆",
+          "price_rmb": "6000 / 8000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "云间玫棕座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-x9-2026-bev-650-ultra-se",
+      "sku_name": "纯电 650 Ultra SE",
+      "price_rmb": 321800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5316,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 650,
+        "cltc_combined_range_km": 650,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后H臂多连杆全铝悬架",
+        "air_suspension": "双腔空气悬架（90mm行程）",
+        "cdc": true,
+        "rear_wheel_steering": "主动式后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x2",
+        "compute_tops": 1500,
+        "lidar": null,
+        "system": "图灵第二代VLA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸中控屏 + 21.4英寸后排娱乐屏",
+        "hud": null,
+        "audio": "23扬声器音响",
+        "fridge": "10.8L冷暖电动冰箱",
+        "seat_features": "三排一键电动收纳魔变空间"
+      },
+      "options": [
+        {
+          "name": "20英寸星耀悬浮轮毂+米其林胎",
+          "price_rmb": 8000,
+          "details": "轮毂轮胎升级套装"
+        },
+        {
+          "name": "座舱舒享套装",
+          "price_rmb": 10000,
+          "details": "一二排全粒面Nappa真皮+二排腿托加热+27扬声器7.1.6音响"
+        },
+        {
+          "name": "黑武士套件",
+          "price_rmb": 8800,
+          "details": "极夜黑车色+星舰尾翼+20英寸星刃轮毂"
+        },
+        {
+          "name": "星舰尾翼",
+          "price_rmb": 1298,
+          "details": "单选尾翼"
+        },
+        {
+          "name": "极光青车漆 / 星舰灰哑光漆",
+          "price_rmb": "6000 / 8000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "云间玫棕座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-x9-2026-bev-650-ultra",
+      "sku_name": "纯电 650 Ultra",
+      "price_rmb": 329800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5316,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 650,
+        "cltc_combined_range_km": 650,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后H臂多连杆全铝悬架",
+        "air_suspension": "双腔空气悬架（90mm行程）",
+        "cdc": true,
+        "rear_wheel_steering": "主动式后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸中控屏 + 21.4英寸后排娱乐屏",
+        "hud": null,
+        "audio": "23扬声器音响",
+        "fridge": "10.8L冷暖电动冰箱",
+        "seat_features": "三排一键电动收纳魔变空间"
+      },
+      "options": [
+        {
+          "name": "20英寸星耀悬浮轮毂+米其林胎",
+          "price_rmb": 8000,
+          "details": "轮毂轮胎升级套装"
+        },
+        {
+          "name": "座舱舒享套装",
+          "price_rmb": 10000,
+          "details": "一二排全粒面Nappa真皮+二排腿托加热+27扬声器7.1.6音响"
+        },
+        {
+          "name": "黑武士套件",
+          "price_rmb": 8800,
+          "details": "极夜黑车色+星舰尾翼+20英寸星刃轮毂"
+        },
+        {
+          "name": "星舰尾翼",
+          "price_rmb": 1298,
+          "details": "单选尾翼"
+        },
+        {
+          "name": "极光青车漆 / 星舰灰哑光漆",
+          "price_rmb": "6000 / 8000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "云间玫棕座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-x9-2026-bev-750-ultra",
+      "sku_name": "纯电 750 Ultra",
+      "price_rmb": 349800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5316,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 750,
+        "cltc_combined_range_km": 750,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后H臂多连杆全铝悬架",
+        "air_suspension": "双腔空气悬架（90mm行程）",
+        "cdc": true,
+        "rear_wheel_steering": "主动式后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸中控屏 + 21.4英寸后排娱乐屏",
+        "hud": null,
+        "audio": "23扬声器音响",
+        "fridge": "10.8L冷暖电动冰箱",
+        "seat_features": "三排一键电动收纳魔变空间"
+      },
+      "options": [
+        {
+          "name": "20英寸星耀悬浮轮毂+米其林胎",
+          "price_rmb": 8000,
+          "details": "轮毂轮胎升级套装"
+        },
+        {
+          "name": "座舱舒享套装",
+          "price_rmb": 10000,
+          "details": "一二排全粒面Nappa真皮+二排腿托加热+27扬声器7.1.6音响"
+        },
+        {
+          "name": "黑武士套件",
+          "price_rmb": 8800,
+          "details": "极夜黑车色+星舰尾翼+20英寸星刃轮毂"
+        },
+        {
+          "name": "星舰尾翼",
+          "price_rmb": 1298,
+          "details": "单选尾翼"
+        },
+        {
+          "name": "极光青车漆 / 星舰灰哑光漆",
+          "price_rmb": "6000 / 8000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "云间玫棕座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-x9-2026-bev-710-awd-ultra",
+      "sku_name": "纯电 710 四驱Ultra",
+      "price_rmb": 369800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5316,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C超充AI电池",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 710,
+        "cltc_combined_range_km": 710,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% ≥11.7min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂全铝独立悬架",
+        "rear_suspension": "后H臂多连杆全铝悬架",
+        "air_suspension": "双腔空气悬架（90mm行程）",
+        "cdc": true,
+        "rear_wheel_steering": "主动式后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x3",
+        "compute_tops": 2250,
+        "lidar": null,
+        "system": "图灵第二代VLA+VLM",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "screens": "17.3英寸中控屏 + 21.4英寸后排娱乐屏",
+        "hud": null,
+        "audio": "23扬声器音响",
+        "fridge": "10.8L冷暖电动冰箱",
+        "seat_features": "三排一键电动收纳魔变空间"
+      },
+      "options": [
+        {
+          "name": "20英寸星耀悬浮轮毂+米其林胎",
+          "price_rmb": 8000,
+          "details": "轮毂轮胎升级套装"
+        },
+        {
+          "name": "座舱舒享套装",
+          "price_rmb": 10000,
+          "details": "一二排全粒面Nappa真皮+二排腿托加热+27扬声器7.1.6音响"
+        },
+        {
+          "name": "黑武士套件",
+          "price_rmb": 8800,
+          "details": "极夜黑车色+星舰尾翼+20英寸星刃轮毂"
+        },
+        {
+          "name": "星舰尾翼",
+          "price_rmb": 1298,
+          "details": "单选尾翼"
+        },
+        {
+          "name": "极光青车漆 / 星舰灰哑光漆",
+          "price_rmb": "6000 / 8000",
+          "details": "付费外观色"
+        },
+        {
+          "name": "云间玫棕座舱主题",
+          "price_rmb": 3000,
+          "details": "付费内饰主题"
+        }
+      ]
+    }
+  ]
+}

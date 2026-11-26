@@ -1,0 +1,680 @@
+{
+  "brand": "hima",
+  "brand_name": "鸿蒙智行",
+  "data_as_of": "2026-11-26",
+  "sub_brand": "问界 AITO",
+  "model": "全新一代问界M9（2026款）",
+  "model_slug": "aito-m9-2026",
+  "category": "全尺寸旗舰SUV（含领世加长版）",
+  "release_date": "2026-05-27",
+  "source_urls": [
+    "https://aito.auto/model/m9/configuration/",
+    "https://aito.auto/model/m9-new/"
+  ],
+  "skus": [
+    {
+      "sku_id": "hima-aito-m9-2026-reev-max-plus-5",
+      "sku_name": "增程 Max+ 5座",
+      "price_rmb": 479800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5285,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3125,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机/双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.99,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂（华为巨鲸）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": 422,
+        "cltc_combined_range_km": 1405,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟快充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "800V全主动悬架+双腔空悬",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": "±8°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "6颗激光雷达",
+        "system": "华为乾崑ADS 5.0",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱旗舰多屏",
+        "hud": "AR-HUD",
+        "audio": "领世加长版43扬声器",
+        "fridge": "车载冷暖箱",
+        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "领世加长版“先行臻选包”",
+          "price_rmb": 122000,
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+        },
+        {
+          "name": "双拼车漆 / 电动踏板 / 投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m9-2026-reev-max-plus-6",
+      "sku_name": "增程 Max+ 6座",
+      "price_rmb": 489800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5285,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3125,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机/双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.99,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂（华为巨鲸）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": 422,
+        "cltc_combined_range_km": 1405,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟快充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "800V全主动悬架+双腔空悬",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": "±8°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "6颗激光雷达",
+        "system": "华为乾崑ADS 5.0",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱旗舰多屏",
+        "hud": "AR-HUD",
+        "audio": "领世加长版43扬声器",
+        "fridge": "车载冷暖箱",
+        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "领世加长版“先行臻选包”",
+          "price_rmb": 122000,
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+        },
+        {
+          "name": "双拼车漆 / 电动踏板 / 投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m9-2026-bev-max-plus-5",
+      "sku_name": "纯电 Max+ 5座",
+      "price_rmb": 499800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5285,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3125,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机/双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂（华为巨鲸）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 120.0,
+        "cltc_pure_electric_range_km": 750,
+        "cltc_combined_range_km": 750,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟快充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "800V全主动悬架+双腔空悬",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": "±8°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "6颗激光雷达",
+        "system": "华为乾崑ADS 5.0",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱旗舰多屏",
+        "hud": "AR-HUD",
+        "audio": "领世加长版43扬声器",
+        "fridge": "车载冷暖箱",
+        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "领世加长版“先行臻选包”",
+          "price_rmb": 122000,
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+        },
+        {
+          "name": "双拼车漆 / 电动踏板 / 投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m9-2026-bev-max-plus-6",
+      "sku_name": "纯电 Max+ 6座",
+      "price_rmb": 509800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5285,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3125,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机/双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂（华为巨鲸）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 120.0,
+        "cltc_pure_electric_range_km": 750,
+        "cltc_combined_range_km": 750,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟快充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "800V全主动悬架+双腔空悬",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": "±8°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "6颗激光雷达",
+        "system": "华为乾崑ADS 5.0",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱旗舰多屏",
+        "hud": "AR-HUD",
+        "audio": "领世加长版43扬声器",
+        "fridge": "车载冷暖箱",
+        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "领世加长版“先行臻选包”",
+          "price_rmb": 122000,
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+        },
+        {
+          "name": "双拼车漆 / 电动踏板 / 投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m9-2026-ultra-5",
+      "sku_name": "增程/纯电 Ultra 5座",
+      "price_rmb": 539800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5285,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3125,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机/双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.99,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂（华为巨鲸）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": 422,
+        "cltc_combined_range_km": 1405,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟快充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "800V全主动悬架+双腔空悬",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": "±8°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "6颗激光雷达",
+        "system": "华为乾崑ADS 5.0",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱旗舰多屏",
+        "hud": "AR-HUD",
+        "audio": "领世加长版43扬声器",
+        "fridge": "车载冷暖箱",
+        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "领世加长版“先行臻选包”",
+          "price_rmb": 122000,
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+        },
+        {
+          "name": "双拼车漆 / 电动踏板 / 投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m9-2026-ultra-6",
+      "sku_name": "增程/纯电 Ultra 6座",
+      "price_rmb": 549800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5285,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3125,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机/双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.99,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂（华为巨鲸）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": 422,
+        "cltc_combined_range_km": 1405,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟快充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "800V全主动悬架+双腔空悬",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": "±8°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "6颗激光雷达",
+        "system": "华为乾崑ADS 5.0",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱旗舰多屏",
+        "hud": "AR-HUD",
+        "audio": "领世加长版43扬声器",
+        "fridge": "车载冷暖箱",
+        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "领世加长版“先行臻选包”",
+          "price_rmb": 122000,
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+        },
+        {
+          "name": "双拼车漆 / 电动踏板 / 投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m9-2026-ultimate-5",
+      "sku_name": "Ultimate 领世加长版 阔五座",
+      "price_rmb": 649800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5402,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3236,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机/双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.99,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂（华为巨鲸）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": 422,
+        "cltc_combined_range_km": 1405,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟快充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "800V全主动悬架+双腔空悬",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": "±8°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "6颗激光雷达",
+        "system": "华为乾崑ADS 5.0",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱旗舰多屏",
+        "hud": "AR-HUD",
+        "audio": "领世加长版43扬声器",
+        "fridge": "车载冷暖箱",
+        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "领世加长版“先行臻选包”",
+          "price_rmb": 122000,
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+        },
+        {
+          "name": "双拼车漆 / 电动踏板 / 投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-aito-m9-2026-ultimate-6",
+      "sku_name": "Ultimate 领世加长版 享六座",
+      "price_rmb": 659800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5402,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3236,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.1,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "三电机/双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.99,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂（华为巨鲸）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 75.4,
+        "cltc_pure_electric_range_km": 422,
+        "cltc_combined_range_km": 1405,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟快充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "途灵龙行平台",
+        "rear_suspension": "多连杆独立悬架",
+        "air_suspension": "800V全主动悬架+双腔空悬",
+        "cdc": "双阀CDC",
+        "rear_wheel_steering": "±8°后轮转向",
+        "steer_by_wire": false,
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "6颗激光雷达",
+        "system": "华为乾崑ADS 5.0",
+        "subscription_or_buyout": "高阶包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "鸿蒙座舱旗舰多屏",
+        "hud": "AR-HUD",
+        "audio": "领世加长版43扬声器",
+        "fridge": "车载冷暖箱",
+        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+        },
+        {
+          "name": "领世加长版“先行臻选包”",
+          "price_rmb": 122000,
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+        },
+        {
+          "name": "双拼车漆 / 电动踏板 / 投影巨幕",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

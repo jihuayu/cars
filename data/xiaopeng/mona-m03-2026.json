@@ -1,0 +1,602 @@
+{
+  "brand": "xiaopeng",
+  "brand_name": "小鹏汽车",
+  "data_as_of": "2026-11-26",
+  "model": "2026款小鹏MONA M03",
+  "model_slug": "mona-m03-2026",
+  "category": "紧凑型纯电掀背轿跑",
+  "release_date": "2026-04-02",
+  "source_urls": [
+    "https://www.xiaopeng.com/m03_2026/configuration.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "xiaopeng-m03-2026-540-plus",
+      "sku_name": "540 长续航Plus",
+      "price_rmb": 119800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 1896,
+        "height_mm": 1445,
+        "wheelbase_mm": 2815,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": ">600（放倒>1600）",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂（IP68）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 51.8,
+        "cltc_pure_electric_range_km": 540,
+        "cltc_combined_range_km": 540,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% ≥26min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊独立悬架",
+        "rear_suspension": "后扭力梁半独立悬架",
+        "air_suspension": false,
+        "cdc": "自适应阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 215/50 R18"
+      },
+      "adas": {
+        "chip": "基础L2辅助驾驶",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2基础辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸悬浮中控屏",
+        "hud": null,
+        "audio": "9扬声器环绕音响",
+        "fridge": null,
+        "seat_features": "标配人体工学座椅"
+      },
+      "options": [
+        {
+          "name": "轮毂/轮胎升级套装",
+          "price_rmb": 4000,
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+        },
+        {
+          "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
+          "price_rmb": 7999,
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+        },
+        {
+          "name": "前排14点云朵按摩座椅",
+          "price_rmb": 4000,
+          "details": "靠背8点+坐垫6点按摩"
+        },
+        {
+          "name": "20扬声器高级定制音响",
+          "price_rmb": 4000,
+          "details": "7.1.4声道含2头枕扬声器"
+        },
+        {
+          "name": "RNC主动降噪模块",
+          "price_rmb": 600,
+          "details": "RNC主动降噪"
+        },
+        {
+          "name": "付费外观/座舱主题",
+          "price_rmb": 2999,
+          "details": "罗兰紫/牛油果绿配色主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-m03-2026-640-plus",
+      "sku_name": "640 超长续航Plus",
+      "price_rmb": 129800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 1896,
+        "height_mm": 1445,
+        "wheelbase_mm": 2815,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": ">600（放倒>1600）",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂（IP68）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 62.2,
+        "cltc_pure_electric_range_km": 640,
+        "cltc_combined_range_km": 640,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% ≥26min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊独立悬架",
+        "rear_suspension": "后扭力梁半独立悬架",
+        "air_suspension": false,
+        "cdc": "自适应阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 215/50 R18"
+      },
+      "adas": {
+        "chip": "基础L2辅助驾驶",
+        "compute_tops": null,
+        "lidar": null,
+        "system": "L2基础辅助驾驶",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸悬浮中控屏",
+        "hud": null,
+        "audio": "9扬声器环绕音响",
+        "fridge": null,
+        "seat_features": "标配人体工学座椅"
+      },
+      "options": [
+        {
+          "name": "轮毂/轮胎升级套装",
+          "price_rmb": 4000,
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+        },
+        {
+          "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
+          "price_rmb": 7999,
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+        },
+        {
+          "name": "前排14点云朵按摩座椅",
+          "price_rmb": 4000,
+          "details": "靠背8点+坐垫6点按摩"
+        },
+        {
+          "name": "20扬声器高级定制音响",
+          "price_rmb": 4000,
+          "details": "7.1.4声道含2头枕扬声器"
+        },
+        {
+          "name": "RNC主动降噪模块",
+          "price_rmb": 600,
+          "details": "RNC主动降噪"
+        },
+        {
+          "name": "付费外观/座舱主题",
+          "price_rmb": 2999,
+          "details": "罗兰紫/牛油果绿配色主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-m03-2026-510-max",
+      "sku_name": "510 长续航Max",
+      "price_rmb": 129800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 1896,
+        "height_mm": 1445,
+        "wheelbase_mm": 2815,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": ">600（放倒>1600）",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂（IP68）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 51.8,
+        "cltc_pure_electric_range_km": 510,
+        "cltc_combined_range_km": 510,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% ≥26min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊独立悬架",
+        "rear_suspension": "后扭力梁半独立悬架",
+        "air_suspension": false,
+        "cdc": "自适应阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 215/50 R18"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸悬浮中控屏",
+        "hud": null,
+        "audio": "9扬声器环绕音响",
+        "fridge": null,
+        "seat_features": "标配人体工学座椅"
+      },
+      "options": [
+        {
+          "name": "轮毂/轮胎升级套装",
+          "price_rmb": 4000,
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+        },
+        {
+          "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
+          "price_rmb": 7999,
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+        },
+        {
+          "name": "前排14点云朵按摩座椅",
+          "price_rmb": 4000,
+          "details": "靠背8点+坐垫6点按摩"
+        },
+        {
+          "name": "20扬声器高级定制音响",
+          "price_rmb": 4000,
+          "details": "7.1.4声道含2头枕扬声器"
+        },
+        {
+          "name": "RNC主动降噪模块",
+          "price_rmb": 600,
+          "details": "RNC主动降噪"
+        },
+        {
+          "name": "付费外观/座舱主题",
+          "price_rmb": 2999,
+          "details": "罗兰紫/牛油果绿配色主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-m03-2026-610-max",
+      "sku_name": "610 超长续航Max",
+      "price_rmb": 139800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 1896,
+        "height_mm": 1445,
+        "wheelbase_mm": 2815,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": ">600（放倒>1600）",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂（IP68）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 61.6,
+        "cltc_pure_electric_range_km": 610,
+        "cltc_combined_range_km": 610,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% ≥15min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊独立悬架",
+        "rear_suspension": "后扭力梁半独立悬架",
+        "air_suspension": false,
+        "cdc": "自适应阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 215/50 R18"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x1",
+        "compute_tops": 750,
+        "lidar": null,
+        "system": "图灵第二代VLA Lite",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸悬浮中控屏",
+        "hud": null,
+        "audio": "9扬声器环绕音响",
+        "fridge": null,
+        "seat_features": "标配人体工学座椅"
+      },
+      "options": [
+        {
+          "name": "轮毂/轮胎升级套装",
+          "price_rmb": 4000,
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+        },
+        {
+          "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
+          "price_rmb": 7999,
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+        },
+        {
+          "name": "前排14点云朵按摩座椅",
+          "price_rmb": 4000,
+          "details": "靠背8点+坐垫6点按摩"
+        },
+        {
+          "name": "20扬声器高级定制音响",
+          "price_rmb": 4000,
+          "details": "7.1.4声道含2头枕扬声器"
+        },
+        {
+          "name": "RNC主动降噪模块",
+          "price_rmb": 600,
+          "details": "RNC主动降噪"
+        },
+        {
+          "name": "付费外观/座舱主题",
+          "price_rmb": 2999,
+          "details": "罗兰紫/牛油果绿配色主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-m03-2026-510-ultra-se",
+      "sku_name": "510 长续航Ultra SE",
+      "price_rmb": 141800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 1896,
+        "height_mm": 1445,
+        "wheelbase_mm": 2815,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": ">600（放倒>1600）",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂（IP68）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 51.8,
+        "cltc_pure_electric_range_km": 510,
+        "cltc_combined_range_km": 510,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% ≥26min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊独立悬架",
+        "rear_suspension": "后扭力梁半独立悬架",
+        "air_suspension": false,
+        "cdc": "自适应阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 215/50 R18"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x2",
+        "compute_tops": 1500,
+        "lidar": null,
+        "system": "图灵第二代VLA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸悬浮中控屏",
+        "hud": null,
+        "audio": "9扬声器环绕音响",
+        "fridge": null,
+        "seat_features": "标配人体工学座椅"
+      },
+      "options": [
+        {
+          "name": "轮毂/轮胎升级套装",
+          "price_rmb": 4000,
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+        },
+        {
+          "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
+          "price_rmb": 7999,
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+        },
+        {
+          "name": "前排14点云朵按摩座椅",
+          "price_rmb": 4000,
+          "details": "靠背8点+坐垫6点按摩"
+        },
+        {
+          "name": "20扬声器高级定制音响",
+          "price_rmb": 4000,
+          "details": "7.1.4声道含2头枕扬声器"
+        },
+        {
+          "name": "RNC主动降噪模块",
+          "price_rmb": 600,
+          "details": "RNC主动降噪"
+        },
+        {
+          "name": "付费外观/座舱主题",
+          "price_rmb": 2999,
+          "details": "罗兰紫/牛油果绿配色主题"
+        }
+      ]
+    },
+    {
+      "sku_id": "xiaopeng-m03-2026-610-ultra-se",
+      "sku_name": "610 超长续航Ultra SE",
+      "price_rmb": 151800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 1896,
+        "height_mm": 1445,
+        "wheelbase_mm": 2815,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": ">600（放倒>1600）",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂（IP68）",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 61.6,
+        "cltc_pure_electric_range_km": 610,
+        "cltc_combined_range_km": 610,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% ≥15min",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊独立悬架",
+        "rear_suspension": "后扭力梁半独立悬架",
+        "air_suspension": false,
+        "cdc": "自适应阻尼减振器",
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "18英寸 215/50 R18"
+      },
+      "adas": {
+        "chip": "图灵AI芯片 x2",
+        "compute_tops": 1500,
+        "lidar": null,
+        "system": "图灵第二代VLA",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "MT8676",
+        "screens": "15.6英寸悬浮中控屏",
+        "hud": null,
+        "audio": "9扬声器环绕音响",
+        "fridge": null,
+        "seat_features": "标配人体工学座椅"
+      },
+      "options": [
+        {
+          "name": "轮毂/轮胎升级套装",
+          "price_rmb": 4000,
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+        },
+        {
+          "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
+          "price_rmb": 7999,
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+        },
+        {
+          "name": "前排14点云朵按摩座椅",
+          "price_rmb": 4000,
+          "details": "靠背8点+坐垫6点按摩"
+        },
+        {
+          "name": "20扬声器高级定制音响",
+          "price_rmb": 4000,
+          "details": "7.1.4声道含2头枕扬声器"
+        },
+        {
+          "name": "RNC主动降噪模块",
+          "price_rmb": 600,
+          "details": "RNC主动降噪"
+        },
+        {
+          "name": "付费外观/座舱主题",
+          "price_rmb": 2999,
+          "details": "罗兰紫/牛油果绿配色主题"
+        }
+      ]
+    }
+  ]
+}

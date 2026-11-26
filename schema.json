@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/jihuayu/cars/blob/main/schema.json",
+  "title": "Chinese NEV Brand SKU Specification",
+  "description": "Structured per-brand, per-model, per-SKU specification schema sourced from official automaker configuration pages.",
+  "type": "object",
+  "required": ["brand", "brand_name", "data_as_of", "models"],
+  "properties": {
+    "brand": { "type": "string", "description": "Lowercase brand slug (e.g. lixiang, xiaopeng, avatr, nio, leapmotor, immotors, hima)" },
+    "brand_name": { "type": "string", "description": "Official Chinese brand name" },
+    "data_as_of": { "type": "string", "format": "date", "description": "Date of data collection (YYYY-MM-DD)" },
+    "general_policies": { "type": "object", "description": "Brand-level common policies such as BaaS or ADAS package pricing" },
+    "models": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["model", "model_slug", "skus"],
+        "properties": {
+          "sub_brand": { "type": ["string", "null"] },
+          "model": { "type": "string" },
+          "model_slug": { "type": "string" },
+          "category": { "type": ["string", "null"] },
+          "release_date": { "type": ["string", "null"] },
+          "source_urls": { "type": "array", "items": { "type": "string" } },
+          "skus": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["sku_id", "sku_name", "price_rmb", "powertrain_type"],
+              "properties": {
+                "sku_id": { "type": "string" },
+                "sku_name": { "type": "string" },
+                "price_rmb": { "type": ["number", "null"] },
+                "baas_price_rmb": { "type": ["number", "null"] },
+                "powertrain_type": { "type": ["string", "null"], "enum": ["BEV", "REEV", "PHEV", null] },
+                "dimensions": {
+                  "type": "object",
+                  "properties": {
+                    "length_mm": { "type": ["number", "null"] },
+                    "width_mm": { "type": ["number", "null"] },
+                    "height_mm": { "type": ["number", "null"] },
+                    "wheelbase_mm": { "type": ["number", "null"] },
+                    "seats": { "type": ["integer", "string", "null"] },
+                    "curb_weight_kg": { "type": ["number", "string", "null"] },
+                    "trunk_volume_l": { "type": ["number", "string", "null"] },
+                    "frunk_volume_l": { "type": ["number", "string", "null"] },
+                    "min_turning_radius_m": { "type": ["number", "null"] },
+                    "drag_coefficient_cd": { "type": ["number", "null"] }
+                  }
+                },
+                "performance": {
+                  "type": "object",
+                  "properties": {
+                    "drive_type": { "type": ["string", "null"] },
+                    "motor_power_kw": { "type": ["number", "null"] },
+                    "motor_torque_nm": { "type": ["number", "null"] },
+                    "zero_to_100_s": { "type": ["number", "null"] },
+                    "top_speed_kmh": { "type": ["number", "null"] }
+                  }
+                },
+                "battery_and_charging": {
+                  "type": "object",
+                  "properties": {
+                    "voltage_platform_v": { "type": ["number", "string", "null"] },
+                    "battery_type": { "type": ["string", "null"] },
+                    "battery_supplier": { "type": ["string", "null"] },
+                    "battery_capacity_kwh": { "type": ["number", "string", "null"] },
+                    "cltc_pure_electric_range_km": { "type": ["number", "string", "null"] },
+                    "cltc_combined_range_km": { "type": ["number", "string", "null"] },
+                    "energy_consumption_kwh_100km": { "type": ["number", "string", "null"] },
+                    "fast_charge_rate": { "type": ["string", "null"] },
+                    "max_charge_power_kw": { "type": ["number", "string", "null"] },
+                    "fast_charge_time": { "type": ["string", "null"] },
+                    "v2l_power_kw": { "type": ["number", "string", "null"] },
+                    "battery_swap_supported": { "type": ["boolean", "null"] },
+                    "fuel_tank_l": { "type": ["number", "null"] },
+                    "wltc_fuel_consumption_l_100km": { "type": ["number", "string", "null"] }
+                  }
+                },
+                "chassis": {
+                  "type": "object",
+                  "properties": {
+                    "front_suspension": { "type": ["string", "null"] },
+                    "rear_suspension": { "type": ["string", "null"] },
+                    "air_suspension": { "type": ["string", "boolean", "null"] },
+                    "cdc": { "type": ["boolean", "string", "null"] },
+                    "rear_wheel_steering": { "type": ["boolean", "string", "null"] },
+                    "steer_by_wire": { "type": ["boolean", "string", "null"] },
+                    "tire_spec": { "type": ["string", "null"] }
+                  }
+                },
+                "adas": {
+                  "type": "object",
+                  "properties": {
+                    "chip": { "type": ["string", "null"] },
+                    "compute_tops": { "type": ["number", "string", "null"] },
+                    "lidar": { "type": ["string", "null"] },
+                    "system": { "type": ["string", "null"] },
+                    "subscription_or_buyout": { "type": ["string", "null"] }
+                  }
+                },
+                "cockpit": {
+                  "type": "object",
+                  "properties": {
+                    "chip": { "type": ["string", "null"] },
+                    "screens": { "type": ["string", "null"] },
+                    "hud": { "type": ["string", "null"] },
+                    "audio": { "type": ["string", "null"] },
+                    "fridge": { "type": ["string", "boolean", "null"] },
+                    "seat_features": { "type": ["string", "null"] }
+                  }
+                },
+                "options": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["name"],
+                    "properties": {
+                      "name": { "type": "string" },
+                      "price_rmb": { "type": ["number", "string", "null"] },
+                      "details": { "type": ["string", "null"] }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

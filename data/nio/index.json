@@ -1,0 +1,109 @@
+{
+  "brand": "nio",
+  "brand_name": "蔚来",
+  "data_as_of": "2026-11-26",
+  "model_count": 7,
+  "sku_count": 24,
+  "models": [
+    {
+      "model": "2026款蔚来EC6",
+      "model_slug": "ec6-2026",
+      "sub_brand": null,
+      "category": "中型纯电轿跑SUV",
+      "release_date": "2026-04-02",
+      "sku_count": 4,
+      "price_min_rmb": 358000,
+      "price_max_rmb": 373000,
+      "file": "data/nio/ec6-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/zh_CN/vehicle/configuration/ec6"
+      ]
+    },
+    {
+      "model": "2026款蔚来ES6",
+      "model_slug": "es6-2026",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2026-04-02",
+      "sku_count": 2,
+      "price_min_rmb": 338000,
+      "price_max_rmb": 350000,
+      "file": "data/nio/es6-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/zh_CN/vehicle/configuration/es6"
+      ]
+    },
+    {
+      "model": "全新蔚来ES8",
+      "model_slug": "es8-2026",
+      "sub_brand": null,
+      "category": "大型纯电SUV（5/6/7座）",
+      "release_date": "2025-09-20",
+      "sku_count": 5,
+      "price_min_rmb": 382800,
+      "price_max_rmb": 446800,
+      "file": "data/nio/es8-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/es8",
+        "https://www.nio.cn/es8-five-seater"
+      ]
+    },
+    {
+      "model": "蔚来ES9",
+      "model_slug": "es9-2026",
+      "sub_brand": null,
+      "category": "全尺寸行政旗舰纯电SUV",
+      "release_date": "2026-05-27",
+      "sku_count": 4,
+      "price_min_rmb": 498000,
+      "price_max_rmb": 638000,
+      "file": "data/nio/es9-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/es9",
+        "https://www.nio.cn/news/20260527001"
+      ]
+    },
+    {
+      "model": "2026款蔚来ET5",
+      "model_slug": "et5-2026",
+      "sub_brand": null,
+      "category": "中型纯电轿跑",
+      "release_date": "2026-04-02",
+      "sku_count": 3,
+      "price_min_rmb": 298000,
+      "price_max_rmb": 313000,
+      "file": "data/nio/et5-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/vehicle/configuration/et5"
+      ]
+    },
+    {
+      "model": "2026款蔚来ET5T",
+      "model_slug": "et5t-2026",
+      "sub_brand": null,
+      "category": "中型纯电旅行车",
+      "release_date": "2026-04-02",
+      "sku_count": 3,
+      "price_min_rmb": 298000,
+      "price_max_rmb": 313000,
+      "file": "data/nio/et5t-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/et5t"
+      ]
+    },
+    {
+      "model": "蔚来ET9",
+      "model_slug": "et9-2026",
+      "sub_brand": null,
+      "category": "全尺寸行政四座旗舰轿车",
+      "release_date": "2024-12-21",
+      "sku_count": 3,
+      "price_min_rmb": 768000,
+      "price_max_rmb": 818000,
+      "file": "data/nio/et9-2026.json",
+      "source_urls": [
+        "https://www.nio.cn/vehicle/configuration/et9"
+      ]
+    }
+  ]
+}

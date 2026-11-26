@@ -1,0 +1,222 @@
+{
+  "brand": "lixiang",
+  "brand_name": "理想汽车",
+  "data_as_of": "2026-11-26",
+  "model": "全新一代理想L9",
+  "model_slug": "l9-2026",
+  "category": "全尺寸6座旗舰SUV",
+  "release_date": "2026-05-15",
+  "source_urls": [
+    "https://www.lixiang.com/configuration.html",
+    "https://www.lixiang.com/L9",
+    "https://www.lixiang.com/news/159.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "lixiang-l9-2026-ultra",
+      "sku_name": "全新一代理想L9 Ultra",
+      "price_rmb": 459800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5255,
+        "width_mm": 2000,
+        "height_mm": 1810,
+        "wheelbase_mm": 3125,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前后双电机智能四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C增程专用大电池",
+        "battery_supplier": "理想自研",
+        "battery_capacity_kwh": 72.7,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": 1650,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 420,
+        "fast_charge_time": "10分钟充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": 6.3
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "第三代双腔双阀魔毯空气悬架",
+        "cdc": "双阀CDC连续可变阻尼减振器",
+        "rear_wheel_steering": true,
+        "steer_by_wire": "线控转向（制动EHB）",
+        "tire_spec": null
+      },
+      "adas": {
+        "chip": "理想自研马赫M100 x1",
+        "compute_tops": 1280,
+        "lidar": "激光雷达感知系统",
+        "system": "马赫VLA智能辅助驾驶（3D ViT感知）",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797 Max",
+        "screens": "29英寸6K 90Hz全景屏 + 21英寸4K电动滑移后排屏",
+        "hud": null,
+        "audio": "标配音响（可选5440W 9.3.6星环剧院音响）",
+        "fridge": "10L智能电动冷暖冰箱（-6℃至50℃）",
+        "seat_features": "标配二排双动态零重力座椅（ABTS+防下潜气囊）+三排一键大躺"
+      },
+      "options": [
+        {
+          "name": "9.3.6无瑕星环剧院音响",
+          "price_rmb": 30000,
+          "details": "33扬声器/5440W峰值功率"
+        },
+        {
+          "name": "一排双零重力座椅",
+          "price_rmb": 15000,
+          "details": "主副驾全尺寸零重力座椅"
+        },
+        {
+          "name": "全车电容防夹智能电关门",
+          "price_rmb": 15000,
+          "details": "四门电容防夹电关门"
+        },
+        {
+          "name": "二三排电动调光玻璃",
+          "price_rmb": 10000,
+          "details": "多级高隔热电动调光玻璃"
+        },
+        {
+          "name": "隐藏式电动踏板",
+          "price_rmb": 10000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "电动拖车钩",
+          "price_rmb": 6000,
+          "details": "原厂电动拖车钩"
+        }
+      ]
+    },
+    {
+      "sku_id": "lixiang-l9-2026-livis",
+      "sku_name": "全新一代理想L9 Livis",
+      "price_rmb": 509800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5255,
+        "width_mm": 2000,
+        "height_mm": 1810,
+        "wheelbase_mm": 3125,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前后双电机智能四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "5C增程专用大电池",
+        "battery_supplier": "理想自研",
+        "battery_capacity_kwh": 72.7,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": 1650,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": 420,
+        "fast_charge_time": "10分钟充至80%",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": 6.3
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "800V分离式液压主动悬架（四轮独立液压泵+空气弹簧）",
+        "cdc": "双阀CDC（1ms周期/5ms响应）",
+        "rear_wheel_steering": true,
+        "steer_by_wire": "全线控底盘（线控转向+线控机械制动EMB）",
+        "tire_spec": "Livis专属22英寸晶灰轮毂"
+      },
+      "adas": {
+        "chip": "理想自研马赫M100 x2",
+        "compute_tops": 2560,
+        "lidar": "360°全向四激光雷达（1颗ATL-P + 3颗固态可变焦）",
+        "system": "双马赫智能辅助驾驶（具身智能Livis）",
+        "subscription_or_buyout": "标配（无订阅费）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8797 Elite",
+        "screens": "29英寸6K 90Hz全景屏 + 21英寸4K电动滑移后排屏",
+        "hud": null,
+        "audio": "可选5440W 9.3.6星环剧院音响",
+        "fridge": "10L智能电动冷暖冰箱（-6℃至50℃）",
+        "seat_features": "标配二排双动态零重力座椅+三排一键大躺+Livis专属软枕刺绣"
+      },
+      "options": [
+        {
+          "name": "定制版双色车身（紫金/绿金/棕金/黑金）",
+          "price_rmb": 20000,
+          "details": "四款定制双色车身"
+        },
+        {
+          "name": "9.3.6无瑕星环剧院音响",
+          "price_rmb": 30000,
+          "details": "33扬声器/5440W峰值功率"
+        },
+        {
+          "name": "全车电容防夹智能电动门",
+          "price_rmb": 20000,
+          "details": "四门电动门+固态激光雷达防开门杀"
+        },
+        {
+          "name": "一排双零重力座椅",
+          "price_rmb": 15000,
+          "details": "主副驾全尺寸零重力座椅"
+        },
+        {
+          "name": "二三排电动调光玻璃",
+          "price_rmb": 10000,
+          "details": "多级高隔热电动调光玻璃"
+        },
+        {
+          "name": "隐藏式电动踏板",
+          "price_rmb": 10000,
+          "details": "隐藏式电动踏板"
+        },
+        {
+          "name": "Livis专属22英寸晶灰轮毂",
+          "price_rmb": 10000,
+          "details": "Livis专属22英寸轮毂"
+        },
+        {
+          "name": "电动拖车钩",
+          "price_rmb": 6000,
+          "details": "原厂电动拖车钩"
+        }
+      ]
+    }
+  ]
+}

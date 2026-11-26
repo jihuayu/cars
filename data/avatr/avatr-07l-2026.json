@@ -1,0 +1,278 @@
+{
+  "brand": "avatr",
+  "brand_name": "阿维塔",
+  "data_as_of": "2026-11-26",
+  "model": "阿维塔07L（2026款）",
+  "model_slug": "avatr-07l-2026",
+  "category": "中大型5座纯电SUV",
+  "release_date": "2026-08-08",
+  "source_urls": [
+    "https://www.avatr.com/configuration?car=07L"
+  ],
+  "skus": [
+    {
+      "sku_id": "avatr-07l-2026-elite-bev",
+      "sku_name": "Elite 纯电版",
+      "price_rmb": 229900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 2990,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 305,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C神行超充",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 89.33,
+        "cltc_pure_electric_range_km": 725,
+        "cltc_combined_range_km": 725,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% <10min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "Ultra标配21英寸气旋轮毂+Brembo四活塞卡钳"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "舱内激光视觉",
+        "system": "华为乾崑ADS Pro 5",
+        "subscription_or_buyout": "ADS Max高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "35.4英寸4K全景星环屏 + 流媒体内后视镜",
+        "hud": null,
+        "audio": "可选HUAWEI SOUND 25扬声器（2080W）",
+        "fridge": "可选装智能冷暖箱",
+        "seat_features": "全车四座加热通风、9安全气囊"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "HUAWEI SOUND 25扬声器SUPERIOR音响",
+          "price_rmb": 10000,
+          "details": "2080W功放+氛围灯流水模式"
+        },
+        {
+          "name": "副驾零重力座椅",
+          "price_rmb": 10000,
+          "details": "含电动腿托"
+        },
+        {
+          "name": "超清电子外后视镜 / 冷暖箱 / 21英寸轮毂",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "avatr-07l-2026-max-plus-bev",
+      "sku_name": "Max+ 纯电版",
+      "price_rmb": 249900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 2990,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 305,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C神行超充",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 89.33,
+        "cltc_pure_electric_range_km": 725,
+        "cltc_combined_range_km": 725,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% <10min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "闭式魔毯空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "Ultra标配21英寸气旋轮毂+Brembo四活塞卡钳"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗896线激光雷达",
+        "system": "华为乾崑ADS Max 5",
+        "subscription_or_buyout": "ADS Max高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "35.4英寸4K全景星环屏 + 流媒体内后视镜",
+        "hud": null,
+        "audio": "可选HUAWEI SOUND 25扬声器（2080W）",
+        "fridge": "可选装智能冷暖箱",
+        "seat_features": "全车四座加热通风、9安全气囊"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "HUAWEI SOUND 25扬声器SUPERIOR音响",
+          "price_rmb": 10000,
+          "details": "2080W功放+氛围灯流水模式"
+        },
+        {
+          "name": "副驾零重力座椅",
+          "price_rmb": 10000,
+          "details": "含电动腿托"
+        },
+        {
+          "name": "超清电子外后视镜 / 冷暖箱 / 21英寸轮毂",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    },
+    {
+      "sku_id": "avatr-07l-2026-ultra-tri-bev",
+      "sku_name": "Ultra 三电机纯电版",
+      "price_rmb": 279900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 2990,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "太行分布式三电机四驱",
+        "motor_power_kw": 640,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂5C神行超充",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 89.33,
+        "cltc_pure_electric_range_km": 650,
+        "cltc_combined_range_km": 650,
+        "energy_consumption_kwh_100km": null,
+        "fast_charge_rate": "5C",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% <10min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝前双叉臂独立悬架",
+        "rear_suspension": "后多连杆独立悬架",
+        "air_suspension": "闭式魔毯空气悬架",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "Ultra标配21英寸气旋轮毂+Brembo四活塞卡钳"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗896线激光雷达",
+        "system": "华为乾崑ADS Max 5",
+        "subscription_or_buyout": "ADS Max高阶功能包36000元"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "35.4英寸4K全景星环屏 + 流媒体内后视镜",
+        "hud": null,
+        "audio": "可选HUAWEI SOUND 25扬声器（2080W）",
+        "fridge": "可选装智能冷暖箱",
+        "seat_features": "全车四座加热通风、9安全气囊"
+      },
+      "options": [
+        {
+          "name": "华为乾崑ADS Max高阶功能包",
+          "price_rmb": 36000,
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+        },
+        {
+          "name": "HUAWEI SOUND 25扬声器SUPERIOR音响",
+          "price_rmb": 10000,
+          "details": "2080W功放+氛围灯流水模式"
+        },
+        {
+          "name": "副驾零重力座椅",
+          "price_rmb": 10000,
+          "details": "含电动腿托"
+        },
+        {
+          "name": "超清电子外后视镜 / 冷暖箱 / 21英寸轮毂",
+          "price_rmb": null,
+          "details": "以官方配置器为准"
+        }
+      ]
+    }
+  ]
+}

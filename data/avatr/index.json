@@ -1,0 +1,97 @@
+{
+  "brand": "avatr",
+  "brand_name": "阿维塔",
+  "data_as_of": "2026-11-26",
+  "model_count": 6,
+  "sku_count": 28,
+  "models": [
+    {
+      "model": "阿维塔06（2026款）",
+      "model_slug": "avatr-06-2026",
+      "sub_brand": null,
+      "category": "中型轿车",
+      "release_date": "2026-10-15",
+      "sku_count": 2,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 229900,
+      "file": "data/avatr/avatr-06-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=06",
+        "https://www.avatr.com/rights?car=06"
+      ]
+    },
+    {
+      "model": "阿维塔06T（2026款猎装）",
+      "model_slug": "avatr-06t-2026",
+      "sub_brand": null,
+      "category": "中型猎装轿跑",
+      "release_date": "2026-04-23",
+      "sku_count": 7,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 279900,
+      "file": "data/avatr/avatr-06t-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=06T",
+        "https://www.avatr.com/pre06T"
+      ]
+    },
+    {
+      "model": "阿维塔07（2026款）",
+      "model_slug": "avatr-07-2026",
+      "sub_brand": null,
+      "category": "中型SUV",
+      "release_date": "2025-09-20",
+      "sku_count": 6,
+      "price_min_rmb": 219900,
+      "price_max_rmb": 279900,
+      "file": "data/avatr/avatr-07-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=07",
+        "https://www.avatr.com/07"
+      ]
+    },
+    {
+      "model": "阿维塔07L（2026款）",
+      "model_slug": "avatr-07l-2026",
+      "sub_brand": null,
+      "category": "中大型5座纯电SUV",
+      "release_date": "2026-08-08",
+      "sku_count": 3,
+      "price_min_rmb": 229900,
+      "price_max_rmb": 279900,
+      "file": "data/avatr/avatr-07l-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=07L"
+      ]
+    },
+    {
+      "model": "阿维塔11（2025款改款）",
+      "model_slug": "avatr-11-2025",
+      "sub_brand": null,
+      "category": "中大型轿跑SUV",
+      "release_date": "2025-04-27",
+      "sku_count": 6,
+      "price_min_rmb": 289900,
+      "price_max_rmb": 429900,
+      "file": "data/avatr/avatr-11-2025.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=11",
+        "https://car.autohome.com.cn/config/spec/72862.html"
+      ]
+    },
+    {
+      "model": "阿维塔12（2026款）",
+      "model_slug": "avatr-12-2026",
+      "sub_brand": null,
+      "category": "中大型豪华掀背轿车",
+      "release_date": "2026-04-08",
+      "sku_count": 4,
+      "price_min_rmb": 293900,
+      "price_max_rmb": 433900,
+      "file": "data/avatr/avatr-12-2026.json",
+      "source_urls": [
+        "https://www.avatr.com/configuration?car=12"
+      ]
+    }
+  ]
+}
