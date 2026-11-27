@@ -1,0 +1,135 @@
+{
+  "brand": "toyota",
+  "brand_name": "丰田新能源",
+  "model": "广汽丰田铂智3X",
+  "model_slug": "toyota-bz3x",
+  "origin_type": "合资/外资",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2025-03-06",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2025/03/07/00/3a62a97247464800aa024cb3e23d8863.png!jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "限时权益价9.48万-14.48万元"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7712.html"
+  ],
+  "references": [
+    {
+      "title": "铂智3X参数配置-汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7712.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "bz3x-520-lidar",
+      "sku_name": "2026款 520 Pro 激光雷达版",
+      "price_rmb": 149800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4600,
+        "width_mm": 1850,
+        "height_mm": 1660,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1745
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 200,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 58.37,
+        "cltc_pure_electric_range_km": 520,
+        "fast_charge_time": "24分钟(30-80%)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "Orin-X(254TOPS)",
+        "lidar": "1颗126线禾赛ATX",
+        "system": "Momenta 5.0"
+      },
+      "cockpit": {
+        "instrument_cluster": "8.8英寸液晶",
+        "screens": "14.6英寸(8155)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "bz3x-610-max",
+      "sku_name": "2026款 610 Max",
+      "price_rmb": 159800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4600,
+        "width_mm": 1850,
+        "height_mm": 1645,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1835
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 165,
+        "motor_torque_nm": 210,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 67.92,
+        "cltc_pure_electric_range_km": 610,
+        "fast_charge_time": "24分钟(30-80%)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "选装",
+        "system": "Toyota Pilot"
+      },
+      "cockpit": {
+        "instrument_cluster": "8.8英寸液晶",
+        "screens": "14.6英寸(8155)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

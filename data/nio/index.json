@@ -1,21 +1,28 @@
 {
   "brand": "nio",
   "brand_name": "蔚来",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 7,
   "sku_count": 24,
   "models": [
     {
       "brand": "nio",
       "brand_name": "蔚来",
+      "origin_type": "国产",
       "model": "2026款蔚来EC6",
       "model_slug": "ec6-2026",
       "sub_brand": null,
       "category": "中型纯电轿跑SUV",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Nio_EC6_II_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 9,
@@ -23,6 +30,22 @@
       "price_max_rmb": 373000,
       "best_zero_to_100_s": 4.4,
       "max_cltc_ev_km": 635,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/nio/ec6-2026.json",
       "source_urls": [
         "https://www.nio.cn/zh_CN/vehicle/configuration/ec6"
@@ -31,14 +54,20 @@
     {
       "brand": "nio",
       "brand_name": "蔚来",
+      "origin_type": "国产",
       "model": "2026款蔚来ES6",
       "model_slug": "es6-2026",
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/%28CHN-Guangdong%29_Showcar_Nio_ES6_No-plate_2024-05-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 2,
       "option_count": 12,
@@ -46,6 +75,22 @@
       "price_max_rmb": 350000,
       "best_zero_to_100_s": 4.5,
       "max_cltc_ev_km": 630,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/nio/es6-2026.json",
       "source_urls": [
         "https://www.nio.cn/zh_CN/vehicle/configuration/es6"
@@ -54,14 +99,19 @@
     {
       "brand": "nio",
       "brand_name": "蔚来",
+      "origin_type": "国产",
       "model": "全新蔚来ES8",
       "model_slug": "es8-2026",
       "sub_brand": null,
       "category": "大型纯电SUV（5/6/7座）",
       "release_date": "2025-09-20",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%28CHN-Jiangsu%29_Showcar_Nio_ES8_No-plate_2025-12-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 5,
       "option_count": 2,
@@ -69,6 +119,22 @@
       "price_max_rmb": 446800,
       "best_zero_to_100_s": 3.97,
       "max_cltc_ev_km": 655,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/nio/es8-2026.json",
       "source_urls": [
         "https://www.nio.cn/es8",
@@ -78,14 +144,19 @@
     {
       "brand": "nio",
       "brand_name": "蔚来",
+      "origin_type": "国产",
       "model": "蔚来ES9",
       "model_slug": "es9-2026",
       "sub_brand": null,
       "category": "全尺寸行政旗舰纯电SUV",
       "release_date": "2026-05-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nio_ES9_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 4,
       "option_count": 1,
@@ -93,6 +164,22 @@
       "price_max_rmb": 638000,
       "best_zero_to_100_s": 4.3,
       "max_cltc_ev_km": 620,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": true,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/nio/es9-2026.json",
       "source_urls": [
         "https://www.nio.cn/es9",
@@ -102,14 +189,19 @@
     {
       "brand": "nio",
       "brand_name": "蔚来",
+      "origin_type": "国产",
       "model": "2026款蔚来ET5",
       "model_slug": "et5-2026",
       "sub_brand": null,
       "category": "中型纯电轿跑",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/NIO_ET5_IMG_8291.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 3,
       "option_count": 9,
@@ -117,6 +209,22 @@
       "price_max_rmb": 313000,
       "best_zero_to_100_s": 4.0,
       "max_cltc_ev_km": 740,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/nio/et5-2026.json",
       "source_urls": [
         "https://www.nio.cn/vehicle/configuration/et5"
@@ -125,14 +233,19 @@
     {
       "brand": "nio",
       "brand_name": "蔚来",
+      "origin_type": "国产",
       "model": "2026款蔚来ET5T",
       "model_slug": "et5t-2026",
       "sub_brand": null,
       "category": "中型纯电旅行车",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2023_NIO_ET5_Touring_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 3,
       "option_count": 6,
@@ -140,6 +253,22 @@
       "price_max_rmb": 313000,
       "best_zero_to_100_s": 4.0,
       "max_cltc_ev_km": 710,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/nio/et5t-2026.json",
       "source_urls": [
         "https://www.nio.cn/et5t"
@@ -148,14 +277,19 @@
     {
       "brand": "nio",
       "brand_name": "蔚来",
+      "origin_type": "国产",
       "model": "蔚来ET9",
       "model_slug": "et9-2026",
       "sub_brand": null,
       "category": "全尺寸行政四座旗舰轿车",
       "release_date": "2024-12-21",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nio_ET9_MY2025_IMG01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 3,
       "option_count": 9,
@@ -163,6 +297,22 @@
       "price_max_rmb": 818000,
       "best_zero_to_100_s": 4.1,
       "max_cltc_ev_km": null,
+      "ground_clearance_mm": 200,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": true,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/nio/et9-2026.json",
       "source_urls": [
         "https://www.nio.cn/vehicle/configuration/et9"

@@ -1,7 +1,7 @@
 {
   "brand": "leapmotor",
   "brand_name": "零跑汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2027款零跑B01",
   "model_slug": "b01-2027",
   "category": "紧凑型纯电轿车",
@@ -26,7 +26,8 @@
         "trunk_volume_l": 550,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 136
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -49,7 +50,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -73,18 +75,32 @@
         "hud": null,
         "audio": "6扬声器",
         "fridge": null,
-        "seat_features": "可选双零重力舒适套装"
+        "seat_features": "可选双零重力舒适套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "极寒辅热套装（PTC辅热）",
           "price_rmb": 1300,
-          "details": "PTC辅热"
+          "details": "PTC辅热",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云黛紫/液态银）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -104,7 +120,8 @@
         "trunk_volume_l": 550,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 136
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -127,7 +144,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -151,23 +169,38 @@
         "hud": "50英寸AR-HUD",
         "audio": "14扬声器（含2头枕）",
         "fridge": null,
-        "seat_features": "可选双零重力舒适套装"
+        "seat_features": "可选双零重力舒适套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双零重力舒适套装",
           "price_rmb": 10000,
-          "details": "前排双零重力+4向电动腿托+10点按摩"
+          "details": "前排双零重力+4向电动腿托+10点按摩",
+          "availability": "可选"
         },
         {
           "name": "极寒辅热套装（PTC辅热）",
           "price_rmb": 1300,
-          "details": "PTC辅热"
+          "details": "PTC辅热",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云黛紫/液态银）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -187,7 +220,8 @@
         "trunk_volume_l": 550,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 136
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -210,7 +244,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -234,23 +269,38 @@
         "hud": "50英寸AR-HUD",
         "audio": "14扬声器（含2头枕）",
         "fridge": null,
-        "seat_features": "可选双零重力舒适套装"
+        "seat_features": "可选双零重力舒适套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双零重力舒适套装",
           "price_rmb": 10000,
-          "details": "前排双零重力+4向电动腿托+10点按摩"
+          "details": "前排双零重力+4向电动腿托+10点按摩",
+          "availability": "可选"
         },
         {
           "name": "极寒辅热套装（PTC辅热）",
           "price_rmb": 1300,
-          "details": "PTC辅热"
+          "details": "PTC辅热",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云黛紫/液态银）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -270,7 +320,8 @@
         "trunk_volume_l": 550,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 136
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -293,7 +344,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -317,23 +369,38 @@
         "hud": "50英寸AR-HUD",
         "audio": "14扬声器（含2头枕）",
         "fridge": null,
-        "seat_features": "可选双零重力舒适套装"
+        "seat_features": "可选双零重力舒适套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双零重力舒适套装",
           "price_rmb": 10000,
-          "details": "前排双零重力+4向电动腿托+10点按摩"
+          "details": "前排双零重力+4向电动腿托+10点按摩",
+          "availability": "可选"
         },
         {
           "name": "极寒辅热套装（PTC辅热）",
           "price_rmb": 1300,
-          "details": "PTC辅热"
+          "details": "PTC辅热",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云黛紫/液态银）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -353,7 +420,8 @@
         "trunk_volume_l": 550,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 136
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -376,7 +444,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -400,26 +469,71 @@
         "hud": "50英寸AR-HUD",
         "audio": "14扬声器（含2头枕）",
         "fridge": null,
-        "seat_features": "可选双零重力舒适套装"
+        "seat_features": "可选双零重力舒适套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双零重力舒适套装",
           "price_rmb": 10000,
-          "details": "前排双零重力+4向电动腿托+10点按摩"
+          "details": "前排双零重力+4向电动腿托+10点按摩",
+          "availability": "可选"
         },
         {
           "name": "极寒辅热套装（PTC辅热）",
           "price_rmb": 1300,
-          "details": "PTC辅热"
+          "details": "PTC辅热",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云黛紫/液态银）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://ueapp-oss-static.leapmotor.com/img/basedatacartype/card/20261119/24f73f6260484130bbcf35d717a4f883.png"
+  "image_url": "https://ueapp-oss-static.leapmotor.com/img/basedatacartype/card/20261119/24f73f6260484130bbcf35d717a4f883.png",
+  "promo_highlights": [
+    "2027款购车综合权益18840元、至高8万2年0息",
+    "限时免费享价值2000元个性外饰色、6000元双零重力舒适套装尾款抵扣券"
+  ],
+  "miit_filing": {
+    "miit_batch": "第395批",
+    "product_model_code": "FZ7000BEVB01F",
+    "curb_weight_kg": 1625,
+    "gross_weight_kg": 2015,
+    "approach_departure_deg": null,
+    "battery_supplier": "合肥国轩高科/凌骁能源"
+  },
+  "references": [
+    {
+      "title": "零跑汽车 2027款零跑B01 官方配置页 (www.leapmotor.cn)",
+      "url": "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=15",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第395批：零跑B01申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/20441828",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img6.donews.com/img/2025/06/30/img_pic_861751251025.jpeg"
 }

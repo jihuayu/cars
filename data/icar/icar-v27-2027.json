@@ -1,7 +1,7 @@
 {
   "brand": "icar",
   "brand_name": "iCAR",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "iCAR V27（2026/2027款）",
   "model_slug": "icar-v27-2027",
   "category": "中大型方盒子增程SUV",
@@ -22,11 +22,12 @@
         "height_mm": 1894,
         "wheelbase_mm": 2910,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2117,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-220"
       },
       "performance": {
         "drive_type": "后驱",
@@ -38,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/安徽瑞露科技",
         "battery_capacity_kwh": 34.3,
         "cltc_pure_electric_range_km": 210,
         "cltc_combined_range_km": 1230,
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -73,18 +75,34 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "超纤绒麂皮顶棚",
           "price_rmb": 8000,
-          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         },
         {
           "name": "拖车套装",
           "price_rmb": 4000,
-          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         }
       ]
     },
@@ -100,11 +118,12 @@
         "height_mm": 1894,
         "wheelbase_mm": 2910,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2117,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-220"
       },
       "performance": {
         "drive_type": "四驱",
@@ -116,7 +135,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/安徽瑞露科技",
         "battery_capacity_kwh": 34.3,
         "cltc_pure_electric_range_km": 200,
         "cltc_combined_range_km": 1200,
@@ -124,10 +143,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -151,18 +171,34 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "超纤绒麂皮顶棚",
           "price_rmb": 8000,
-          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         },
         {
           "name": "拖车套装",
           "price_rmb": 4000,
-          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         }
       ]
     },
@@ -178,11 +214,12 @@
         "height_mm": 1894,
         "wheelbase_mm": 2910,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2117,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-220"
       },
       "performance": {
         "drive_type": "四驱",
@@ -194,7 +231,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/安徽瑞露科技",
         "battery_capacity_kwh": 34.3,
         "cltc_pure_electric_range_km": 200,
         "cltc_combined_range_km": 1200,
@@ -202,10 +239,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -229,18 +267,34 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "超纤绒麂皮顶棚",
           "price_rmb": 8000,
-          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         },
         {
           "name": "拖车套装",
           "price_rmb": 4000,
-          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         }
       ]
     },
@@ -256,11 +310,12 @@
         "height_mm": 1894,
         "wheelbase_mm": 2910,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2117,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-220"
       },
       "performance": {
         "drive_type": "四驱",
@@ -272,7 +327,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/安徽瑞露科技",
         "battery_capacity_kwh": 51.2,
         "cltc_pure_electric_range_km": 300,
         "cltc_combined_range_km": 1300,
@@ -280,10 +335,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -307,18 +363,34 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "超纤绒麂皮顶棚",
           "price_rmb": 8000,
-          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         },
         {
           "name": "拖车套装",
           "price_rmb": 4000,
-          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         }
       ]
     },
@@ -334,11 +406,12 @@
         "height_mm": 1894,
         "wheelbase_mm": 2910,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2117,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-220"
       },
       "performance": {
         "drive_type": "四驱",
@@ -350,7 +423,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/安徽瑞露科技",
         "battery_capacity_kwh": 51.2,
         "cltc_pure_electric_range_km": 300,
         "cltc_combined_range_km": 1300,
@@ -358,10 +431,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -385,21 +459,67 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "超纤绒麂皮顶棚",
           "price_rmb": 8000,
-          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）"
+          "details": "座舱顶棚升级为超纤绒麂皮材质（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         },
         {
           "name": "拖车套装",
           "price_rmb": 4000,
-          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）"
+          "details": "四驱版可选装，含1.6T拖挂资质、牵引拖车钩及拖车电源取电口（上市限时权益期曾免费赠送）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期曾免费赠送",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://www.icarglobal.com/images/carV27/v27-01-bkg-mb.webp"
+  "image_url": "https://www.icarglobal.com/images/carV27/v27-01-bkg-mb.webp",
+  "promo_highlights": [
+    "截至2026年11月30日享超级置换2000元抵12000元、3年0息/5年低息",
+    "全系免费送超纤绒麂皮顶+23扬爱乐之声音响、赠原厂充电桩含安装"
+  ],
+  "miit_filing": {
+    "miit_batch": "第409批",
+    "product_model_code": "NEQ6460REEVS59DA",
+    "curb_weight_kg": 2117,
+    "gross_weight_kg": 2520,
+    "approach_departure_deg": "28/24",
+    "battery_supplier": "合肥国轩高科/安徽瑞露科技"
+  },
+  "references": [
+    {
+      "title": "iCAR iCAR V27（2026/2027款） 官方配置页 (www.icarglobal.com)",
+      "url": "https://www.icarglobal.com/zh/carview/iCARV27/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第409批：iCAR V27增程版申报参数",
+      "url": "https://db.m.auto.sohu.com/model_7087/a/1049792814_122014422",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2025/11/27/11/b3e9adbf4f80499fbf886e3221be0612.jpg!jpg"
 }

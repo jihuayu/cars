@@ -1,7 +1,7 @@
 {
   "brand": "geely-galaxy",
   "brand_name": "吉利银河",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "吉利银河E5（2027款）",
   "model_slug": "galaxy-e5-2027",
   "category": "紧凑型纯电SUV",
@@ -23,7 +23,7 @@
         "height_mm": 1670,
         "wheelbase_mm": 2750,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1730-1778",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 400,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科",
         "battery_capacity_kwh": 60.22,
         "cltc_pure_electric_range_km": 530,
         "cltc_combined_range_km": 530,
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -74,13 +75,24 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
           "price_rmb": "2000 / 2000",
-          "details": "安全与内饰选装"
+          "details": "安全与内饰选装",
+          "availability": "可选"
         }
       ]
     },
@@ -96,7 +108,7 @@
         "height_mm": 1670,
         "wheelbase_mm": 2745,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1730-1778",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -112,7 +124,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科",
         "battery_capacity_kwh": 61.52,
         "cltc_pure_electric_range_km": 550,
         "cltc_combined_range_km": 550,
@@ -120,10 +132,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 8.4min(6C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -147,13 +160,24 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
           "price_rmb": "2000 / 2000",
-          "details": "安全与内饰选装"
+          "details": "安全与内饰选装",
+          "availability": "可选"
         }
       ]
     },
@@ -169,7 +193,7 @@
         "height_mm": 1670,
         "wheelbase_mm": 2745,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1730-1778",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -185,7 +209,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科",
         "battery_capacity_kwh": 61.52,
         "cltc_pure_electric_range_km": 550,
         "cltc_combined_range_km": 550,
@@ -193,10 +217,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 8.4min(6C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -220,13 +245,24 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
           "price_rmb": "2000 / 2000",
-          "details": "安全与内饰选装"
+          "details": "安全与内饰选装",
+          "availability": "可选"
         }
       ]
     },
@@ -242,7 +278,7 @@
         "height_mm": 1670,
         "wheelbase_mm": 2745,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1730-1778",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -258,7 +294,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科",
         "battery_capacity_kwh": 70.01,
         "cltc_pure_electric_range_km": 635,
         "cltc_combined_range_km": 635,
@@ -266,10 +302,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 8.4min(6C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -293,13 +330,24 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
           "price_rmb": "2000 / 2000",
-          "details": "安全与内饰选装"
+          "details": "安全与内饰选装",
+          "availability": "可选"
         }
       ]
     },
@@ -315,7 +363,7 @@
         "height_mm": 1670,
         "wheelbase_mm": 2745,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1730-1778",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -331,7 +379,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科",
         "battery_capacity_kwh": 61.52,
         "cltc_pure_electric_range_km": 550,
         "cltc_combined_range_km": 550,
@@ -339,10 +387,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 8.4min(6C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -366,13 +415,24 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
           "price_rmb": "2000 / 2000",
-          "details": "安全与内饰选装"
+          "details": "安全与内饰选装",
+          "availability": "可选"
         }
       ]
     },
@@ -388,7 +448,7 @@
         "height_mm": 1670,
         "wheelbase_mm": 2745,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1730-1778",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -404,7 +464,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科",
         "battery_capacity_kwh": 70.01,
         "cltc_pure_electric_range_km": 635,
         "cltc_combined_range_km": 635,
@@ -412,10 +472,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 8.4min(6C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -439,16 +500,65 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BMXS爆胎稳行系统 / 生态麂皮套装",
           "price_rmb": "2000 / 2000",
-          "details": "安全与内饰选装"
+          "details": "安全与内饰选装",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/E5/newE5/2026/kv/1030pc.jpg"
+  "image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/E5/newE5/2026/kv/1030pc.jpg",
+  "promo_highlights": [
+    "2027款上市限时权益价10.78-13.78万元（含6000元购置税补贴+4000元保险补贴）",
+    "限时免费享价值12800元23扬Flyme Sound音响+8000元CCD悬架+2000元爆胎稳行",
+    "限时免费享价值25000元终身领航辅助驾驶功能服务"
+  ],
+  "miit_filing": {
+    "miit_batch": "第395批",
+    "product_model_code": "MR6461BEV103",
+    "curb_weight_kg": "1730-1778",
+    "gross_weight_kg": 2191,
+    "approach_departure_deg": null,
+    "battery_supplier": "合肥国轩高科"
+  },
+  "references": [
+    {
+      "title": "吉利银河 吉利银河E5（2027款） 官方配置页 (galaxy.geely.com)",
+      "url": "https://galaxy.geely.com/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "吉利银河 吉利银河E5（2027款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7650.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第395批：吉利银河E5申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/20440107",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2024/05/09/dec72202405092158462385.jpg"
 }

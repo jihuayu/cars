@@ -19,8 +19,10 @@ DATA_DIR = REPO_ROOT / "data"
 ROOT_INDEX = REPO_ROOT / "index.json"
 CATALOG_FILE = REPO_ROOT / "catalog.json"
 README_FILE = REPO_ROOT / "README.md"
+SOURCES_FILE = DATA_DIR / "sources.json"
 
 BRAND_ORDER = [
+    # 国产新能源 (27)
     ("lixiang", "理想汽车"),
     ("xiaopeng", "小鹏汽车"),
     ("avatr", "阿维塔"),
@@ -48,7 +50,26 @@ BRAND_ORDER = [
     ("arcfox", "极狐"),
     ("wey", "魏牌"),
     ("tank", "坦克新能源"),
+    # 中国大陆在售外资/合资新能源 (13)
+    ("tesla", "特斯拉"),
+    ("bmw", "宝马新能源"),
+    ("mercedes", "奔驰新能源"),
+    ("audi", "奥迪新能源"),
+    ("porsche", "保时捷新能源"),
+    ("volvo", "沃尔沃/极星"),
+    ("volkswagen", "大众新能源"),
+    ("toyota", "丰田新能源"),
+    ("honda", "本田新能源"),
+    ("nissan", "日产新能源"),
+    ("gm", "通用新能源"),
+    ("smart", "smart"),
+    ("joint-other", "马自达/福特/雷克萨斯"),
 ]
+
+FOREIGN_BRANDS = {
+    "tesla", "bmw", "mercedes", "audi", "porsche", "volvo",
+    "volkswagen", "toyota", "honda", "nissan", "gm", "smart", "joint-other",
+}
 
 REQUIRED_MODEL_KEYS = {"brand", "brand_name", "model", "model_slug", "data_as_of", "skus"}
 REQUIRED_SKU_KEYS = {
@@ -65,6 +86,19 @@ REQUIRED_SKU_KEYS = {
     "options",
 }
 VALID_POWERTRAINS = {"BEV", "REEV", "PHEV", None}
+
+
+def is_affirmative(val) -> bool:
+    if val is True:
+        return True
+    if val in (None, False, "", 0):
+        return False
+    s = str(val).strip()
+    if not s or s in ("无", "不支持", "未知", "手动调节", "—", "-"):
+        return False
+    if s.startswith("不支持") or s.startswith("无（") or s.startswith("无("):
+        return False
+    return True
 
 
 def validate_model_file(path: Path, expected_brand: str, seen_sku_ids: set[str]) -> tuple[dict, list[str]]:
@@ -119,15 +153,16 @@ def validate_model_file(path: Path, expected_brand: str, seen_sku_ids: set[str])
 def build_readme_stats_block(root_index: dict) -> str:
     lines = [
         "<!-- STATS:START -->",
-        f"共收录 **{root_index['total_brands']} 大品牌 / {root_index['total_models']} 款主力车型 / {root_index['total_skus']} 个在售 SKU**（数据更新日期：**{root_index['data_as_of']}**，外观图与选装明细 100% 覆盖），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。",
+        f"共收录 **{root_index['total_brands']} 大品牌（国产 27 + 合资/外资 13） / {root_index['total_models']} 款在售主力车型 / {root_index['total_skus']} 个 SKU**（数据更新日期：**{root_index['data_as_of']}**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。",
         "",
-        "| 厂商目录 | 品牌 | 车型数 | SKU 数 | 品牌索引 |",
-        "| :--- | :--- | ---: | ---: | :--- |",
+        "| 厂商目录 | 品牌 | 产地类型 | 车型数 | SKU 数 | 品牌索引 |",
+        "| :--- | :--- | :--- | ---: | ---: | :--- |",
     ]
     for b in root_index["brands"]:
         slug = b["brand"]
+        origin = "合资/外资" if slug in FOREIGN_BRANDS else "国产"
         lines.append(
-            f"| `data/{slug}/` | {b['brand_name']} | {b['model_count']} | {b['sku_count']} | [`data/{slug}/index.json`](./data/{slug}/index.json) |"
+            f"| `data/{slug}/` | {b['brand_name']} | {origin} | {b['model_count']} | {b['sku_count']} | [`data/{slug}/index.json`](./data/{slug}/index.json) |"
         )
     lines.append("<!-- STATS:END -->")
     return "\n".join(lines)
@@ -140,7 +175,7 @@ def main() -> int:
 
     all_errors: list[str] = []
     seen_sku_ids: set[str] = set()
-    latest_date = "2026-11-26"
+    latest_date = "2026-11-27"
 
     brand_dirs = {p.name for p in DATA_DIR.iterdir() if p.is_dir()} if DATA_DIR.exists() else set()
     ordered_brands = list(BRAND_ORDER)
@@ -170,6 +205,7 @@ def main() -> int:
         models_summary = []
         brand_skus = 0
         resolved_brand_name = brand_cn
+        origin_type = "合资/外资" if brand_slug in FOREIGN_BRANDS else "国产"
 
         for mf in model_files:
             data, errs = validate_model_file(mf, brand_slug, seen_sku_ids)
@@ -201,23 +237,111 @@ def main() -> int:
                 for o in (s.get("options") or [])
                 if isinstance(o, dict) and o.get("name")
             }
+
+            # Rich filter facets
+            chem_set: set[str] = set()
+            v2ls: list[float] = []
+            gc_val = None
+            has_air = False
+            has_cdc = False
+            has_rws = False
+            has_rear_screen = False
+            has_220v = False
+            has_swap = False
+            has_zg = False
+            has_massage = False
+            has_cushion_massage = False
+            has_stream_in = False
+            has_cms_out = False
+
+            for s in skus:
+                bc = s.get("battery_and_charging") or {}
+                ch = s.get("chassis") or {}
+                ck = s.get("cockpit") or {}
+                dm = s.get("dimensions") or {}
+
+                if gc_val is None and dm.get("ground_clearance_mm") not in (None, ""):
+                    gc_val = dm["ground_clearance_mm"]
+
+                chem = str(bc.get("battery_chemistry") or bc.get("battery_type") or "")
+                if "磷酸铁锂" in chem or "刀片" in chem or "金砖" in chem or "短刀" in chem:
+                    chem_set.add("磷酸铁锂")
+                if "三元锂" in chem or "麒麟" in chem:
+                    chem_set.add("三元锂")
+
+                v2l = bc.get("v2l_power_kw")
+                if isinstance(v2l, (int, float)) and v2l > 0:
+                    v2ls.append(float(v2l))
+                if bc.get("battery_swap_supported") is True:
+                    has_swap = True
+
+                if is_affirmative(ch.get("air_suspension")):
+                    has_air = True
+                if is_affirmative(ch.get("cdc")):
+                    has_cdc = True
+                if is_affirmative(ch.get("rear_wheel_steering")):
+                    has_rws = True
+
+                if is_affirmative(ck.get("rear_screen")):
+                    has_rear_screen = True
+                if is_affirmative(ck.get("power_220v")):
+                    has_220v = True
+                if is_affirmative(ck.get("zero_gravity_seat")):
+                    has_zg = True
+                msg_txt = str(ck.get("seat_massage") or "")
+                if is_affirmative(msg_txt):
+                    has_massage = True
+                    if any(k in msg_txt for k in ("明确含座垫", "明确含靠背、坐垫", "明确含靠背及坐垫", "含4点臀部", "明确含座垫/臀部", "坐垫6点", "座垫6点")):
+                        has_cushion_massage = True
+                if is_affirmative(ck.get("streaming_interior_mirror")):
+                    has_stream_in = True
+                if is_affirmative(ck.get("streaming_exterior_mirrors")):
+                    has_cms_out = True
+
+            has_promo = bool(data.get("promo_highlights")) or any(
+                o.get("promo_price_rmb") is not None or o.get("promo_note")
+                for s in skus
+                for o in (s.get("options") or [])
+                if isinstance(o, dict)
+            )
+            has_miit = bool(data.get("miit_filing"))
+
             brand_skus += len(skus)
             entry = {
                 "brand": brand_slug,
                 "brand_name": resolved_brand_name,
+                "origin_type": data.get("origin_type") or origin_type,
                 "model": data["model"],
                 "model_slug": data["model_slug"],
                 "sub_brand": data.get("sub_brand"),
                 "category": data.get("category"),
                 "release_date": data.get("release_date"),
                 "image_url": data.get("image_url"),
+                "interior_image_url": data.get("interior_image_url"),
                 "powertrains": pts,
+                "battery_chemistries": sorted(chem_set),
                 "sku_count": len(skus),
                 "option_count": len(opt_names),
                 "price_min_rmb": min(prices) if prices else None,
                 "price_max_rmb": max(prices) if prices else None,
                 "best_zero_to_100_s": min(accs) if accs else None,
                 "max_cltc_ev_km": max(cltcs) if cltcs else None,
+                "ground_clearance_mm": gc_val,
+                "max_v2l_kw": max(v2ls) if v2ls else None,
+                "has_air_suspension": has_air,
+                "has_cdc": has_cdc,
+                "has_rws": has_rws,
+                "has_rear_screen": has_rear_screen,
+                "has_220v": has_220v,
+                "has_v2l": bool(v2ls),
+                "has_swap": has_swap,
+                "has_zero_gravity": has_zg,
+                "has_seat_massage": has_massage,
+                "has_cushion_massage": has_cushion_massage,
+                "has_streaming_mirror": has_stream_in,
+                "has_cms_mirrors": has_cms_out,
+                "has_promo": has_promo,
+                "has_miit": has_miit,
                 "file": f"data/{brand_slug}/{mf.name}",
                 "source_urls": data.get("source_urls", []),
             }
@@ -227,6 +351,7 @@ def main() -> int:
         brand_index = {
             "brand": brand_slug,
             "brand_name": resolved_brand_name,
+            "origin_type": origin_type,
             "data_as_of": latest_date,
             "model_count": len(models_summary),
             "sku_count": brand_skus,
@@ -241,11 +366,16 @@ def main() -> int:
             {
                 "brand": brand_slug,
                 "brand_name": resolved_brand_name,
+                "origin_type": origin_type,
                 "model_count": len(models_summary),
                 "sku_count": brand_skus,
                 "index_file": f"data/{brand_slug}/index.json",
             }
         )
+
+    miit_portals = []
+    if SOURCES_FILE.exists():
+        miit_portals = json.loads(SOURCES_FILE.read_text(encoding="utf-8")).get("miit_portals", [])
 
     root_index["data_as_of"] = latest_date
     pending_writes.append((ROOT_INDEX, json.dumps(root_index, ensure_ascii=False, indent=2) + "\n"))
@@ -254,6 +384,7 @@ def main() -> int:
         "total_brands": root_index["total_brands"],
         "total_models": root_index["total_models"],
         "total_skus": root_index["total_skus"],
+        "miit_portals": miit_portals,
         "brands": root_index["brands"],
         "models": catalog_models,
     }

@@ -1,0 +1,144 @@
+{
+  "brand": "gm",
+  "brand_name": "通用新能源",
+  "model": "别克E5",
+  "model_slug": "buick-e5",
+  "origin_type": "合资/外资",
+  "category": "中大型纯电SUV",
+  "release_date": "2025-06-19",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://www.saicmotor.com/chinese/images/xwzx/xwk/2025/2025/6/20/047123866ED24635AE9A362672C426F4.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2025款官方一口价14.99万-16.99万(终端参考11.99万起)",
+    "零自燃1:1赔付+三电终身质保"
+  ],
+  "source_urls": [
+    "https://www.saicmotor.com/m/xwzx/xwk/2025/61959.shtml",
+    "https://car.autohome.com.cn/config/series/7043.html"
+  ],
+  "references": [
+    {
+      "title": "新别克纯电E5上市-上汽官网",
+      "url": "https://www.saicmotor.com/m/xwzx/xwk/2025/61959.shtml",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "别克E5参数配置-汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7043.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "buick-e5-545",
+      "sku_name": "2025款 545KM智享版",
+      "price_rmb": 179900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4892,
+        "width_mm": 1905,
+        "height_mm": 1683,
+        "wheelbase_mm": 2954,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2075
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": 7.5
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 68.4,
+        "cltc_pure_electric_range_km": 545,
+        "fast_charge_time": "28分钟(30-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "eCruise(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "30英寸6K一体屏",
+        "screens": "30英寸EYEMAX 6K",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "buick-e5-620",
+      "sku_name": "2025款 620KM尊享版",
+      "price_rmb": 189900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4892,
+        "width_mm": 1905,
+        "height_mm": 1683,
+        "wheelbase_mm": 2954,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 620,
+        "fast_charge_time": "19分钟(30-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "eCruise Pro(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "30英寸6K一体屏",
+        "screens": "30英寸EYEMAX 6K",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

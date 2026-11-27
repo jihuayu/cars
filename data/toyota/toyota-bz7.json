@@ -1,0 +1,149 @@
+{
+  "brand": "toyota",
+  "brand_name": "丰田新能源",
+  "model": "广汽丰田铂智7(bZ7)",
+  "model_slug": "toyota-bz7",
+  "origin_type": "合资/外资",
+  "category": "中大型纯电轿车",
+  "release_date": "2026-03-29",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://imgcdn.yzwb.net/fcapp_94674328-a977-49bc-961f-6497cc263957_1774788986437?imageMogr2/thumbnail/1080x%3E/strip/ignore-error/1|imageslim",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "限时补贴后14.78万-19.98万元",
+    "双腔空悬10年/30万公里质保"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7724.html"
+  ],
+  "references": [
+    {
+      "title": "铂智7参数配置-汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7724.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "bz7-700-max-lidar",
+      "sku_name": "2026款 700 Max激光雷达版",
+      "price_rmb": 209800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5130,
+        "width_mm": 1965,
+        "height_mm": 1506,
+        "wheelbase_mm": 3020,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2235
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 207,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 88.13,
+        "cltc_pure_electric_range_km": 700,
+        "fast_charge_time": "24分钟(30-80%)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "选装双腔空悬(15000元)",
+        "cdc": "选装",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "Momenta R6(高速/城区NOA)"
+      },
+      "cockpit": {
+        "instrument_cluster": "8.8英寸液晶",
+        "screens": "15.6英寸2.5K(鸿蒙座舱5)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前后排加热/通风",
+        "seat_massage": "标配",
+        "zero_gravity_seat": "副驾零重力",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "双腔空悬",
+          "price_rmb": 15000,
+          "promo_price_rmb": null,
+          "details": "智能预瞄双腔空悬"
+        },
+        {
+          "name": "车载冰箱",
+          "price_rmb": 2000,
+          "promo_price_rmb": null,
+          "details": "冷暖冰箱"
+        }
+      ]
+    },
+    {
+      "sku_id": "bz7-710-ultra-lidar",
+      "sku_name": "2026款 710 Ultra激光雷达版",
+      "price_rmb": 229800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5130,
+        "width_mm": 1965,
+        "height_mm": 1491,
+        "wheelbase_mm": 3020,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2255
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 207,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 88.13,
+        "cltc_pure_electric_range_km": 710,
+        "fast_charge_time": "24分钟(30-80%)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "标配双腔空悬",
+        "cdc": "标配(智能预瞄)",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "Momenta R6(高速/城区NOA)"
+      },
+      "cockpit": {
+        "instrument_cluster": "8.8英寸液晶+27英寸HUD",
+        "screens": "15.6英寸2.5K(鸿蒙座舱5)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前后排加热/通风",
+        "seat_massage": "标配",
+        "zero_gravity_seat": "副驾零重力",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

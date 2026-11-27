@@ -1,21 +1,27 @@
 {
   "brand": "lynkco",
   "brand_name": "领克新能源",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 3,
   "sku_count": 13,
   "models": [
     {
       "brand": "lynkco",
       "brand_name": "领克新能源",
+      "origin_type": "国产",
       "model": "领克900（2025/2026款）",
       "model_slug": "lynkco-900-2026",
       "sub_brand": null,
       "category": "全尺寸旗舰插混SUV（5/6座）",
       "release_date": "2025-04-28",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Lynk_%26_Co_900_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/01/900.jpg",
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 7,
       "option_count": 1,
@@ -23,6 +29,22 @@
       "price_max_rmb": 416900,
       "best_zero_to_100_s": 4.3,
       "max_cltc_ev_km": 280,
+      "ground_clearance_mm": 194,
+      "max_v2l_kw": 6.6,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/lynkco/lynkco-900-2026.json",
       "source_urls": [
         "https://www.lynkco.com.cn/cars/900/900-configurator"
@@ -31,14 +53,19 @@
     {
       "brand": "lynkco",
       "brand_name": "领克新能源",
+      "origin_type": "国产",
       "model": "领克Z10（2025款）",
       "model_slug": "lynkco-z10-2025",
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2024-12-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": "https://pic.motortime.com/Uploadfile/Picture/2a/4f/2a4f88419ff1f905dcb3043e0d19d380.jpg",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 1,
       "option_count": 2,
@@ -46,6 +73,22 @@
       "price_max_rmb": 229800,
       "best_zero_to_100_s": 3.5,
       "max_cltc_ev_km": 702,
+      "ground_clearance_mm": 129,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/lynkco/lynkco-z10-2025.json",
       "source_urls": [
         "https://www.lynkco.com.cn/cars/model-config",
@@ -55,14 +98,19 @@
     {
       "brand": "lynkco",
       "brand_name": "领克新能源",
+      "origin_type": "国产",
       "model": "领克Z20 / 领克20（2027款）",
       "model_slug": "lynkco-z20-2027",
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2026-09-28",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Lynk_%26_Co_Z20_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 5,
       "option_count": 1,
@@ -70,6 +118,22 @@
       "price_max_rmb": 163800,
       "best_zero_to_100_s": 6.4,
       "max_cltc_ev_km": 630,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/lynkco/lynkco-z20-2027.json",
       "source_urls": [
         "https://www.lynkco.com.cn/cars/model-config"

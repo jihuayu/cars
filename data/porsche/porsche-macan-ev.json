@@ -1,0 +1,156 @@
+{
+  "brand": "porsche",
+  "brand_name": "保时捷新能源",
+  "model": "保时捷纯电Macan",
+  "model_slug": "porsche-macan-ev",
+  "origin_type": "合资/外资",
+  "category": "中型纯电SUV",
+  "release_date": "2025-10-14",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://q4.itc.cn/images01/20251015/07a6729c3679404d88533250f4e0898e.jpeg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款下调柏林之声(34800元)及后桥转向(13500元)等选装价格"
+  ],
+  "source_urls": [
+    "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-electric/",
+    "https://db.m.auto.sohu.com/model_7320/a/944080986_430526"
+  ],
+  "references": [
+    {
+      "title": "保时捷中国 Macan Electric官网",
+      "url": "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-electric/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "搜狐汽车 2026款纯电Macan上市",
+      "url": "https://db.m.auto.sohu.com/model_7320/a/944080986_430526",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "porsche-macan-ev-2026-lr",
+      "sku_name": "2026款 Macan 长续航版",
+      "price_rmb": 598000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4784,
+        "width_mm": 1938,
+        "height_mm": 1622,
+        "wheelbase_mm": 2893,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 265,
+        "motor_torque_nm": 563,
+        "zero_to_100_s": 5.7
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 702,
+        "fast_charge_time": "21min(10-80%,>270kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "选配",
+        "cdc": "选配(PASM)",
+        "rear_wheel_steering": "选配(13500元)"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "自适应巡航选配(10000元)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸仪表+HUD",
+        "screens": "10.9英寸中控+10.9英寸副驾屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排通风按摩选配(17100元)",
+        "seat_massage": "选配(17100元)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "后桥转向",
+          "price_rmb": 13500,
+          "promo_price_rmb": null,
+          "details": "后轮转向"
+        },
+        {
+          "name": "柏林之声音响",
+          "price_rmb": 34800,
+          "promo_price_rmb": null,
+          "details": "21扬声器音响"
+        }
+      ]
+    },
+    {
+      "sku_id": "porsche-macan-ev-2026-turbo",
+      "sku_name": "2026款 Macan Turbo",
+      "price_rmb": 968000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4784,
+        "width_mm": 1938,
+        "height_mm": 1621,
+        "wheelbase_mm": 2893,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 470,
+        "motor_torque_nm": 1130,
+        "zero_to_100_s": 3.3
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 683,
+        "fast_charge_time": "21min(10-80%,>270kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "未知",
+        "cdc": "未知",
+        "rear_wheel_steering": "选配(13500元)"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "自适应巡航选配(10000元)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸仪表+HUD",
+        "screens": "10.9英寸中控+10.9英寸副驾屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "选配(17100元)",
+        "seat_massage": "选配",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

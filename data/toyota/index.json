@@ -1,0 +1,186 @@
+{
+  "brand": "toyota",
+  "brand_name": "丰田新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 4,
+  "sku_count": 8,
+  "models": [
+    {
+      "brand": "toyota",
+      "brand_name": "丰田新能源",
+      "origin_type": "合资/外资",
+      "model": "一汽丰田bZ3",
+      "model_slug": "toyota-bz3",
+      "sub_brand": null,
+      "category": "中型纯电轿车",
+      "release_date": "2025-12-31",
+      "image_url": "https://i2.dd-img.com/content/editor/695cea2b91968.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 129800,
+      "price_max_rmb": 159800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 600,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/toyota/toyota-bz3.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6903.html"
+      ]
+    },
+    {
+      "brand": "toyota",
+      "brand_name": "丰田新能源",
+      "origin_type": "合资/外资",
+      "model": "广汽丰田铂智3X",
+      "model_slug": "toyota-bz3x",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2025-03-06",
+      "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2025/03/07/00/3a62a97247464800aa024cb3e23d8863.png!jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 149800,
+      "price_max_rmb": 159800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 610,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/toyota/toyota-bz3x.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7712.html"
+      ]
+    },
+    {
+      "brand": "toyota",
+      "brand_name": "丰田新能源",
+      "origin_type": "合资/外资",
+      "model": "一汽丰田bZ5",
+      "model_slug": "toyota-bz5",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2025-06-10",
+      "image_url": "https://i2.dd-img.com/content/editor/68484f077bf81.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 159800,
+      "price_max_rmb": 179800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 630,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/toyota/toyota-bz5.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7713.html"
+      ]
+    },
+    {
+      "brand": "toyota",
+      "brand_name": "丰田新能源",
+      "origin_type": "合资/外资",
+      "model": "广汽丰田铂智7(bZ7)",
+      "model_slug": "toyota-bz7",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2026-03-29",
+      "image_url": "https://imgcdn.yzwb.net/fcapp_94674328-a977-49bc-961f-6497cc263957_1774788986437?imageMogr2/thumbnail/1080x%3E/strip/ignore-error/1|imageslim",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 2,
+      "price_min_rmb": 209800,
+      "price_max_rmb": 229800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 710,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/toyota/toyota-bz7.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7724.html"
+      ]
+    }
+  ]
+}

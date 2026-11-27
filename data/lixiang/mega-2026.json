@@ -1,7 +1,7 @@
 {
   "brand": "lixiang",
   "brand_name": "理想汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "新一代理想MEGA",
   "model_slug": "mega-2026",
   "category": "科技旗舰纯电MPV",
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "三元锂5C超充电池",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达/宁德时代/山东理想汽车电池",
         "battery_capacity_kwh": 108.0,
         "cltc_pure_electric_range_km": 710,
         "cltc_combined_range_km": 710,
@@ -47,10 +47,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": null,
         "fast_charge_time": "10分钟补能500km",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -74,21 +75,66 @@
         "hud": null,
         "audio": "5440W 9.3.6星环剧院音响",
         "fridge": "标配冷暖冰箱",
-        "seat_features": "标配一排双零重力+二排悬浮座垫旋转零重力座椅+双电动桌板"
+        "seat_features": "标配一排双零重力+二排悬浮座垫旋转零重力座椅+双电动桌板",
+        "rear_screen": "标配 21英寸4K OLED移动屏",
+        "instrument_cluster": "HUD无传统仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排18点热石揉捏按摩(背部12点+座垫6点，明确含座垫/臀部)",
+        "zero_gravity_seat": "标配(前排+二排)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆（新大象灰）",
           "price_rmb": 10000,
-          "details": "其余4色全免费"
+          "details": "其余4色全免费",
+          "availability": "可选"
         },
         {
           "name": "270°电动变色玻璃",
           "price_rmb": 15000,
-          "details": "全车唯一配置选装项"
+          "details": "全车唯一配置选装项",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/%28CHN-Shanghai%29_Private_Li_Mega_%E6%B2%AAAE013E1_2024-11-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/%28CHN-Shanghai%29_Private_Li_Mega_%E6%B2%AAAE013E1_2024-11-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [],
+  "miit_filing": {
+    "miit_batch": "第411批",
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": "15/15",
+    "battery_supplier": "欣旺达/宁德时代/山东理想汽车电池"
+  },
+  "references": [
+    {
+      "title": "理想汽车 新一代理想MEGA 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/news/186.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想汽车 新一代理想MEGA 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第411批公告：理想MEGA申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26420944",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img1.xcarimg.com/aikahao/e7/09/e709cad167ff046c9ada1dbb625f3159.jpeg-w852wm0.jpg"
 }

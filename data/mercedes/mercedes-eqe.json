@@ -1,0 +1,143 @@
+{
+  "brand": "mercedes",
+  "brand_name": "奔驰新能源",
+  "model": "奔驰EQE",
+  "model_slug": "mercedes-eqe",
+  "origin_type": "合资/外资",
+  "category": "中大型纯电轿车",
+  "release_date": "2025-11-26",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考优惠最高约23.9万元（参考价23.90万-38.70万元起）"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/6640.html",
+    "https://price.pcauto.com.cn/s50257/config.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 奔驰EQE参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/6640.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "太平洋汽车 2026款奔驰EQE参配",
+      "url": "https://price.pcauto.com.cn/s50257/config.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "mercedes-eqe-2026-500-luxury",
+      "sku_name": "2026款 500 4MATIC 豪华版",
+      "price_rmb": 496000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4969,
+        "width_mm": 1906,
+        "height_mm": 1514,
+        "wheelbase_mm": 3120,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2515
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 858,
+        "zero_to_100_s": 4.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 96.1,
+        "cltc_pure_electric_range_km": 681,
+        "fast_charge_time": "0.62h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "未知",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2+级智驾Max"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "12.8英寸OLED中控屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热标配，通风选配",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "mercedes-eqe-2026-500-flagship",
+      "sku_name": "2026款 500 4MATIC 旗舰版",
+      "price_rmb": 627000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4969,
+        "width_mm": 1906,
+        "height_mm": 1514,
+        "wheelbase_mm": 3120,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2515
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 858,
+        "zero_to_100_s": 4.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 96.1,
+        "cltc_pure_electric_range_km": 681,
+        "fast_charge_time": "0.62h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "未知",
+        "cdc": "未知",
+        "rear_wheel_steering": "标配(最小转弯半径5.35m)"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2+级智驾Max"
+      },
+      "cockpit": {
+        "instrument_cluster": "MBUX超联屏+HUD",
+        "screens": "1.41米MBUX超联屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

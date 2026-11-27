@@ -1,0 +1,135 @@
+{
+  "brand": "audi",
+  "brand_name": "奥迪新能源",
+  "model": "AUDI E5 Sportback",
+  "model_slug": "audi-e5-sportback",
+  "origin_type": "合资/外资",
+  "category": "中型纯电旅行车",
+  "release_date": "2025-09-16",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://k.sinaimg.cn/n/sinakd20250818s/82/w1250h1232/20250818/99e9-c9060d6e241c8761a91756d49b3299f0.jpg/w700d1q75cms.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考优惠约2.0万-3.0万元（参考价20.59万-28.99万元起）"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7925.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 奥迪E5 Sportback参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7925.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "audi-e5-sb-2026-pioneer-plus",
+      "sku_name": "2026款 先锋Plus型",
+      "price_rmb": 269900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4881,
+        "width_mm": 1960,
+        "height_mm": 1479,
+        "wheelbase_mm": 2950,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 500,
+        "zero_to_100_s": 5.0
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 773,
+        "fast_charge_time": "0.28h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-X",
+        "lidar": "1颗激光雷达",
+        "system": "Momenta EBM端到端NOA"
+      },
+      "cockpit": {
+        "instrument_cluster": "59英寸贯穿大屏",
+        "screens": "59英寸贯穿大屏(8295)",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "支持电子外后视镜"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "audi-e5-sb-2026-flagship-quattro",
+      "sku_name": "2026款 旗舰quattro型",
+      "price_rmb": 319900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4881,
+        "width_mm": 1960,
+        "height_mm": 1479,
+        "wheelbase_mm": 2950,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 579,
+        "motor_torque_nm": 800,
+        "zero_to_100_s": 3.4
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 647,
+        "fast_charge_time": "0.28h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配",
+        "cdc": "标配",
+        "rear_wheel_steering": "标配"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-X",
+        "lidar": "1颗激光雷达",
+        "system": "Momenta EBM端到端NOA"
+      },
+      "cockpit": {
+        "instrument_cluster": "59英寸贯穿大屏",
+        "screens": "59英寸贯穿大屏(8295)",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "支持电子外后视镜"
+      },
+      "options": []
+    }
+  ]
+}

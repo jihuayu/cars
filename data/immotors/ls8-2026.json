@@ -1,7 +1,7 @@
 {
   "brand": "immotors",
   "brand_name": "智己汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "智己LS8（超级增程 / NEO纯电）",
   "model_slug": "ls8-2026",
   "category": "中大型5/6座SUV",
@@ -22,7 +22,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2460,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.85,
@@ -49,7 +49,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -73,33 +74,50 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "副驾零重力+4D机械按摩"
+        "seat_features": "副驾零重力+4D机械按摩",
+        "rear_screen": "高配标配/选装 21.5英寸4K二排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排仅靠背按摩(官方明确不含座垫)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "21.5英寸4K二排吸顶屏 / 拖车钩 / 轮毂车漆",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "主驾座椅靠背4D机械按摩",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智控地暖系统",
           "price_rmb": 10800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -115,7 +133,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2460,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.85,
@@ -142,7 +160,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -166,33 +185,50 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "副驾零重力+4D机械按摩"
+        "seat_features": "副驾零重力+4D机械按摩",
+        "rear_screen": "高配标配/选装 21.5英寸4K二排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排仅靠背按摩(官方明确不含座垫)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "21.5英寸4K二排吸顶屏 / 拖车钩 / 轮毂车漆",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "主驾座椅靠背4D机械按摩",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智控地暖系统",
           "price_rmb": 10800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -208,7 +244,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2460,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.85,
@@ -235,7 +271,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -259,33 +296,50 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "副驾零重力+4D机械按摩"
+        "seat_features": "副驾零重力+4D机械按摩",
+        "rear_screen": "高配标配/选装 21.5英寸4K二排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排仅靠背按摩(官方明确不含座垫)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "21.5英寸4K二排吸顶屏 / 拖车钩 / 轮毂车漆",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "主驾座椅靠背4D机械按摩",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智控地暖系统",
           "price_rmb": 10800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -301,7 +355,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2460,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.85,
@@ -328,7 +382,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -352,33 +407,50 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "副驾零重力+4D机械按摩"
+        "seat_features": "副驾零重力+4D机械按摩",
+        "rear_screen": "高配标配/选装 21.5英寸4K二排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排仅靠背按摩(官方明确不含座垫)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "21.5英寸4K二排吸顶屏 / 拖车钩 / 轮毂车漆",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "主驾座椅靠背4D机械按摩",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智控地暖系统",
           "price_rmb": 10800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -394,7 +466,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2460,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.85,
@@ -421,7 +493,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -445,33 +518,50 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "副驾零重力+4D机械按摩"
+        "seat_features": "副驾零重力+4D机械按摩",
+        "rear_screen": "高配标配/选装 21.5英寸4K二排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排仅靠背按摩(官方明确不含座垫)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "21.5英寸4K二排吸顶屏 / 拖车钩 / 轮毂车漆",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "主驾座椅靠背4D机械按摩",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智控地暖系统",
           "price_rmb": 10800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -487,7 +577,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2460,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.85,
@@ -514,7 +604,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -538,33 +629,50 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "副驾零重力+4D机械按摩"
+        "seat_features": "副驾零重力+4D机械按摩",
+        "rear_screen": "高配标配/选装 21.5英寸4K二排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排仅靠背按摩(官方明确不含座垫)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "21.5英寸4K二排吸顶屏 / 拖车钩 / 轮毂车漆",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "主驾座椅靠背4D机械按摩",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智控地暖系统",
           "price_rmb": 10800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -580,7 +688,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2460,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.85,
@@ -607,7 +715,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -631,33 +740,50 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "副驾零重力+4D机械按摩"
+        "seat_features": "副驾零重力+4D机械按摩",
+        "rear_screen": "高配标配/选装 21.5英寸4K二排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排仅靠背按摩(官方明确不含座垫)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "21.5英寸4K二排吸顶屏 / 拖车钩 / 轮毂车漆",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "主驾座椅靠背4D机械按摩",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智控地暖系统",
           "price_rmb": 10800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -673,7 +799,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2460,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.85,
@@ -700,7 +826,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -724,36 +851,83 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "副驾零重力+4D机械按摩"
+        "seat_features": "副驾零重力+4D机械按摩",
+        "rear_screen": "高配标配/选装 21.5英寸4K二排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排仅靠背按摩(官方明确不含座垫)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "21.5英寸4K二排吸顶屏 / 拖车钩 / 轮毂车漆",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "主驾座椅靠背4D机械按摩",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智控地暖系统",
           "price_rmb": 10800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://portal-static.immotors.com/images/portal/1793880843625%25407chkhg1l.jpg"
+  "image_url": "https://portal-static.immotors.com/images/portal/1793880843625%25407chkhg1l.jpg",
+  "promo_highlights": [
+    "智己LS8 NEO纯电上市权益价23.98万-25.98万元",
+    "增程版限时权益价23.98万元起（综合优惠至高2.2万元）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第408批",
+    "product_model_code": null,
+    "curb_weight_kg": 2460,
+    "gross_weight_kg": 2960,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "智己汽车 智己LS8（超级增程 / NEO纯电） 官方配置页 (www.immotors.com)",
+      "url": "https://www.immotors.com/website/news_detail/242",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第408批：智己LS8纯电版申报信息",
+      "url": "https://auto.ifeng.com/c/8trki3w6Me3",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img.rednet.cn/2026/03-27/87ed454c-0230-4358-bccb-6ed6dec48710.webp"
 }

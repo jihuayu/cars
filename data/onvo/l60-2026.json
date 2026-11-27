@@ -1,7 +1,7 @@
 {
   "brand": "onvo",
   "brand_name": "乐道",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "乐道L60（2026款）",
   "model_slug": "l60-2026",
   "category": "中型纯电SUV",
@@ -22,11 +22,12 @@
         "height_mm": 1616,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1955-1970",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后驱",
@@ -38,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 60,
         "cltc_pure_electric_range_km": 560,
         "cltc_combined_range_km": 560,
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -73,48 +75,66 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏；Ultra+标配/Pro与Max+选装 17.3英寸3K天空娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "HUD无仪表(13英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "85kWh电池包",
           "price_rmb": 29000,
-          "details": "长续航电池包"
+          "details": "长续航电池包",
+          "availability": "可选"
         },
         {
           "name": "后排舒享娱乐套装",
           "price_rmb": 12800,
-          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮圈 / Nappa豪华内饰",
           "price_rmb": "8000 / 6000",
-          "details": "Ultra+标配"
+          "details": "Ultra+标配",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月"
+          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "全域领航辅助（NOP+）订阅",
           "price_rmb": "380元/月",
-          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等"
+          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能"
+          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "标配"
         },
         {
           "name": "真皮座椅及真皮方向盘",
           "price_rmb": null,
-          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价"
+          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -130,11 +150,12 @@
         "height_mm": 1616,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1955-1970",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后驱",
@@ -146,7 +167,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 740,
         "cltc_combined_range_km": 740,
@@ -154,10 +175,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -181,48 +203,66 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏；Ultra+标配/Pro与Max+选装 17.3英寸3K天空娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "HUD无仪表(13英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "85kWh电池包",
           "price_rmb": 29000,
-          "details": "长续航电池包"
+          "details": "长续航电池包",
+          "availability": "可选"
         },
         {
           "name": "后排舒享娱乐套装",
           "price_rmb": 12800,
-          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮圈 / Nappa豪华内饰",
           "price_rmb": "8000 / 6000",
-          "details": "Ultra+标配"
+          "details": "Ultra+标配",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月"
+          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "全域领航辅助（NOP+）订阅",
           "price_rmb": "380元/月",
-          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等"
+          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能"
+          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "标配"
         },
         {
           "name": "真皮座椅及真皮方向盘",
           "price_rmb": null,
-          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价"
+          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -238,11 +278,12 @@
         "height_mm": 1616,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1955-1970",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后驱",
@@ -254,7 +295,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 60,
         "cltc_pure_electric_range_km": 555,
         "cltc_combined_range_km": 555,
@@ -262,10 +303,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -289,48 +331,66 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏；Ultra+标配/Pro与Max+选装 17.3英寸3K天空娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "HUD无仪表(13英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "85kWh电池包",
           "price_rmb": 29000,
-          "details": "长续航电池包"
+          "details": "长续航电池包",
+          "availability": "可选"
         },
         {
           "name": "后排舒享娱乐套装",
           "price_rmb": 12800,
-          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮圈 / Nappa豪华内饰",
           "price_rmb": "8000 / 6000",
-          "details": "Ultra+标配"
+          "details": "Ultra+标配",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月"
+          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "全域领航辅助（NOP+）订阅",
           "price_rmb": "380元/月",
-          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等"
+          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能"
+          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "标配"
         },
         {
           "name": "真皮座椅及真皮方向盘",
           "price_rmb": null,
-          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价"
+          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -346,11 +406,12 @@
         "height_mm": 1616,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1955-1970",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后驱",
@@ -362,7 +423,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 730,
         "cltc_combined_range_km": 730,
@@ -370,10 +431,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -397,48 +459,66 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏；Ultra+标配/Pro与Max+选装 17.3英寸3K天空娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "HUD无仪表(13英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "85kWh电池包",
           "price_rmb": 29000,
-          "details": "长续航电池包"
+          "details": "长续航电池包",
+          "availability": "可选"
         },
         {
           "name": "后排舒享娱乐套装",
           "price_rmb": 12800,
-          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮圈 / Nappa豪华内饰",
           "price_rmb": "8000 / 6000",
-          "details": "Ultra+标配"
+          "details": "Ultra+标配",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月"
+          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "全域领航辅助（NOP+）订阅",
           "price_rmb": "380元/月",
-          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等"
+          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能"
+          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "标配"
         },
         {
           "name": "真皮座椅及真皮方向盘",
           "price_rmb": null,
-          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价"
+          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -454,11 +534,12 @@
         "height_mm": 1616,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1955-1970",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -470,7 +551,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 60,
         "cltc_pure_electric_range_km": 525,
         "cltc_combined_range_km": 525,
@@ -478,10 +559,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -505,48 +587,66 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏；Ultra+标配/Pro与Max+选装 17.3英寸3K天空娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "HUD无仪表(13英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "85kWh电池包",
           "price_rmb": 29000,
-          "details": "长续航电池包"
+          "details": "长续航电池包",
+          "availability": "可选"
         },
         {
           "name": "后排舒享娱乐套装",
           "price_rmb": 12800,
-          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮圈 / Nappa豪华内饰",
           "price_rmb": "8000 / 6000",
-          "details": "Ultra+标配"
+          "details": "Ultra+标配",
+          "availability": "标配"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月"
+          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "全域领航辅助（NOP+）订阅",
           "price_rmb": "380元/月",
-          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等"
+          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能"
+          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "标配"
         },
         {
           "name": "真皮座椅及真皮方向盘",
           "price_rmb": null,
-          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价"
+          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价",
+          "availability": "标配"
         }
       ]
     },
@@ -562,11 +662,12 @@
         "height_mm": 1616,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1955-1970",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -578,7 +679,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 700,
         "cltc_combined_range_km": 700,
@@ -586,10 +687,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -613,51 +715,99 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏；Ultra+标配/Pro与Max+选装 17.3英寸3K天空娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "HUD无仪表(13英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "85kWh电池包",
           "price_rmb": 29000,
-          "details": "长续航电池包"
+          "details": "长续航电池包",
+          "availability": "可选"
         },
         {
           "name": "后排舒享娱乐套装",
           "price_rmb": 12800,
-          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板"
+          "details": "17.3英寸3K屏+遮阳帘+6L冷暖箱+小桌板",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮圈 / Nappa豪华内饰",
           "price_rmb": "8000 / 6000",
-          "details": "Ultra+标配"
+          "details": "Ultra+标配",
+          "availability": "标配"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月"
+          "details": "采用BaaS租电购车车价立减57,000元，月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "全域领航辅助（NOP+）订阅",
           "price_rmb": "380元/月",
-          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等"
+          "details": "在NOA基础上增加车位及常用区域点到点领航、全场景人机共驾、全国ETC通行、城区领航换电（PSP）等",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能"
+          "details": "包含红绿灯路口通行、环岛通行、开放路口通行、动态车道等功能",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（全系标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "标配"
         },
         {
           "name": "真皮座椅及真皮方向盘",
           "price_rmb": null,
-          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价"
+          "details": "配置表标注真皮方向盘及真皮座椅支持选装（Ultra+版标配Nappa主题豪华内饰套装），未公开单独选装价",
+          "availability": "标配"
         }
       ]
     }
   ],
-  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l60/g1.6/soo/highlights/highlights-carousel-02-desktop.jpg"
+  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l60/g1.6/soo/highlights/highlights-carousel-02-desktop.jpg",
+  "promo_highlights": [
+    "BaaS租电车价立减5.7万元（13.58万元起）",
+    "后排舒享娱乐套装限时10,000元（原价12,800元）"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1955-1970",
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "弗迪电池/宁德时代"
+  },
+  "references": [
+    {
+      "title": "乐道 乐道L60（2026款） 官方配置页 (configuration.onvo.cn)",
+      "url": "https://configuration.onvo.cn/index?model_code=L60&scene=office",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "乐道L60工信部申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/15457606",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

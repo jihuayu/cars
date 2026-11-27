@@ -1,7 +1,7 @@
 {
   "brand": "xiaopeng",
   "brand_name": "小鹏汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2026款小鹏MONA M03",
   "model_slug": "mona-m03-2026",
   "category": "紧凑型纯电掀背轿跑",
@@ -22,7 +22,7 @@
         "height_mm": 1445,
         "wheelbase_mm": 2815,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1675-1739",
         "trunk_volume_l": ">600（放倒>1600）",
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -38,7 +38,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂（IP68）",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池(重庆弗迪锂电池)",
         "battery_capacity_kwh": 51.8,
         "cltc_pure_electric_range_km": 540,
         "cltc_combined_range_km": 540,
@@ -49,7 +49,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊独立悬架",
@@ -73,38 +74,54 @@
         "hud": null,
         "audio": "9扬声器环绕音响",
         "fridge": null,
-        "seat_features": "标配人体工学座椅"
+        "seat_features": "标配人体工学座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "无传统仪表(中控屏集成显示)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排14点按摩(选装，明确含靠背8点+坐垫6点)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配(高配)/无(低配)",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "轮毂/轮胎升级套装",
           "price_rmb": 4000,
-          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎",
+          "availability": "可选"
         },
         {
           "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
           "price_rmb": 7999,
-          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI",
+          "availability": "可选"
         },
         {
           "name": "前排14点云朵按摩座椅",
           "price_rmb": 4000,
-          "details": "靠背8点+坐垫6点按摩"
+          "details": "靠背8点+坐垫6点按摩",
+          "availability": "可选"
         },
         {
           "name": "20扬声器高级定制音响",
           "price_rmb": 4000,
-          "details": "7.1.4声道含2头枕扬声器"
+          "details": "7.1.4声道含2头枕扬声器",
+          "availability": "可选"
         },
         {
           "name": "RNC主动降噪模块",
           "price_rmb": 600,
-          "details": "RNC主动降噪"
+          "details": "RNC主动降噪",
+          "availability": "可选"
         },
         {
           "name": "付费外观/座舱主题",
           "price_rmb": 2999,
-          "details": "罗兰紫/牛油果绿配色主题"
+          "details": "罗兰紫/牛油果绿配色主题",
+          "availability": "可选"
         }
       ]
     },
@@ -120,7 +137,7 @@
         "height_mm": 1445,
         "wheelbase_mm": 2815,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1675-1739",
         "trunk_volume_l": ">600（放倒>1600）",
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -136,7 +153,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂（IP68）",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池(重庆弗迪锂电池)",
         "battery_capacity_kwh": 62.2,
         "cltc_pure_electric_range_km": 640,
         "cltc_combined_range_km": 640,
@@ -147,7 +164,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊独立悬架",
@@ -171,38 +189,54 @@
         "hud": null,
         "audio": "9扬声器环绕音响",
         "fridge": null,
-        "seat_features": "标配人体工学座椅"
+        "seat_features": "标配人体工学座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "无传统仪表(中控屏集成显示)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排14点按摩(选装，明确含靠背8点+坐垫6点)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配(高配)/无(低配)",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "轮毂/轮胎升级套装",
           "price_rmb": 4000,
-          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎",
+          "availability": "可选"
         },
         {
           "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
           "price_rmb": 7999,
-          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI",
+          "availability": "可选"
         },
         {
           "name": "前排14点云朵按摩座椅",
           "price_rmb": 4000,
-          "details": "靠背8点+坐垫6点按摩"
+          "details": "靠背8点+坐垫6点按摩",
+          "availability": "可选"
         },
         {
           "name": "20扬声器高级定制音响",
           "price_rmb": 4000,
-          "details": "7.1.4声道含2头枕扬声器"
+          "details": "7.1.4声道含2头枕扬声器",
+          "availability": "可选"
         },
         {
           "name": "RNC主动降噪模块",
           "price_rmb": 600,
-          "details": "RNC主动降噪"
+          "details": "RNC主动降噪",
+          "availability": "可选"
         },
         {
           "name": "付费外观/座舱主题",
           "price_rmb": 2999,
-          "details": "罗兰紫/牛油果绿配色主题"
+          "details": "罗兰紫/牛油果绿配色主题",
+          "availability": "可选"
         }
       ]
     },
@@ -218,7 +252,7 @@
         "height_mm": 1445,
         "wheelbase_mm": 2815,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1675-1739",
         "trunk_volume_l": ">600（放倒>1600）",
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -234,7 +268,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂（IP68）",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池(重庆弗迪锂电池)",
         "battery_capacity_kwh": 51.8,
         "cltc_pure_electric_range_km": 510,
         "cltc_combined_range_km": 510,
@@ -245,7 +279,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊独立悬架",
@@ -269,38 +304,54 @@
         "hud": null,
         "audio": "9扬声器环绕音响",
         "fridge": null,
-        "seat_features": "标配人体工学座椅"
+        "seat_features": "标配人体工学座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "无传统仪表(中控屏集成显示)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排14点按摩(选装，明确含靠背8点+坐垫6点)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配(高配)/无(低配)",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "轮毂/轮胎升级套装",
           "price_rmb": 4000,
-          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎",
+          "availability": "可选"
         },
         {
           "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
           "price_rmb": 7999,
-          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI",
+          "availability": "可选"
         },
         {
           "name": "前排14点云朵按摩座椅",
           "price_rmb": 4000,
-          "details": "靠背8点+坐垫6点按摩"
+          "details": "靠背8点+坐垫6点按摩",
+          "availability": "可选"
         },
         {
           "name": "20扬声器高级定制音响",
           "price_rmb": 4000,
-          "details": "7.1.4声道含2头枕扬声器"
+          "details": "7.1.4声道含2头枕扬声器",
+          "availability": "可选"
         },
         {
           "name": "RNC主动降噪模块",
           "price_rmb": 600,
-          "details": "RNC主动降噪"
+          "details": "RNC主动降噪",
+          "availability": "可选"
         },
         {
           "name": "付费外观/座舱主题",
           "price_rmb": 2999,
-          "details": "罗兰紫/牛油果绿配色主题"
+          "details": "罗兰紫/牛油果绿配色主题",
+          "availability": "可选"
         }
       ]
     },
@@ -316,7 +367,7 @@
         "height_mm": 1445,
         "wheelbase_mm": 2815,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1675-1739",
         "trunk_volume_l": ">600（放倒>1600）",
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -332,7 +383,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂（IP68）",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池(重庆弗迪锂电池)",
         "battery_capacity_kwh": 61.6,
         "cltc_pure_electric_range_km": 610,
         "cltc_combined_range_km": 610,
@@ -343,7 +394,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊独立悬架",
@@ -367,38 +419,54 @@
         "hud": null,
         "audio": "9扬声器环绕音响",
         "fridge": null,
-        "seat_features": "标配人体工学座椅"
+        "seat_features": "标配人体工学座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "无传统仪表(中控屏集成显示)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排14点按摩(选装，明确含靠背8点+坐垫6点)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配(高配)/无(低配)",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "轮毂/轮胎升级套装",
           "price_rmb": 4000,
-          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎",
+          "availability": "可选"
         },
         {
           "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
           "price_rmb": 7999,
-          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI",
+          "availability": "可选"
         },
         {
           "name": "前排14点云朵按摩座椅",
           "price_rmb": 4000,
-          "details": "靠背8点+坐垫6点按摩"
+          "details": "靠背8点+坐垫6点按摩",
+          "availability": "可选"
         },
         {
           "name": "20扬声器高级定制音响",
           "price_rmb": 4000,
-          "details": "7.1.4声道含2头枕扬声器"
+          "details": "7.1.4声道含2头枕扬声器",
+          "availability": "可选"
         },
         {
           "name": "RNC主动降噪模块",
           "price_rmb": 600,
-          "details": "RNC主动降噪"
+          "details": "RNC主动降噪",
+          "availability": "可选"
         },
         {
           "name": "付费外观/座舱主题",
           "price_rmb": 2999,
-          "details": "罗兰紫/牛油果绿配色主题"
+          "details": "罗兰紫/牛油果绿配色主题",
+          "availability": "可选"
         }
       ]
     },
@@ -414,7 +482,7 @@
         "height_mm": 1445,
         "wheelbase_mm": 2815,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1675-1739",
         "trunk_volume_l": ">600（放倒>1600）",
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -430,7 +498,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂（IP68）",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池(重庆弗迪锂电池)",
         "battery_capacity_kwh": 51.8,
         "cltc_pure_electric_range_km": 510,
         "cltc_combined_range_km": 510,
@@ -441,7 +509,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊独立悬架",
@@ -465,38 +534,54 @@
         "hud": null,
         "audio": "9扬声器环绕音响",
         "fridge": null,
-        "seat_features": "标配人体工学座椅"
+        "seat_features": "标配人体工学座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "无传统仪表(中控屏集成显示)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排14点按摩(选装，明确含靠背8点+坐垫6点)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配(高配)/无(低配)",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "轮毂/轮胎升级套装",
           "price_rmb": 4000,
-          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎",
+          "availability": "可选"
         },
         {
           "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
           "price_rmb": 7999,
-          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI",
+          "availability": "可选"
         },
         {
           "name": "前排14点云朵按摩座椅",
           "price_rmb": 4000,
-          "details": "靠背8点+坐垫6点按摩"
+          "details": "靠背8点+坐垫6点按摩",
+          "availability": "可选"
         },
         {
           "name": "20扬声器高级定制音响",
           "price_rmb": 4000,
-          "details": "7.1.4声道含2头枕扬声器"
+          "details": "7.1.4声道含2头枕扬声器",
+          "availability": "可选"
         },
         {
           "name": "RNC主动降噪模块",
           "price_rmb": 600,
-          "details": "RNC主动降噪"
+          "details": "RNC主动降噪",
+          "availability": "可选"
         },
         {
           "name": "付费外观/座舱主题",
           "price_rmb": 2999,
-          "details": "罗兰紫/牛油果绿配色主题"
+          "details": "罗兰紫/牛油果绿配色主题",
+          "availability": "可选"
         }
       ]
     },
@@ -512,7 +597,7 @@
         "height_mm": 1445,
         "wheelbase_mm": 2815,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1675-1739",
         "trunk_volume_l": ">600（放倒>1600）",
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -528,7 +613,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂（IP68）",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池(重庆弗迪锂电池)",
         "battery_capacity_kwh": 61.6,
         "cltc_pure_electric_range_km": 610,
         "cltc_combined_range_km": 610,
@@ -539,7 +624,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊独立悬架",
@@ -563,41 +649,86 @@
         "hud": null,
         "audio": "9扬声器环绕音响",
         "fridge": null,
-        "seat_features": "标配人体工学座椅"
+        "seat_features": "标配人体工学座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "无传统仪表(中控屏集成显示)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排14点按摩(选装，明确含靠背8点+坐垫6点)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配(高配)/无(低配)",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "轮毂/轮胎升级套装",
           "price_rmb": 4000,
-          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎"
+          "details": "19英寸亮面/熏黑运动轮毂+235/40 R19米其林轮胎",
+          "availability": "可选"
         },
         {
           "name": "罗兰紫/牛油果绿/樱珞粉主题套装",
           "price_rmb": 7999,
-          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI"
+          "details": "19英寸五辐主题轮毂+Nappa真皮+定制UI",
+          "availability": "可选"
         },
         {
           "name": "前排14点云朵按摩座椅",
           "price_rmb": 4000,
-          "details": "靠背8点+坐垫6点按摩"
+          "details": "靠背8点+坐垫6点按摩",
+          "availability": "可选"
         },
         {
           "name": "20扬声器高级定制音响",
           "price_rmb": 4000,
-          "details": "7.1.4声道含2头枕扬声器"
+          "details": "7.1.4声道含2头枕扬声器",
+          "availability": "可选"
         },
         {
           "name": "RNC主动降噪模块",
           "price_rmb": 600,
-          "details": "RNC主动降噪"
+          "details": "RNC主动降噪",
+          "availability": "可选"
         },
         {
           "name": "付费外观/座舱主题",
           "price_rmb": 2999,
-          "details": "罗兰紫/牛油果绿配色主题"
+          "details": "罗兰紫/牛油果绿配色主题",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png"
+  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+  "promo_highlights": [
+    "2027年Q2前下订享小鹏图灵AI智驾终身免费权益"
+  ],
+  "miit_filing": {
+    "miit_batch": "第388批",
+    "product_model_code": "NHQ7000BEVLC",
+    "curb_weight_kg": "1675-1739",
+    "gross_weight_kg": 2114,
+    "approach_departure_deg": "12/17",
+    "battery_supplier": "弗迪电池(重庆弗迪锂电池)"
+  },
+  "references": [
+    {
+      "title": "小鹏汽车 2026款小鹏MONA M03 官方配置页 (www.xiaopeng.com)",
+      "url": "https://www.xiaopeng.com/m03_2026/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第388批：小鹏MONA M03申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/17435651",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

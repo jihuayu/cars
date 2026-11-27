@@ -1,0 +1,187 @@
+{
+  "brand": "audi",
+  "brand_name": "奥迪新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 4,
+  "sku_count": 8,
+  "models": [
+    {
+      "brand": "audi",
+      "brand_name": "奥迪新能源",
+      "origin_type": "合资/外资",
+      "model": "奥迪A6L e-tron",
+      "model_slug": "audi-a6l-etron",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2026-04-10",
+      "image_url": "https://x0.ifengimg.com/res/2026/9AC99BCAB292A220D4CC65C2F3BE72FC4A557D26_size149_w800_h1066.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 349800,
+      "price_max_rmb": 439800,
+      "best_zero_to_100_s": 4.3,
+      "max_cltc_ev_km": 815,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/audi/audi-a6l-etron.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/8105.html",
+        "https://price.pcauto.com.cn/s49391/config.html"
+      ]
+    },
+    {
+      "brand": "audi",
+      "brand_name": "奥迪新能源",
+      "origin_type": "合资/外资",
+      "model": "AUDI E5 Sportback",
+      "model_slug": "audi-e5-sportback",
+      "sub_brand": null,
+      "category": "中型纯电旅行车",
+      "release_date": "2025-09-16",
+      "image_url": "https://k.sinaimg.cn/n/sinakd20250818s/82/w1250h1232/20250818/99e9-c9060d6e241c8761a91756d49b3299f0.jpg/w700d1q75cms.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 269900,
+      "price_max_rmb": 319900,
+      "best_zero_to_100_s": 3.4,
+      "max_cltc_ev_km": 773,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/audi/audi-e5-sportback.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7925.html"
+      ]
+    },
+    {
+      "brand": "audi",
+      "brand_name": "奥迪新能源",
+      "origin_type": "合资/外资",
+      "model": "奥迪Q4 e-tron",
+      "model_slug": "audi-q4-etron",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2023-11-01",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 289900,
+      "price_max_rmb": 332700,
+      "best_zero_to_100_s": 6.8,
+      "max_cltc_ev_km": 605,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/audi/audi-q4-etron.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6504.html"
+      ]
+    },
+    {
+      "brand": "audi",
+      "brand_name": "奥迪新能源",
+      "origin_type": "合资/外资",
+      "model": "奥迪Q6L e-tron",
+      "model_slug": "audi-q6l-etron",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2026-04-10",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 339800,
+      "price_max_rmb": 399800,
+      "best_zero_to_100_s": 4.5,
+      "max_cltc_ev_km": 709,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/audi/audi-q6l-etron.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7413.html"
+      ]
+    }
+  ]
+}

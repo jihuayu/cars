@@ -1,7 +1,7 @@
 {
   "brand": "changan-qiyuan",
   "brand_name": "长安启源",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "长安启源E07（2026款）",
   "model_slug": "qiyuan-e07-2026",
   "category": "中大型变形智能SUV",
@@ -27,7 +27,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "174-183"
       },
       "performance": {
         "drive_type": "后驱",
@@ -47,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,38 +76,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "高配前排及二排四座按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "21英寸轮毂 / 行李架",
           "price_rmb": "20000 / 1000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "家庭舒享套装",
           "price_rmb": 15000,
-          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等"
+          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等",
+          "availability": "可选"
         },
         {
           "name": "智能魔毯套装",
           "price_rmb": 20000,
-          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）"
+          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）",
+          "availability": "可选"
         },
         {
           "name": "车顶行李架",
           "price_rmb": 1000,
-          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）"
+          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "越野功能套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，强化户外及越野拓展能力"
+          "details": "官方五大选装包之一，强化户外及越野拓展能力",
+          "availability": "可选"
         },
         {
           "name": "社交达人套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展"
+          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展",
+          "availability": "可选"
         }
       ]
     },
@@ -125,7 +143,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "174-183"
       },
       "performance": {
         "drive_type": "四驱",
@@ -145,10 +164,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -172,38 +192,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "高配前排及二排四座按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "21英寸轮毂 / 行李架",
           "price_rmb": "20000 / 1000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "家庭舒享套装",
           "price_rmb": 15000,
-          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等"
+          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等",
+          "availability": "可选"
         },
         {
           "name": "智能魔毯套装",
           "price_rmb": 20000,
-          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）"
+          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）",
+          "availability": "可选"
         },
         {
           "name": "车顶行李架",
           "price_rmb": 1000,
-          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）"
+          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "越野功能套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，强化户外及越野拓展能力"
+          "details": "官方五大选装包之一，强化户外及越野拓展能力",
+          "availability": "可选"
         },
         {
           "name": "社交达人套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展"
+          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展",
+          "availability": "可选"
         }
       ]
     },
@@ -223,7 +259,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "174-183"
       },
       "performance": {
         "drive_type": "四驱",
@@ -243,10 +280,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -270,38 +308,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "高配前排及二排四座按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "21英寸轮毂 / 行李架",
           "price_rmb": "20000 / 1000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "家庭舒享套装",
           "price_rmb": 15000,
-          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等"
+          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等",
+          "availability": "可选"
         },
         {
           "name": "智能魔毯套装",
           "price_rmb": 20000,
-          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）"
+          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）",
+          "availability": "可选"
         },
         {
           "name": "车顶行李架",
           "price_rmb": 1000,
-          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）"
+          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）",
+          "availability": "标配"
         },
         {
           "name": "越野功能套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，强化户外及越野拓展能力"
+          "details": "官方五大选装包之一，强化户外及越野拓展能力",
+          "availability": "可选"
         },
         {
           "name": "社交达人套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展"
+          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展",
+          "availability": "可选"
         }
       ]
     },
@@ -321,7 +375,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "174-183"
       },
       "performance": {
         "drive_type": "后驱",
@@ -341,10 +396,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -368,38 +424,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "高配前排及二排四座按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "21英寸轮毂 / 行李架",
           "price_rmb": "20000 / 1000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "家庭舒享套装",
           "price_rmb": 15000,
-          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等"
+          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等",
+          "availability": "可选"
         },
         {
           "name": "智能魔毯套装",
           "price_rmb": 20000,
-          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）"
+          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）",
+          "availability": "可选"
         },
         {
           "name": "车顶行李架",
           "price_rmb": 1000,
-          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）"
+          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "越野功能套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，强化户外及越野拓展能力"
+          "details": "官方五大选装包之一，强化户外及越野拓展能力",
+          "availability": "可选"
         },
         {
           "name": "社交达人套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展"
+          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展",
+          "availability": "可选"
         }
       ]
     },
@@ -419,7 +491,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "174-183"
       },
       "performance": {
         "drive_type": "四驱",
@@ -439,10 +512,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -466,38 +540,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "高配前排及二排四座按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "21英寸轮毂 / 行李架",
           "price_rmb": "20000 / 1000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "家庭舒享套装",
           "price_rmb": 15000,
-          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等"
+          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等",
+          "availability": "可选"
         },
         {
           "name": "智能魔毯套装",
           "price_rmb": 20000,
-          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）"
+          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）",
+          "availability": "可选"
         },
         {
           "name": "车顶行李架",
           "price_rmb": 1000,
-          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）"
+          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "越野功能套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，强化户外及越野拓展能力"
+          "details": "官方五大选装包之一，强化户外及越野拓展能力",
+          "availability": "可选"
         },
         {
           "name": "社交达人套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展"
+          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展",
+          "availability": "可选"
         }
       ]
     },
@@ -517,7 +607,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "174-183"
       },
       "performance": {
         "drive_type": "四驱",
@@ -537,10 +628,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -564,41 +656,79 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "高配前排及二排四座按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "21英寸轮毂 / 行李架",
           "price_rmb": "20000 / 1000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "家庭舒享套装",
           "price_rmb": 15000,
-          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等"
+          "details": "硬件含副驾屏、后排座椅12点按摩、后排电动四向调节、后排隔断电动折叠、电吸门、流水氛围灯；软件含尊享副驾、一键后舱成床、后排舒适进出、后排观影模式等",
+          "availability": "可选"
         },
         {
           "name": "智能魔毯套装",
           "price_rmb": 20000,
-          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）"
+          "details": "含空气悬架与CDC可变阻尼减振器（部分版本限时赠送或标配）",
+          "availability": "可选"
         },
         {
           "name": "车顶行李架",
           "price_rmb": 1000,
-          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）"
+          "details": "原厂车顶行李架（中低配版型1000元选配，高配标配）",
+          "availability": "标配"
         },
         {
           "name": "越野功能套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，强化户外及越野拓展能力"
+          "details": "官方五大选装包之一，强化户外及越野拓展能力",
+          "availability": "可选"
         },
         {
           "name": "社交达人套装",
           "price_rmb": null,
-          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展"
+          "details": "官方五大选装包之一，主打交互灯光与科技娱乐拓展",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://n.sinaimg.cn/spider20240115/533/w800h533/20240115/d933-c3391a8faf04a3f9b41dd960081dc138.jpg"
+  "image_url": "https://n.sinaimg.cn/spider20240115/533/w800h533/20240115/d933-c3391a8faf04a3f9b41dd960081dc138.jpg",
+  "promo_highlights": [
+    "5000元定金抵扣10000元购车款",
+    "首任车主终身质保、终身免费基础保养、赠2000元充电桩抵扣券"
+  ],
+  "references": [
+    {
+      "title": "长安启源 长安启源E07（2026款） 官方配置页 (www.changan.com.cn)",
+      "url": "https://www.changan.com.cn/qiyuan/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "长安启源 长安启源E07（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7575.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://n.sinaimg.cn/www/transform/355/w660h495/20250829/1f3c-3da2215c58fae8ac3f59cdad1712331a.jpg"
 }

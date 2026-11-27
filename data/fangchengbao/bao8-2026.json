@@ -1,7 +1,7 @@
 {
   "brand": "fangchengbao",
   "brand_name": "方程豹",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "方程豹豹8（2026款闪充版）",
   "model_slug": "bao8-2026",
   "category": "中大型智能硬派旗舰SUV",
@@ -22,11 +22,12 @@
         "height_mm": 1905,
         "wheelbase_mm": 2920,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "3320-3360",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-320"
       },
       "performance": {
         "drive_type": "2.0T+DMO双电机四驱",
@@ -38,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "二代刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 49.05,
         "cltc_pure_electric_range_km": 200,
         "cltc_combined_range_km": 1380,
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,43 +75,62 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 后排双多功能调节控制屏（无吸顶娱乐屏）",
+        "power_220v": "标配 后备厢220V交流插座",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "前排及高配二排SPA级10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "拖车装置",
           "price_rmb": 4000,
-          "details": "合法拖挂"
+          "details": "合法拖挂",
+          "availability": "可选"
         },
         {
           "name": "21英寸多幅轮毂",
           "price_rmb": 10000,
-          "details": "含半包备胎罩+前定钳"
+          "details": "含半包备胎罩+前定钳",
+          "availability": "可选"
         },
         {
           "name": "灵鸢车载无人机系统（五座可选）",
           "price_rmb": 16968,
-          "details": "车载无人机"
+          "details": "车载无人机",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "豹8全系支持选装（对应无人机版指导价39.58万-42.38万元），含车顶智能机库、4K超广角车顶摄像头、DJI AIR 3S定制无人机及双模式手柄，并提供限定「雪峰白」内饰色。"
+          "details": "豹8全系支持选装（对应无人机版指导价39.58万-42.38万元），含车顶智能机库、4K超广角车顶摄像头、DJI AIR 3S定制无人机及双模式手柄，并提供限定「雪峰白」内饰色。",
+          "availability": "全系可选"
         },
         {
           "name": "21英寸多辐轮毂",
           "price_rmb": 10000,
-          "details": "方程豹官网尊享选装礼列明，价值10000元，可使用官方赠送的8000元选装基金抵扣。"
+          "details": "方程豹官网尊享选装礼列明，价值10000元，可使用官方赠送的8000元选装基金抵扣。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及拖车资质",
           "price_rmb": 4000,
-          "details": "方程豹官网尊享选装礼列明，含原厂拖车钩与合法拖挂资质，价值4000元，可使用选装基金抵扣。"
+          "details": "方程豹官网尊享选装礼列明，含原厂拖车钩与合法拖挂资质，价值4000元，可使用选装基金抵扣。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         },
         {
           "name": "六座/七座布局与外观车漆",
           "price_rmb": null,
-          "details": "六座与七座以独立版型定价区分，电动踏板为标配；常规车漆及内饰色未单列额外加价。"
+          "details": "六座与七座以独立版型定价区分，电动踏板为标配；常规车漆及内饰色未单列额外加价。",
+          "availability": "可选"
         }
       ]
     },
@@ -125,11 +146,12 @@
         "height_mm": 1905,
         "wheelbase_mm": 2920,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "3320-3360",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-320"
       },
       "performance": {
         "drive_type": "2.0T+DMO双电机四驱",
@@ -141,7 +163,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "二代刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 49.05,
         "cltc_pure_electric_range_km": 200,
         "cltc_combined_range_km": 1380,
@@ -149,10 +171,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -176,43 +199,62 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 后排双多功能调节控制屏（无吸顶娱乐屏）",
+        "power_220v": "标配 后备厢220V交流插座",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "前排及高配二排SPA级10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "拖车装置",
           "price_rmb": 4000,
-          "details": "合法拖挂"
+          "details": "合法拖挂",
+          "availability": "可选"
         },
         {
           "name": "21英寸多幅轮毂",
           "price_rmb": 10000,
-          "details": "含半包备胎罩+前定钳"
+          "details": "含半包备胎罩+前定钳",
+          "availability": "可选"
         },
         {
           "name": "灵鸢车载无人机系统（五座可选）",
           "price_rmb": 16968,
-          "details": "车载无人机"
+          "details": "车载无人机",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "豹8全系支持选装（对应无人机版指导价39.58万-42.38万元），含车顶智能机库、4K超广角车顶摄像头、DJI AIR 3S定制无人机及双模式手柄，并提供限定「雪峰白」内饰色。"
+          "details": "豹8全系支持选装（对应无人机版指导价39.58万-42.38万元），含车顶智能机库、4K超广角车顶摄像头、DJI AIR 3S定制无人机及双模式手柄，并提供限定「雪峰白」内饰色。",
+          "availability": "全系可选"
         },
         {
           "name": "21英寸多辐轮毂",
           "price_rmb": 10000,
-          "details": "方程豹官网尊享选装礼列明，价值10000元，可使用官方赠送的8000元选装基金抵扣。"
+          "details": "方程豹官网尊享选装礼列明，价值10000元，可使用官方赠送的8000元选装基金抵扣。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及拖车资质",
           "price_rmb": 4000,
-          "details": "方程豹官网尊享选装礼列明，含原厂拖车钩与合法拖挂资质，价值4000元，可使用选装基金抵扣。"
+          "details": "方程豹官网尊享选装礼列明，含原厂拖车钩与合法拖挂资质，价值4000元，可使用选装基金抵扣。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         },
         {
           "name": "六座/七座布局与外观车漆",
           "price_rmb": null,
-          "details": "六座与七座以独立版型定价区分，电动踏板为标配；常规车漆及内饰色未单列额外加价。"
+          "details": "六座与七座以独立版型定价区分，电动踏板为标配；常规车漆及内饰色未单列额外加价。",
+          "availability": "可选"
         }
       ]
     },
@@ -228,11 +270,12 @@
         "height_mm": 1905,
         "wheelbase_mm": 2920,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "3320-3360",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-320"
       },
       "performance": {
         "drive_type": "2.0T+DMO双电机四驱",
@@ -244,7 +287,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "二代刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 49.05,
         "cltc_pure_electric_range_km": 200,
         "cltc_combined_range_km": 1380,
@@ -252,10 +295,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -279,46 +323,95 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 后排双多功能调节控制屏（无吸顶娱乐屏）",
+        "power_220v": "标配 后备厢220V交流插座",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排及二排标配加热/通风",
+        "seat_massage": "前排及高配二排SPA级10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "拖车装置",
           "price_rmb": 4000,
-          "details": "合法拖挂"
+          "details": "合法拖挂",
+          "availability": "可选"
         },
         {
           "name": "21英寸多幅轮毂",
           "price_rmb": 10000,
-          "details": "含半包备胎罩+前定钳"
+          "details": "含半包备胎罩+前定钳",
+          "availability": "可选"
         },
         {
           "name": "灵鸢车载无人机系统（五座可选）",
           "price_rmb": 16968,
-          "details": "车载无人机"
+          "details": "车载无人机",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "豹8全系支持选装（对应无人机版指导价39.58万-42.38万元），含车顶智能机库、4K超广角车顶摄像头、DJI AIR 3S定制无人机及双模式手柄，并提供限定「雪峰白」内饰色。"
+          "details": "豹8全系支持选装（对应无人机版指导价39.58万-42.38万元），含车顶智能机库、4K超广角车顶摄像头、DJI AIR 3S定制无人机及双模式手柄，并提供限定「雪峰白」内饰色。",
+          "availability": "全系可选"
         },
         {
           "name": "21英寸多辐轮毂",
           "price_rmb": 10000,
-          "details": "方程豹官网尊享选装礼列明，价值10000元，可使用官方赠送的8000元选装基金抵扣。"
+          "details": "方程豹官网尊享选装礼列明，价值10000元，可使用官方赠送的8000元选装基金抵扣。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及拖车资质",
           "price_rmb": 4000,
-          "details": "方程豹官网尊享选装礼列明，含原厂拖车钩与合法拖挂资质，价值4000元，可使用选装基金抵扣。"
+          "details": "方程豹官网尊享选装礼列明，含原厂拖车钩与合法拖挂资质，价值4000元，可使用选装基金抵扣。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         },
         {
           "name": "六座/七座布局与外观车漆",
           "price_rmb": null,
-          "details": "六座与七座以独立版型定价区分，电动踏板为标配；常规车漆及内饰色未单列额外加价。"
+          "details": "六座与七座以独立版型定价区分，电动踏板为标配；常规车漆及内饰色未单列额外加价。",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://n.sinaimg.cn/www/transform/278/w660h418/20241012/762a-f848c4c5679642abb2a990726962828c.jpg"
+  "image_url": "https://n.sinaimg.cn/www/transform/278/w660h418/20241012/762a-f848c4c5679642abb2a990726962828c.jpg",
+  "promo_highlights": [
+    "2026年11月限时综合权益至高9.7万元",
+    "闪充版限时权益价40.98万元（5000元定金抵15000元）、至高2万元置换补贴+12个月免费闪充"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "3320-3360",
+    "gross_weight_kg": 3620,
+    "approach_departure_deg": "30/29",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "方程豹 方程豹豹8（2026款闪充版） 官方配置页 (www.fangchengbao.com)",
+      "url": "https://www.fangchengbao.com/product/bao8.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "2026款方程豹豹8工信部申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/24980558",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://n.sinaimg.cn/www/transform/300/w660h440/20240917/87a3-e887e95bc678a3504f1b3eeb2171ab59.jpg"
 }

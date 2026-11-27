@@ -1,7 +1,7 @@
 {
   "brand": "fangchengbao",
   "brand_name": "方程豹",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "方程豹钛7（2026款 PHEV / EV闪充版）",
   "model_slug": "tai7-2026",
   "category": "中大型方盒子SUV",
@@ -22,11 +22,12 @@
         "height_mm": 1865,
         "wheelbase_mm": 2920,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2257,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 205
       },
       "performance": {
         "drive_type": "前驱",
@@ -38,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 50.0,
         "cltc_pure_electric_range_km": 315,
         "cltc_combined_range_km": 1400,
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,33 +75,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配后排空调控制屏，选装双13英寸BYD Pad后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "高配标配/其余选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智能电四驱性能选装包（钛7 EV闪充版）",
           "price_rmb": 30000,
-          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。"
+          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。"
+          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。",
+          "availability": "可选"
         },
         {
           "name": "天神之眼B-辅助驾驶激光版",
           "price_rmb": 12000,
-          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。"
+          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及拖车资质",
           "price_rmb": 4000,
-          "details": "限四驱版本选装，官方选装价4000元。"
+          "details": "限四驱版本选装，官方选装价4000元。",
+          "availability": "不支持"
         },
         {
           "name": "专属外观车漆（青峦翠 / 霜雾灰）",
           "price_rmb": 3000,
-          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。"
+          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。",
+          "availability": "可选"
         }
       ]
     },
@@ -115,11 +132,12 @@
         "height_mm": 1865,
         "wheelbase_mm": 2920,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2257,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 205
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -131,7 +149,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 50.0,
         "cltc_pure_electric_range_km": 300,
         "cltc_combined_range_km": 1400,
@@ -139,10 +157,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -166,33 +185,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配后排空调控制屏，选装双13英寸BYD Pad后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "高配标配/其余选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智能电四驱性能选装包（钛7 EV闪充版）",
           "price_rmb": 30000,
-          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。"
+          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。"
+          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。",
+          "availability": "可选"
         },
         {
           "name": "天神之眼B-辅助驾驶激光版",
           "price_rmb": 12000,
-          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。"
+          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及拖车资质",
           "price_rmb": 4000,
-          "details": "限四驱版本选装，官方选装价4000元。"
+          "details": "限四驱版本选装，官方选装价4000元。",
+          "availability": "可选"
         },
         {
           "name": "专属外观车漆（青峦翠 / 霜雾灰）",
           "price_rmb": 3000,
-          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。"
+          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。",
+          "availability": "可选"
         }
       ]
     },
@@ -208,11 +242,12 @@
         "height_mm": 1865,
         "wheelbase_mm": 2920,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2257,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 205
       },
       "performance": {
         "drive_type": "后驱",
@@ -224,7 +259,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 1000,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 92.0,
         "cltc_pure_electric_range_km": 675,
         "cltc_combined_range_km": 675,
@@ -232,10 +267,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -259,33 +295,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配后排空调控制屏，选装双13英寸BYD Pad后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "高配标配/其余选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智能电四驱性能选装包（钛7 EV闪充版）",
           "price_rmb": 30000,
-          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。"
+          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。"
+          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。",
+          "availability": "可选"
         },
         {
           "name": "天神之眼B-辅助驾驶激光版",
           "price_rmb": 12000,
-          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。"
+          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及拖车资质",
           "price_rmb": 4000,
-          "details": "限四驱版本选装，官方选装价4000元。"
+          "details": "限四驱版本选装，官方选装价4000元。",
+          "availability": "不支持"
         },
         {
           "name": "专属外观车漆（青峦翠 / 霜雾灰）",
           "price_rmb": 3000,
-          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。"
+          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。",
+          "availability": "可选"
         }
       ]
     },
@@ -301,11 +352,12 @@
         "height_mm": 1865,
         "wheelbase_mm": 2920,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2257,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 205
       },
       "performance": {
         "drive_type": "后驱",
@@ -317,7 +369,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 1000,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 105.7,
         "cltc_pure_electric_range_km": 755,
         "cltc_combined_range_km": 755,
@@ -325,10 +377,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -352,33 +405,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配后排空调控制屏，选装双13英寸BYD Pad后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "高配标配/其余选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智能电四驱性能选装包（钛7 EV闪充版）",
           "price_rmb": 30000,
-          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。"
+          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。"
+          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。",
+          "availability": "可选"
         },
         {
           "name": "天神之眼B-辅助驾驶激光版",
           "price_rmb": 12000,
-          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。"
+          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及拖车资质",
           "price_rmb": 4000,
-          "details": "限四驱版本选装，官方选装价4000元。"
+          "details": "限四驱版本选装，官方选装价4000元。",
+          "availability": "不支持"
         },
         {
           "name": "专属外观车漆（青峦翠 / 霜雾灰）",
           "price_rmb": 3000,
-          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。"
+          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。",
+          "availability": "可选"
         }
       ]
     },
@@ -394,11 +462,12 @@
         "height_mm": 1865,
         "wheelbase_mm": 2920,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2257,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 205
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -410,7 +479,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 1000,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 105.7,
         "cltc_pure_electric_range_km": 675,
         "cltc_combined_range_km": 675,
@@ -418,10 +487,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -445,36 +515,81 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配后排空调控制屏，选装双13英寸BYD Pad后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "高配标配/其余选装前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智能电四驱性能选装包（钛7 EV闪充版）",
           "price_rmb": 30000,
-          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。"
+          "details": "钛7 EV闪充版专属选装包，升级前电机形成智能电四驱（百公里加速缩至4.5s）、20英寸轮毂+四活塞高性能卡钳、主动香氛、泥地模式/豹式掉头，并直接包含原价12000元的天神之眼B激光雷达智驾。",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。"
+          "details": "供顶配四驱Ultra版等指定车型选装，含智能机库、DJI AIR 3S定制车载无人机、双模式手柄及一年DJI Care。",
+          "availability": "可选"
         },
         {
           "name": "天神之眼B-辅助驾驶激光版",
           "price_rmb": 12000,
-          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。"
+          "details": "钛7 EV闪充版两驱车型支持单独付费选装，官方选装价12000元（选装30000元四驱包则自动包含）。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及拖车资质",
           "price_rmb": 4000,
-          "details": "限四驱版本选装，官方选装价4000元。"
+          "details": "限四驱版本选装，官方选装价4000元。",
+          "availability": "可选"
         },
         {
           "name": "专属外观车漆（青峦翠 / 霜雾灰）",
           "price_rmb": 3000,
-          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。"
+          "details": "方程豹官网参数配置表明确标注，全系4款版型选装青峦翠或霜雾灰车漆均为3000元。",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://img1.mydrivers.com/img/20250621/33f664b3-924a-47ef-b8a7-98b75f0888bf.png"
+  "image_url": "https://img1.mydrivers.com/img/20250621/33f664b3-924a-47ef-b8a7-98b75f0888bf.png",
+  "promo_highlights": [
+    "2026年11月部分版本限时保险补贴5000元+厂补5000元、置换补贴至高1万元",
+    "3年0息/5年低息金融方案、闪充版赠12个月免费闪充"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 2257,
+    "gross_weight_kg": null,
+    "approach_departure_deg": "24/25",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "方程豹 方程豹钛7（2026款 PHEV / EV闪充版） 官方配置页 (www.fangchengbao.com)",
+      "url": "https://www.fangchengbao.com/disposition-tai7.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "方程豹钛7工信部申报参数 - 凤凰网汽车",
+      "url": "https://auto.ifeng.com/c/8kMmkfGBlGi",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img.rednet.cn/2025/08-20/f7a37d67-7797-4e83-86ed-ea5403935e21.webp"
 }

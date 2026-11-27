@@ -1,7 +1,7 @@
 {
   "brand": "zeekr",
   "brand_name": "极氪",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "极氪9X（2026款）",
   "model_slug": "zeekr-9x-2026",
   "category": "全尺寸超豪华电混旗舰SUV",
@@ -22,11 +22,12 @@
         "height_mm": 1819,
         "wheelbase_mm": 3169,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2840-3095",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "200-208"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双横臂",
@@ -73,18 +75,29 @@
         "hud": "47英寸AR-HUD",
         "audio": "30-32扬声器（可选Naim）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "选装/限时免费赠送 17英寸3K OLED飞翼式滑移屏（价值15000元）",
+        "instrument_cluster": "13英寸全液晶仪表+47英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排22点揉捏及叩击按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
           "price_rmb": "60000 / 30000 / 25000",
-          "details": "旗舰选装"
+          "details": "旗舰选装",
+          "availability": "可选"
         },
         {
           "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
           "price_rmb": "22000 / 15000 / 10000",
-          "details": "舒适与底盘选装"
+          "details": "舒适与底盘选装",
+          "availability": "可选"
         }
       ]
     },
@@ -100,11 +113,12 @@
         "height_mm": 1819,
         "wheelbase_mm": 3169,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2840-3095",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "200-208"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -124,10 +138,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双横臂",
@@ -151,18 +166,29 @@
         "hud": "47英寸AR-HUD",
         "audio": "30-32扬声器（可选Naim）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "选装/限时免费赠送 17英寸3K OLED飞翼式滑移屏（价值15000元）",
+        "instrument_cluster": "13英寸全液晶仪表+47英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排22点揉捏及叩击按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
           "price_rmb": "60000 / 30000 / 25000",
-          "details": "旗舰选装"
+          "details": "旗舰选装",
+          "availability": "可选"
         },
         {
           "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
           "price_rmb": "22000 / 15000 / 10000",
-          "details": "舒适与底盘选装"
+          "details": "舒适与底盘选装",
+          "availability": "可选"
         }
       ]
     },
@@ -178,11 +204,12 @@
         "height_mm": 1819,
         "wheelbase_mm": 3169,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2840-3095",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "200-208"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -202,10 +229,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双横臂",
@@ -229,18 +257,29 @@
         "hud": "47英寸AR-HUD",
         "audio": "30-32扬声器（可选Naim）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "选装/限时免费赠送 17英寸3K OLED飞翼式滑移屏（价值15000元）",
+        "instrument_cluster": "13英寸全液晶仪表+47英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排22点揉捏及叩击按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
           "price_rmb": "60000 / 30000 / 25000",
-          "details": "旗舰选装"
+          "details": "旗舰选装",
+          "availability": "可选"
         },
         {
           "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
           "price_rmb": "22000 / 15000 / 10000",
-          "details": "舒适与底盘选装"
+          "details": "舒适与底盘选装",
+          "availability": "可选"
         }
       ]
     },
@@ -256,11 +295,12 @@
         "height_mm": 1819,
         "wheelbase_mm": 3169,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2840-3095",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "200-208"
       },
       "performance": {
         "drive_type": "三电机四驱",
@@ -280,10 +320,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双横臂",
@@ -307,18 +348,29 @@
         "hud": "47英寸AR-HUD",
         "audio": "30-32扬声器（可选Naim）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "选装/限时免费赠送 17英寸3K OLED飞翼式滑移屏（价值15000元）",
+        "instrument_cluster": "13英寸全液晶仪表+47英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排22点揉捏及叩击按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
           "price_rmb": "60000 / 30000 / 25000",
-          "details": "旗舰选装"
+          "details": "旗舰选装",
+          "availability": "可选"
         },
         {
           "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
           "price_rmb": "22000 / 15000 / 10000",
-          "details": "舒适与底盘选装"
+          "details": "舒适与底盘选装",
+          "availability": "可选"
         }
       ]
     },
@@ -334,11 +386,12 @@
         "height_mm": 1819,
         "wheelbase_mm": 3169,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2840-3095",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "200-208"
       },
       "performance": {
         "drive_type": "三电机四驱",
@@ -358,10 +411,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双横臂",
@@ -385,21 +439,63 @@
         "hud": "47英寸AR-HUD",
         "audio": "30-32扬声器（可选Naim）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "选装/限时免费赠送 17英寸3K OLED飞翼式滑移屏（价值15000元）",
+        "instrument_cluster": "13英寸全液晶仪表+47英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排22点揉捏及叩击按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Naim音响 / 22英寸轮毂 / 千里浩瀚H9",
           "price_rmb": "60000 / 30000 / 25000",
-          "details": "旗舰选装"
+          "details": "旗舰选装",
+          "availability": "可选"
         },
         {
           "name": "48V主动稳定杆 / 17英寸吸顶屏 / 电动踏板",
           "price_rmb": "22000 / 15000 / 10000",
-          "details": "舒适与底盘选装"
+          "details": "舒适与底盘选装",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%28CHN-Hubei%29_Showcar_Zeekr_9X_No-plate_2025-12-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%28CHN-Hubei%29_Showcar_Zeekr_9X_No-plate_2025-12-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "五座版权益后限时售价45.19万元起（含1万保险+1万置换金）",
+    "限时免费赠送价值60000元Naim音响、15000元飞翼式滑移屏及10000元电动踏板",
+    "免费升级价值35000元千里浩瀚G-ASD高阶智驾终身体验"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "2840-3095",
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "宁德时代与吉利合资企业"
+  },
+  "references": [
+    {
+      "title": "极氪 极氪9X（2026款） 官方配置页 (m.zeekrlife.com)",
+      "url": "https://m.zeekrlife.com/zeekr9x",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极氪9X工信部申报文件解读",
+      "url": "https://www.moomoo.com/hans/news/post/56702748/zeekr-files-for-9x-hybrid-suv-pre-sales-to-begin",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

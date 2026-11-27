@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>国产新能源车官方参数配置库 · SKU 全景展厅</title>
+  <title>中国大陆在售新能源车全景参数库 · 40大品牌 172款车型</title>
   <style>
     :root {
       --bg: #0b0e14;
@@ -13,10 +13,12 @@
       --text: #eef2f8;
       --muted: #8b99b3;
       --accent: #3b82f6;
-      --accent-soft: rgba(59, 130, 246, 0.14);
-      --bev: #10b981;
-      --reev: #f59e0b;
-      --phev: #a855f7;
+      --accent-soft: rgba(59, 130, 246, 0.15);
+      --amber: #f59e0b;
+      --amber-soft: rgba(245, 158, 11, 0.14);
+      --green: #10b981;
+      --green-soft: rgba(16, 185, 129, 0.14);
+      --purple: #a855f7;
       --radius: 14px;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -31,89 +33,136 @@
     a { color: #60a5fa; text-decoration: none; }
     a:hover { text-decoration: underline; }
 
-    /* Header */
     header {
       background: radial-gradient(circle at 20% 0%, rgba(59, 130, 246, 0.18), transparent 55%), var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 28px 24px 22px;
+      padding: 24px 24px 20px;
     }
-    .container { max-width: 1360px; margin: 0 auto; }
+    .container { max-width: 1380px; margin: 0 auto; }
     .hero-top {
       display: flex;
       flex-wrap: wrap;
       justify-content: space-between;
       align-items: flex-end;
-      gap: 16px;
-      margin-bottom: 18px;
+      gap: 14px;
+      margin-bottom: 16px;
     }
-    h1 { font-size: clamp(22px, 3vw, 32px); font-weight: 700; letter-spacing: -0.02em; }
-    .subtitle { color: var(--muted); font-size: 14px; margin-top: 6px; }
-    .stats-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+    h1 { font-size: clamp(21px, 2.8vw, 30px); font-weight: 700; letter-spacing: -0.02em; }
+    .subtitle { color: var(--muted); font-size: 13.5px; margin-top: 5px; }
+    .stats-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
     .stat-pill {
       background: var(--surface-2);
       border: 1px solid var(--border);
       border-radius: 999px;
-      padding: 6px 14px;
-      font-size: 13px;
+      padding: 5px 12px;
+      font-size: 12.5px;
       color: var(--muted);
     }
     .stat-pill strong { color: var(--text); font-weight: 600; }
+    .stat-pill.clickable { cursor: pointer; color: #93c5fd; border-color: rgba(59,130,246,0.4); }
+    .stat-pill.clickable:hover { background: var(--accent-soft); }
 
-    /* Search & Filters */
+    /* Controls */
     .controls {
       display: grid;
-      grid-template-columns: 1fr auto auto auto;
-      gap: 10px;
-      margin-top: 14px;
+      grid-template-columns: 1.4fr repeat(5, minmax(120px, auto));
+      gap: 8px;
+      margin-top: 12px;
     }
-    @media (max-width: 860px) {
-      .controls { grid-template-columns: 1fr 1fr; }
+    @media (max-width: 1080px) {
+      .controls { grid-template-columns: 1fr 1fr 1fr; }
       .search-input { grid-column: 1 / -1; }
+    }
+    @media (max-width: 640px) {
+      .controls { grid-template-columns: 1fr 1fr; }
     }
     input[type="search"], select {
       background: var(--bg);
       border: 1px solid var(--border);
       color: var(--text);
-      padding: 10px 14px;
+      padding: 9px 12px;
       border-radius: 10px;
-      font-size: 14px;
+      font-size: 13.5px;
       outline: none;
     }
     input[type="search"]:focus, select:focus { border-color: var(--accent); }
 
+    /* Advanced feature chips */
+    .adv-panel {
+      margin-top: 12px;
+      padding: 12px 14px;
+      background: rgba(11, 14, 20, 0.55);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+    }
+    .adv-label { font-size: 12px; color: var(--muted); font-weight: 600; margin-right: 4px; }
+    .chip-toggle {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 5px 11px;
+      border-radius: 999px;
+      font-size: 12px;
+      cursor: pointer;
+      transition: all 0.14s ease;
+    }
+    .chip-toggle:hover { border-color: var(--accent); color: var(--text); }
+    .chip-toggle.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+    .chip-reset {
+      margin-left: auto;
+      background: transparent;
+      border: 1px dashed var(--border);
+      color: var(--muted);
+      padding: 4px 10px;
+      border-radius: 8px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .chip-reset:hover { color: #fff; border-color: #60a5fa; }
+
     .brand-bar {
       display: flex;
       flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 14px;
+      gap: 7px;
+      margin-top: 12px;
+      max-height: 112px;
+      overflow-y: auto;
+      padding-right: 4px;
     }
     .brand-btn {
       background: var(--surface-2);
       border: 1px solid var(--border);
       color: var(--muted);
-      padding: 6px 12px;
+      padding: 5px 11px;
       border-radius: 999px;
-      font-size: 13px;
+      font-size: 12.5px;
       cursor: pointer;
-      transition: all 0.15s ease;
+      transition: all 0.14s ease;
     }
     .brand-btn:hover { border-color: var(--accent); color: var(--text); }
     .brand-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+    .brand-btn.foreign { border-color: rgba(168, 85, 247, 0.35); }
 
     /* Grid */
-    main { padding: 24px; }
+    main { padding: 22px 24px; }
     .result-meta {
       display: flex;
+      flex-wrap: wrap;
       justify-content: space-between;
       align-items: center;
+      gap: 10px;
       margin-bottom: 16px;
       color: var(--muted);
       font-size: 13px;
     }
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
-      gap: 18px;
+      grid-template-columns: repeat(auto-fill, minmax(315px, 1fr));
+      gap: 16px;
     }
     .card {
       background: var(--surface);
@@ -122,7 +171,7 @@
       overflow: hidden;
       display: flex;
       flex-direction: column;
-      transition: transform 0.18s ease, border-color 0.18s ease;
+      transition: transform 0.16s ease, border-color 0.16s ease;
       cursor: pointer;
     }
     .card:hover { transform: translateY(-3px); border-color: #3b5278; }
@@ -137,12 +186,7 @@
       align-items: center;
       justify-content: center;
     }
-    .card-media img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
+    .card-media img { width: 100%; height: 100%; object-fit: cover; display: block; }
     .fallback-svg {
       width: 100%;
       height: 100%;
@@ -156,26 +200,22 @@
     }
     .card-badges {
       position: absolute;
-      top: 10px;
-      left: 10px;
-      right: 10px;
+      top: 9px;
+      left: 9px;
+      right: 9px;
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
       gap: 6px;
       pointer-events: none;
     }
-    .card-badges-left {
-      display: flex;
-      gap: 6px;
-      flex-wrap: wrap;
-    }
+    .card-badges-left, .card-badges-right { display: flex; gap: 5px; flex-wrap: wrap; }
     .badge {
       font-size: 11px;
       font-weight: 600;
-      padding: 3px 8px;
+      padding: 2.5px 8px;
       border-radius: 999px;
-      background: rgba(11, 14, 20, 0.8);
+      background: rgba(11, 14, 20, 0.84);
       backdrop-filter: blur(6px);
       border: 1px solid rgba(255,255,255,0.14);
       color: #fff;
@@ -183,12 +223,13 @@
     .badge-BEV { color: #34d399; border-color: rgba(16,185,129,0.45); }
     .badge-REEV { color: #fbbf24; border-color: rgba(245,158,11,0.45); }
     .badge-PHEV { color: #c084fc; border-color: rgba(168,85,247,0.45); }
-    .badge-opt { color: #93c5fd; border-color: rgba(59,130,246,0.45); }
+    .badge-promo { color: #fcd34d; border-color: rgba(245,158,11,0.55); background: rgba(120, 53, 15, 0.78); }
+    .badge-foreign { color: #d8b4fe; border-color: rgba(168,85,247,0.5); }
 
-    .card-body { padding: 15px 16px 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+    .card-body { padding: 14px 15px 15px; display: flex; flex-direction: column; gap: 9px; flex: 1; }
     .card-brand { font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; }
-    .card-title { font-size: 17px; font-weight: 700; color: var(--text); }
-    .card-price { font-size: 16px; font-weight: 700; color: #60a5fa; }
+    .card-title { font-size: 16.5px; font-weight: 700; color: var(--text); }
+    .card-price { font-size: 15.5px; font-weight: 700; color: #60a5fa; }
     .card-metrics {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -200,32 +241,42 @@
     }
     .metric-label { color: var(--muted); font-size: 11px; }
     .metric-val { font-weight: 600; color: var(--text); margin-top: 2px; }
+    .card-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: auto; }
+    .mini-tag {
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 6px;
+      background: rgba(59, 130, 246, 0.1);
+      color: #93c5fd;
+      border: 1px solid rgba(59, 130, 246, 0.22);
+    }
+    .mini-tag.green { background: var(--green-soft); color: #6ee7b7; border-color: rgba(16,185,129,0.28); }
 
     /* Modal */
     .modal-backdrop {
       position: fixed;
       inset: 0;
-      background: rgba(5, 8, 14, 0.78);
+      background: rgba(5, 8, 14, 0.8);
       backdrop-filter: blur(6px);
       z-index: 100;
       display: none;
       align-items: center;
       justify-content: center;
-      padding: 18px;
+      padding: 16px;
     }
     .modal-backdrop.open { display: flex; }
     .modal {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 16px;
-      width: min(1160px, 100%);
-      max-height: 90vh;
+      width: min(1200px, 100%);
+      max-height: 92vh;
       display: flex;
       flex-direction: column;
       overflow: hidden;
     }
     .modal-header {
-      padding: 16px 22px;
+      padding: 15px 22px;
       border-bottom: 1px solid var(--border);
       display: flex;
       justify-content: space-between;
@@ -243,17 +294,32 @@
       cursor: pointer;
       flex-shrink: 0;
     }
-    .modal-body { padding: 20px 22px; overflow: auto; }
+    .modal-body { padding: 18px 22px 28px; overflow: auto; }
+
     .modal-hero {
       display: grid;
-      grid-template-columns: 320px 1fr;
+      grid-template-columns: 380px 1fr;
       gap: 18px;
-      margin-bottom: 20px;
+      margin-bottom: 16px;
       align-items: stretch;
     }
-    @media (max-width: 760px) {
-      .modal-hero { grid-template-columns: 1fr; }
+    @media (max-width: 820px) { .modal-hero { grid-template-columns: 1fr; } }
+    .photo-box {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
     }
+    .photo-tabs { display: flex; gap: 6px; }
+    .photo-tab {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 4px 11px;
+      border-radius: 8px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .photo-tab.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
     .modal-photo {
       border-radius: 12px;
       overflow: hidden;
@@ -264,33 +330,53 @@
       align-items: center;
       justify-content: center;
     }
-    .modal-photo img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
+    .modal-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+    .promo-box {
+      background: linear-gradient(135deg, rgba(245, 158, 11, 0.12), rgba(245, 158, 11, 0.04));
+      border: 1px solid rgba(245, 158, 11, 0.35);
+      border-radius: 12px;
+      padding: 12px 15px;
+      margin-bottom: 16px;
     }
+    .promo-title { font-size: 13.5px; font-weight: 700; color: #fcd34d; margin-bottom: 6px; }
+    .promo-list { list-style: none; display: flex; flex-direction: column; gap: 4px; font-size: 12.5px; color: #fde68a; }
+    .promo-list li::before { content: "• "; color: #f59e0b; font-weight: 700; }
+
     .section-heading {
       font-size: 15px;
       font-weight: 700;
       color: var(--text);
-      margin: 22px 0 12px;
+      margin: 20px 0 10px;
       display: flex;
       align-items: center;
       gap: 8px;
     }
     .section-heading span.count {
-      font-size: 12px;
+      font-size: 11.5px;
       font-weight: 600;
       color: #93c5fd;
       background: var(--accent-soft);
       padding: 2px 8px;
       border-radius: 999px;
     }
+
+    .miit-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 10px;
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px 14px;
+    }
+    .miit-item .k { font-size: 11.5px; color: var(--muted); }
+    .miit-item .v { font-size: 13.5px; font-weight: 600; color: var(--text); margin-top: 2px; }
+
     .options-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 12px;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 11px;
     }
     .option-card {
       background: var(--surface-2);
@@ -301,62 +387,71 @@
       flex-direction: column;
       gap: 6px;
     }
-    .option-top {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      gap: 10px;
-    }
-    .option-name {
-      font-size: 13.5px;
-      font-weight: 600;
-      color: var(--text);
-    }
+    .option-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .option-name { font-size: 13.5px; font-weight: 600; color: var(--text); }
+    .price-stack { display: flex; flex-direction: column; align-items: flex-end; gap: 3px; flex-shrink: 0; }
     .option-price {
-      font-size: 12.5px;
+      font-size: 12px;
       font-weight: 700;
       padding: 2px 8px;
       border-radius: 6px;
       white-space: nowrap;
-      flex-shrink: 0;
     }
     .option-price.priced { background: rgba(59, 130, 246, 0.16); color: #93c5fd; border: 1px solid rgba(59, 130, 246, 0.35); }
-    .option-price.free { background: rgba(16, 185, 129, 0.16); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.35); }
+    .option-price.free { background: var(--green-soft); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.35); }
+    .option-price.promo { background: var(--amber-soft); color: #fcd34d; border: 1px solid rgba(245, 158, 11, 0.45); }
     .option-price.tbd { background: rgba(148, 163, 184, 0.12); color: var(--muted); border: 1px solid rgba(148, 163, 184, 0.25); }
-    .option-desc {
-      font-size: 12px;
-      color: var(--muted);
-      line-height: 1.5;
-    }
+    .strike { text-decoration: line-through; opacity: 0.65; font-size: 11px; }
+    .option-desc { font-size: 12px; color: var(--muted); line-height: 1.5; }
 
     .sku-table-wrap { overflow-x: auto; margin-top: 8px; }
-    table.spec-table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 13px;
-    }
+    table.spec-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
     table.spec-table th, table.spec-table td {
       border-bottom: 1px solid var(--border);
-      padding: 9px 12px;
+      padding: 8px 11px;
       text-align: left;
       vertical-align: top;
-      min-width: 155px;
+      min-width: 150px;
     }
     table.spec-table th:first-child, table.spec-table td:first-child {
       position: sticky;
       left: 0;
       background: var(--surface);
-      min-width: 135px;
+      min-width: 145px;
       color: var(--muted);
       font-weight: 600;
       z-index: 2;
     }
-    table.spec-table thead th {
-      background: var(--surface-2);
-      color: var(--text);
-      font-weight: 700;
-    }
+    table.spec-table thead th { background: var(--surface-2); color: var(--text); font-weight: 700; }
     .diff-row td { background: rgba(59, 130, 246, 0.08); }
+    .avail-std { color: #34d399; font-weight: 600; }
+    .avail-opt { color: #93c5fd; }
+    .avail-no { color: #64748b; }
+
+    .ref-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px 14px;
+      font-size: 12.5px;
+    }
+    .ref-item { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+    .ref-tag {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 1.5px 7px;
+      border-radius: 5px;
+      white-space: nowrap;
+    }
+    .ref-tag.official { background: var(--green-soft); color: #6ee7b7; border: 1px solid rgba(16,185,129,0.35); }
+    .ref-tag.miit { background: var(--accent-soft); color: #93c5fd; border: 1px solid rgba(59,130,246,0.35); }
+    .ref-tag.third { background: var(--amber-soft); color: #fcd34d; border: 1px solid rgba(245,158,11,0.4); }
+    .ref-note { font-size: 11.5px; color: var(--muted); margin-top: 6px; }
+
     .btn-sm {
       background: var(--surface-2);
       border: 1px solid var(--border);
@@ -369,7 +464,6 @@
     .btn-sm:hover { border-color: var(--accent); color: #fff; }
     .btn-sm.added { background: var(--accent); border-color: var(--accent); color: #fff; }
 
-    /* Compare Tray */
     .compare-tray {
       position: fixed;
       bottom: 16px;
@@ -378,17 +472,17 @@
       background: rgba(19, 24, 35, 0.96);
       border: 1px solid #3b82f6;
       border-radius: 14px;
-      padding: 12px 18px;
+      padding: 11px 16px;
       display: none;
       align-items: center;
-      gap: 14px;
+      gap: 12px;
       z-index: 90;
       box-shadow: 0 12px 32px rgba(0,0,0,0.5);
       max-width: calc(100vw - 24px);
       flex-wrap: wrap;
     }
     .compare-tray.show { display: flex; }
-    .tray-chips { display: flex; gap: 8px; flex-wrap: wrap; }
+    .tray-chips { display: flex; gap: 7px; flex-wrap: wrap; }
     .tray-chip {
       background: var(--surface-2);
       border: 1px solid var(--border);
@@ -399,28 +493,18 @@
       align-items: center;
       gap: 6px;
     }
-    .tray-chip button {
-      background: none;
-      border: none;
-      color: var(--muted);
-      cursor: pointer;
-      font-size: 14px;
-    }
+    .tray-chip button { background: none; border: none; color: var(--muted); cursor: pointer; font-size: 14px; }
     .btn-primary {
       background: var(--accent);
       border: none;
       color: #fff;
-      padding: 8px 16px;
+      padding: 7px 15px;
       border-radius: 9px;
       font-size: 13px;
       font-weight: 600;
       cursor: pointer;
     }
-    .empty-state {
-      text-align: center;
-      padding: 64px 20px;
-      color: var(--muted);
-    }
+    .empty-state { text-align: center; padding: 60px 20px; color: var(--muted); }
   </style>
 </head>
 <body>
@@ -428,8 +512,8 @@
     <div class="container">
       <div class="hero-top">
         <div>
-          <h1>国产新能源车官方参数配置库</h1>
-          <div class="subtitle">覆盖主流国产新能源品牌在售车型逐 SKU 尺寸、零百、电池、快充、智驾、高清实拍图与分项选装价格 · 支持跨品牌对比</div>
+          <h1>中国大陆在售新能源车全景参数库</h1>
+          <div class="subtitle">覆盖国产 + 合资/外资全量主力车型 · 含底盘高度、工信部公示指标、分 SKU 选装与限时权益、内饰/舒适/流媒体后视镜及完整来源网址</div>
         </div>
         <div class="stats-row" id="statsRow">
           <span class="stat-pill">加载中...</span>
@@ -437,7 +521,12 @@
       </div>
 
       <div class="controls">
-        <input id="searchInput" class="search-input" type="search" placeholder="搜索品牌、车型、类别（如：理想L9、小米YU7、仰望U8、问界M9、MPV、猎装）..." />
+        <input id="searchInput" class="search-input" type="search" placeholder="搜索品牌、车型、类别（如：理想L9、Model Y、宝马iX3、仰望U8、MPV）..." />
+        <select id="originFilter">
+          <option value="ALL">全部产地</option>
+          <option value="国产">国产新能源</option>
+          <option value="合资/外资">合资 / 外资新能源</option>
+        </select>
         <select id="powertrainFilter">
           <option value="ALL">全部动力形式</option>
           <option value="BEV">纯电 (BEV)</option>
@@ -445,20 +534,51 @@
           <option value="PHEV">插混 (PHEV)</option>
         </select>
         <select id="priceFilter">
-          <option value="ALL">全部价格区间</option>
+          <option value="ALL">全部价格</option>
           <option value="0-15">15万以内</option>
           <option value="15-25">15万 – 25万</option>
           <option value="25-40">25万 – 40万</option>
           <option value="40-999">40万以上</option>
         </select>
-        <select id="sortSelect">
+        <select id="rangeFilter">
+          <option value="0">纯电续航不限</option>
+          <option value="200">CLTC ≥ 200km</option>
+          <option value="500">CLTC ≥ 500km</option>
+          <option value="650">CLTC ≥ 650km</option>
+          <option value="800">CLTC ≥ 800km</option>
+        </select>
+        <select id="batteryFilter">
+          <option value="ALL">电池种类不限</option>
+          <option value="磷酸铁锂">磷酸铁锂 (LFP)</option>
+          <option value="三元锂">三元锂 (NCM)</option>
+        </select>
+      </div>
+
+      <div class="adv-panel" id="advPanel">
+        <span class="adv-label">高级配置筛选：</span>
+        <button class="chip-toggle" data-flag="has_air_suspension">空气悬架</button>
+        <button class="chip-toggle" data-flag="has_cdc">CDC 可变阻尼</button>
+        <button class="chip-toggle" data-flag="has_rws">后轮转向</button>
+        <button class="chip-toggle" data-flag="has_rear_screen">后排屏/吸顶屏</button>
+        <button class="chip-toggle" data-flag="has_220v">车内 220V 电源</button>
+        <button class="chip-toggle" data-flag="has_v2l">对外放电 (V2L)</button>
+        <button class="chip-toggle" data-flag="has_swap">支持换电</button>
+        <button class="chip-toggle" data-flag="has_zero_gravity">零重力座椅</button>
+        <button class="chip-toggle" data-flag="has_seat_massage">座椅按摩</button>
+        <button class="chip-toggle" data-flag="has_cushion_massage">含座垫/臀部按摩</button>
+        <button class="chip-toggle" data-flag="has_streaming_mirror">车内流媒体后视镜</button>
+        <button class="chip-toggle" data-flag="has_cms_mirrors">车外电子后视镜</button>
+        <button class="chip-toggle" data-flag="has_promo">有限时优惠</button>
+        <button class="chip-toggle" data-flag="has_miit">含工信部公示</button>
+        <select id="sortSelect" style="padding:5px 10px;font-size:12px;">
           <option value="default">默认排序</option>
           <option value="price-asc">起售价：低 → 高</option>
           <option value="price-desc">起售价：高 → 低</option>
-          <option value="acc-asc">零百加速：最快优先</option>
-          <option value="range-desc">纯电续航：最长优先</option>
+          <option value="acc-asc">零百加速：最快</option>
+          <option value="range-desc">纯电续航：最长</option>
           <option value="date-desc">最新上市优先</option>
         </select>
+        <button class="chip-reset" id="resetFiltersBtn">重置全部筛选</button>
       </div>
 
       <div class="brand-bar" id="brandBar"></div>
@@ -468,7 +588,10 @@
   <main class="container">
     <div class="result-meta">
       <span id="resultCount">正在加载车型数据...</span>
-      <span><a href="https://github.com/jihuayu/cars" target="_blank" rel="noopener">GitHub 源码与 JSON 数据 ↗</a></span>
+      <span>
+        <span style="color:#fcd34d;margin-right:12px;">* 标注表示第三方数据源（请注意采集日期与实时政策变化）</span>
+        <a href="https://github.com/jihuayu/cars" target="_blank" rel="noopener">GitHub 源码与 JSON ↗</a>
+      </span>
     </div>
     <div class="grid" id="carGrid"></div>
   </main>
@@ -478,8 +601,8 @@
     <div class="modal">
       <div class="modal-header">
         <div>
-          <h2 id="modalTitle" style="font-size:20px;"></h2>
-          <div id="modalSub" style="font-size:13px;color:var(--muted);margin-top:3px;"></div>
+          <h2 id="modalTitle" style="font-size:19px;"></h2>
+          <div id="modalSub" style="font-size:12.5px;color:var(--muted);margin-top:3px;"></div>
         </div>
         <button class="modal-close" id="closeDetail" aria-label="关闭">×</button>
       </div>
@@ -492,14 +615,28 @@
     <div class="modal">
       <div class="modal-header">
         <div>
-          <h2 style="font-size:20px;">跨品牌 SKU 横向对比</h2>
-          <label style="font-size:13px;color:var(--muted);margin-top:4px;display:inline-flex;align-items:center;gap:6px;cursor:pointer;">
-            <input type="checkbox" id="diffOnlyToggle" /> 仅高亮差异项
+          <h2 style="font-size:19px;">跨品牌 SKU 横向对比</h2>
+          <label style="font-size:12.5px;color:var(--muted);margin-top:4px;display:inline-flex;align-items:center;gap:6px;cursor:pointer;">
+            <input type="checkbox" id="diffOnlyToggle" /> 仅显示差异项
           </label>
         </div>
         <button class="modal-close" id="closeCompare" aria-label="关闭">×</button>
       </div>
       <div class="modal-body" id="compareBody"></div>
+    </div>
+  </div>
+
+  <!-- Global Sources Modal -->
+  <div class="modal-backdrop" id="sourcesModal">
+    <div class="modal" style="width:min(820px,100%);">
+      <div class="modal-header">
+        <div>
+          <h2 style="font-size:18px;">工信部公示目录与数据源说明</h2>
+          <div style="font-size:12.5px;color:var(--muted);margin-top:3px;">官方配置页、工信部《道路机动车辆生产企业及产品公告》及第三方数据源*说明</div>
+        </div>
+        <button class="modal-close" id="closeSources" aria-label="关闭">×</button>
+      </div>
+      <div class="modal-body" id="sourcesBody"></div>
     </div>
   </div>
 
@@ -515,12 +652,16 @@
     const state = {
       catalog: null,
       brand: 'ALL',
+      origin: 'ALL',
       powertrain: 'ALL',
       price: 'ALL',
+      minRange: 0,
+      battery: 'ALL',
+      flags: new Set(),
       sort: 'default',
       q: '',
       modelCache: new Map(),
-      compareList: [], // [{ brand_name, model, sku }]
+      compareList: [],
     };
 
     const PT_LABELS = { BEV: '纯电', REEV: '增程', PHEV: '插混' };
@@ -532,7 +673,6 @@
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
     }
-
     function fmtPrice(rmb) {
       if (rmb == null) return '未公开';
       return `¥${(rmb / 10000).toFixed(2)}万`;
@@ -542,14 +682,8 @@
       if (min === max || max == null) return fmtPrice(min);
       return `${fmtPrice(min)} – ${fmtPrice(max)}`;
     }
-    function fmtOptionPriceBadge(p) {
-      if (p === 0) return { text: '免费选配', cls: 'free' };
-      if (typeof p === 'number') return { text: `¥${p.toLocaleString()}`, cls: 'priced' };
-      if (typeof p === 'string' && p.trim()) return { text: p.trim(), cls: 'priced' };
-      return { text: '未公开单价', cls: 'tbd' };
-    }
-    function valOrDash(v, suffix = '') {
-      if (v === null || v === undefined || v === '') return '—';
+    function valOrUnknown(v, suffix = '') {
+      if (v === null || v === undefined || v === '') return '未知';
       if (typeof v === 'boolean') return v ? '标配' : '无';
       return `${v}${suffix}`;
     }
@@ -557,16 +691,12 @@
     function bodySilhouette(category = '', brandName = '') {
       const c = String(category);
       let path = 'M18 54 L26 36 C30 28 40 24 54 24 L92 24 C106 24 118 30 126 38 L144 42 C150 44 152 49 152 54 Z';
-      if (c.includes('MPV')) {
-        path = 'M16 54 L22 28 C25 22 33 20 44 20 L122 20 C134 20 144 28 148 40 L152 54 Z';
-      } else if (c.includes('轿') || c.includes('跑')) {
-        path = 'M14 54 L28 42 L50 28 C60 23 86 23 102 28 L126 40 L152 45 L154 54 Z';
-      } else if (c.includes('两厢') || c.includes('小型')) {
-        path = 'M22 54 L30 34 C35 26 46 23 64 23 L106 23 C118 23 128 32 134 42 L144 46 L144 54 Z';
-      }
+      if (c.includes('MPV')) path = 'M16 54 L22 28 C25 22 33 20 44 20 L122 20 C134 20 144 28 148 40 L152 54 Z';
+      else if (c.includes('轿') || c.includes('跑') || c.includes('旅行') || c.includes('掀背')) path = 'M14 54 L28 42 L50 28 C60 23 86 23 102 28 L126 40 L152 45 L154 54 Z';
+      else if (c.includes('两厢') || c.includes('小型')) path = 'M22 54 L30 34 C35 26 46 23 64 23 L106 23 C118 23 128 32 134 42 L144 46 L144 54 Z';
       return `
         <div class="fallback-svg">
-          <svg viewBox="0 0 168 72" width="150" height="64" fill="none">
+          <svg viewBox="0 0 168 72" width="144" height="60" fill="none">
             <path d="${path}" fill="rgba(96,165,250,0.16)" stroke="rgba(147,197,253,0.75)" stroke-width="2" />
             <circle cx="44" cy="55" r="9" fill="#0b0e14" stroke="rgba(147,197,253,0.85)" stroke-width="2.5" />
             <circle cx="124" cy="55" r="9" fill="#0b0e14" stroke="rgba(147,197,253,0.85)" stroke-width="2.5" />
@@ -585,11 +715,12 @@
 
     function renderBrandBar() {
       const bar = document.getElementById('brandBar');
-      const brands = state.catalog.brands;
+      const brands = state.catalog.brands.filter(b => state.origin === 'ALL' || b.origin_type === state.origin);
+      const totalForOrigin = brands.reduce((a, b) => a + b.model_count, 0);
       const btns = [
-        `<button class="brand-btn ${state.brand === 'ALL' ? 'active' : ''}" data-brand="ALL">全部 (${state.catalog.total_models})</button>`,
+        `<button class="brand-btn ${state.brand === 'ALL' ? 'active' : ''}" data-brand="ALL">全部 (${totalForOrigin})</button>`,
         ...brands.map(b =>
-          `<button class="brand-btn ${state.brand === b.brand ? 'active' : ''}" data-brand="${b.brand}">${b.brand_name} (${b.model_count})</button>`
+          `<button class="brand-btn ${b.origin_type === '合资/外资' ? 'foreign' : ''} ${state.brand === b.brand ? 'active' : ''}" data-brand="${b.brand}">${escapeHtml(b.brand_name)} (${b.model_count})</button>`
         )
       ];
       bar.innerHTML = btns.join('');
@@ -604,20 +735,26 @@
 
     function filteredModels() {
       let list = [...state.catalog.models];
+      if (state.origin !== 'ALL') list = list.filter(m => m.origin_type === state.origin);
       if (state.brand !== 'ALL') list = list.filter(m => m.brand === state.brand);
       if (state.powertrain !== 'ALL') list = list.filter(m => (m.powertrains || []).includes(state.powertrain));
       if (state.price !== 'ALL') {
         const [lo, hi] = state.price.split('-').map(Number);
-        list = list.filter(m => {
-          if (m.price_min_rmb == null) return false;
-          const p = m.price_min_rmb / 10000;
-          return p >= lo && p <= hi;
-        });
+        list = list.filter(m => m.price_min_rmb != null && (m.price_min_rmb / 10000) >= lo && (m.price_min_rmb / 10000) <= hi);
+      }
+      if (state.minRange > 0) {
+        list = list.filter(m => (m.max_cltc_ev_km || 0) >= state.minRange);
+      }
+      if (state.battery !== 'ALL') {
+        list = list.filter(m => (m.battery_chemistries || []).includes(state.battery));
+      }
+      for (const flag of state.flags) {
+        list = list.filter(m => Boolean(m[flag]));
       }
       if (state.q) {
         const q = state.q.toLowerCase();
         list = list.filter(m =>
-          `${m.brand_name} ${m.brand} ${m.sub_brand || ''} ${m.model} ${m.category || ''}`.toLowerCase().includes(q)
+          `${m.brand_name} ${m.brand} ${m.sub_brand || ''} ${m.model} ${m.category || ''} ${m.origin_type || ''}`.toLowerCase().includes(q)
         );
       }
       if (state.sort === 'price-asc') list.sort((a, b) => (a.price_min_rmb ?? 9e9) - (b.price_min_rmb ?? 9e9));
@@ -632,28 +769,38 @@
       const grid = document.getElementById('carGrid');
       const list = filteredModels();
       const totalSkus = list.reduce((acc, m) => acc + (m.sku_count || 0), 0);
-      document.getElementById('resultCount').textContent = `当前显示 ${list.length} 款车型（共 ${totalSkus} 个 SKU）`;
+      document.getElementById('resultCount').textContent = `当前筛选命中 ${list.length} 款车型（共 ${totalSkus} 个 SKU）`;
 
       if (!list.length) {
-        grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;">没有匹配当前筛选条件的车型，请尝试放宽关键词或筛选条件。</div>`;
+        grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;">没有匹配当前筛选条件的车型，请点击「重置全部筛选」或放宽条件。</div>`;
         return;
       }
 
       grid.innerHTML = list.map(m => {
         const ptBadges = (m.powertrains || []).map(pt => `<span class="badge badge-${pt}">${PT_LABELS[pt] || pt}</span>`).join('');
-        const optBadge = m.option_count ? `<span class="badge badge-opt">${m.option_count} 项选装</span>` : '';
+        const originBadge = m.origin_type === '合资/外资' ? `<span class="badge badge-foreign">合资/外资</span>` : '';
+        const promoBadge = m.has_promo ? `<span class="badge badge-promo">限时权益</span>` : '';
         const fallbackEncoded = encodeURIComponent(bodySilhouette(m.category, m.brand_name));
         const mediaHtml = m.image_url
           ? `<img src="${escapeHtml(m.image_url)}" alt="${escapeHtml(m.model)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML=decodeURIComponent('${fallbackEncoded}')" />`
           : bodySilhouette(m.category, m.brand_name);
+
+        const tags = [];
+        if (m.has_air_suspension) tags.push(`<span class="mini-tag">空悬</span>`);
+        if (m.has_cdc) tags.push(`<span class="mini-tag">CDC</span>`);
+        if (m.has_rear_screen) tags.push(`<span class="mini-tag green">后排屏</span>`);
+        if (m.has_220v) tags.push(`<span class="mini-tag green">220V</span>`);
+        if (m.max_v2l_kw) tags.push(`<span class="mini-tag green">放电${m.max_v2l_kw}kW</span>`);
+        if (m.ground_clearance_mm) tags.push(`<span class="mini-tag">离地${m.ground_clearance_mm}mm</span>`);
+        if (m.has_cushion_massage) tags.push(`<span class="mini-tag green">含臀部按摩</span>`);
 
         return `
           <article class="card" data-file="${escapeHtml(m.file)}">
             <div class="card-media">
               ${mediaHtml}
               <div class="card-badges">
-                <div class="card-badges-left">${ptBadges}</div>
-                ${optBadge}
+                <div class="card-badges-left">${ptBadges}${originBadge}</div>
+                <div class="card-badges-right">${promoBadge}</div>
               </div>
             </div>
             <div class="card-body">
@@ -664,10 +811,11 @@
               <div class="card-title">${escapeHtml(m.model)}</div>
               <div class="card-price">${fmtPriceRange(m.price_min_rmb, m.price_max_rmb)}</div>
               <div class="card-metrics">
-                <div><div class="metric-label">最快零百</div><div class="metric-val">${m.best_zero_to_100_s ? m.best_zero_to_100_s + 's' : '—'}</div></div>
-                <div><div class="metric-label">最高纯电CLTC</div><div class="metric-val">${m.max_cltc_ev_km ? m.max_cltc_ev_km + 'km' : '—'}</div></div>
-                <div><div class="metric-label">在售SKU</div><div class="metric-val">${m.sku_count} 款</div></div>
+                <div><div class="metric-label">最快零百</div><div class="metric-val">${m.best_zero_to_100_s ? m.best_zero_to_100_s + 's' : '未知'}</div></div>
+                <div><div class="metric-label">最高纯电CLTC</div><div class="metric-val">${m.max_cltc_ev_km ? m.max_cltc_ev_km + 'km' : '未知'}</div></div>
+                <div><div class="metric-label">SKU / 选装</div><div class="metric-val">${m.sku_count}款 / ${m.option_count}项</div></div>
               </div>
+              ${tags.length ? `<div class="card-tags">${tags.slice(0, 6).join('')}</div>` : ''}
             </div>
           </article>
         `;
@@ -682,27 +830,37 @@
       return [
         ['官方指导价', s => fmtPrice(s.price_rmb)],
         ['BaaS 租电起售价', s => s.baas_price_rmb ? fmtPrice(s.baas_price_rmb) : '—'],
-        ['动力形式', s => PT_LABELS[s.powertrain_type] || valOrDash(s.powertrain_type)],
+        ['动力形式', s => PT_LABELS[s.powertrain_type] || valOrUnknown(s.powertrain_type)],
         ['长×宽×高 (mm)', s => {
           const d = s.dimensions || {};
           return (d.length_mm || d.width_mm || d.height_mm)
-            ? `${d.length_mm ?? '—'} × ${d.width_mm ?? '—'} × ${d.height_mm ?? '—'}` : '—';
+            ? `${d.length_mm ?? '未知'} × ${d.width_mm ?? '未知'} × ${d.height_mm ?? '未知'}` : '未知';
         }],
-        ['轴距 / 座位数', s => `${valOrDash(s.dimensions?.wheelbase_mm, 'mm')} / ${valOrDash(s.dimensions?.seats, '座')}`],
-        ['驱动形式', s => valOrDash(s.performance?.drive_type)],
-        ['电机功率 / 扭矩', s => `${valOrDash(s.performance?.motor_power_kw, 'kW')} / ${valOrDash(s.performance?.motor_torque_nm, 'N·m')}`],
-        ['0–100 km/h', s => valOrDash(s.performance?.zero_to_100_s, 's')],
-        ['电压平台', s => valOrDash(s.battery_and_charging?.voltage_platform_v, typeof s.battery_and_charging?.voltage_platform_v === 'number' ? 'V' : '')],
-        ['电池容量', s => valOrDash(s.battery_and_charging?.battery_capacity_kwh, 'kWh')],
-        ['CLTC 纯电 / 综合', s => `${valOrDash(s.battery_and_charging?.cltc_pure_electric_range_km, 'km')} / ${valOrDash(s.battery_and_charging?.cltc_combined_range_km, 'km')}`],
-        ['快充 / 换电', s => `${valOrDash(s.battery_and_charging?.fast_charge_time)}${s.battery_and_charging?.battery_swap_supported ? '（支持换电）' : ''}`],
-        ['底盘悬架', s => [s.chassis?.front_suspension, s.chassis?.rear_suspension].filter(Boolean).join(' / ') || '—'],
-        ['空气悬架 / CDC', s => `${valOrDash(s.chassis?.air_suspension)} / ${valOrDash(s.chassis?.cdc)}`],
-        ['后轮转向 / 线控转向', s => `${valOrDash(s.chassis?.rear_wheel_steering)} / ${valOrDash(s.chassis?.steer_by_wire)}`],
-        ['智驾芯片 / 算力', s => `${valOrDash(s.adas?.chip)}${s.adas?.compute_tops ? ` (${s.adas.compute_tops} TOPS)` : ''}`],
-        ['激光雷达 / 智驾方案', s => `${valOrDash(s.adas?.lidar)} · ${valOrDash(s.adas?.system)}`],
-        ['座舱芯片 / 屏幕', s => `${valOrDash(s.cockpit?.chip)} · ${valOrDash(s.cockpit?.screens)}`],
-        ['选装项数', s => (s.options && s.options.length) ? `${s.options.length} 项（见下方选装明细）` : '以官方配置器为准'],
+        ['轴距 / 座位数', s => `${valOrUnknown(s.dimensions?.wheelbase_mm, 'mm')} / ${valOrUnknown(s.dimensions?.seats, '座')}`],
+        ['底盘高度(离地间隙)', s => valOrUnknown(s.dimensions?.ground_clearance_mm, 'mm')],
+        ['整备质量', s => valOrUnknown(s.dimensions?.curb_weight_kg, 'kg')],
+        ['驱动形式 / 零百', s => `${valOrUnknown(s.performance?.drive_type)} · ${valOrUnknown(s.performance?.zero_to_100_s, 's')}`],
+        ['电机功率 / 扭矩', s => `${valOrUnknown(s.performance?.motor_power_kw, 'kW')} / ${valOrUnknown(s.performance?.motor_torque_nm, 'N·m')}`],
+        ['电压平台 / 电池种类', s => `${valOrUnknown(s.battery_and_charging?.voltage_platform_v, typeof s.battery_and_charging?.voltage_platform_v === 'number' ? 'V' : '')} · ${valOrUnknown(s.battery_and_charging?.battery_chemistry || s.battery_and_charging?.battery_type)}`],
+        ['电池容量 / 供应商', s => `${valOrUnknown(s.battery_and_charging?.battery_capacity_kwh, 'kWh')} · ${valOrUnknown(s.battery_and_charging?.battery_supplier)}`],
+        ['CLTC 纯电 / 综合', s => `${valOrUnknown(s.battery_and_charging?.cltc_pure_electric_range_km, 'km')} / ${valOrUnknown(s.battery_and_charging?.cltc_combined_range_km, 'km')}`],
+        ['快充 / 换电', s => `${valOrUnknown(s.battery_and_charging?.fast_charge_time)}${s.battery_and_charging?.battery_swap_supported ? '（支持换电）' : ''}`],
+        ['对外放电 (V2L)', s => s.battery_and_charging?.v2l_power_kw != null ? (s.battery_and_charging.v2l_power_kw > 0 ? `${s.battery_and_charging.v2l_power_kw} kW` : '不支持') : '未知'],
+        ['空气悬架 / CDC', s => `${valOrUnknown(s.chassis?.air_suspension)} / ${valOrUnknown(s.chassis?.cdc)}`],
+        ['后轮转向 / 线控转向', s => `${valOrUnknown(s.chassis?.rear_wheel_steering)} / ${valOrUnknown(s.chassis?.steer_by_wire)}`],
+        ['智驾芯片 / 激光雷达', s => `${valOrUnknown(s.adas?.chip)} · ${valOrUnknown(s.adas?.lidar)}`],
+        ['智驾方案', s => valOrUnknown(s.adas?.system)],
+        ['仪表盘形态', s => valOrUnknown(s.cockpit?.instrument_cluster)],
+        ['中控/座舱屏幕', s => valOrUnknown(s.cockpit?.screens)],
+        ['后排屏 / 吸顶屏', s => valOrUnknown(s.cockpit?.rear_screen)],
+        ['车内/后排 220V 电源', s => valOrUnknown(s.cockpit?.power_220v)],
+        ['座椅加热 / 通风', s => valOrUnknown(s.cockpit?.seat_heating_ventilation)],
+        ['座椅按摩(含臀部说明)', s => valOrUnknown(s.cockpit?.seat_massage)],
+        ['零重力座椅', s => valOrUnknown(s.cockpit?.zero_gravity_seat)],
+        ['电动方向盘调节', s => valOrUnknown(s.cockpit?.steering_wheel_electric)],
+        ['方向盘加热', s => valOrUnknown(s.cockpit?.steering_wheel_heating)],
+        ['车内流媒体后视镜', s => valOrUnknown(s.cockpit?.streaming_interior_mirror)],
+        ['车外流媒体/电子后视镜', s => valOrUnknown(s.cockpit?.streaming_exterior_mirrors)],
       ];
     }
 
@@ -713,49 +871,87 @@
           if (!opt || !opt.name) continue;
           const key = opt.name.trim();
           if (!map.has(key)) {
-            map.set(key, { name: key, price_rmb: opt.price_rmb, details: opt.details || null });
-          } else {
-            const cur = map.get(key);
-            if (cur.price_rmb == null && opt.price_rmb != null) cur.price_rmb = opt.price_rmb;
-            if (!cur.details && opt.details) cur.details = opt.details;
+            map.set(key, {
+              name: key,
+              price_rmb: opt.price_rmb,
+              promo_price_rmb: opt.promo_price_rmb ?? null,
+              promo_note: opt.promo_note || null,
+              details: opt.details || null,
+              bySku: {},
+            });
           }
+          const cur = map.get(key);
+          if (cur.price_rmb == null && opt.price_rmb != null) cur.price_rmb = opt.price_rmb;
+          if (cur.promo_price_rmb == null && opt.promo_price_rmb != null) cur.promo_price_rmb = opt.promo_price_rmb;
+          if (!cur.promo_note && opt.promo_note) cur.promo_note = opt.promo_note;
+          if (!cur.details && opt.details) cur.details = opt.details;
+          cur.bySku[s.sku_id] = opt.availability || '可选';
         }
       }
       return Array.from(map.values());
     }
 
+    function renderOptionPriceStack(o) {
+      const parts = [];
+      const hasPromo = o.promo_price_rmb !== null && o.promo_price_rmb !== undefined;
+      if (hasPromo) {
+        const promoText = o.promo_price_rmb === 0 ? '限时免费' : `限时 ¥${Number(o.promo_price_rmb).toLocaleString()}`;
+        parts.push(`<span class="option-price promo">${escapeHtml(promoText)}</span>`);
+        if (typeof o.price_rmb === 'number' && o.price_rmb > 0) {
+          parts.push(`<span class="strike">原价 ¥${o.price_rmb.toLocaleString()}</span>`);
+        }
+      } else if (o.price_rmb === 0) {
+        parts.push(`<span class="option-price free">免费选配</span>`);
+      } else if (typeof o.price_rmb === 'number') {
+        parts.push(`<span class="option-price priced">¥${o.price_rmb.toLocaleString()}</span>`);
+      } else if (typeof o.price_rmb === 'string' && o.price_rmb.trim()) {
+        parts.push(`<span class="option-price priced">${escapeHtml(o.price_rmb.trim())}</span>`);
+      } else {
+        parts.push(`<span class="option-price tbd">未公开单价</span>`);
+      }
+      if (!hasPromo && o.promo_note) {
+        parts.push(`<span class="option-price promo">${escapeHtml(o.promo_note.slice(0, 18))}</span>`);
+      }
+      return `<div class="price-stack">${parts.join('')}</div>`;
+    }
+
     async function openDetailModal(filePath) {
       const modal = document.getElementById('detailModal');
       const body = document.getElementById('modalBody');
-      body.innerHTML = '<div class="empty-state">加载官方 SKU 参数与选装明细中...</div>';
+      body.innerHTML = '<div class="empty-state">加载官方参数、工信部公示与选装明细中...</div>';
       modal.classList.add('open');
 
       const data = await loadModelDetail(filePath);
       document.getElementById('modalTitle').textContent = `${data.brand_name} · ${data.model}`;
-      const links = (data.source_urls || []).map((u, i) => `<a href="${escapeHtml(u)}" target="_blank" rel="noopener">官方配置源${i + 1} ↗</a>`).join(' · ');
-      document.getElementById('modalSub').innerHTML = `${escapeHtml(data.category || '')} · 上市时间：${escapeHtml(data.release_date || '—')} · 共 ${data.skus.length} 个 SKU ${links ? '· ' + links : ''}`;
+      document.getElementById('modalSub').textContent = `${data.origin_type || '国产'} · ${data.category || ''} · 上市：${data.release_date || '未知'} · 共 ${data.skus.length} 个 SKU · 数据日期：${data.data_as_of}`;
 
       const fallbackEncoded = encodeURIComponent(bodySilhouette(data.category, data.brand_name));
-      const photoHtml = data.image_url
-        ? `<img src="${escapeHtml(data.image_url)}" alt="${escapeHtml(data.model)}" referrerpolicy="no-referrer" onerror="this.outerHTML=decodeURIComponent('${fallbackEncoded}')" />`
+      const extPhotoHtml = data.image_url
+        ? `<img src="${escapeHtml(data.image_url)}" alt="${escapeHtml(data.model)} 外观" referrerpolicy="no-referrer" onerror="this.outerHTML=decodeURIComponent('${fallbackEncoded}')" />`
         : bodySilhouette(data.category, data.brand_name);
+      const intPhotoHtml = data.interior_image_url
+        ? `<img src="${escapeHtml(data.interior_image_url)}" alt="${escapeHtml(data.model)} 内饰" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=fallback-svg><span>内饰实拍图暂不可访问</span></div>'" />`
+        : `<div class="fallback-svg"><span>暂未收录该车型内饰/仪表盘实拍图</span></div>`;
 
-      const uniqueOpts = collectUniqueOptions(data.skus);
-      const optionsHtml = uniqueOpts.length
-        ? `<div class="options-grid">
-            ${uniqueOpts.map(o => {
-              const badge = fmtOptionPriceBadge(o.price_rmb);
-              return `
-                <div class="option-card">
-                  <div class="option-top">
-                    <div class="option-name">${escapeHtml(o.name)}</div>
-                    <span class="option-price ${badge.cls}">${escapeHtml(badge.text)}</span>
-                  </div>
-                  ${o.details ? `<div class="option-desc">${escapeHtml(o.details)}</div>` : ''}
-                </div>`;
-            }).join('')}
+      const promoHtml = (data.promo_highlights && data.promo_highlights.length)
+        ? `<div class="promo-box">
+            <div class="promo-title">官方限时购车权益与选装折扣（采集于 ${escapeHtml(data.data_as_of)}，以最新官网/门店为准）</div>
+            <ul class="promo-list">${data.promo_highlights.map(p => `<li>${escapeHtml(p)}</li>`).join('')}</ul>
           </div>`
-        : `<div style="color:var(--muted);font-size:13px;">该车型暂无公开独立选装包，配置按版型梯度划分。</div>`;
+        : '';
+
+      const miit = data.miit_filing;
+      const miitHtml = miit
+        ? `<div class="section-heading">工信部公示技术指标 <span class="count">${escapeHtml(miit.miit_batch || '已核对')}</span></div>
+          <div class="miit-grid">
+            <div class="miit-item"><div class="k">公告批次</div><div class="v">${escapeHtml(valOrUnknown(miit.miit_batch))}</div></div>
+            <div class="miit-item"><div class="k">工信部产品型号</div><div class="v">${escapeHtml(valOrUnknown(miit.product_model_code))}</div></div>
+            <div class="miit-item"><div class="k">申报整备质量</div><div class="v">${escapeHtml(valOrUnknown(miit.curb_weight_kg, ' kg'))}</div></div>
+            <div class="miit-item"><div class="k">申报总质量</div><div class="v">${escapeHtml(valOrUnknown(miit.gross_weight_kg, ' kg'))}</div></div>
+            <div class="miit-item"><div class="k">接近角 / 离去角</div><div class="v">${escapeHtml(valOrUnknown(miit.approach_departure_deg, '°'))}</div></div>
+            <div class="miit-item"><div class="k">储能装置生产企业</div><div class="v">${escapeHtml(valOrUnknown(miit.battery_supplier))}</div></div>
+          </div>`
+        : '';
 
       const rows = specRowsForSkus(data.skus);
       const thead = `
@@ -773,16 +969,69 @@
             }).join('')}
           </tr>
         </thead>`;
+      const tbody = `<tbody>${rows.map(([label, fn]) => `<tr><td>${label}</td>${data.skus.map(s => `<td>${escapeHtml(fn(s))}</td>`).join('')}</tr>`).join('')}</tbody>`;
 
-      const tbody = `
-        <tbody>
-          ${rows.map(([label, fn]) => `
-            <tr>
-              <td>${label}</td>
-              ${data.skus.map(s => `<td>${escapeHtml(fn(s))}</td>`).join('')}
-            </tr>
-          `).join('')}
-        </tbody>`;
+      const uniqueOpts = collectUniqueOptions(data.skus);
+      const hasSkuDiff = data.skus.length > 1 && uniqueOpts.some(o => new Set(data.skus.map(s => o.bySku[s.sku_id] || '不支持')).size > 1);
+      const optMatrixHtml = (uniqueOpts.length && hasSkuDiff)
+        ? `<div class="sku-table-wrap" style="margin-bottom:14px;">
+            <table class="spec-table">
+              <thead>
+                <tr>
+                  <th>选装项（分 SKU 支持情况）</th>
+                  ${data.skus.map(s => `<th>${escapeHtml(s.sku_name)}</th>`).join('')}
+                </tr>
+              </thead>
+              <tbody>
+                ${uniqueOpts.map(o => `
+                  <tr>
+                    <td>${escapeHtml(o.name)}</td>
+                    ${data.skus.map(s => {
+                      const av = o.bySku[s.sku_id] || '不支持';
+                      const cls = av === '标配' ? 'avail-std' : (av === '不支持' ? 'avail-no' : 'avail-opt');
+                      const priceHint = (av !== '标配' && av !== '不支持' && typeof o.price_rmb === 'number') ? ` (¥${o.price_rmb.toLocaleString()})` : '';
+                      return `<td class="${cls}">${escapeHtml(av + priceHint)}</td>`;
+                    }).join('')}
+                  </tr>
+                `).join('')}
+              </tbody>
+            </table>
+          </div>`
+        : '';
+
+      const optionsCardsHtml = uniqueOpts.length
+        ? `<div class="options-grid">
+            ${uniqueOpts.map(o => `
+              <div class="option-card">
+                <div class="option-top">
+                  <div class="option-name">${escapeHtml(o.name)}</div>
+                  ${renderOptionPriceStack(o)}
+                </div>
+                ${o.details ? `<div class="option-desc">${escapeHtml(o.details)}</div>` : ''}
+              </div>`).join('')}
+          </div>`
+        : `<div style="color:var(--muted);font-size:13px;">该车型暂无公开独立付费选装包（配置按版型梯度划分或以官方配置器为准）。</div>`;
+
+      const refs = (data.references && data.references.length)
+        ? data.references
+        : (data.source_urls || []).map(u => ({ title: u, url: u, type: 'official', is_third_party: false, retrieved_at: data.data_as_of }));
+      const refsHtml = `
+        <div class="section-heading">参考资料与数据来源 <span class="count">${refs.length} 条</span></div>
+        <ul class="ref-list">
+          ${refs.map(r => {
+            const isThird = Boolean(r.is_third_party);
+            const tagCls = isThird ? 'third' : (r.type === 'miit' ? 'miit' : 'official');
+            const tagText = isThird ? '第三方数据源*' : (r.type === 'miit' ? '工信部公示' : '官方配置源');
+            const dt = r.retrieved_at || data.data_as_of || '2026-11-27';
+            return `<li class="ref-item">
+              <span class="ref-tag ${tagCls}">${tagText}</span>
+              <a href="${escapeHtml(r.url)}" target="_blank" rel="noopener">${escapeHtml(r.title || r.url)} ↗</a>
+              <span style="color:var(--muted);font-size:11.5px;">采集于 ${escapeHtml(dt)}</span>
+            </li>`;
+          }).join('')}
+        </ul>
+        <div class="ref-note">注：标有 <strong>*</strong> 的为第三方汽车参数库/媒体数据源，限时优惠及选装权益存在有效期限制，请以购车当日车企官方 App 或线下门店报价为准。</div>
+      `;
 
       const prices = data.skus.map(s => s.price_rmb).filter(v => typeof v === 'number');
       const minP = prices.length ? Math.min(...prices) : null;
@@ -790,23 +1039,43 @@
 
       body.innerHTML = `
         <div class="modal-hero">
-          <div class="modal-photo">${photoHtml}</div>
+          <div class="photo-box">
+            <div class="photo-tabs">
+              <button class="photo-tab active" data-view="ext">外观实拍图</button>
+              <button class="photo-tab" data-view="int">内饰 / 仪表盘图 ${data.interior_image_url ? '✓' : ''}</button>
+            </div>
+            <div class="modal-photo" id="modalPhotoBox">${extPhotoHtml}</div>
+          </div>
           <div style="display:flex;flex-direction:column;justify-content:center;gap:10px;background:var(--surface-2);border:1px solid var(--border);border-radius:12px;padding:16px 18px;">
-            <div style="font-size:13px;color:var(--muted);">官方指导价区间</div>
+            <div style="font-size:12.5px;color:var(--muted);">官方指导价区间（${escapeHtml(data.origin_type || '国产')}）</div>
             <div style="font-size:24px;font-weight:700;color:#60a5fa;">${fmtPriceRange(minP, maxP)}</div>
             <div style="font-size:13px;color:var(--muted);">
-              在售 SKU：<strong>${data.skus.length}</strong> 款 · 已收录选装项：<strong>${uniqueOpts.length}</strong> 项 · 数据日期：${escapeHtml(data.data_as_of)}
+              在售 SKU：<strong>${data.skus.length}</strong> 款 · 收录选装：<strong>${uniqueOpts.length}</strong> 项 · 参考源：<strong>${refs.length}</strong> 条
             </div>
-            <div style="font-size:12px;color:var(--muted);">提示：点击下方表格表头「+ 加入对比」可将任意 SKU 加入跨品牌横向对比车库。</div>
+            <div style="font-size:12px;color:var(--muted);">提示：点击参数表头「+ 加入对比」支持最多 4 款跨品牌 SKU 横向对比；未公开或未查证项均如实标注为「未知」。</div>
           </div>
         </div>
 
-        <div class="section-heading">SKU 逐项核心参数 <span class="count">${data.skus.length} 款</span></div>
+        ${promoHtml}
+        ${miitHtml}
+
+        <div class="section-heading">SKU 逐项核心参数（含底盘高度、三电、舒适与流媒体后视镜） <span class="count">${data.skus.length} 款</span></div>
         <div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>
 
-        <div class="section-heading">官方选装项目与价格明细 <span class="count">${uniqueOpts.length} 项</span></div>
-        ${optionsHtml}
+        <div class="section-heading">官方选装项目、分 SKU 支持与限时价格明细 <span class="count">${uniqueOpts.length} 项</span></div>
+        ${optMatrixHtml}
+        ${optionsCardsHtml}
+
+        ${refsHtml}
       `;
+
+      body.querySelectorAll('.photo-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          body.querySelectorAll('.photo-tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          document.getElementById('modalPhotoBox').innerHTML = tab.dataset.view === 'ext' ? extPhotoHtml : intPhotoHtml;
+        });
+      });
 
       body.querySelectorAll('button[data-sku-idx]').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -821,13 +1090,9 @@
 
     function toggleCompare(brand_name, model, sku) {
       const idx = state.compareList.findIndex(x => x.sku.sku_id === sku.sku_id);
-      if (idx >= 0) {
-        state.compareList.splice(idx, 1);
-      } else {
-        if (state.compareList.length >= 4) {
-          alert('最多同时对比 4 个 SKU，请先移除一个。');
-          return;
-        }
+      if (idx >= 0) state.compareList.splice(idx, 1);
+      else {
+        if (state.compareList.length >= 4) { alert('最多同时对比 4 个 SKU，请先移除一个。'); return; }
         state.compareList.push({ brand_name, model, sku });
       }
       renderCompareTray();
@@ -844,10 +1109,7 @@
         </span>
       `).join('');
       tray.querySelectorAll('button[data-rm]').forEach(btn => {
-        btn.addEventListener('click', () => {
-          state.compareList.splice(Number(btn.dataset.rm), 1);
-          renderCompareTray();
-        });
+        btn.addEventListener('click', () => { state.compareList.splice(Number(btn.dataset.rm), 1); renderCompareTray(); });
       });
     }
 
@@ -856,13 +1118,7 @@
       const items = state.compareList;
       if (!items.length) return;
       const skus = items.map(i => i.sku);
-      const rows = [
-        ...specRowsForSkus(skus).slice(0, -1),
-        ['选装及价格', s => (s.options && s.options.length)
-          ? s.options.map(o => `${o.name}${o.price_rmb != null ? ` (${typeof o.price_rmb === 'number' ? '¥' + o.price_rmb.toLocaleString() : o.price_rmb})` : ''}`).join('；')
-          : '以官方配置器为准'
-        ]
-      ];
+      const rows = specRowsForSkus(skus);
       const thead = `
         <thead>
           <tr>
@@ -882,37 +1138,82 @@
       document.getElementById('compareBody').innerHTML = `<div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>`;
     }
 
+    function openSourcesModal() {
+      const portals = state.catalog.miit_portals || [];
+      document.getElementById('sourcesBody').innerHTML = `
+        <div class="section-heading" style="margin-top:0;">工信部官方公示门户 <span class="count">${portals.length} 个</span></div>
+        <ul class="ref-list">
+          ${portals.map(p => `<li class="ref-item"><span class="ref-tag miit">工信部公示</span><a href="${escapeHtml(p.url)}" target="_blank" rel="noopener">${escapeHtml(p.title)} ↗</a></li>`).join('')}
+        </ul>
+        <div class="section-heading">数据采集与第三方数据源* 规范说明</div>
+        <div style="font-size:13px;color:var(--muted);line-height:1.7;background:var(--surface-2);border:1px solid var(--border);border-radius:12px;padding:14px 16px;">
+          <p>1. <strong>官方配置源</strong>：优先采集自各车企中国大陆官网配置表与工信部《道路机动车辆生产企业及产品公告》。</p>
+          <p>2. <strong>第三方数据源*</strong>：对于官网未以静态参数表公开的字段（如离地间隙、部分合资车型终端行情、内饰实拍图），补充参考汽车之家、易车、懂车帝、太平洋汽车、搜狐汽车等第三方数据库，并在每款车型的「参考资料与数据来源」中以 <strong>*</strong> 明确标出及注明采集日期（<strong>${escapeHtml(state.catalog.data_as_of)}</strong>）。</p>
+          <p>3. <strong>时效与未知项原则</strong>：限时现金减免、选装免费/折扣权益均有时效限制，购车前请以官方 App 下订页为准；所有未查到可靠来源的舒适或硬件配置项均如实标为「未知」，绝不编造。</p>
+        </div>
+      `;
+      document.getElementById('sourcesModal').classList.add('open');
+    }
+
     async function init() {
       const res = await fetch('./catalog.json');
       state.catalog = await res.json();
-      const imgCount = state.catalog.models.filter(m => m.image_url).length;
+      const domCount = state.catalog.models.filter(m => m.origin_type === '国产').length;
+      const forCount = state.catalog.models.filter(m => m.origin_type === '合资/外资').length;
       document.getElementById('statsRow').innerHTML = `
         <span class="stat-pill"><strong>${state.catalog.total_brands}</strong> 品牌</span>
-        <span class="stat-pill"><strong>${state.catalog.total_models}</strong> 车型</span>
+        <span class="stat-pill"><strong>${state.catalog.total_models}</strong> 车型（国产${domCount} / 合资外资${forCount}）</span>
         <span class="stat-pill"><strong>${state.catalog.total_skus}</strong> SKU</span>
-        <span class="stat-pill">实拍图 <strong>${imgCount}/${state.catalog.total_models}</strong></span>
+        <span class="stat-pill clickable" id="openSourcesBtn">工信部目录与数据源 ↗</span>
         <span class="stat-pill">更新于 <strong>${state.catalog.data_as_of}</strong></span>
       `;
+      document.getElementById('openSourcesBtn').addEventListener('click', openSourcesModal);
       renderBrandBar();
       renderGrid();
     }
 
     document.getElementById('searchInput').addEventListener('input', e => { state.q = e.target.value.trim(); renderGrid(); });
+    document.getElementById('originFilter').addEventListener('change', e => { state.origin = e.target.value; state.brand = 'ALL'; renderBrandBar(); renderGrid(); });
     document.getElementById('powertrainFilter').addEventListener('change', e => { state.powertrain = e.target.value; renderGrid(); });
     document.getElementById('priceFilter').addEventListener('change', e => { state.price = e.target.value; renderGrid(); });
+    document.getElementById('rangeFilter').addEventListener('change', e => { state.minRange = Number(e.target.value); renderGrid(); });
+    document.getElementById('batteryFilter').addEventListener('change', e => { state.battery = e.target.value; renderGrid(); });
     document.getElementById('sortSelect').addEventListener('change', e => { state.sort = e.target.value; renderGrid(); });
+
+    document.querySelectorAll('.chip-toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const f = btn.dataset.flag;
+        if (state.flags.has(f)) { state.flags.delete(f); btn.classList.remove('active'); }
+        else { state.flags.add(f); btn.classList.add('active'); }
+        renderGrid();
+      });
+    });
+
+    document.getElementById('resetFiltersBtn').addEventListener('click', () => {
+      state.brand = 'ALL'; state.origin = 'ALL'; state.powertrain = 'ALL'; state.price = 'ALL';
+      state.minRange = 0; state.battery = 'ALL'; state.sort = 'default'; state.q = '';
+      state.flags.clear();
+      document.getElementById('searchInput').value = '';
+      document.getElementById('originFilter').value = 'ALL';
+      document.getElementById('powertrainFilter').value = 'ALL';
+      document.getElementById('priceFilter').value = 'ALL';
+      document.getElementById('rangeFilter').value = '0';
+      document.getElementById('batteryFilter').value = 'ALL';
+      document.getElementById('sortSelect').value = 'default';
+      document.querySelectorAll('.chip-toggle').forEach(b => b.classList.remove('active'));
+      renderBrandBar();
+      renderGrid();
+    });
 
     document.getElementById('closeDetail').addEventListener('click', () => document.getElementById('detailModal').classList.remove('open'));
     document.getElementById('detailModal').addEventListener('click', e => { if (e.target.id === 'detailModal') e.target.classList.remove('open'); });
-
-    document.getElementById('openCompareBtn').addEventListener('click', () => {
-      renderCompareModal();
-      document.getElementById('compareModal').classList.add('open');
-    });
+    document.getElementById('openCompareBtn').addEventListener('click', () => { renderCompareModal(); document.getElementById('compareModal').classList.add('open'); });
     document.getElementById('diffOnlyToggle').addEventListener('change', renderCompareModal);
     document.getElementById('closeCompare').addEventListener('click', () => document.getElementById('compareModal').classList.remove('open'));
     document.getElementById('compareModal').addEventListener('click', e => { if (e.target.id === 'compareModal') e.target.classList.remove('open'); });
     document.getElementById('clearCompareBtn').addEventListener('click', () => { state.compareList = []; renderCompareTray(); });
+    document.getElementById('closeSources').addEventListener('click', () => document.getElementById('sourcesModal').classList.remove('open'));
+    document.getElementById('sourcesModal').addEventListener('click', e => { if (e.target.id === 'sourcesModal') e.target.classList.remove('open'); });
 
     init();
   </script>

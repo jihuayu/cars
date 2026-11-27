@@ -1,7 +1,7 @@
 {
   "brand": "deepal",
   "brand_name": "深蓝",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "深蓝L07（2026款）",
   "model_slug": "l07-2026",
   "category": "中型轿车",
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -73,23 +74,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(55英寸AR-HUD)",
+        "seat_heating_ventilation": "前排靠背及座垫加热/通风，二排无",
+        "seat_massage": "副驾8点分区背部按摩(不含座垫)，主驾可选装8点分区背部按摩(不含座垫)",
+        "zero_gravity_seat": "副驾标配/主驾选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "品质智享座舱包",
           "price_rmb": 7299,
-          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
           "price_rmb": null,
-          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -129,10 +143,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -156,23 +171,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(55英寸AR-HUD)",
+        "seat_heating_ventilation": "前排靠背及座垫加热/通风，二排无",
+        "seat_massage": "副驾8点分区背部按摩(不含座垫)，主驾可选装8点分区背部按摩(不含座垫)",
+        "zero_gravity_seat": "副驾标配/主驾选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "品质智享座舱包",
           "price_rmb": 7299,
-          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
           "price_rmb": null,
-          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -212,10 +240,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -239,23 +268,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(55英寸AR-HUD)",
+        "seat_heating_ventilation": "前排靠背及座垫加热/通风，二排无",
+        "seat_massage": "副驾8点分区背部按摩(不含座垫)，主驾可选装8点分区背部按摩(不含座垫)",
+        "zero_gravity_seat": "副驾标配/主驾选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "品质智享座舱包",
           "price_rmb": 7299,
-          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
           "price_rmb": null,
-          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -295,10 +337,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -322,23 +365,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(55英寸AR-HUD)",
+        "seat_heating_ventilation": "前排靠背及座垫加热/通风，二排无",
+        "seat_massage": "副驾8点分区背部按摩(不含座垫)，主驾可选装8点分区背部按摩(不含座垫)",
+        "zero_gravity_seat": "副驾标配/主驾选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "品质智享座舱包",
           "price_rmb": 7299,
-          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
           "price_rmb": null,
-          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -378,10 +434,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -405,26 +462,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(55英寸AR-HUD)",
+        "seat_heating_ventilation": "前排靠背及座垫加热/通风，二排无",
+        "seat_massage": "副驾8点分区背部按摩(不含座垫)，主驾可选装8点分区背部按摩(不含座垫)",
+        "zero_gravity_seat": "副驾标配/主驾选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "品质智享座舱包",
           "price_rmb": 7299,
-          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）"
+          "details": "包含智能香氛系统及主驾16向零重力按摩座椅（6向电动基础调节、4向电动腰托、2向电动侧翼、2向电动腿托、2向座椅角度翻转、120°平躺、8点分区背部按摩、靠背和座垫通风加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（城区辅助/记忆泊车）",
           "price_rmb": null,
-          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价"
+          "details": "2026款全系搭载华为乾崑ADS SE，城市路段辅助驾驶及记忆泊车标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M08/EC/7E/400x400_0_f42_autohomecar__ChxpVmq6WH-ADRCkABISuRNW_Lk505.jpg"
+  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M08/EC/7E/400x400_0_f42_autohomecar__ChxpVmq6WH-ADRCkABISuRNW_Lk505.jpg",
+  "promo_highlights": [
+    "2026款限时优惠价13.59万-15.59万元（直降1万元），AI激光版限时权益价14.99万-15.99万元",
+    "全系享5年0息限时金融权益"
+  ],
+  "references": [
+    {
+      "title": "深蓝 深蓝L07（2026款） 官方配置页 (deepal.com.cn)",
+      "url": "https://deepal.com.cn/car/configuration?car=L07&source=1&sort=1",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://q4.itc.cn/q_70/images01/20240729/9cdc4c3980004a4dbeef57019d662234.png"
 }

@@ -1,0 +1,192 @@
+{
+  "brand": "joint-other",
+  "brand_name": "马自达/福特/雷克萨斯",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 4,
+  "sku_count": 8,
+  "models": [
+    {
+      "brand": "joint-other",
+      "brand_name": "马自达/福特/雷克萨斯",
+      "origin_type": "合资/外资",
+      "model": "福特电马Mustang Mach-E",
+      "model_slug": "ford-mustang-mach-e",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2023-12-10",
+      "image_url": "https://car1.dd-img.com/serie/year/a6db5e6dab5ce14edec388c4809f3913.png",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 263800,
+      "price_max_rmb": 349800,
+      "best_zero_to_100_s": 3.57,
+      "max_cltc_ev_km": 609,
+      "ground_clearance_mm": 150,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/joint-other/ford-mustang-mach-e.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/spec/66122.html",
+        "https://detail.zol.com.cn/1975/1974752/param.shtml"
+      ]
+    },
+    {
+      "brand": "joint-other",
+      "brand_name": "马自达/福特/雷克萨斯",
+      "origin_type": "合资/外资",
+      "model": "雷克萨斯RZ",
+      "model_slug": "lexus-rz",
+      "sub_brand": null,
+      "category": "中型豪华纯电SUV",
+      "release_date": "2023-12-15",
+      "image_url": "https://up-lexus-test.oss-cn-beijing.aliyuncs.com/news/7e26ca5ce01a4bc1a8caf5955c0d474f.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 1,
+      "price_min_rmb": 379900,
+      "price_max_rmb": 459900,
+      "best_zero_to_100_s": 5.3,
+      "max_cltc_ev_km": 614,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/joint-other/lexus-rz.json",
+      "source_urls": [
+        "https://www.lexus.com.cn/node/5709",
+        "https://car.autohome.com.cn/config/series/6525.html"
+      ]
+    },
+    {
+      "brand": "joint-other",
+      "brand_name": "马自达/福特/雷克萨斯",
+      "origin_type": "合资/外资",
+      "model": "长安马自达EZ-6",
+      "model_slug": "mazda-ez6",
+      "sub_brand": null,
+      "category": "中型新能源掀背车",
+      "release_date": "2025-11-01",
+      "image_url": "https://k.sinaimg.cn/n/default/f8781c75/20260807/qiche_019.jpeg/w700d1q75cms.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 144800,
+      "price_max_rmb": 162800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 600,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/joint-other/mazda-ez6.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7692.html"
+      ]
+    },
+    {
+      "brand": "joint-other",
+      "brand_name": "马自达/福特/雷克萨斯",
+      "origin_type": "合资/外资",
+      "model": "长安马自达EZ-60",
+      "model_slug": "mazda-ez60",
+      "sub_brand": null,
+      "category": "中型新能源SUV",
+      "release_date": "2026-09-26",
+      "image_url": "https://q6.itc.cn/images01/20250927/27294699ead34f4abea30ba8c00cabbb.jpeg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 139900,
+      "price_max_rmb": 160900,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 600,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/joint-other/mazda-ez60.json",
+      "source_urls": [
+        "https://www.changan-mazda.com.cn/headlines/detail/?id=789",
+        "https://car.autohome.com.cn/config/spec/79343.html"
+      ]
+    }
+  ]
+}

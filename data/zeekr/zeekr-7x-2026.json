@@ -1,7 +1,7 @@
 {
   "brand": "zeekr",
   "brand_name": "极氪",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "极氪7X（2026款）",
   "model_slug": "zeekr-7x-2026",
   "category": "中型纯电SUV",
@@ -22,11 +22,12 @@
         "height_mm": 1666,
         "wheelbase_mm": 2925,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2320,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "150-230"
       },
       "performance": {
         "drive_type": "后驱",
@@ -38,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "金砖磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(时代吉利)",
         "battery_capacity_kwh": 75,
         "cltc_pure_electric_range_km": 620,
         "cltc_combined_range_km": 620,
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 10.5min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,18 +75,30 @@
         "hud": "36.21英寸AR-HUD",
         "audio": "21扬声器",
         "fridge": "选装2999元",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "选装 13英寸2K OLED后排智慧屏（5000元后排科技交互套装）",
+        "power_220v": "选装 车内220V交流电源（5000元选配）",
+        "instrument_cluster": "13.02英寸全液晶仪表+36.21英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "魔毯单腔空悬套装（Max）",
           "price_rmb": 20000,
-          "details": "空悬+CCD"
+          "details": "空悬+CCD",
+          "availability": "可选"
         },
         {
           "name": "自动开合门 / Stargate灯幕 / 后排科技套装",
           "price_rmb": "16000 / 8000 / 5000",
-          "details": "含13英寸2K OLED后排屏"
+          "details": "含13英寸2K OLED后排屏",
+          "availability": "可选"
         }
       ]
     },
@@ -100,11 +114,12 @@
         "height_mm": 1666,
         "wheelbase_mm": 2925,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2320,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "150-230"
       },
       "performance": {
         "drive_type": "后驱",
@@ -116,7 +131,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "麒麟三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(时代吉利)",
         "battery_capacity_kwh": 103,
         "cltc_pure_electric_range_km": 802,
         "cltc_combined_range_km": 802,
@@ -124,10 +139,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 10min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -151,18 +167,30 @@
         "hud": "36.21英寸AR-HUD",
         "audio": "21扬声器",
         "fridge": "选装2999元",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "选装 13英寸2K OLED后排智慧屏（5000元后排科技交互套装）",
+        "power_220v": "选装 车内220V交流电源（5000元选配）",
+        "instrument_cluster": "13.02英寸全液晶仪表+36.21英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "魔毯单腔空悬套装（Max）",
           "price_rmb": 20000,
-          "details": "空悬+CCD"
+          "details": "空悬+CCD",
+          "availability": "可选"
         },
         {
           "name": "自动开合门 / Stargate灯幕 / 后排科技套装",
           "price_rmb": "16000 / 8000 / 5000",
-          "details": "含13英寸2K OLED后排屏"
+          "details": "含13英寸2K OLED后排屏",
+          "availability": "可选"
         }
       ]
     },
@@ -178,11 +206,12 @@
         "height_mm": 1656,
         "wheelbase_mm": 2925,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2320,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "150-230"
       },
       "performance": {
         "drive_type": "四驱",
@@ -194,7 +223,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "麒麟三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(时代吉利)",
         "battery_capacity_kwh": 103,
         "cltc_pure_electric_range_km": 715,
         "cltc_combined_range_km": 715,
@@ -202,10 +231,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 10min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -229,21 +259,63 @@
         "hud": "36.21英寸AR-HUD",
         "audio": "21扬声器",
         "fridge": "选装2999元",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "选装 13英寸2K OLED后排智慧屏（5000元后排科技交互套装）",
+        "power_220v": "选装 车内220V交流电源（5000元选配）",
+        "instrument_cluster": "13.02英寸全液晶仪表+36.21英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "魔毯单腔空悬套装（Max）",
           "price_rmb": 20000,
-          "details": "空悬+CCD"
+          "details": "空悬+CCD",
+          "availability": "可选"
         },
         {
           "name": "自动开合门 / Stargate灯幕 / 后排科技套装",
           "price_rmb": "16000 / 8000 / 5000",
-          "details": "含13英寸2K OLED后排屏"
+          "details": "含13英寸2K OLED后排屏",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://zcms.zeekrlife.com/published/assets/e43663416a6ef4d925d682a72c7414fbc36f7f3acc414df83565d9ea49287850/1574.jpg"
+  "image_url": "https://zcms.zeekrlife.com/published/assets/e43663416a6ef4d925d682a72c7414fbc36f7f3acc414df83565d9ea49287850/1574.jpg",
+  "promo_highlights": [
+    "2027款同步上市限时权益价21.68万元起",
+    "首销期0元享总价值31000元豪华进阶礼（双零重力座椅、20英寸轮毂、专属车色）+2年0息"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 2320,
+    "gross_weight_kg": 2810,
+    "approach_departure_deg": "19/19",
+    "battery_supplier": "宁德时代(时代吉利)"
+  },
+  "references": [
+    {
+      "title": "极氪 极氪7X（2026款） 官方配置页 (m.zeekrlife.com)",
+      "url": "https://m.zeekrlife.com/config",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极氪7X参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/69100.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

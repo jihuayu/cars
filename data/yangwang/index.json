@@ -1,22 +1,28 @@
 {
   "brand": "yangwang",
   "brand_name": "仰望",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 3,
   "sku_count": 10,
   "models": [
     {
       "brand": "yangwang",
       "brand_name": "仰望",
+      "origin_type": "国产",
       "model": "仰望U7（2026款）",
       "model_slug": "yangwang-u7-2026",
       "sub_brand": null,
       "category": "百万级旗舰行政轿车",
       "release_date": "2026-03-05",
       "image_url": "https://www.yangwangauto.com/material/yangwang_cn/images/u7-202511/u720251118/yangwangu7buchongsucai-1117/U7-%E9%A6%96%E5%B1%8F%E9%A1%B5%E9%9D%A2-001-3840x2160.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "BEV",
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 5,
       "option_count": 4,
@@ -24,6 +30,22 @@
       "price_max_rmb": 888000,
       "best_zero_to_100_s": 2.9,
       "max_cltc_ev_km": 1006,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/yangwang/yangwang-u7-2026.json",
       "source_urls": [
         "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4"
@@ -32,14 +54,19 @@
     {
       "brand": "yangwang",
       "brand_name": "仰望",
+      "origin_type": "国产",
       "model": "仰望U8 / U8L（2026款）",
       "model_slug": "yangwang-u8-2026",
       "sub_brand": null,
       "category": "百万级全尺寸硬派/行政SUV",
       "release_date": "2026-03-05",
       "image_url": "https://img6.donews.com/img/2024/01/19/img_pic_201705641208.png",
+      "interior_image_url": null,
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 6,
@@ -47,6 +74,22 @@
       "price_max_rmb": 1458000,
       "best_zero_to_100_s": 3.5,
       "max_cltc_ev_km": 230,
+      "ground_clearance_mm": 285,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/yangwang/yangwang-u8-2026.json",
       "source_urls": [
         "https://www.yangwangauto.com/car-detail-u8",
@@ -56,14 +99,19 @@
     {
       "brand": "yangwang",
       "brand_name": "仰望",
+      "origin_type": "国产",
       "model": "仰望U9 / U9 Xtreme",
       "model_slug": "yangwang-u9",
       "sub_brand": null,
       "category": "百万级纯电超跑",
       "release_date": "2024-02-25",
       "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/04/07/17/034dc1f4a43f419c9c34938cda2a66ce.png!jpg",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 2,
       "option_count": 8,
@@ -71,6 +119,22 @@
       "price_max_rmb": 1680000,
       "best_zero_to_100_s": 2.36,
       "max_cltc_ev_km": 450,
+      "ground_clearance_mm": 145,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/yangwang/yangwang-u9.json",
       "source_urls": [
         "https://www.yangwangauto.com/car-u9-detail"

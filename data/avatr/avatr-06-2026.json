@@ -1,7 +1,7 @@
 {
   "brand": "avatr",
   "brand_name": "阿维塔",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "阿维塔06（2026款）",
   "model_slug": "avatr-06-2026",
   "category": "中型轿车",
@@ -50,7 +50,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -74,68 +75,93 @@
         "hud": null,
         "audio": "英国之宝16扬声器（1408W）",
         "fridge": null,
-        "seat_features": "可选装主副驾双零重力座椅"
+        "seat_features": "可选装主副驾双零重力座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(主驾/副驾均可选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "主副驾零重力座椅",
           "price_rmb": 20000,
-          "details": "含电动腿托（限时免费升级）"
+          "details": "含电动腿托（限时免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费升级",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜套装",
           "price_rmb": 12000,
-          "details": "含双6.7英寸高清后视屏+迎宾动效"
+          "details": "含双6.7英寸高清后视屏+迎宾动效",
+          "availability": "可选"
         },
         {
           "name": "前排智能电动门",
           "price_rmb": 6000,
-          "details": "前排电动门"
+          "details": "前排电动门",
+          "availability": "可选"
         },
         {
           "name": "运动套件",
           "price_rmb": 6000,
-          "details": "外观运动套件"
+          "details": "外观运动套件",
+          "availability": "可选"
         },
         {
           "name": "外饰色 / NAPPA内饰尊享套装",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "运动风格外观套件",
           "price_rmb": 6000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能电动门（自动开合车门+前排电吸门）",
           "price_rmb": 8000,
-          "details": "Max等可选，Ultra标配"
+          "details": "Max等可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": "2026款Max可选"
+          "details": "2026款Max可选",
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": "2026款Max可选"
+          "details": "2026款Max可选",
+          "availability": "可选"
         },
         {
           "name": "25扬声器英国之宝音响（2016W/7.1.4）",
           "price_rmb": 10000,
-          "details": "部分版本可选"
+          "details": "部分版本可选",
+          "availability": "可选"
         },
         {
           "name": "HALO交互屏",
           "price_rmb": 5000,
-          "details": "部分纯电版本可选"
+          "details": "部分纯电版本可选",
+          "availability": "可选"
         }
       ]
     },
@@ -178,7 +204,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -202,66 +229,130 @@
         "hud": null,
         "audio": "英国之宝16扬声器（1408W）",
         "fridge": null,
-        "seat_features": "可选装主副驾双零重力座椅"
+        "seat_features": "可选装主副驾双零重力座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(主驾/副驾均可选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "主副驾零重力座椅",
           "price_rmb": 20000,
-          "details": "含电动腿托（限时免费升级）"
+          "details": "含电动腿托（限时免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费升级",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜套装",
           "price_rmb": 12000,
-          "details": "含双6.7英寸高清后视屏+迎宾动效"
+          "details": "含双6.7英寸高清后视屏+迎宾动效",
+          "availability": "可选"
         },
         {
           "name": "前排智能电动门",
           "price_rmb": 6000,
-          "details": "前排电动门"
+          "details": "前排电动门",
+          "availability": "可选"
         },
         {
           "name": "运动套件",
           "price_rmb": 6000,
-          "details": "外观运动套件"
+          "details": "外观运动套件",
+          "availability": "可选"
         },
         {
           "name": "运动风格外观套件",
           "price_rmb": 6000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能电动门（自动开合车门+前排电吸门）",
           "price_rmb": 8000,
-          "details": "Max等可选，Ultra标配"
+          "details": "Max等可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": "2026款Max可选"
+          "details": "2026款Max可选",
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": "2026款Max可选"
+          "details": "2026款Max可选",
+          "availability": "可选"
         },
         {
           "name": "25扬声器英国之宝音响（2016W/7.1.4）",
           "price_rmb": 10000,
-          "details": "部分版本可选"
+          "details": "部分版本可选",
+          "availability": "可选"
         },
         {
           "name": "HALO交互屏",
           "price_rmb": 5000,
-          "details": "部分纯电版本可选"
+          "details": "部分纯电版本可选",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g33/M04/E1/6B/autohomecar__ChxpVmrVf6GAfK7aAA33hH_ltig373.png?x_image_process=text/55S15Yqo6L2m5YWs56S-/fontSize/12"
+  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g33/M04/E1/6B/autohomecar__ChxpVmrVf6GAfK7aAA33hH_ltig373.png?x_image_process=text/55S15Yqo6L2m5YWs56S-/fontSize/12",
+  "promo_highlights": [
+    "2026年10月29日-11月30日限时4000元现金优惠、10000元购置税补贴",
+    "21000元ADS Max高阶功能包等额抵扣券",
+    "5年0息限时金融政策（16万限额）",
+    "价值20000元主副驾零重力座椅免费升级",
+    "至高3000元外饰色限时折扣"
+  ],
+  "miit_filing": {
+    "miit_batch": "第390批",
+    "product_model_code": "SC7151HDA6HEV",
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "阿维塔 阿维塔06（2026款） 官方配置页 (www.avatr.com)",
+      "url": "https://www.avatr.com/configuration?car=06",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "阿维塔 阿维塔06（2026款） 官方配置页 (www.avatr.com)",
+      "url": "https://www.avatr.com/rights?car=06",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第390批：阿维塔06申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/18384240",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://n.sinaimg.cn/auto/transform/231/w660h371/20250319/30a8-4685a9ceb3c341aa8f9fa8fe1578b0d3.jpg"
 }

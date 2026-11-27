@@ -1,7 +1,7 @@
 {
   "brand": "deepal",
   "brand_name": "深蓝",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "深蓝G318（2026款）",
   "model_slug": "g318-2026",
   "category": "中大型科技硬派增程SUV",
@@ -23,11 +23,12 @@
         "height_mm": 1895,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2360,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-240"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -47,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,28 +76,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风，部分高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "外挂背负式备胎套件",
           "price_rmb": null,
-          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价",
+          "availability": "可选"
         },
         {
           "name": "后排多层隔音玻璃",
           "price_rmb": null,
-          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "原厂拖车钩及车顶探照灯等户外拓展件",
           "price_rmb": null,
-          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -111,11 +127,12 @@
         "height_mm": 1895,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2360,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-240"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -135,10 +152,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -162,28 +180,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风，部分高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "外挂背负式备胎套件",
           "price_rmb": null,
-          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价",
+          "availability": "可选"
         },
         {
           "name": "后排多层隔音玻璃",
           "price_rmb": null,
-          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "原厂拖车钩及车顶探照灯等户外拓展件",
           "price_rmb": null,
-          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -199,11 +231,12 @@
         "height_mm": 1895,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2360,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-240"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -223,10 +256,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -250,28 +284,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风，部分高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "外挂背负式备胎套件",
           "price_rmb": null,
-          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价",
+          "availability": "可选"
         },
         {
           "name": "后排多层隔音玻璃",
           "price_rmb": null,
-          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "原厂拖车钩及车顶探照灯等户外拓展件",
           "price_rmb": null,
-          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -287,11 +335,12 @@
         "height_mm": 1895,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2360,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-240"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -311,10 +360,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -338,28 +388,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风，部分高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "外挂背负式备胎套件",
           "price_rmb": null,
-          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价",
+          "availability": "可选"
         },
         {
           "name": "后排多层隔音玻璃",
           "price_rmb": null,
-          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "原厂拖车钩及车顶探照灯等户外拓展件",
           "price_rmb": null,
-          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -375,11 +439,12 @@
         "height_mm": 1895,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2360,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-240"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -399,10 +464,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -426,31 +492,82 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风，部分高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "外挂背负式备胎套件",
           "price_rmb": null,
-          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价"
+          "details": "2026款侧开式尾门支持背负式全尺寸外挂备胎套件选装（部分版型标配），未公开单独选装价",
+          "availability": "可选"
         },
         {
           "name": "后排多层隔音玻璃",
           "price_rmb": null,
-          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价"
+          "details": "2026款四驱畅行乾崑版配置表标注后排侧窗多层隔音玻璃为选配，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "原厂拖车钩及车顶探照灯等户外拓展件",
           "price_rmb": null,
-          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价"
+          "details": "2026款标配1,600kg准拖挂车总质量资质、原厂车顶行李架及固定侧踏板，原厂拖车钩与射灯等户外拓展件支持选装，未公开2026款单独选装价",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M03/7A/5A/400x400_0_f42_autohomecar__ChxpVWqC2f6AbCuQAAT8tpAQyrE536.jpg"
+  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M03/7A/5A/400x400_0_f42_autohomecar__ChxpVWqC2f6AbCuQAAT8tpAQyrE536.jpg",
+  "promo_highlights": [
+    "四驱畅行乾崑版官方一口价18.98万元，空悬版限时优惠1万元",
+    "免费赠送整车终身质保服务、智驾礼包、全系享5年0息限时金融权益"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 2360,
+    "gross_weight_kg": 2800,
+    "approach_departure_deg": null,
+    "battery_supplier": "中创新航"
+  },
+  "references": [
+    {
+      "title": "深蓝 深蓝G318（2026款） 官方配置页 (www.deepal.com.cn)",
+      "url": "https://www.deepal.com.cn/car/parameter",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "深蓝 深蓝G318（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7569.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "深蓝G318工信部申报信息",
+      "url": "https://auto.sina.cn/zz/hy/2024-01-16/detail-inacrfmv7796056.d.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://res.cqnews.net/contentcloud/1/ORIGINAL/DEFAULT/PICTURE/2024/3/18/398e380b0a9145619fdf2a64a22b04ef_wh1264x717.jpg"
 }

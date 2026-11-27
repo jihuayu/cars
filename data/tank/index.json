@@ -1,21 +1,27 @@
 {
   "brand": "tank",
   "brand_name": "坦克新能源",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 2,
   "sku_count": 6,
   "models": [
     {
       "brand": "tank",
       "brand_name": "坦克新能源",
+      "origin_type": "国产",
       "model": "全新坦克400 Hi4-T / Hi4-Z（2026款）",
       "model_slug": "tank-400-2026",
       "sub_brand": null,
       "category": "中大型机甲硬派插混越野SUV",
       "release_date": "2025-11-06",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/9D/1C/400x400_1_q40_c40_autohomecar__ChxpWGjVRSCAXYw6AHAwYsb7kw8454.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 3,
       "option_count": 5,
@@ -23,6 +29,22 @@
       "price_max_rmb": 319800,
       "best_zero_to_100_s": 4.3,
       "max_cltc_ev_km": null,
+      "ground_clearance_mm": 224,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/tank/tank-400-2026.json",
       "source_urls": [
         "https://www.tanksuv.com/tank400.html"
@@ -31,14 +53,19 @@
     {
       "brand": "tank",
       "brand_name": "坦克新能源",
+      "origin_type": "国产",
       "model": "27款坦克500 Hi4-T / Hi4-Z",
       "model_slug": "tank-500-2027",
       "sub_brand": null,
       "category": "中大型豪华硬派插混越野SUV",
       "release_date": "2026-10-23",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/CC/83/400x400_1_q40_c40_autohomecar__ChxpWGrR6-6AAGNOAC3jnS7vxnI297.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 3,
       "option_count": 8,
@@ -46,6 +73,22 @@
       "price_max_rmb": 375000,
       "best_zero_to_100_s": 4.6,
       "max_cltc_ev_km": null,
+      "ground_clearance_mm": "210-213",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/tank/tank-500-2027.json",
       "source_urls": [
         "https://www.tanksuv.com/carparam-500.html"

@@ -1,7 +1,7 @@
 {
   "brand": "geely-galaxy",
   "brand_name": "吉利银河",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "吉利银河M9（旗舰6座）",
   "model_slug": "galaxy-m9-2026",
   "category": "全尺寸6座插混旗舰SUV",
@@ -49,7 +49,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,28 +74,47 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K后排吸顶屏",
+        "power_220v": "标配 三排220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表(高配+32英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风及三排加热",
+        "seat_massage": "高配前排16点指压按摩、二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "魔毯星驰套装",
           "price_rmb": 20000,
-          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）"
+          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "双屏智享套装",
           "price_rmb": 15000,
-          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）"
+          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "27扬Flyme Sound无界之声",
           "price_rmb": 15800,
-          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）"
+          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时0元享",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": null,
-          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）"
+          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         }
       ]
     },
@@ -137,7 +157,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -161,28 +182,47 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K后排吸顶屏",
+        "power_220v": "标配 三排220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表(高配+32英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风及三排加热",
+        "seat_massage": "高配前排16点指压按摩、二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "魔毯星驰套装",
           "price_rmb": 20000,
-          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）"
+          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "双屏智享套装",
           "price_rmb": 15000,
-          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）"
+          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "27扬Flyme Sound无界之声",
           "price_rmb": 15800,
-          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）"
+          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时0元享",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": null,
-          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）"
+          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         }
       ]
     },
@@ -225,7 +265,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -249,28 +290,47 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K后排吸顶屏",
+        "power_220v": "标配 三排220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表(高配+32英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风及三排加热",
+        "seat_massage": "高配前排16点指压按摩、二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "魔毯星驰套装",
           "price_rmb": 20000,
-          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）"
+          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "双屏智享套装",
           "price_rmb": 15000,
-          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）"
+          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "27扬Flyme Sound无界之声",
           "price_rmb": 15800,
-          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）"
+          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时0元享",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": null,
-          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）"
+          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         }
       ]
     },
@@ -313,7 +373,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -337,28 +398,47 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K后排吸顶屏",
+        "power_220v": "标配 三排220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表(高配+32英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风及三排加热",
+        "seat_massage": "高配前排16点指压按摩、二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "魔毯星驰套装",
           "price_rmb": 20000,
-          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）"
+          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "双屏智享套装",
           "price_rmb": 15000,
-          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）"
+          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "27扬Flyme Sound无界之声",
           "price_rmb": 15800,
-          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）"
+          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时0元享",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": null,
-          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）"
+          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         }
       ]
     },
@@ -401,7 +481,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -425,31 +506,66 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K后排吸顶屏",
+        "power_220v": "标配 三排220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表(高配+32英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风及三排加热",
+        "seat_massage": "高配前排16点指压按摩、二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "魔毯星驰套装",
           "price_rmb": 20000,
-          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）"
+          "details": "含双腔闭式空气悬架、21英寸品牌轮胎、矩阵ADB大灯、AFS随动转向、流水转向灯功能（210km四驱领航版曾提供7000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "双屏智享套装",
           "price_rmb": 15000,
-          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）"
+          "details": "含30英寸6K一体式天际屏、17.3英寸二排娱乐屏、二排座椅通风、二排座椅石墨烯加热、256色律动氛围灯、车内220V电源、隔音玻璃、隐私玻璃（230km两驱远航版曾提供10000元选装抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "27扬Flyme Sound无界之声",
           "price_rmb": 15800,
-          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）"
+          "details": "含27扬声器9.1.6声道AI全景声音响系统（上市权益期曾限时0元享）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时0元享",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": null,
-          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）"
+          "details": "官方原厂电动踏板精品选装（上市权益期曾限时赠送7000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/M9/2025/0916/kv.pc.jpg"
+  "image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/M9/2025/0916/kv.pc.jpg",
+  "promo_highlights": [
+    "黑金智曜版限时先享价25.98万元（全系限时直降1万元）+10000元超级置换金",
+    "限时0元享价值15800元27扬Flyme Sound音响+价值25000元终身免费NOA服务",
+    "限时赠7000元电动踏板抵扣券及3999元家充桩含安装"
+  ],
+  "references": [
+    {
+      "title": "吉利银河 吉利银河M9（旗舰6座） 官方配置页 (www.galaxy-geely.com)",
+      "url": "https://www.galaxy-geely.com/M9",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/M9/point/11.2pc.jpg"
 }

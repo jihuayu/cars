@@ -1,0 +1,143 @@
+{
+  "brand": "bmw",
+  "brand_name": "宝马新能源",
+  "model": "宝马iX1",
+  "model_slug": "bmw-ix1",
+  "origin_type": "合资/外资",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2026-05-29",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://img5.bitautoimg.com/usercenter/autoalbum/files/20260703/953/w300_yichecar_202607033409307109995339647.png.webp",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考优惠约6.0万-6.72万元（参考价16.80万-20.08万元起）"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7223.html",
+    "https://car.m.yiche.com/baomaix1-9962/"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 宝马iX1参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7223.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "易车 宝马iX1报价与参数",
+      "url": "https://car.m.yiche.com/baomaix1-9962/",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "bmw-ix1-2026-edrive25l-m",
+      "sku_name": "2026款改款eDrive25L M运动套装",
+      "price_rmb": 228000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4616,
+        "width_mm": 1845,
+        "height_mm": 1641,
+        "wheelbase_mm": null,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1940
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": 8.6
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 563,
+        "fast_charge_time": "0.53h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "一体式悬浮曲面屏",
+        "screens": "一体式悬浮曲面屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "bmw-ix1-2026-xdrive30l-m",
+      "sku_name": "2026款改款xDrive30L M运动曜夜套装",
+      "price_rmb": 268000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4616,
+        "width_mm": 1845,
+        "height_mm": 1641,
+        "wheelbase_mm": null,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2087
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": 494,
+        "zero_to_100_s": 5.7
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 524,
+        "fast_charge_time": "0.53h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "一体式悬浮曲面屏",
+        "screens": "一体式悬浮曲面屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

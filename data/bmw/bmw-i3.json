@@ -1,0 +1,195 @@
+{
+  "brand": "bmw",
+  "brand_name": "宝马新能源",
+  "model": "宝马i3",
+  "model_slug": "bmw-i3",
+  "origin_type": "合资/外资",
+  "category": "中型纯电轿车",
+  "release_date": "2026-02-01",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考成交价约18.5万-25万元（以当地4S店为准）"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/6544.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 宝马i3参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/6544.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "bmw-i3-2026-edrive35l",
+      "sku_name": "2026款 改款 eDrive 35L",
+      "price_rmb": 278000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 210,
+        "motor_torque_nm": 400,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 70.2,
+        "cltc_pure_electric_range_km": 550,
+        "fast_charge_time": "0.52小时 (10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配（后轴空气悬架）",
+        "cdc": "标配（悬架软硬/高低调节）",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "一体式悬浮曲面屏（全液晶仪表）",
+        "screens": "一体式悬浮曲面屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "19英寸轮毂",
+          "price_rmb": 14300,
+          "promo_price_rmb": null,
+          "details": "前225/45 R19、后245/40 R19轮胎"
+        }
+      ]
+    },
+    {
+      "sku_id": "bmw-i3-2026-edrive40l-night",
+      "sku_name": "2026款 改款 eDrive 40L 曜夜套装",
+      "price_rmb": 308000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": 430,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 625,
+        "fast_charge_time": "约0.52小时 (10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配",
+        "cdc": "标配",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "一体式悬浮曲面屏（全液晶仪表）",
+        "screens": "一体式悬浮曲面屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "bmw-i3-2026-edrive40l-sport",
+      "sku_name": "2026款 改款 eDrive 40L 曜夜运动套装",
+      "price_rmb": 338000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": null,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 250,
+        "motor_torque_nm": 430,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 625,
+        "fast_charge_time": "约0.52小时 (10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配",
+        "cdc": "标配",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "一体式悬浮曲面屏（全液晶仪表）",
+        "screens": "一体式悬浮曲面屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "支持座椅通风（高配）",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

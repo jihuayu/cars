@@ -1,0 +1,136 @@
+{
+  "brand": "volkswagen",
+  "brand_name": "大众新能源",
+  "model": "大众ID.3",
+  "model_slug": "vw-id3",
+  "origin_type": "合资/外资",
+  "category": "紧凑型纯电两厢车",
+  "release_date": "2025-09-22",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://k.sinaimg.cn/n/default/f8781c75/20260807/qiche_010.jpeg/w700d1q75cms.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端置换起售价低至10.94万元",
+    "新购11.89万元起"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/6265.html"
+  ],
+  "references": [
+    {
+      "title": "大众ID.3参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6265.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "vw-id3-2026-pure",
+      "sku_name": "2026款 聪明款 纯净智享版",
+      "price_rmb": 129888,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4261,
+        "width_mm": 1778,
+        "height_mm": 1568,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1845
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 125,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 53.6,
+        "cltc_pure_electric_range_km": 451,
+        "fast_charge_time": "0.75小时(0-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "IQ.Drive(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "5.3英寸液晶仪表",
+        "screens": "12.9英寸中控屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "vw-id3-2026-pro",
+      "sku_name": "2026款 聪明款 出众版",
+      "price_rmb": 138388,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4261,
+        "width_mm": 1778,
+        "height_mm": 1568,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1845
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 125,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 53.6,
+        "cltc_pure_electric_range_km": 451,
+        "fast_charge_time": "0.75小时(0-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "IQ.Drive(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "5.3英寸液晶仪表",
+        "screens": "12.9英寸中控屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

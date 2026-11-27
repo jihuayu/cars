@@ -1,7 +1,7 @@
 {
   "brand": "tank",
   "brand_name": "坦克新能源",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "全新坦克400 Hi4-T / Hi4-Z（2026款）",
   "model_slug": "tank-400-2026",
   "category": "中大型机甲硬派插混越野SUV",
@@ -26,7 +26,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 224
       },
       "performance": {
         "drive_type": "机械四驱(9HAT)",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 16min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,33 +75,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 15.6英寸2.5K后排娱乐屏（智享版标配）",
+        "instrument_cluster": "12.3英寸全液晶仪表+HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "户外越野包",
           "price_rmb": 8000,
-          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元"
+          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元",
+          "availability": "全系可选"
         },
         {
           "name": "远红外夜视系统",
           "price_rmb": 6000,
-          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）"
+          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）",
+          "promo_note": "选装基金",
+          "availability": "全系可选"
         },
         {
           "name": "全地形轮胎（AT）",
           "price_rmb": 2000,
-          "details": "全系选配2000元"
+          "details": "全系选配2000元",
+          "availability": "全系可选"
         },
         {
           "name": "敦煌紫专属车漆",
           "price_rmb": 10000,
-          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免"
+          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免",
+          "availability": "可选"
         },
         {
           "name": "高速/城市NOA及车位到车位领航辅助",
           "price_rmb": 26000,
-          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元"
+          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元",
+          "availability": "可选"
         }
       ]
     },
@@ -119,7 +136,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 224
       },
       "performance": {
         "drive_type": "机械四驱(9HAT)",
@@ -139,10 +157,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 16min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -166,33 +185,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 15.6英寸2.5K后排娱乐屏（智享版标配）",
+        "instrument_cluster": "12.3英寸全液晶仪表+HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "户外越野包",
           "price_rmb": 8000,
-          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元"
+          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元",
+          "availability": "全系可选"
         },
         {
           "name": "远红外夜视系统",
           "price_rmb": 6000,
-          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）"
+          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）",
+          "promo_note": "选装基金",
+          "availability": "全系可选"
         },
         {
           "name": "全地形轮胎（AT）",
           "price_rmb": 2000,
-          "details": "全系选配2000元"
+          "details": "全系选配2000元",
+          "availability": "全系可选"
         },
         {
           "name": "敦煌紫专属车漆",
           "price_rmb": 10000,
-          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免"
+          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免",
+          "availability": "可选"
         },
         {
           "name": "高速/城市NOA及车位到车位领航辅助",
           "price_rmb": 26000,
-          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元"
+          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元",
+          "availability": "可选"
         }
       ]
     },
@@ -212,7 +246,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 224
       },
       "performance": {
         "drive_type": "解耦电四驱(3挡DHT)",
@@ -232,10 +267,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -259,36 +295,81 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 15.6英寸2.5K后排娱乐屏（智享版标配）",
+        "instrument_cluster": "12.3英寸全液晶仪表+HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "户外越野包",
           "price_rmb": 8000,
-          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元"
+          "details": "含前桥电控式差速锁、后拖车取电口+拖车装置+2500kg牵引资质，全系选配8000元",
+          "availability": "全系可选"
         },
         {
           "name": "远红外夜视系统",
           "price_rmb": 6000,
-          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）"
+          "details": "全系选配6000元（购车权益含5000元远红外夜视系统选装基金）",
+          "promo_note": "选装基金",
+          "availability": "全系可选"
         },
         {
           "name": "全地形轮胎（AT）",
           "price_rmb": 2000,
-          "details": "全系选配2000元"
+          "details": "全系选配2000元",
+          "availability": "全系可选"
         },
         {
           "name": "敦煌紫专属车漆",
           "price_rmb": 10000,
-          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免"
+          "details": "珠光漆专属配色，官方权益标示价值10000元，限时购车权益可享减免",
+          "availability": "可选"
         },
         {
           "name": "高速/城市NOA及车位到车位领航辅助",
           "price_rmb": 26000,
-          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元"
+          "details": "Hi4-T智享版及Hi4-Z智享版官方权益标示价值26000元",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/9D/1C/400x400_1_q40_c40_autohomecar__ChxpWGjVRSCAXYw6AHAwYsb7kw8454.jpg"
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/9D/1C/400x400_1_q40_c40_autohomecar__ChxpWGjVRSCAXYw6AHAwYsb7kw8454.jpg",
+  "promo_highlights": [
+    "截至2026年11月30日置换补贴15,000元或增购13,000元二选一、至高金融贴息13,650元",
+    "赠送敦煌紫车漆及夜视系统选装基金"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": "33/31",
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "坦克新能源 全新坦克400 Hi4-T / Hi4-Z（2026款） 官方配置页 (www.tanksuv.com)",
+      "url": "https://www.tanksuv.com/tank400.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "坦克400 Hi4-T接近角离去角参数解析",
+      "url": "https://cj.sina.cn/articles/view/7879923803/1d5ae185b06801o2k4",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

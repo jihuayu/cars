@@ -1,7 +1,7 @@
 {
   "brand": "arcfox",
   "brand_name": "极狐",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "极狐阿尔法S6 / T6",
   "model_slug": "alpha-s6-t6-2026",
   "category": "中大型纯电轿车 / SUV",
@@ -26,7 +26,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 160
       },
       "performance": {
         "drive_type": "前驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 30min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -73,38 +75,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "12.3英寸全液晶仪表+8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "阿尔法S6 可开启全景天窗",
           "price_rmb": 2000,
-          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元"
+          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元",
+          "availability": "标配"
         },
         {
           "name": "阿尔法S6 方向盘离手检测（HOD）",
           "price_rmb": 1000,
-          "details": "阿尔法S6 602三激光雷达版选配1000元"
+          "details": "阿尔法S6 602三激光雷达版选配1000元",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 舒享电门套装（选装包1）",
           "price_rmb": null,
-          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩"
+          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 皮/翻毛皮混搭座椅",
           "price_rmb": null,
-          "details": "阿尔法S6 602三激光雷达版选配"
+          "details": "阿尔法S6 602三激光雷达版选配",
+          "availability": "可选"
         },
         {
           "name": "阿尔法T6 20英寸轮毂及轮胎（245/45 R20）",
           "price_rmb": null,
-          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配"
+          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配",
+          "availability": "可选"
         },
         {
           "name": "阿尔法T6 车内220V电源及车内摄像头/面部识别",
           "price_rmb": null,
-          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配"
+          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配",
+          "availability": "可选"
         }
       ]
     },
@@ -124,7 +142,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 160
       },
       "performance": {
         "drive_type": "后驱",
@@ -144,10 +163,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -171,38 +191,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "12.3英寸全液晶仪表+8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "阿尔法S6 可开启全景天窗",
           "price_rmb": 2000,
-          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元"
+          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 方向盘离手检测（HOD）",
           "price_rmb": 1000,
-          "details": "阿尔法S6 602三激光雷达版选配1000元"
+          "details": "阿尔法S6 602三激光雷达版选配1000元",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 舒享电门套装（选装包1）",
           "price_rmb": null,
-          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩"
+          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 皮/翻毛皮混搭座椅",
           "price_rmb": null,
-          "details": "阿尔法S6 602三激光雷达版选配"
+          "details": "阿尔法S6 602三激光雷达版选配",
+          "availability": "可选"
         },
         {
           "name": "阿尔法T6 20英寸轮毂及轮胎（245/45 R20）",
           "price_rmb": null,
-          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配"
+          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配",
+          "availability": "可选"
         },
         {
           "name": "阿尔法T6 车内220V电源及车内摄像头/面部识别",
           "price_rmb": null,
-          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配"
+          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配",
+          "availability": "可选"
         }
       ]
     },
@@ -222,7 +258,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 160
       },
       "performance": {
         "drive_type": "前驱",
@@ -242,10 +279,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 30min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -269,38 +307,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "12.3英寸全液晶仪表+8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "阿尔法S6 可开启全景天窗",
           "price_rmb": 2000,
-          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元"
+          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元",
+          "availability": "标配"
         },
         {
           "name": "阿尔法S6 方向盘离手检测（HOD）",
           "price_rmb": 1000,
-          "details": "阿尔法S6 602三激光雷达版选配1000元"
+          "details": "阿尔法S6 602三激光雷达版选配1000元",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 舒享电门套装（选装包1）",
           "price_rmb": null,
-          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩"
+          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 皮/翻毛皮混搭座椅",
           "price_rmb": null,
-          "details": "阿尔法S6 602三激光雷达版选配"
+          "details": "阿尔法S6 602三激光雷达版选配",
+          "availability": "可选"
         },
         {
           "name": "阿尔法T6 20英寸轮毂及轮胎（245/45 R20）",
           "price_rmb": null,
-          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配"
+          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配",
+          "availability": "可选"
         },
         {
           "name": "阿尔法T6 车内220V电源及车内摄像头/面部识别",
           "price_rmb": null,
-          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配"
+          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配",
+          "availability": "可选"
         }
       ]
     },
@@ -320,7 +374,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 160
       },
       "performance": {
         "drive_type": "四驱",
@@ -340,10 +395,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 30min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -367,41 +423,73 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "12.3英寸全液晶仪表+8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "阿尔法S6 可开启全景天窗",
           "price_rmb": 2000,
-          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元"
+          "details": "阿尔法S6 735MAX版标配不可开启全景天窗，选配可开启全景天窗2000元",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 方向盘离手检测（HOD）",
           "price_rmb": 1000,
-          "details": "阿尔法S6 602三激光雷达版选配1000元"
+          "details": "阿尔法S6 602三激光雷达版选配1000元",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 舒享电门套装（选装包1）",
           "price_rmb": null,
-          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩"
+          "details": "阿尔法S6 602三激光雷达版选配，含主驾电动车门、四门电吸门、电子儿童锁、前保装饰灯、门槛迎宾踏步饰条、第二排座椅按摩",
+          "availability": "可选"
         },
         {
           "name": "阿尔法S6 皮/翻毛皮混搭座椅",
           "price_rmb": null,
-          "details": "阿尔法S6 602三激光雷达版选配"
+          "details": "阿尔法S6 602三激光雷达版选配",
+          "availability": "可选"
         },
         {
           "name": "阿尔法T6 20英寸轮毂及轮胎（245/45 R20）",
           "price_rmb": null,
-          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配"
+          "details": "阿尔法T6 688MAX版选配（标配19英寸），2026款600ULTRA四驱版标配",
+          "availability": "标配"
         },
         {
           "name": "阿尔法T6 车内220V电源及车内摄像头/面部识别",
           "price_rmb": null,
-          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配"
+          "details": "阿尔法T6 688MAX版选配，2026款600ULTRA四驱版标配",
+          "availability": "标配"
         }
       ]
     }
   ],
-  "image_url": "https://k2.autoimg.cn/koubeidfs/g28/M07/75/B3/800x600_1_q87_autohomecar__ChxkmmhZh2-ASa6nABfkZXf-mZY470.png.webp"
+  "image_url": "https://k2.autoimg.cn/koubeidfs/g28/M07/75/B3/800x600_1_q87_autohomecar__ChxkmmhZh2-ASa6nABfkZXf-mZY470.png.webp",
+  "promo_highlights": [
+    "截至2026年11月30日限时现金优惠至高13000元、极狐置换补贴2000元",
+    "限时专属权益至高价值31688元",
+    "首任非营运车主三电终身质保"
+  ],
+  "references": [
+    {
+      "title": "极狐 极狐阿尔法S6 / T6 官方配置页 (www.arcfox.com.cn)",
+      "url": "https://www.arcfox.com.cn/S6/index.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://global-img.bitauto.com/usercenter/autoalbum/20250624/11/w1200_m5_yichecar_074841701137367.jpg.webp"
 }

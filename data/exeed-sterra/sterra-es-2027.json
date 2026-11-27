@@ -1,7 +1,7 @@
 {
   "brand": "exeed-sterra",
   "brand_name": "星途星纪元",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "星纪元ES（2027款）",
   "model_slug": "sterra-es-2027",
   "category": "中大型轿跑",
@@ -23,7 +23,7 @@
         "height_mm": 1480,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2032,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 400,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "安徽得壹能源/芜湖奇达动力",
         "battery_capacity_kwh": 41.1,
         "cltc_pure_electric_range_km": 302,
         "cltc_combined_range_km": 1685,
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 17.5min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,23 +75,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.2英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热/通风，二排未知",
+        "seat_massage": "前排标配按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "高配标配(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "疾影运动套件（电动尾翼+ISD灯） / 20英寸胎",
           "price_rmb": "8999 / 6000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂选装",
           "price_rmb": null,
-          "details": "增程302 Max可选装20英寸树杈造型轮毂，纯电860 Max可选装20英寸锋刃样式轮毂，增程255 Ultra四驱可选装20英寸花瓣轮毂"
+          "details": "增程302 Max可选装20英寸树杈造型轮毂，纯电860 Max可选装20英寸锋刃样式轮毂，增程255 Ultra四驱可选装20英寸花瓣轮毂",
+          "availability": "可选"
         },
         {
           "name": "选装外观车漆（星驰银/暖云杏/云英紫）",
           "price_rmb": null,
-          "details": "2027款共提供6种外观颜色，其中星驰银、暖云杏、云英紫三款配色需付费选装"
+          "details": "2027款共提供6种外观颜色，其中星驰银、暖云杏、云英紫三款配色需付费选装",
+          "availability": "可选"
         }
       ]
     },
@@ -106,7 +120,7 @@
         "height_mm": 1480,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2032,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -122,7 +136,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 400,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "安徽得壹能源/芜湖奇达动力",
         "battery_capacity_kwh": 41.1,
         "cltc_pure_electric_range_km": 255,
         "cltc_combined_range_km": 1570,
@@ -130,10 +144,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 17.5min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -157,23 +172,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.2英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热/通风，二排未知",
+        "seat_massage": "前排标配按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "高配标配(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "疾影运动套件（电动尾翼+ISD灯） / 20英寸胎",
           "price_rmb": "8999 / 6000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂选装",
           "price_rmb": null,
-          "details": "增程302 Max可选装20英寸树杈造型轮毂，纯电860 Max可选装20英寸锋刃样式轮毂，增程255 Ultra四驱可选装20英寸花瓣轮毂"
+          "details": "增程302 Max可选装20英寸树杈造型轮毂，纯电860 Max可选装20英寸锋刃样式轮毂，增程255 Ultra四驱可选装20英寸花瓣轮毂",
+          "availability": "可选"
         },
         {
           "name": "选装外观车漆（星驰银/暖云杏/云英紫）",
           "price_rmb": null,
-          "details": "2027款共提供6种外观颜色，其中星驰银、暖云杏、云英紫三款配色需付费选装"
+          "details": "2027款共提供6种外观颜色，其中星驰银、暖云杏、云英紫三款配色需付费选装",
+          "availability": "可选"
         }
       ]
     },
@@ -189,7 +217,7 @@
         "height_mm": 1480,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2032,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -205,7 +233,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "安徽得壹能源/芜湖奇达动力",
         "battery_capacity_kwh": 100.2,
         "cltc_pure_electric_range_km": 860,
         "cltc_combined_range_km": 860,
@@ -213,10 +241,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -240,26 +269,76 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.2英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热/通风，二排未知",
+        "seat_massage": "前排标配按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "高配标配(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "疾影运动套件（电动尾翼+ISD灯） / 20英寸胎",
           "price_rmb": "8999 / 6000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂选装",
           "price_rmb": null,
-          "details": "增程302 Max可选装20英寸树杈造型轮毂，纯电860 Max可选装20英寸锋刃样式轮毂，增程255 Ultra四驱可选装20英寸花瓣轮毂"
+          "details": "增程302 Max可选装20英寸树杈造型轮毂，纯电860 Max可选装20英寸锋刃样式轮毂，增程255 Ultra四驱可选装20英寸花瓣轮毂",
+          "availability": "可选"
         },
         {
           "name": "选装外观车漆（星驰银/暖云杏/云英紫）",
           "price_rmb": null,
-          "details": "2027款共提供6种外观颜色，其中星驰银、暖云杏、云英紫三款配色需付费选装"
+          "details": "2027款共提供6种外观颜色，其中星驰银、暖云杏、云英紫三款配色需付费选装",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://q7.itc.cn/q_70/images03/20260725/7a8e4486d8c94cf58f63339f8319df62.png"
+  "image_url": "https://q7.itc.cn/q_70/images03/20260725/7a8e4486d8c94cf58f63339f8319df62.png",
+  "promo_highlights": [
+    "2027款置换价16.99万元起（1万元置换补贴，奇瑞老车主+3000元）",
+    "三款特色车漆半价升级、城区全套智驾功能终身免费使用、四驱版附赠电动尾翼及交互大灯"
+  ],
+  "miit_filing": {
+    "miit_batch": "第414批",
+    "product_model_code": "SQR7000BEVE03C",
+    "curb_weight_kg": 2032,
+    "gross_weight_kg": 2480,
+    "approach_departure_deg": "13/15",
+    "battery_supplier": "安徽得壹能源/芜湖奇达动力"
+  },
+  "references": [
+    {
+      "title": "星途星纪元 星纪元ES（2027款） 官方配置页 (www.exeedcars.com)",
+      "url": "https://www.exeedcars.com/xjy/es_reev/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "星途星纪元 星纪元ES（2027款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7035.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第414批：星纪元ES申报信息",
+      "url": "https://finance.sina.cn/2026-11-26/detail-inizyqvz4061745.d.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img.suv666.com/backend/editor/img/1541702473133204.jpg-690x"
 }

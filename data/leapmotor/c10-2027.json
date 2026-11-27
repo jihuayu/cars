@@ -1,7 +1,7 @@
 {
   "brand": "leapmotor",
   "brand_name": "零跑汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2027款零跑C10",
   "model_slug": "c10-2027",
   "category": "中型5座SUV",
@@ -26,7 +26,8 @@
         "trunk_volume_l": "510/1809",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 178
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -49,7 +50,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": 50,
-        "wltc_fuel_consumption_l_100km": 5.84
+        "wltc_fuel_consumption_l_100km": 5.84,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -73,18 +75,32 @@
         "hud": null,
         "audio": "14扬声器PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压全配套装"
+        "seat_features": "可选悦境零压全配套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压全配套装",
           "price_rmb": 12000,
-          "details": "前排双零重力+腿托按摩+二排小桌板+有机硅面料+20英寸轮毂+智能灯语"
+          "details": "前排双零重力+腿托按摩+二排小桌板+有机硅面料+20英寸轮毂+智能灯语",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云栖金/曦露紫）",
           "price_rmb": 2000,
-          "details": "常有限时免费权益"
+          "details": "常有限时免费权益",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费权益",
+          "availability": "可选"
         }
       ]
     },
@@ -104,7 +120,8 @@
         "trunk_volume_l": "510/1809",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 178
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -127,7 +144,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": 50,
-        "wltc_fuel_consumption_l_100km": 5.84
+        "wltc_fuel_consumption_l_100km": 5.84,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -151,18 +169,32 @@
         "hud": "60英寸AR-HUD",
         "audio": "18扬声器7.1 PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压全配套装"
+        "seat_features": "可选悦境零压全配套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压全配套装",
           "price_rmb": 12000,
-          "details": "前排双零重力+腿托按摩+二排小桌板+有机硅面料+20英寸轮毂+智能灯语"
+          "details": "前排双零重力+腿托按摩+二排小桌板+有机硅面料+20英寸轮毂+智能灯语",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云栖金/曦露紫）",
           "price_rmb": 2000,
-          "details": "常有限时免费权益"
+          "details": "常有限时免费权益",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费权益",
+          "availability": "可选"
         }
       ]
     },
@@ -182,7 +214,8 @@
         "trunk_volume_l": "510/1809",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 178
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -205,7 +238,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -229,18 +263,32 @@
         "hud": null,
         "audio": "14扬声器PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压全配套装"
+        "seat_features": "可选悦境零压全配套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压全配套装",
           "price_rmb": 12000,
-          "details": "前排双零重力+腿托按摩+二排小桌板+有机硅面料+20英寸轮毂+智能灯语"
+          "details": "前排双零重力+腿托按摩+二排小桌板+有机硅面料+20英寸轮毂+智能灯语",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云栖金/曦露紫）",
           "price_rmb": 2000,
-          "details": "常有限时免费权益"
+          "details": "常有限时免费权益",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费权益",
+          "availability": "可选"
         }
       ]
     },
@@ -260,7 +308,8 @@
         "trunk_volume_l": "510/1809",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 178
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -283,7 +332,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -307,21 +357,65 @@
         "hud": "60英寸AR-HUD",
         "audio": "18扬声器7.1 PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压全配套装"
+        "seat_features": "可选悦境零压全配套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压全配套装",
           "price_rmb": 12000,
-          "details": "前排双零重力+腿托按摩+二排小桌板+有机硅面料+20英寸轮毂+智能灯语"
+          "details": "前排双零重力+腿托按摩+二排小桌板+有机硅面料+20英寸轮毂+智能灯语",
+          "availability": "可选"
         },
         {
           "name": "个性车漆（云栖金/曦露紫）",
           "price_rmb": 2000,
-          "details": "常有限时免费权益"
+          "details": "常有限时免费权益",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费权益",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Leapmotor_C10_EREV_Classic-Gala_2025_DSC_0779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Leapmotor_C10_EREV_Classic-Gala_2025_DSC_0779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "至高5000元金融补贴、本品增换购3000元补贴",
+    "3000元全配套装选装抵扣券/2000元选装基金、免费家充服务包"
+  ],
+  "miit_filing": {
+    "miit_batch": "第393批",
+    "product_model_code": "FZ6470BEVC10M",
+    "curb_weight_kg": 1995,
+    "gross_weight_kg": 2370,
+    "approach_departure_deg": null,
+    "battery_supplier": "湖北亿纬动力/金华零跑新能源"
+  },
+  "references": [
+    {
+      "title": "零跑汽车 2027款零跑C10 官方配置页 (leapmotor.cn)",
+      "url": "https://leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=11",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第393批：新款零跑C10申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/19602843",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://n.sinaimg.cn/www/transform/300/w660h440/20240302/1a2d-90cf2cdf2e82e14aa1f4c4cd04d6602c.jpg"
 }

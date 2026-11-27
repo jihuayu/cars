@@ -1,7 +1,7 @@
 {
   "brand": "deepal",
   "brand_name": "深蓝",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "深蓝S09（2025/2026款）",
   "model_slug": "s09-2026",
   "category": "大型6座家庭增程SUV",
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,43 +75,60 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "AR-HUD无仪表(43英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排凸点式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(二排双零重力座椅)",
+        "steering_wheel_electric": "顶配电动调节/其余手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "关爱呵护包",
           "price_rmb": 20000,
-          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板（单选）",
           "price_rmb": 10000,
-          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）",
+          "availability": "可选"
         },
         {
           "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
           "price_rmb": 10000,
-          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
           "price_rmb": 5999,
-          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "超长滑轨座椅",
           "price_rmb": 3999,
-          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
           "price_rmb": null,
-          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -150,10 +168,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 10min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -177,43 +196,60 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "AR-HUD无仪表(43英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排凸点式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(二排双零重力座椅)",
+        "steering_wheel_electric": "顶配电动调节/其余手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "关爱呵护包",
           "price_rmb": 20000,
-          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板（单选）",
           "price_rmb": 10000,
-          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）",
+          "availability": "可选"
         },
         {
           "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
           "price_rmb": 10000,
-          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
           "price_rmb": 5999,
-          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "超长滑轨座椅",
           "price_rmb": 3999,
-          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
           "price_rmb": null,
-          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -253,10 +289,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 10min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -280,43 +317,60 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "AR-HUD无仪表(43英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排凸点式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(二排双零重力座椅)",
+        "steering_wheel_electric": "顶配电动调节/其余手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "关爱呵护包",
           "price_rmb": 20000,
-          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板（单选）",
           "price_rmb": 10000,
-          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）",
+          "availability": "可选"
         },
         {
           "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
           "price_rmb": 10000,
-          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
           "price_rmb": 5999,
-          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "超长滑轨座椅",
           "price_rmb": 3999,
-          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
           "price_rmb": null,
-          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -356,10 +410,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -383,43 +438,60 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "AR-HUD无仪表(43英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排凸点式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(二排双零重力座椅)",
+        "steering_wheel_electric": "顶配电动调节/其余手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "关爱呵护包",
           "price_rmb": 20000,
-          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板（单选）",
           "price_rmb": 10000,
-          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）",
+          "availability": "可选"
         },
         {
           "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
           "price_rmb": 10000,
-          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
           "price_rmb": 5999,
-          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "超长滑轨座椅",
           "price_rmb": 3999,
-          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
           "price_rmb": null,
-          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -459,10 +531,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 10min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -486,46 +559,85 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "AR-HUD无仪表(43英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排凸点式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(二排双零重力座椅)",
+        "steering_wheel_electric": "顶配电动调节/其余手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "关爱呵护包",
           "price_rmb": 20000,
-          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱"
+          "details": "包含电动侧踏板、一体式智能移动中岛（前后移动扶手箱）及车载冷暖冰箱",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板（单选）",
           "price_rmb": 10000,
-          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）"
+          "details": "后驱Max版等支持单选电动踏板（高配版亦可随关爱呵护包选装）",
+          "availability": "可选"
         },
         {
           "name": "21英寸六芒星驰轮毂&米其林静音轮胎套装",
           "price_rmb": 10000,
-          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "四驱Ultra+高定版等可选装21英寸六芒星驰轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "21英寸穹宇多辐轮毂&米其林静音轮胎套装",
           "price_rmb": 5999,
-          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）"
+          "details": "2026款后驱Ultra超长续航版及Ultra/Ultra+版可选装21英寸穹宇多辐轮毂及米其林静音轮胎（265/45 R21）",
+          "availability": "可选"
         },
         {
           "name": "超长滑轨座椅",
           "price_rmb": 3999,
-          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）"
+          "details": "超长滑轨座椅选装包（可组合变换为2.5m大床）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车/远程召唤）",
           "price_rmb": null,
-          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价"
+          "details": "激光雷达版型城市路段领航辅助、记忆泊车及远程召唤标注为选配开通项，未公开官方单价",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://img8.bitautoimg.com/usercenter/autoalbum/files/20250401/303/w300_yichecar_202504011139347119830385114.png.webp"
+  "image_url": "https://img8.bitautoimg.com/usercenter/autoalbum/files/20250401/303/w300_yichecar_202504011139347119830385114.png.webp",
+  "promo_highlights": [
+    "2026年11月限时优惠价22.99-29.99万元",
+    "至高10万5年0息金融方案、秋日购车礼+超级补贴+以旧焕新礼各至高10000元"
+  ],
+  "references": [
+    {
+      "title": "深蓝 深蓝S09（2025/2026款） 官方配置页 (www.deepal.com.cn)",
+      "url": "https://www.deepal.com.cn/car/parameter",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "深蓝 深蓝S09（2025/2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7979.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/02/09/cde51202502091313102607.jpg"
 }

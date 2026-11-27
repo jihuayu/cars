@@ -1,7 +1,7 @@
 {
   "brand": "hyptec",
   "brand_name": "广汽昊铂",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "昊铂HT（2025款）",
   "model_slug": "hyptec-ht-2025",
   "category": "中大型纯电轿跑SUV",
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,23 +75,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排未知",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "两段式电动鸥翼门",
           "price_rmb": null,
-          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置"
+          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置",
+          "availability": "标配"
         },
         {
           "name": "19/20英寸轮毂样式",
           "price_rmb": null,
-          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择"
+          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择",
+          "availability": "可选"
         },
         {
           "name": "个性化外观车漆",
           "price_rmb": null,
-          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）"
+          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）",
+          "availability": "可选"
         }
       ]
     },
@@ -130,10 +144,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -157,23 +172,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排未知",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "两段式电动鸥翼门",
           "price_rmb": null,
-          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置"
+          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置",
+          "availability": "标配"
         },
         {
           "name": "19/20英寸轮毂样式",
           "price_rmb": null,
-          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择"
+          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择",
+          "availability": "可选"
         },
         {
           "name": "个性化外观车漆",
           "price_rmb": null,
-          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）"
+          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）",
+          "availability": "可选"
         }
       ]
     },
@@ -213,10 +241,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -240,23 +269,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排未知",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "两段式电动鸥翼门",
           "price_rmb": null,
-          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置"
+          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置",
+          "availability": "标配"
         },
         {
           "name": "19/20英寸轮毂样式",
           "price_rmb": null,
-          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择"
+          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择",
+          "availability": "可选"
         },
         {
           "name": "个性化外观车漆",
           "price_rmb": null,
-          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）"
+          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）",
+          "availability": "可选"
         }
       ]
     },
@@ -296,10 +338,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -323,26 +366,61 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排未知",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "两段式电动鸥翼门",
           "price_rmb": null,
-          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置"
+          "details": "开启高度2.3m；2025款在售670/825 Pro与Max版标配平开门，鸥翼门为特定版本/选装配置",
+          "availability": "标配"
         },
         {
           "name": "19/20英寸轮毂样式",
           "price_rmb": null,
-          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择"
+          "details": "2025款标配245/50 R20铝合金轮毂，车系提供多种轮毂造型选择",
+          "availability": "可选"
         },
         {
           "name": "个性化外观车漆",
           "price_rmb": null,
-          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）"
+          "details": "提供多款原厂车漆配色（如夜阑玫瑰等渐变珠光车色）",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://m1.autoimg.cn/newsdfs/g31/M07/01/36/400x400_1_q40_c40_autohomecar__ChtlyGY47_uAF8IzAB0Lu0y7bAA860.jpg"
+  "image_url": "https://m1.autoimg.cn/newsdfs/g31/M07/01/36/400x400_1_q40_c40_autohomecar__ChtlyGY47_uAF8IzAB0Lu0y7bAA860.jpg",
+  "promo_highlights": [
+    "置换5000元补贴或终身免费充电（2000kWh/年）二选一",
+    "首任车主终身免费保养及三电终身质保、免费赠家用充电桩"
+  ],
+  "references": [
+    {
+      "title": "广汽昊铂 昊铂HT（2025款） 官方配置页 (www.hyptec.com)",
+      "url": "https://www.hyptec.com/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "广汽昊铂 昊铂HT（2025款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7395.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://p1.itc.cn/images01/20231020/d937c069d2324e238d206a16c4d42f6a.jpeg"
 }

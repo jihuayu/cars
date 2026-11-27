@@ -1,7 +1,7 @@
 {
   "brand": "onvo",
   "brand_name": "乐道",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "乐道L90（2026款）",
   "model_slug": "l90-2026",
   "category": "大型6/7座纯电SUV",
@@ -23,11 +23,12 @@
         "height_mm": 1766,
         "wheelbase_mm": 3110,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2385,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 260
       },
       "performance": {
         "drive_type": "后驱",
@@ -39,7 +40,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 600,
         "cltc_combined_range_km": 600,
@@ -47,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -74,53 +76,72 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排场景屏；Max+/Ultra+标配 17.3英寸3K天空娱乐屏",
+        "power_220v": "标配 后备厢220V五孔电源接口",
+        "instrument_cluster": "AR-HUD无仪表(35英寸AR-HUD)",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "选装/高配标配(二排右侧零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（85kWh电池包）",
           "price_rmb": "899元/月",
-          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月",
+          "availability": "可选"
         },
         {
           "name": "专属曜黑套装",
           "price_rmb": 12000,
-          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件",
+          "availability": "全系可选"
         },
         {
           "name": "第二排右侧零重力座椅",
           "price_rmb": 12000,
-          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）",
+          "availability": "标配"
         },
         {
           "name": "21英寸轮圈及轮胎",
           "price_rmb": 10000,
-          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）",
+          "availability": "标配"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 10000,
-          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）",
+          "availability": "可选"
         },
         {
           "name": "17.3英寸3K后排吸顶娱乐屏",
           "price_rmb": 8000,
-          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "支持高速及城市领航辅助驾驶功能订阅"
+          "details": "支持高速及城市领航辅助驾驶功能订阅",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -136,11 +157,12 @@
         "height_mm": 1766,
         "wheelbase_mm": 3110,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2385,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 260
       },
       "performance": {
         "drive_type": "后驱",
@@ -152,7 +174,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 600,
         "cltc_combined_range_km": 600,
@@ -160,10 +182,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -187,53 +210,72 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排场景屏；Max+/Ultra+标配 17.3英寸3K天空娱乐屏",
+        "power_220v": "标配 后备厢220V五孔电源接口",
+        "instrument_cluster": "AR-HUD无仪表(35英寸AR-HUD)",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "选装/高配标配(二排右侧零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（85kWh电池包）",
           "price_rmb": "899元/月",
-          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月",
+          "availability": "可选"
         },
         {
           "name": "专属曜黑套装",
           "price_rmb": 12000,
-          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件",
+          "availability": "全系可选"
         },
         {
           "name": "第二排右侧零重力座椅",
           "price_rmb": 12000,
-          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）",
+          "availability": "标配"
         },
         {
           "name": "21英寸轮圈及轮胎",
           "price_rmb": 10000,
-          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）",
+          "availability": "标配"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 10000,
-          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）",
+          "availability": "可选"
         },
         {
           "name": "17.3英寸3K后排吸顶娱乐屏",
           "price_rmb": 8000,
-          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "支持高速及城市领航辅助驾驶功能订阅"
+          "details": "支持高速及城市领航辅助驾驶功能订阅",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -249,11 +291,12 @@
         "height_mm": 1766,
         "wheelbase_mm": 3110,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2385,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 260
       },
       "performance": {
         "drive_type": "后驱",
@@ -265,7 +308,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 600,
         "cltc_combined_range_km": 600,
@@ -273,10 +316,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -300,53 +344,72 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排场景屏；Max+/Ultra+标配 17.3英寸3K天空娱乐屏",
+        "power_220v": "标配 后备厢220V五孔电源接口",
+        "instrument_cluster": "AR-HUD无仪表(35英寸AR-HUD)",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "选装/高配标配(二排右侧零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（85kWh电池包）",
           "price_rmb": "899元/月",
-          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月",
+          "availability": "可选"
         },
         {
           "name": "专属曜黑套装",
           "price_rmb": 12000,
-          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件",
+          "availability": "全系可选"
         },
         {
           "name": "第二排右侧零重力座椅",
           "price_rmb": 12000,
-          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）",
+          "availability": "标配"
         },
         {
           "name": "21英寸轮圈及轮胎",
           "price_rmb": 10000,
-          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）",
+          "availability": "标配"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 10000,
-          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）",
+          "availability": "可选"
         },
         {
           "name": "17.3英寸3K后排吸顶娱乐屏",
           "price_rmb": 8000,
-          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "支持高速及城市领航辅助驾驶功能订阅"
+          "details": "支持高速及城市领航辅助驾驶功能订阅",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -362,11 +425,12 @@
         "height_mm": 1766,
         "wheelbase_mm": 3110,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2385,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 260
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -378,7 +442,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 570,
         "cltc_combined_range_km": 570,
@@ -386,10 +450,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -413,53 +478,72 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排场景屏；Max+/Ultra+标配 17.3英寸3K天空娱乐屏",
+        "power_220v": "标配 后备厢220V五孔电源接口",
+        "instrument_cluster": "AR-HUD无仪表(35英寸AR-HUD)",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "选装/高配标配(二排右侧零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（85kWh电池包）",
           "price_rmb": "899元/月",
-          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月",
+          "availability": "可选"
         },
         {
           "name": "专属曜黑套装",
           "price_rmb": 12000,
-          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件",
+          "availability": "全系可选"
         },
         {
           "name": "第二排右侧零重力座椅",
           "price_rmb": 12000,
-          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）",
+          "availability": "标配"
         },
         {
           "name": "21英寸轮圈及轮胎",
           "price_rmb": 10000,
-          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）",
+          "availability": "标配"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 10000,
-          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "17.3英寸3K后排吸顶娱乐屏",
           "price_rmb": 8000,
-          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "支持高速及城市领航辅助驾驶功能订阅"
+          "details": "支持高速及城市领航辅助驾驶功能订阅",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -475,11 +559,12 @@
         "height_mm": 1766,
         "wheelbase_mm": 3110,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2385,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 260
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -491,7 +576,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 570,
         "cltc_combined_range_km": 570,
@@ -499,10 +584,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -526,56 +612,112 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排场景屏；Max+/Ultra+标配 17.3英寸3K天空娱乐屏",
+        "power_220v": "标配 后备厢220V五孔电源接口",
+        "instrument_cluster": "AR-HUD无仪表(35英寸AR-HUD)",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "选装/高配标配(二排右侧零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（85kWh电池包）",
           "price_rmb": "899元/月",
-          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月"
+          "details": "采用BaaS租电购车车价立减86,000元（17.98万元起），月租金899元/月",
+          "availability": "可选"
         },
         {
           "name": "专属曜黑套装",
           "price_rmb": 12000,
-          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件"
+          "details": "全系可选，包含21英寸多辐曜黑轮圈及外观曜黑套件",
+          "availability": "全系可选"
         },
         {
           "name": "第二排右侧零重力座椅",
           "price_rmb": 12000,
-          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）"
+          "details": "Pro六座版可选装第二排右侧零重力座椅（Max+、Ultra+六座版标配）",
+          "availability": "标配"
         },
         {
           "name": "21英寸轮圈及轮胎",
           "price_rmb": 10000,
-          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）"
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21）",
+          "availability": "标配"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 10000,
-          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）"
+          "details": "Pro、Max+版可选装近2.2米原生电动踏板（Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "17.3英寸3K后排吸顶娱乐屏",
           "price_rmb": 8000,
-          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+          "details": "Pro六座版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "全场景领航辅助（NOA）订阅",
           "price_rmb": "320元/月",
-          "details": "支持高速及城市领航辅助驾驶功能订阅"
+          "details": "支持高速及城市领航辅助驾驶功能订阅",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价"
+          "details": "2026款新增“银辉紫霄”“紫韵金晖”两款巴斯夫定制双拼色车漆，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg"
+  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg",
+  "promo_highlights": [
+    "BaaS租电车价立减8.6万元（17.98万元起）",
+    "上市期曾推选装6折、5年免费智驾、0首付3年免息等至高5.8万元权益"
+  ],
+  "miit_filing": {
+    "miit_batch": "第403批",
+    "product_model_code": null,
+    "curb_weight_kg": 2385,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "中创新航"
+  },
+  "references": [
+    {
+      "title": "乐道 乐道L90（2026款） 官方配置页 (www.onvo.cn)",
+      "url": "https://www.onvo.cn/l90",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "乐道 乐道L90（2026款） 官方配置页 (configuration.onvo.cn)",
+      "url": "https://configuration.onvo.cn/alpsConfigList?carType=L90&scene=office",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第403批：乐道L90申报目录",
+      "url": "https://k.sina.com.cn/article_5911038801_160534b51027019ine.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

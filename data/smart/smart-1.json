@@ -1,0 +1,142 @@
+{
+  "brand": "smart",
+  "brand_name": "smart",
+  "model": "smart精灵#1",
+  "model_slug": "smart-1",
+  "origin_type": "合资/外资",
+  "category": "小型纯电SUV",
+  "release_date": "2026-08-06",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://q3.itc.cn/q_70/images03/20260807/a5e2abff6f754b569dfa838b8fbe55b9.jpeg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2027款800V+6C超充，限时权益价14.99万-16.99万"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/6369.html"
+  ],
+  "references": [
+    {
+      "title": "smart精灵#1参数配置-汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6369.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "smart-1-535-max",
+      "sku_name": "2027款 535 Max",
+      "price_rmb": 152900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4270,
+        "width_mm": 1822,
+        "height_mm": 1636,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": 181,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 6.7
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 61.52,
+        "cltc_pure_electric_range_km": 535,
+        "fast_charge_time": "12分钟(10-80%,6C)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "基础L2(可选高阶智驾)"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.2英寸液晶",
+        "screens": "15.4英寸2.5K(Flyme Auto)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "千里浩瀚智驾包",
+          "price_rmb": 14000,
+          "promo_price_rmb": 7000,
+          "details": "限时半价7000元"
+        }
+      ]
+    },
+    {
+      "sku_id": "smart-1-535-ultra",
+      "sku_name": "2027款 535 Ultra",
+      "price_rmb": 172900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4270,
+        "width_mm": 1822,
+        "height_mm": 1636,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": 181,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 6.7
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 61.52,
+        "cltc_pure_electric_range_km": 535,
+        "fast_charge_time": "12分钟(10-80%,6C)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "Orin-Y(200TOPS)",
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚H5(城市/高速NSP)"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.2英寸+10英寸HUD",
+        "screens": "15.4英寸2.5K(Flyme Auto)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "SPA24种按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

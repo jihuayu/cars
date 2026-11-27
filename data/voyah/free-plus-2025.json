@@ -1,7 +1,7 @@
 {
   "brand": "voyah",
   "brand_name": "岚图",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "岚图FREE+（2025款）",
   "model_slug": "free-plus-2025",
   "category": "中大型5座增程SUV",
@@ -26,7 +26,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "143-170"
       },
       "performance": {
         "drive_type": "后驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "全铝前四球节双叉臂",
@@ -73,28 +75,44 @@
         "hud": null,
         "audio": "22扬声器",
         "fridge": "冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "全车电动吸合车门",
           "price_rmb": 8000,
-          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）"
+          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期可享免费升级",
+          "availability": "可选"
         },
         {
           "name": "四活塞运动卡钳",
           "price_rmb": 6000,
-          "details": "四驱乾崑版可选装四活塞运动刹车卡钳"
+          "details": "四驱乾崑版可选装四活塞运动刹车卡钳",
+          "availability": "可选"
         },
         {
           "name": "22扬声器Voyah Sound音响升级",
           "price_rmb": 4000,
-          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）"
+          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价"
+          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价",
+          "availability": "标配"
         }
       ]
     },
@@ -114,7 +132,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "143-170"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -134,10 +153,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "全铝前四球节双叉臂",
@@ -161,28 +181,44 @@
         "hud": null,
         "audio": "22扬声器",
         "fridge": "冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "全车电动吸合车门",
           "price_rmb": 8000,
-          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）"
+          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期可享免费升级",
+          "availability": "可选"
         },
         {
           "name": "四活塞运动卡钳",
           "price_rmb": 6000,
-          "details": "四驱乾崑版可选装四活塞运动刹车卡钳"
+          "details": "四驱乾崑版可选装四活塞运动刹车卡钳",
+          "availability": "可选"
         },
         {
           "name": "22扬声器Voyah Sound音响升级",
           "price_rmb": 4000,
-          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）"
+          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价"
+          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价",
+          "availability": "标配"
         }
       ]
     },
@@ -202,7 +238,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "143-170"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -222,10 +259,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "全铝前四球节双叉臂",
@@ -249,31 +287,61 @@
         "hud": null,
         "audio": "22扬声器",
         "fridge": "冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "全车电动吸合车门",
           "price_rmb": 8000,
-          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）"
+          "details": "四驱乾崑版等配置表标注全车电吸门选配价格8,000元（首销或限时权益期可享免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益期可享免费升级",
+          "availability": "可选"
         },
         {
           "name": "四活塞运动卡钳",
           "price_rmb": 6000,
-          "details": "四驱乾崑版可选装四活塞运动刹车卡钳"
+          "details": "四驱乾崑版可选装四活塞运动刹车卡钳",
+          "availability": "可选"
         },
         {
           "name": "22扬声器Voyah Sound音响升级",
           "price_rmb": 4000,
-          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）"
+          "details": "由标配18扬声器升级至22扬声器（含前排头枕扬声器）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价"
+          "details": "全系标配192线激光雷达及华为乾崑ADS 4硬件，城市路段领航及记忆泊车为选配开通项，未公开官方单价",
+          "availability": "标配"
         }
       ]
     }
   ],
-  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g28/M06/B0/A5/autohomecar__Chtlx2has8OARyFBAAJKqezyCEQ159.jpg?x_image_process=text/5paw6IO95rqQ6KeG6YeO/fontSize/12"
+  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g28/M06/B0/A5/autohomecar__Chtlx2has8OARyFBAAJKqezyCEQ159.jpg?x_image_process=text/5paw6IO95rqQ6KeG6YeO/fontSize/12",
+  "promo_highlights": [
+    "限时1.5万元尾款减免、5年贷前2年0息、赠1.8万元配置升级及2万元华为ADS高阶包抵用券"
+  ],
+  "references": [
+    {
+      "title": "岚图 岚图FREE+（2025款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/spec/73126.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

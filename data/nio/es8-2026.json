@@ -1,7 +1,7 @@
 {
   "brand": "nio",
   "brand_name": "蔚来",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "全新蔚来ES8",
   "model_slug": "es8-2026",
   "category": "大型纯电SUV（5/6/7座）",
@@ -23,7 +23,7 @@
         "height_mm": null,
         "wheelbase_mm": 3130,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2630,
         "trunk_volume_l": "1334-2845",
         "frunk_volume_l": 230,
         "min_turning_radius_m": 5.7,
@@ -47,10 +47,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 600,
         "fast_charge_time": "支持超快充+3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆独立悬架",
@@ -74,18 +75,30 @@
         "hud": "AR-HUD",
         "audio": "天琴8.1.4.2音响",
         "fridge": null,
-        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅",
+        "rear_screen": "标配 8英寸后排控制屏+21.4英寸Mini LED吸顶娱乐屏",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "48英寸天际屏(Skyline)+38英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
           "price_rmb": "豪华版25800 / 签名版10800",
-          "details": "锻造轮圈套件"
+          "details": "锻造轮圈套件",
+          "availability": "可选"
         },
         {
           "name": "其余车漆/轮毂/NOMI选装",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -101,7 +114,7 @@
         "height_mm": null,
         "wheelbase_mm": 3130,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2630,
         "trunk_volume_l": "1334-2845",
         "frunk_volume_l": 230,
         "min_turning_radius_m": 5.7,
@@ -125,10 +138,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 600,
         "fast_charge_time": "支持超快充+3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆独立悬架",
@@ -152,18 +166,30 @@
         "hud": "AR-HUD",
         "audio": "天琴8.1.4.2音响",
         "fridge": null,
-        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅",
+        "rear_screen": "标配 8英寸后排控制屏+21.4英寸Mini LED吸顶娱乐屏",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "48英寸天际屏(Skyline)+38英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
           "price_rmb": "豪华版25800 / 签名版10800",
-          "details": "锻造轮圈套件"
+          "details": "锻造轮圈套件",
+          "availability": "可选"
         },
         {
           "name": "其余车漆/轮毂/NOMI选装",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -179,7 +205,7 @@
         "height_mm": null,
         "wheelbase_mm": 3130,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2630,
         "trunk_volume_l": null,
         "frunk_volume_l": 230,
         "min_turning_radius_m": 5.7,
@@ -203,10 +229,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 600,
         "fast_charge_time": "支持超快充+3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆独立悬架",
@@ -230,18 +257,30 @@
         "hud": "AR-HUD",
         "audio": "天琴8.1.4.2音响",
         "fridge": null,
-        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅",
+        "rear_screen": "标配 8英寸后排控制屏+21.4英寸Mini LED吸顶娱乐屏",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "48英寸天际屏(Skyline)+38英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
           "price_rmb": "豪华版25800 / 签名版10800",
-          "details": "锻造轮圈套件"
+          "details": "锻造轮圈套件",
+          "availability": "可选"
         },
         {
           "name": "其余车漆/轮毂/NOMI选装",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -257,7 +296,7 @@
         "height_mm": null,
         "wheelbase_mm": 3130,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2630,
         "trunk_volume_l": null,
         "frunk_volume_l": 230,
         "min_turning_radius_m": 5.7,
@@ -281,10 +320,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 600,
         "fast_charge_time": "支持超快充+3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆独立悬架",
@@ -308,18 +348,30 @@
         "hud": "AR-HUD",
         "audio": "天琴8.1.4.2音响",
         "fridge": null,
-        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅",
+        "rear_screen": "标配 8英寸后排控制屏+21.4英寸Mini LED吸顶娱乐屏",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "48英寸天际屏(Skyline)+38英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
           "price_rmb": "豪华版25800 / 签名版10800",
-          "details": "锻造轮圈套件"
+          "details": "锻造轮圈套件",
+          "availability": "可选"
         },
         {
           "name": "其余车漆/轮毂/NOMI选装",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -335,7 +387,7 @@
         "height_mm": null,
         "wheelbase_mm": 3130,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2630,
         "trunk_volume_l": null,
         "frunk_volume_l": 230,
         "min_turning_radius_m": 5.7,
@@ -359,10 +411,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 600,
         "fast_charge_time": "支持超快充+3分钟换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆独立悬架",
@@ -386,21 +439,69 @@
         "hud": "AR-HUD",
         "audio": "天琴8.1.4.2音响",
         "fridge": null,
-        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅"
+        "seat_features": "五座配前排双飞航零重力；六座配三把零重力座椅",
+        "rear_screen": "标配 8英寸后排控制屏+21.4英寸Mini LED吸顶娱乐屏",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "48英寸天际屏(Skyline)+38英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "揽月套装（22英寸锻造轮圈+曙光金卡钳）",
           "price_rmb": "豪华版25800 / 签名版10800",
-          "details": "锻造轮圈套件"
+          "details": "锻造轮圈套件",
+          "availability": "可选"
         },
         {
           "name": "其余车漆/轮毂/NOMI选装",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%28CHN-Jiangsu%29_Showcar_Nio_ES8_No-plate_2025-12-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%28CHN-Jiangsu%29_Showcar_Nio_ES8_No-plate_2025-12-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "支持BaaS电池租用方案、首任车主享6年/15万公里整车质保与10年三电质保"
+  ],
+  "miit_filing": {
+    "miit_batch": "第396批",
+    "product_model_code": null,
+    "curb_weight_kg": 2630,
+    "gross_weight_kg": null,
+    "approach_departure_deg": "17/18",
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "蔚来 全新蔚来ES8 官方配置页 (www.nio.cn)",
+      "url": "https://www.nio.cn/es8",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来 全新蔚来ES8 官方配置页 (www.nio.cn)",
+      "url": "https://www.nio.cn/es8-five-seater",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第396批：全新蔚来ES8申报参数",
+      "url": "https://db.m.auto.sohu.com/model_7489/a/906950766_117058",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

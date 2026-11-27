@@ -1,7 +1,7 @@
 {
   "brand": "immotors",
   "brand_name": "智己汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "全新一代智己L6",
   "model_slug": "l6-2026",
   "category": "中大型纯电轿车",
@@ -50,7 +50,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -74,38 +75,60 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器7.1.2音响",
         "fridge": "智能冷暖双用冰箱",
-        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "都市出行闪耀套装 / 特殊外观色",
           "price_rmb": null,
-          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "19英寸空气动力学轮辋（后275/40 R19）",
           "price_rmb": 7000,
-          "details": "限时价4000元"
+          "details": "限时价4000元",
+          "promo_price_rmb": 4000,
+          "promo_note": "限时价4000元",
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘",
           "price_rmb": 2000,
-          "details": "2025款选装；2026款换装全新椭圆形线控方向盘"
+          "details": "2025款选装；2026款换装全新椭圆形线控方向盘",
+          "availability": "可选"
         },
         {
           "name": "瞬感智控防晒光感天幕",
           "price_rmb": 12800,
-          "details": "2025款定价参考；2026款列为选装/权益标配"
+          "details": "2025款定价参考；2026款列为选装/权益标配",
+          "availability": "可选"
         },
         {
           "name": "16.2英寸MINI LED副驾娱乐屏 / 16扬声器B&O音响 / 5.7L车载冰箱 / 后排座椅按摩",
           "price_rmb": null,
-          "details": "2026款普通版列为选配，上市首销权益多含免费赠送"
+          "details": "2026款普通版列为选配，上市首销权益多含免费赠送",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         }
       ]
     },
@@ -148,7 +171,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -172,38 +196,60 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器7.1.2音响",
         "fridge": "智能冷暖双用冰箱",
-        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "都市出行闪耀套装 / 特殊外观色",
           "price_rmb": null,
-          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "19英寸空气动力学轮辋（后275/40 R19）",
           "price_rmb": 7000,
-          "details": "限时价4000元"
+          "details": "限时价4000元",
+          "promo_price_rmb": 4000,
+          "promo_note": "限时价4000元",
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘",
           "price_rmb": 2000,
-          "details": "2025款选装；2026款换装全新椭圆形线控方向盘"
+          "details": "2025款选装；2026款换装全新椭圆形线控方向盘",
+          "availability": "可选"
         },
         {
           "name": "瞬感智控防晒光感天幕",
           "price_rmb": 12800,
-          "details": "2025款定价参考；2026款列为选装/权益标配"
+          "details": "2025款定价参考；2026款列为选装/权益标配",
+          "availability": "可选"
         },
         {
           "name": "16.2英寸MINI LED副驾娱乐屏 / 16扬声器B&O音响 / 5.7L车载冰箱 / 后排座椅按摩",
           "price_rmb": null,
-          "details": "2026款普通版列为选配，上市首销权益多含免费赠送"
+          "details": "2026款普通版列为选配，上市首销权益多含免费赠送",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         }
       ]
     },
@@ -246,7 +292,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -270,38 +317,60 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器7.1.2音响",
         "fridge": "智能冷暖双用冰箱",
-        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "都市出行闪耀套装 / 特殊外观色",
           "price_rmb": null,
-          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "19英寸空气动力学轮辋（后275/40 R19）",
           "price_rmb": 7000,
-          "details": "限时价4000元"
+          "details": "限时价4000元",
+          "promo_price_rmb": 4000,
+          "promo_note": "限时价4000元",
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘",
           "price_rmb": 2000,
-          "details": "2025款选装；2026款换装全新椭圆形线控方向盘"
+          "details": "2025款选装；2026款换装全新椭圆形线控方向盘",
+          "availability": "可选"
         },
         {
           "name": "瞬感智控防晒光感天幕",
           "price_rmb": 12800,
-          "details": "2025款定价参考；2026款列为选装/权益标配"
+          "details": "2025款定价参考；2026款列为选装/权益标配",
+          "availability": "可选"
         },
         {
           "name": "16.2英寸MINI LED副驾娱乐屏 / 16扬声器B&O音响 / 5.7L车载冰箱 / 后排座椅按摩",
           "price_rmb": null,
-          "details": "2026款普通版列为选配，上市首销权益多含免费赠送"
+          "details": "2026款普通版列为选配，上市首销权益多含免费赠送",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         }
       ]
     },
@@ -344,7 +413,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -368,38 +438,60 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器7.1.2音响",
         "fridge": "智能冷暖双用冰箱",
-        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "都市出行闪耀套装 / 特殊外观色",
           "price_rmb": null,
-          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "19英寸空气动力学轮辋（后275/40 R19）",
           "price_rmb": 7000,
-          "details": "限时价4000元"
+          "details": "限时价4000元",
+          "promo_price_rmb": 4000,
+          "promo_note": "限时价4000元",
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘",
           "price_rmb": 2000,
-          "details": "2025款选装；2026款换装全新椭圆形线控方向盘"
+          "details": "2025款选装；2026款换装全新椭圆形线控方向盘",
+          "availability": "可选"
         },
         {
           "name": "瞬感智控防晒光感天幕",
           "price_rmb": 12800,
-          "details": "2025款定价参考；2026款列为选装/权益标配"
+          "details": "2025款定价参考；2026款列为选装/权益标配",
+          "availability": "可选"
         },
         {
           "name": "16.2英寸MINI LED副驾娱乐屏 / 16扬声器B&O音响 / 5.7L车载冰箱 / 后排座椅按摩",
           "price_rmb": null,
-          "details": "2026款普通版列为选配，上市首销权益多含免费赠送"
+          "details": "2026款普通版列为选配，上市首销权益多含免费赠送",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         }
       ]
     },
@@ -442,7 +534,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -466,41 +559,100 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器7.1.2音响",
         "fridge": "智能冷暖双用冰箱",
-        "seat_features": "超柔亲肤座椅、瞬感防晒天幕"
+        "seat_features": "超柔亲肤座椅、瞬感防晒天幕",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排加热、通风，二排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "都市出行闪耀套装 / 特殊外观色",
           "price_rmb": null,
-          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准"
+          "details": "含20英寸锋银运动轮辋+倍耐力P ZERO，单价以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "19英寸空气动力学轮辋（后275/40 R19）",
           "price_rmb": 7000,
-          "details": "限时价4000元"
+          "details": "限时价4000元",
+          "promo_price_rmb": 4000,
+          "promo_note": "限时价4000元",
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘",
           "price_rmb": 2000,
-          "details": "2025款选装；2026款换装全新椭圆形线控方向盘"
+          "details": "2025款选装；2026款换装全新椭圆形线控方向盘",
+          "availability": "可选"
         },
         {
           "name": "瞬感智控防晒光感天幕",
           "price_rmb": 12800,
-          "details": "2025款定价参考；2026款列为选装/权益标配"
+          "details": "2025款定价参考；2026款列为选装/权益标配",
+          "availability": "可选"
         },
         {
           "name": "16.2英寸MINI LED副驾娱乐屏 / 16扬声器B&O音响 / 5.7L车载冰箱 / 后排座椅按摩",
           "price_rmb": null,
-          "details": "2026款普通版列为选配，上市首销权益多含免费赠送"
+          "details": "2026款普通版列为选配，上市首销权益多含免费赠送",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://portal-static.immotors.com/images/portal/1793278653039%2540acco2o9f.jpg"
+  "image_url": "https://portal-static.immotors.com/images/portal/1793278653039%2540acco2o9f.jpg",
+  "promo_highlights": [
+    "全系上市限时权益价19.99万-25.99万元（立减10000元）",
+    "限时升级16扬声器B&O豪华音响、一体式防晒天幕、5.7L冷暖冰箱"
+  ],
+  "miit_filing": {
+    "miit_batch": "第389批",
+    "product_model_code": "CSA7002EBEV6",
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "智己汽车 全新一代智己L6 官方配置页 (www.immotors.com)",
+      "url": "https://www.immotors.com/website/vehicle_config/l6m2",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智己汽车 全新一代智己L6 官方配置页 (www.immotors.com)",
+      "url": "https://www.immotors.com/website/news_detail/238",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第389批：新款智己L6申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/17959392",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2025/07/15/17/af021fc04e8048799061f0f0b688a4a1.jpg!jpg"
 }

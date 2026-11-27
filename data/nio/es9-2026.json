@@ -1,7 +1,7 @@
 {
   "brand": "nio",
   "brand_name": "蔚来",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "蔚来ES9",
   "model_slug": "es9-2026",
   "category": "全尺寸行政旗舰纯电SUV",
@@ -23,7 +23,7 @@
         "height_mm": null,
         "wheelbase_mm": 3250,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2845-2915",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.4,
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "102kWh电池包",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 102,
         "cltc_pure_electric_range_km": 620,
         "cltc_combined_range_km": 620,
@@ -50,7 +50,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前五连杆独立悬架",
@@ -74,13 +75,22 @@
         "hud": "AR-HUD",
         "audio": "九霄天琴9.2.4.8音响（47扬声器）",
         "fridge": null,
-        "seat_features": "六座中岛/六座通道双布局"
+        "seat_features": "六座中岛/六座通道双布局",
+        "instrument_cluster": "数字天际线屏+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排20点热石按摩+二排右侧脚部按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆/轮圈/二排定制附件",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -96,7 +106,7 @@
         "height_mm": null,
         "wheelbase_mm": 3250,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2845-2915",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.4,
@@ -112,7 +122,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "102kWh电池包",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 102,
         "cltc_pure_electric_range_km": 620,
         "cltc_combined_range_km": 620,
@@ -123,7 +133,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前五连杆独立悬架",
@@ -147,13 +158,22 @@
         "hud": "AR-HUD",
         "audio": "九霄天琴9.2.4.8音响（47扬声器）",
         "fridge": null,
-        "seat_features": "六座中岛/六座通道双布局"
+        "seat_features": "六座中岛/六座通道双布局",
+        "instrument_cluster": "数字天际线屏+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排20点热石按摩+二排右侧脚部按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆/轮圈/二排定制附件",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -169,7 +189,7 @@
         "height_mm": null,
         "wheelbase_mm": 3250,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2845-2915",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.4,
@@ -185,7 +205,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "102kWh电池包",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 102,
         "cltc_pure_electric_range_km": 620,
         "cltc_combined_range_km": 620,
@@ -196,7 +216,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前五连杆独立悬架",
@@ -220,13 +241,22 @@
         "hud": "AR-HUD",
         "audio": "九霄天琴9.2.4.8音响（47扬声器）",
         "fridge": null,
-        "seat_features": "六座中岛/六座通道双布局"
+        "seat_features": "六座中岛/六座通道双布局",
+        "instrument_cluster": "数字天际线屏+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排20点热石按摩+二排右侧脚部按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆/轮圈/二排定制附件",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -242,7 +272,7 @@
         "height_mm": null,
         "wheelbase_mm": 3250,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2845-2915",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.4,
@@ -258,7 +288,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "102kWh电池包",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 102,
         "cltc_pure_electric_range_km": 620,
         "cltc_combined_range_km": 620,
@@ -269,7 +299,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前五连杆独立悬架",
@@ -293,16 +324,61 @@
         "hud": "AR-HUD",
         "audio": "九霄天琴9.2.4.8音响（47扬声器）",
         "fridge": null,
-        "seat_features": "六座中岛/六座通道双布局"
+        "seat_features": "六座中岛/六座通道双布局",
+        "instrument_cluster": "数字天际线屏+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排20点热石按摩+二排右侧脚部按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆/轮圈/二排定制附件",
           "price_rmb": null,
-          "details": "以蔚来官方App配置器为准"
+          "details": "以蔚来官方App配置器为准",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nio_ES9_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nio_ES9_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "支持BaaS电池租用方案（车价立减10.8万元）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第403批",
+    "product_model_code": null,
+    "curb_weight_kg": "2845-2915",
+    "gross_weight_kg": 3490,
+    "approach_departure_deg": null,
+    "battery_supplier": "宁德时代"
+  },
+  "references": [
+    {
+      "title": "蔚来 蔚来ES9 官方配置页 (www.nio.cn)",
+      "url": "https://www.nio.cn/es9",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来 蔚来ES9 官方配置页 (www.nio.cn)",
+      "url": "https://www.nio.cn/news/20260527001",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第403批：蔚来ES9申报参数",
+      "url": "https://chejiahao.m.autohome.com.cn/info/24694122",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

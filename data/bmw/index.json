@@ -1,0 +1,233 @@
+{
+  "brand": "bmw",
+  "brand_name": "宝马新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 5,
+  "sku_count": 11,
+  "models": [
+    {
+      "brand": "bmw",
+      "brand_name": "宝马新能源",
+      "origin_type": "合资/外资",
+      "model": "宝马i3",
+      "model_slug": "bmw-i3",
+      "sub_brand": null,
+      "category": "中型纯电轿车",
+      "release_date": "2026-02-01",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 3,
+      "option_count": 1,
+      "price_min_rmb": 278000,
+      "price_max_rmb": 338000,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 625,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/bmw/bmw-i3.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6544.html"
+      ]
+    },
+    {
+      "brand": "bmw",
+      "brand_name": "宝马新能源",
+      "origin_type": "合资/外资",
+      "model": "宝马i5",
+      "model_slug": "bmw-i5",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2026-02-02",
+      "image_url": "https://www2.autoimg.cn/chejiahaodfs/g33/M08/C8/B6/400x400_0_f42_autohomecar__ChxpVWmRiXGAS86sAAWd-4d2kAI408.png",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 2,
+      "price_min_rmb": 408000,
+      "price_max_rmb": 458000,
+      "best_zero_to_100_s": 4.2,
+      "max_cltc_ev_km": 713,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/bmw/bmw-i5.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7344.html"
+      ]
+    },
+    {
+      "brand": "bmw",
+      "brand_name": "宝马新能源",
+      "origin_type": "合资/外资",
+      "model": "宝马iX",
+      "model_slug": "bmw-ix",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2023-07-24",
+      "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M00/CD/62/400x400_0_f42_autohomecar__ChxpVWrSxVuAJe3mAAZMqhV3dAE209.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 846900,
+      "price_max_rmb": 1009900,
+      "best_zero_to_100_s": 3.8,
+      "max_cltc_ev_km": 665,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/bmw/bmw-ix.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/4942.html"
+      ]
+    },
+    {
+      "brand": "bmw",
+      "brand_name": "宝马新能源",
+      "origin_type": "合资/外资",
+      "model": "宝马iX1",
+      "model_slug": "bmw-ix1",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2026-05-29",
+      "image_url": "https://img5.bitautoimg.com/usercenter/autoalbum/files/20260703/953/w300_yichecar_202607033409307109995339647.png.webp",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 228000,
+      "price_max_rmb": 268000,
+      "best_zero_to_100_s": 5.7,
+      "max_cltc_ev_km": 563,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/bmw/bmw-ix1.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7223.html",
+        "https://car.m.yiche.com/baomaix1-9962/"
+      ]
+    },
+    {
+      "brand": "bmw",
+      "brand_name": "宝马新能源",
+      "origin_type": "合资/外资",
+      "model": "新世代BMW iX3",
+      "model_slug": "bmw-ix3-neue-klasse",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2026-11-25",
+      "image_url": "https://img4.wtsimg.com/flashnews/images/images/20261125/crop-3x2-111441247478-63ca6000.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 269900,
+      "price_max_rmb": 339900,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": 919,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/bmw/bmw-ix3-neue-klasse.json",
+      "source_urls": [
+        "https://www.bmw.com.cn/zh/all-models/bmw-i/ix3/2026/specsheet.html",
+        "https://auto.news18a.com/news/storys_317680.html"
+      ]
+    }
+  ]
+}

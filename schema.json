@@ -21,6 +21,8 @@
           "model_slug": { "type": "string" },
           "category": { "type": ["string", "null"] },
           "release_date": { "type": ["string", "null"] },
+          "image_url": { "type": ["string", "null"] },
+          "promo_highlights": { "type": "array", "items": { "type": "string" }, "description": "Official time-limited purchase discounts, free option promos, and option funds" },
           "source_urls": { "type": "array", "items": { "type": "string" } },
           "skus": {
             "type": "array",
@@ -40,6 +42,7 @@
                     "width_mm": { "type": ["number", "null"] },
                     "height_mm": { "type": ["number", "null"] },
                     "wheelbase_mm": { "type": ["number", "null"] },
+                    "ground_clearance_mm": { "type": ["number", "string", "null"], "description": "Minimum ground clearance in mm or adjustable range (e.g. '145-210')" },
                     "seats": { "type": ["integer", "string", "null"] },
                     "curb_weight_kg": { "type": ["number", "string", "null"] },
                     "trunk_volume_l": { "type": ["number", "string", "null"] },
@@ -63,6 +66,7 @@
                   "properties": {
                     "voltage_platform_v": { "type": ["number", "string", "null"] },
                     "battery_type": { "type": ["string", "null"] },
+                    "battery_chemistry": { "type": ["string", "null"], "description": "Normalized chemistry category: 磷酸铁锂 / 三元锂 / 磷酸铁锂/三元锂 / 半固态" },
                     "battery_supplier": { "type": ["string", "null"] },
                     "battery_capacity_kwh": { "type": ["number", "string", "null"] },
                     "cltc_pure_electric_range_km": { "type": ["number", "string", "null"] },
@@ -104,6 +108,8 @@
                   "properties": {
                     "chip": { "type": ["string", "null"] },
                     "screens": { "type": ["string", "null"] },
+                    "rear_screen": { "type": ["string", "null"], "description": "Rear entertainment / ceiling screen support & size" },
+                    "power_220v": { "type": ["string", "null"], "description": "In-cabin / rear 220V AC power outlet support & wattage" },
                     "hud": { "type": ["string", "null"] },
                     "audio": { "type": ["string", "null"] },
                     "fridge": { "type": ["string", "boolean", "null"] },
@@ -118,6 +124,9 @@
                     "properties": {
                       "name": { "type": "string" },
                       "price_rmb": { "type": ["number", "string", "null"] },
+                      "promo_price_rmb": { "type": ["number", "string", "null"], "description": "Time-limited discounted price (0 for time-limited free)" },
+                      "promo_note": { "type": ["string", "null"], "description": "Time-limited discount / option fund note" },
+                      "availability": { "type": ["string", "null"], "description": "Per-SKU applicability status: 标配 / 可选 / 不支持 / 全系可选" },
                       "details": { "type": ["string", "null"] }
                     }
                   }

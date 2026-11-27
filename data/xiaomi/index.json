@@ -1,21 +1,28 @@
 {
   "brand": "xiaomi",
   "brand_name": "小米汽车",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 4,
   "sku_count": 14,
   "models": [
     {
       "brand": "xiaomi",
       "brand_name": "小米汽车",
+      "origin_type": "国产",
       "model": "小米澎程N70 / N90（2026款增程）",
       "model_slug": "skynomad-n70-n90-2026",
       "sub_brand": null,
       "category": "中大型/全尺寸增程SUV",
       "release_date": "2026-09-07",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/n70_20260907/pc/n90.png",
+      "interior_image_url": null,
       "powertrains": [
         "REEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 3,
@@ -23,6 +30,22 @@
       "price_max_rmb": 299900,
       "best_zero_to_100_s": 5.5,
       "max_cltc_ev_km": 505,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.6,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaomi/skynomad-n70-n90-2026.json",
       "source_urls": [
         "https://www.xiaomiev.com/skynomad/car-config",
@@ -32,14 +55,20 @@
     {
       "brand": "xiaomi",
       "brand_name": "小米汽车",
+      "origin_type": "国产",
       "model": "小米SU7（2026款）",
       "model_slug": "su7-2026",
       "sub_brand": null,
       "category": "中大型纯电轿跑",
       "release_date": "2026-03-19",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/su7_20260319/pc/0-1_1.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 7,
@@ -47,6 +76,22 @@
       "price_max_rmb": 303900,
       "best_zero_to_100_s": 3.08,
       "max_cltc_ev_km": 902,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.6,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaomi/su7-2026.json",
       "source_urls": [
         "https://www.xiaomiev.com/car-config",
@@ -56,14 +101,19 @@
     {
       "brand": "xiaomi",
       "brand_name": "小米汽车",
+      "origin_type": "国产",
       "model": "小米SU7 Ultra",
       "model_slug": "su7-ultra-2025",
       "sub_brand": null,
       "category": "高性能纯电四门超跑",
       "release_date": "2025-02-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 2,
       "option_count": 4,
@@ -71,6 +121,22 @@
       "price_max_rmb": 814900,
       "best_zero_to_100_s": 1.98,
       "max_cltc_ev_km": 630,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.5,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaomi/su7-ultra-2025.json",
       "source_urls": [
         "https://www.xiaomiev.com/car-config?active=500010402"
@@ -79,14 +145,20 @@
     {
       "brand": "xiaomi",
       "brand_name": "小米汽车",
+      "origin_type": "国产",
       "model": "小米YU7（2025/2026款）",
       "model_slug": "yu7-2026",
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2025-06-26",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/yu7_20260521/pc/1.jpg?x-fds-process=image/resize,f_webp,q_100",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 5,
       "option_count": 5,
@@ -94,6 +166,22 @@
       "price_max_rmb": 389900,
       "best_zero_to_100_s": 2.92,
       "max_cltc_ev_km": 835,
+      "ground_clearance_mm": "150-172",
+      "max_v2l_kw": 6.6,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaomi/yu7-2026.json",
       "source_urls": [
         "https://www.xiaomiev.com/yu7"

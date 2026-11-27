@@ -1,7 +1,7 @@
 {
   "brand": "lixiang",
   "brand_name": "理想汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2026款理想i6",
   "model_slug": "i6-2026",
   "category": "中大型5座纯电SUV",
@@ -47,10 +47,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": null,
         "fast_charge_time": "10分钟补能500km",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "全铝前双叉臂独立悬架",
@@ -74,38 +75,56 @@
         "hud": null,
         "audio": "标配音响（可选7.3.4铂金音响）",
         "fridge": "标配电动智能冷暖冰箱",
-        "seat_features": "标配主副驾双全尺寸零重力座椅（18点按摩）+二排140°皇后座"
+        "seat_features": "标配主副驾双全尺寸零重力座椅（18点按摩）+二排140°皇后座",
+        "rear_screen": "选装 21英寸4K后舱娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "HUD无传统仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双电机智能四驱系统（含21英寸七辐运动轮毂）",
           "price_rmb": 20000,
-          "details": "综合400kW，零百4.8s，CLTC 710km"
+          "details": "综合400kW，零百4.8s，CLTC 710km",
+          "availability": "可选"
         },
         {
           "name": "双马赫M100套装",
           "price_rmb": 20000,
-          "details": "2颗M100（2560 TOPS）+3颗固态激光雷达+前排电动门"
+          "details": "2颗M100（2560 TOPS）+3颗固态激光雷达+前排电动门",
+          "availability": "可选"
         },
         {
           "name": "后舱娱乐屏套装",
           "price_rmb": 10000,
-          "details": "21英寸4K屏+流媒体后视镜+化妆镜+中置扬声器"
+          "details": "21英寸4K屏+流媒体后视镜+化妆镜+中置扬声器",
+          "availability": "可选"
         },
         {
           "name": "原厂电动拖车钩",
           "price_rmb": 6000,
-          "details": "1.5吨牵引能力"
+          "details": "1.5吨牵引能力",
+          "availability": "可选"
         },
         {
           "name": "铂金音响系统",
           "price_rmb": 5000,
-          "details": "1920W/20扬声器7.3.4布局"
+          "details": "1920W/20扬声器7.3.4布局",
+          "availability": "可选"
         },
         {
           "name": "特殊车漆（云朵黄/风信紫/磁力蓝）",
           "price_rmb": 6000,
-          "details": "首销期限时免费"
+          "details": "首销期限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -145,10 +164,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": null,
         "fast_charge_time": "10分钟补能500km",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "全铝前双叉臂独立悬架",
@@ -172,36 +192,91 @@
         "hud": null,
         "audio": "标配音响（可选7.3.4铂金音响）",
         "fridge": "标配电动智能冷暖冰箱",
-        "seat_features": "标配主副驾双全尺寸零重力座椅（18点按摩）+二排140°皇后座"
+        "seat_features": "标配主副驾双全尺寸零重力座椅（18点按摩）+二排140°皇后座",
+        "rear_screen": "选装 21英寸4K后舱娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "HUD无传统仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双马赫M100套装",
           "price_rmb": 20000,
-          "details": "2颗M100（2560 TOPS）+3颗固态激光雷达+前排电动门"
+          "details": "2颗M100（2560 TOPS）+3颗固态激光雷达+前排电动门",
+          "availability": "可选"
         },
         {
           "name": "后舱娱乐屏套装",
           "price_rmb": 10000,
-          "details": "21英寸4K屏+流媒体后视镜+化妆镜+中置扬声器"
+          "details": "21英寸4K屏+流媒体后视镜+化妆镜+中置扬声器",
+          "availability": "可选"
         },
         {
           "name": "原厂电动拖车钩",
           "price_rmb": 6000,
-          "details": "1.5吨牵引能力"
+          "details": "1.5吨牵引能力",
+          "availability": "可选"
         },
         {
           "name": "铂金音响系统",
           "price_rmb": 5000,
-          "details": "1920W/20扬声器7.3.4布局"
+          "details": "1920W/20扬声器7.3.4布局",
+          "availability": "可选"
         },
         {
           "name": "特殊车漆（云朵黄/风信紫/磁力蓝）",
           "price_rmb": 6000,
-          "details": "首销期限时免费"
+          "details": "首销期限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Li_Auto_i6_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Li_Auto_i6_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "截至2026年11月30日首销限时现金减免10,000元（权益价23.98万元）",
+    "云朵黄/风信紫/磁力蓝外观色限时免费（价值6,000元）",
+    "理想老车主复购赠铂金音响+30,000积分"
+  ],
+  "miit_filing": {
+    "miit_batch": "第411批",
+    "product_model_code": "LXA6503BEVW05",
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "中创新航/理想自研电池总成"
+  },
+  "references": [
+    {
+      "title": "理想汽车 2026款理想i6 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/i6",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想汽车 2026款理想i6 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/news/190.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第411批新车公示：理想i6完成申报 - 中国科技网",
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/11/content_579492.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/09/16/995a4202509161731355139.jpg"
 }

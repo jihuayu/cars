@@ -1,7 +1,7 @@
 {
   "brand": "geely-galaxy",
   "brand_name": "吉利银河",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "吉利银河星舰7（EM-i / EV）",
   "model_slug": "starship7-2026",
   "category": "紧凑型SUV",
@@ -23,11 +23,12 @@
         "height_mm": 1685,
         "wheelbase_mm": 2755,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1740-1790",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 200
       },
       "performance": {
         "drive_type": "前驱",
@@ -39,7 +40,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/江苏耀宁新能源",
         "battery_capacity_kwh": 19.09,
         "cltc_pure_electric_range_km": 130,
         "cltc_combined_range_km": 1575,
@@ -47,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -74,28 +76,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表(高配+W-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，顶配二排加热",
+        "seat_massage": "顶配前排14点腰背臀腿按摩(明确含座垫/臀部按摩)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "顶配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
           "price_rmb": "8800 / 2500 / 3000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "18英寸低风阻轮毂",
           "price_rmb": 1200,
-          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）"
+          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）",
+          "availability": "可选"
         },
         {
           "name": "科技包",
           "price_rmb": 8000,
-          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）"
+          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）",
+          "availability": "可选"
         },
         {
           "name": "200km续航包",
           "price_rmb": 10000,
-          "details": "2026款135km星舰版可选装升级至200km纯电续航包"
+          "details": "2026款135km星舰版可选装升级至200km纯电续航包",
+          "availability": "可选"
         }
       ]
     },
@@ -111,11 +127,12 @@
         "height_mm": 1685,
         "wheelbase_mm": 2755,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1740-1790",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 200
       },
       "performance": {
         "drive_type": "前驱",
@@ -127,7 +144,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/江苏耀宁新能源",
         "battery_capacity_kwh": 19.09,
         "cltc_pure_electric_range_km": 135,
         "cltc_combined_range_km": 1575,
@@ -135,10 +152,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -162,28 +180,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表(高配+W-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，顶配二排加热",
+        "seat_massage": "顶配前排14点腰背臀腿按摩(明确含座垫/臀部按摩)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "顶配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
           "price_rmb": "8800 / 2500 / 3000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "18英寸低风阻轮毂",
           "price_rmb": 1200,
-          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）"
+          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）",
+          "availability": "可选"
         },
         {
           "name": "科技包",
           "price_rmb": 8000,
-          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）"
+          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）",
+          "availability": "可选"
         },
         {
           "name": "200km续航包",
           "price_rmb": 10000,
-          "details": "2026款135km星舰版可选装升级至200km纯电续航包"
+          "details": "2026款135km星舰版可选装升级至200km纯电续航包",
+          "availability": "可选"
         }
       ]
     },
@@ -199,11 +231,12 @@
         "height_mm": 1685,
         "wheelbase_mm": 2755,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1740-1790",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 200
       },
       "performance": {
         "drive_type": "前驱",
@@ -215,7 +248,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/江苏耀宁新能源",
         "battery_capacity_kwh": 19.09,
         "cltc_pure_electric_range_km": 135,
         "cltc_combined_range_km": 1575,
@@ -223,10 +256,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -250,28 +284,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表(高配+W-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，顶配二排加热",
+        "seat_massage": "顶配前排14点腰背臀腿按摩(明确含座垫/臀部按摩)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "顶配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
           "price_rmb": "8800 / 2500 / 3000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "18英寸低风阻轮毂",
           "price_rmb": 1200,
-          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）"
+          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）",
+          "availability": "可选"
         },
         {
           "name": "科技包",
           "price_rmb": 8000,
-          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）"
+          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）",
+          "availability": "可选"
         },
         {
           "name": "200km续航包",
           "price_rmb": 10000,
-          "details": "2026款135km星舰版可选装升级至200km纯电续航包"
+          "details": "2026款135km星舰版可选装升级至200km纯电续航包",
+          "availability": "可选"
         }
       ]
     },
@@ -287,11 +335,12 @@
         "height_mm": 1685,
         "wheelbase_mm": 2755,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1740-1790",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 200
       },
       "performance": {
         "drive_type": "前驱",
@@ -303,7 +352,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/江苏耀宁新能源",
         "battery_capacity_kwh": 60.22,
         "cltc_pure_electric_range_km": 525,
         "cltc_combined_range_km": 525,
@@ -311,10 +360,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -338,28 +388,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表(高配+W-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，顶配二排加热",
+        "seat_massage": "顶配前排14点腰背臀腿按摩(明确含座垫/臀部按摩)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "顶配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
           "price_rmb": "8800 / 2500 / 3000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "18英寸低风阻轮毂",
           "price_rmb": 1200,
-          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）"
+          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）",
+          "availability": "可选"
         },
         {
           "name": "科技包",
           "price_rmb": 8000,
-          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）"
+          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）",
+          "availability": "可选"
         },
         {
           "name": "200km续航包",
           "price_rmb": 10000,
-          "details": "2026款135km星舰版可选装升级至200km纯电续航包"
+          "details": "2026款135km星舰版可选装升级至200km纯电续航包",
+          "availability": "可选"
         }
       ]
     },
@@ -375,11 +439,12 @@
         "height_mm": 1685,
         "wheelbase_mm": 2755,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1740-1790",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 200
       },
       "performance": {
         "drive_type": "前驱",
@@ -391,7 +456,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/江苏耀宁新能源",
         "battery_capacity_kwh": 68.39,
         "cltc_pure_electric_range_km": 605,
         "cltc_combined_range_km": 605,
@@ -399,10 +464,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -426,31 +492,82 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表(高配+W-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，顶配二排加热",
+        "seat_massage": "顶配前排14点腰背臀腿按摩(明确含座垫/臀部按摩)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "顶配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "16扬音响 / 13.8英寸HUD / 全景天窗",
           "price_rmb": "8800 / 2500 / 3000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "18英寸低风阻轮毂",
           "price_rmb": 1200,
-          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）"
+          "details": "含18英寸低风阻轮毂（2026款130km启航版选配，上市权益期曾限时赠送）",
+          "availability": "可选"
         },
         {
           "name": "科技包",
           "price_rmb": 8000,
-          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）"
+          "details": "含L2基础驾驶辅助、全景天窗、16扬Flyme Sound无界之声、10.2英寸全液晶仪表（2026款130km启航版选配）",
+          "availability": "可选"
         },
         {
           "name": "200km续航包",
           "price_rmb": 10000,
-          "details": "2026款135km星舰版可选装升级至200km纯电续航包"
+          "details": "2026款135km星舰版可选装升级至200km纯电续航包",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2024/10/25/17/7244838d5d924e60a7198acbaa5dccc3.jpg!jpg"
+  "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2024/10/25/17/7244838d5d924e60a7198acbaa5dccc3.jpg!jpg",
+  "promo_highlights": [
+    "2026款EM-i上市限时指导价9.58万元起",
+    "6000元超级置换补贴+价值7500元NOA服务+8万24期0息"
+  ],
+  "miit_filing": {
+    "miit_batch": "第414批",
+    "product_model_code": null,
+    "curb_weight_kg": "1740-1790",
+    "gross_weight_kg": 2219,
+    "approach_departure_deg": null,
+    "battery_supplier": "合肥国轩高科/江苏耀宁新能源"
+  },
+  "references": [
+    {
+      "title": "吉利银河 吉利银河星舰7（EM-i / EV） 官方配置页 (www.galaxy-geely.com)",
+      "url": "https://www.galaxy-geely.com/p145",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "吉利银河 吉利银河星舰7（EM-i / EV） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7864.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第414批：吉利银河星舰7申报信息",
+      "url": "https://auto.ifeng.com/c/8yN4FZiGVL7",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/P145/2025/1118/6.3pc.jpg"
 }

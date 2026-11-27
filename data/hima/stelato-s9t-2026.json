@@ -1,7 +1,7 @@
 {
   "brand": "hima",
   "brand_name": "鸿蒙智行",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "sub_brand": "享界 STELATO",
   "model": "享界S9T（2026款 896线旅行车）",
   "model_slug": "stelato-s9t-2026",
@@ -50,7 +50,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵底盘",
@@ -74,48 +75,65 @@
         "hud": null,
         "audio": "HUAWEI SOUND",
         "fridge": "6.2L压缩机冷暖箱",
-        "seat_features": "副驾零重力座椅、智慧电动门"
+        "seat_features": "副驾零重力座椅、智慧电动门",
+        "rear_screen": "高配标配/选装 智能投影巨幕系统2.0",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜",
           "price_rmb": 10000,
-          "details": "智能电子外后视镜"
+          "details": "智能电子外后视镜",
+          "availability": "可选"
         },
         {
           "name": "二排智能投影幕布2.0",
           "price_rmb": 20000,
-          "details": "车规级激光投影"
+          "details": "车规级激光投影",
+          "availability": "可选"
         },
         {
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂（255/45 R20）",
           "price_rmb": 6000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸星辉轮毂（255/40 R21）",
           "price_rmb": 15000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排智能投影巨幕系统",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -158,7 +176,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵底盘",
@@ -182,48 +201,65 @@
         "hud": null,
         "audio": "HUAWEI SOUND",
         "fridge": "6.2L压缩机冷暖箱",
-        "seat_features": "副驾零重力座椅、智慧电动门"
+        "seat_features": "副驾零重力座椅、智慧电动门",
+        "rear_screen": "高配标配/选装 智能投影巨幕系统2.0",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜",
           "price_rmb": 10000,
-          "details": "智能电子外后视镜"
+          "details": "智能电子外后视镜",
+          "availability": "可选"
         },
         {
           "name": "二排智能投影幕布2.0",
           "price_rmb": 20000,
-          "details": "车规级激光投影"
+          "details": "车规级激光投影",
+          "availability": "可选"
         },
         {
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂（255/45 R20）",
           "price_rmb": 6000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸星辉轮毂（255/40 R21）",
           "price_rmb": 15000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排智能投影巨幕系统",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -266,7 +302,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵底盘",
@@ -290,48 +327,65 @@
         "hud": null,
         "audio": "HUAWEI SOUND",
         "fridge": "6.2L压缩机冷暖箱",
-        "seat_features": "副驾零重力座椅、智慧电动门"
+        "seat_features": "副驾零重力座椅、智慧电动门",
+        "rear_screen": "高配标配/选装 智能投影巨幕系统2.0",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜",
           "price_rmb": 10000,
-          "details": "智能电子外后视镜"
+          "details": "智能电子外后视镜",
+          "availability": "可选"
         },
         {
           "name": "二排智能投影幕布2.0",
           "price_rmb": 20000,
-          "details": "车规级激光投影"
+          "details": "车规级激光投影",
+          "availability": "可选"
         },
         {
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂（255/45 R20）",
           "price_rmb": 6000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸星辉轮毂（255/40 R21）",
           "price_rmb": 15000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排智能投影巨幕系统",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -374,7 +428,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵底盘",
@@ -398,48 +453,65 @@
         "hud": null,
         "audio": "HUAWEI SOUND",
         "fridge": "6.2L压缩机冷暖箱",
-        "seat_features": "副驾零重力座椅、智慧电动门"
+        "seat_features": "副驾零重力座椅、智慧电动门",
+        "rear_screen": "高配标配/选装 智能投影巨幕系统2.0",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜",
           "price_rmb": 10000,
-          "details": "智能电子外后视镜"
+          "details": "智能电子外后视镜",
+          "availability": "可选"
         },
         {
           "name": "二排智能投影幕布2.0",
           "price_rmb": 20000,
-          "details": "车规级激光投影"
+          "details": "车规级激光投影",
+          "availability": "可选"
         },
         {
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂（255/45 R20）",
           "price_rmb": 6000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸星辉轮毂（255/40 R21）",
           "price_rmb": 15000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排智能投影巨幕系统",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -482,7 +554,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵底盘",
@@ -506,48 +579,65 @@
         "hud": null,
         "audio": "HUAWEI SOUND",
         "fridge": "6.2L压缩机冷暖箱",
-        "seat_features": "副驾零重力座椅、智慧电动门"
+        "seat_features": "副驾零重力座椅、智慧电动门",
+        "rear_screen": "高配标配/选装 智能投影巨幕系统2.0",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜",
           "price_rmb": 10000,
-          "details": "智能电子外后视镜"
+          "details": "智能电子外后视镜",
+          "availability": "可选"
         },
         {
           "name": "二排智能投影幕布2.0",
           "price_rmb": 20000,
-          "details": "车规级激光投影"
+          "details": "车规级激光投影",
+          "availability": "可选"
         },
         {
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂（255/45 R20）",
           "price_rmb": 6000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸星辉轮毂（255/40 R21）",
           "price_rmb": 15000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排智能投影巨幕系统",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -590,7 +680,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵底盘",
@@ -614,51 +705,98 @@
         "hud": null,
         "audio": "HUAWEI SOUND",
         "fridge": "6.2L压缩机冷暖箱",
-        "seat_features": "副驾零重力座椅、智慧电动门"
+        "seat_features": "副驾零重力座椅、智慧电动门",
+        "rear_screen": "高配标配/选装 智能投影巨幕系统2.0",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜",
           "price_rmb": 10000,
-          "details": "智能电子外后视镜"
+          "details": "智能电子外后视镜",
+          "availability": "可选"
         },
         {
           "name": "二排智能投影幕布2.0",
           "price_rmb": 20000,
-          "details": "车规级激光投影"
+          "details": "车规级激光投影",
+          "availability": "可选"
         },
         {
           "name": "付费车漆 / 21英寸锻铣轮毂 / 黑曜套件",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂（255/45 R20）",
           "price_rmb": 6000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸星辉轮毂（255/40 R21）",
           "price_rmb": 15000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排智能投影巨幕系统",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "黑曜套件（黑曜轮毂+黑色车标+红色卡钳+全车黑曜套件）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/s9t/images/hero/xiangjie-s9t-kv-mountain.png"
+  "image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/s9t/images/hero/xiangjie-s9t-kv-mountain.png",
+  "promo_highlights": [
+    "截至2026年11月30日享10000元选配权益及限时购置税补贴",
+    "鸿蒙智行老车主增换购减免20000元、焕新版首销期至高70000元权益"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": "BJ7000K721BEV",
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "鸿蒙智行 享界S9T（2026款 896线旅行车） 官方配置页 (hima.auto)",
+      "url": "https://hima.auto/xiangjie/s9t/configuration/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部公示：享界S9T申报产品型号与电耗",
+      "url": "https://finance.sina.cn/2026-08-22/detail-inipeptt1205303.d.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://global-img.bitauto.com/usercenter/yhzx/20250807/339/w1200_yichecar_456863333958793.jpg.webp"
 }

@@ -1,0 +1,149 @@
+{
+  "brand": "bmw",
+  "brand_name": "宝马新能源",
+  "model": "宝马i5",
+  "model_slug": "bmw-i5",
+  "origin_type": "合资/外资",
+  "category": "中大型纯电轿车",
+  "release_date": "2026-02-02",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://www2.autoimg.cn/chejiahaodfs/g33/M08/C8/B6/400x400_0_f42_autohomecar__ChxpVWmRiXGAS86sAAWd-4d2kAI408.png",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考优惠约5.9万-8.84万元（参考价30.90万-36.96万元起）"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7344.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 宝马i5参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7344.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "bmw-i5-2026-edrive40l-m",
+      "sku_name": "2026款改款eDrive 40L M运动套装",
+      "price_rmb": 408000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5175,
+        "width_mm": 1900,
+        "height_mm": 1520,
+        "wheelbase_mm": 3105,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2294
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 240,
+        "motor_torque_nm": 410,
+        "zero_to_100_s": 6.7
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 97.0,
+        "cltc_pure_electric_range_km": 713,
+        "fast_charge_time": "0.55h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "未知",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "一体式悬浮曲面屏(8155P)",
+        "screens": "14.9英寸中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "模拟声浪",
+          "price_rmb": 2200,
+          "promo_price_rmb": null,
+          "details": "电动车声浪模拟"
+        }
+      ]
+    },
+    {
+      "sku_id": "bmw-i5-2026-xdrive50l-m",
+      "sku_name": "2026款改款xDrive 50L M运动套装",
+      "price_rmb": 458000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5175,
+        "width_mm": 1900,
+        "height_mm": 1520,
+        "wheelbase_mm": 3105,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2425
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 385,
+        "motor_torque_nm": 775,
+        "zero_to_100_s": 4.2
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 97.0,
+        "cltc_pure_electric_range_km": 651,
+        "fast_charge_time": "0.55h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "未知",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助(双目增强)"
+      },
+      "cockpit": {
+        "instrument_cluster": "一体式悬浮曲面屏(8155P)",
+        "screens": "14.9英寸中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "宝华韦健音响",
+          "price_rmb": 6000,
+          "promo_price_rmb": null,
+          "details": "Bowers & Wilkins音响"
+        }
+      ]
+    }
+  ]
+}

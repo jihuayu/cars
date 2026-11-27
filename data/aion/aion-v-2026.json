@@ -1,7 +1,7 @@
 {
   "brand": "aion",
   "brand_name": "广汽埃安",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "埃安霸王龙（第二代AION V 家庭版）",
   "model_slug": "aion-v-2026",
   "category": "紧凑型纯电SUV",
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 18min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -73,18 +74,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "非全尺寸备胎",
           "price_rmb": 1000,
-          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎"
+          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": 200,
-          "details": "2026款埃安霸王龙家庭版官方选配"
+          "details": "2026款埃安霸王龙家庭版官方选配",
+          "availability": "可选"
         }
       ]
     },
@@ -124,10 +137,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 18min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -151,18 +165,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "非全尺寸备胎",
           "price_rmb": 1000,
-          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎"
+          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": 200,
-          "details": "2026款埃安霸王龙家庭版官方选配"
+          "details": "2026款埃安霸王龙家庭版官方选配",
+          "availability": "可选"
         }
       ]
     },
@@ -202,10 +228,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 18min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -229,18 +256,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "非全尺寸备胎",
           "price_rmb": 1000,
-          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎"
+          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": 200,
-          "details": "2026款埃安霸王龙家庭版官方选配"
+          "details": "2026款埃安霸王龙家庭版官方选配",
+          "availability": "可选"
         }
       ]
     },
@@ -280,10 +319,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 18min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -307,21 +347,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "非全尺寸备胎",
           "price_rmb": 1000,
-          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎"
+          "details": "2026款埃安霸王龙家庭版标配补胎工具，可选装非全尺寸备胎",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": 200,
-          "details": "2026款埃安霸王龙家庭版官方选配"
+          "details": "2026款埃安霸王龙家庭版官方选配",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/B8/2D/400x400_1_q40_c40_autohomecar__ChtpWGiodzyAHZkTACW8oPArhiI280.jpg"
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/B8/2D/400x400_1_q40_c40_autohomecar__ChtpWGiodzyAHZkTACW8oPArhiI280.jpg",
+  "promo_highlights": [
+    "2026款家庭版现金优惠0.8万元起（置换价9.48万元起）",
+    "首任非营运车主三电终身质保"
+  ],
+  "references": [
+    {
+      "title": "广汽埃安 埃安霸王龙（第二代AION V 家庭版） 官方配置页 (www.aion.com.cn)",
+      "url": "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://pic.inabr.com/content/2024-06-21/216a9026-b5a7-4612-8eca-fbde47d42776.jpg"
 }

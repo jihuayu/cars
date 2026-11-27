@@ -1,0 +1,150 @@
+{
+  "brand": "smart",
+  "brand_name": "smart",
+  "model": "smart精灵#5",
+  "model_slug": "smart-5",
+  "origin_type": "合资/外资",
+  "category": "中型新能源SUV",
+  "release_date": "2026-08-21",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://s3.xchuxing.com/xchuxing/article/2024/10/27/5403f20241027210828509.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "插混120Pro参考价16.49万起，纯电限时22.99万起"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/spec/78924.html",
+    "https://car.autohome.com.cn/config/spec/75056.html"
+  ],
+  "references": [
+    {
+      "title": "smart精灵#5 BRABUS参数-汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/78924.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "smart精灵#5 120Pro参数-汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/75056.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "smart-5-120pro",
+      "sku_name": "2026款 120Pro(插混)",
+      "price_rmb": 189900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4705,
+        "width_mm": 1920,
+        "height_mm": 1710,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": 192,
+        "seats": 5,
+        "curb_weight_kg": 2050
+      },
+      "performance": {
+        "drive_type": "前置前驱(1.5T+3DHT)",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 380,
+        "zero_to_100_s": 7.2
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 120,
+        "fast_charge_time": "20分钟(30-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "smart Pilot Assist(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "中控大屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "smart-5-brabus",
+      "sku_name": "2027款 BRABUS超能版",
+      "price_rmb": 379900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4705,
+        "width_mm": 1920,
+        "height_mm": 1705,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": 186,
+        "seats": 5,
+        "curb_weight_kg": 2400
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 475,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 3.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 660,
+        "fast_charge_time": "15分钟(10-80%,4C)",
+        "v2l_power_kw": 3.0
+      },
+      "chassis": {
+        "air_suspension": "标配空气悬架",
+        "cdc": "软硬/高低调节",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "双Orin-X(508TOPS)",
+        "lidar": "1颗激光雷达",
+        "system": "smart Pilot Assist 3.0"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶+AR-HUD",
+        "screens": "AMOLED双联屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "电动拖挂钩",
+          "price_rmb": 7990,
+          "promo_price_rmb": null,
+          "details": "原厂拖挂钩"
+        }
+      ]
+    }
+  ]
+}

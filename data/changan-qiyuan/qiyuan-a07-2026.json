@@ -1,7 +1,7 @@
 {
   "brand": "changan-qiyuan",
   "brand_name": "长安启源",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "长安启源A07（2026款）",
   "model_slug": "qiyuan-a07-2026",
   "category": "中大型轿车",
@@ -23,7 +23,7 @@
         "height_mm": 1480,
         "wheelbase_mm": 2900,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1755,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 35.07,
         "cltc_pure_electric_range_km": 310,
         "cltc_combined_range_km": null,
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -74,23 +75,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(高配50英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "米其林静音轮胎 / 74L前备厢（纯电）",
           "price_rmb": "4000 / 500",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "米其林舒适静音轮胎",
           "price_rmb": 4000,
-          "details": "含米其林舒适静音轮胎（2026款超长蓝鲸增程版310豪华型、纯电版730豪华型可选配）"
+          "details": "含米其林舒适静音轮胎（2026款超长蓝鲸增程版310豪华型、纯电版730豪华型可选配）",
+          "availability": "可选"
         },
         {
           "name": "前部行李舱",
           "price_rmb": 500,
-          "details": "含74L前部行李舱（2026款超长蓝鲸纯电版730豪华型可选配）"
+          "details": "含74L前部行李舱（2026款超长蓝鲸纯电版730豪华型可选配）",
+          "availability": "可选"
         }
       ]
     },
@@ -106,7 +120,7 @@
         "height_mm": 1480,
         "wheelbase_mm": 2900,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1755,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -122,7 +136,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 35.07,
         "cltc_pure_electric_range_km": 310,
         "cltc_combined_range_km": null,
@@ -130,10 +144,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -157,23 +172,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(高配50英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "米其林静音轮胎 / 74L前备厢（纯电）",
           "price_rmb": "4000 / 500",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "米其林舒适静音轮胎",
           "price_rmb": 4000,
-          "details": "含米其林舒适静音轮胎（2026款超长蓝鲸增程版310豪华型、纯电版730豪华型可选配）"
+          "details": "含米其林舒适静音轮胎（2026款超长蓝鲸增程版310豪华型、纯电版730豪华型可选配）",
+          "availability": "可选"
         },
         {
           "name": "前部行李舱",
           "price_rmb": 500,
-          "details": "含74L前部行李舱（2026款超长蓝鲸纯电版730豪华型可选配）"
+          "details": "含74L前部行李舱（2026款超长蓝鲸纯电版730豪华型可选配）",
+          "availability": "可选"
         }
       ]
     },
@@ -189,7 +217,7 @@
         "height_mm": 1480,
         "wheelbase_mm": 2900,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1755,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -205,7 +233,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 77.94,
         "cltc_pure_electric_range_km": 730,
         "cltc_combined_range_km": 730,
@@ -213,10 +241,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -240,23 +269,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(高配50英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "米其林静音轮胎 / 74L前备厢（纯电）",
           "price_rmb": "4000 / 500",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "米其林舒适静音轮胎",
           "price_rmb": 4000,
-          "details": "含米其林舒适静音轮胎（2026款超长蓝鲸增程版310豪华型、纯电版730豪华型可选配）"
+          "details": "含米其林舒适静音轮胎（2026款超长蓝鲸增程版310豪华型、纯电版730豪华型可选配）",
+          "availability": "可选"
         },
         {
           "name": "前部行李舱",
           "price_rmb": 500,
-          "details": "含74L前部行李舱（2026款超长蓝鲸纯电版730豪华型可选配）"
+          "details": "含74L前部行李舱（2026款超长蓝鲸纯电版730豪华型可选配）",
+          "availability": "可选"
         }
       ]
     },
@@ -272,7 +314,7 @@
         "height_mm": 1480,
         "wheelbase_mm": 2900,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1755,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -288,7 +330,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 77.94,
         "cltc_pure_electric_range_km": 730,
         "cltc_combined_range_km": 730,
@@ -296,10 +338,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -323,26 +366,76 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(高配50英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "米其林静音轮胎 / 74L前备厢（纯电）",
           "price_rmb": "4000 / 500",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "米其林舒适静音轮胎",
           "price_rmb": 4000,
-          "details": "含米其林舒适静音轮胎（2026款超长蓝鲸增程版310豪华型、纯电版730豪华型可选配）"
+          "details": "含米其林舒适静音轮胎（2026款超长蓝鲸增程版310豪华型、纯电版730豪华型可选配）",
+          "availability": "可选"
         },
         {
           "name": "前部行李舱",
           "price_rmb": 500,
-          "details": "含74L前部行李舱（2026款超长蓝鲸纯电版730豪华型可选配）"
+          "details": "含74L前部行李舱（2026款超长蓝鲸纯电版730豪华型可选配）",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://www.talenetauto.com/d/file/p/2026/05-13/0a30c2482d74072a80a3e8e16d06d6cd.webp"
+  "image_url": "https://www.talenetauto.com/d/file/p/2026/05-13/0a30c2482d74072a80a3e8e16d06d6cd.webp",
+  "promo_highlights": [
+    "10000元现金补贴（终端部分车型优惠0.6万-1.6万元）",
+    "全品牌置换补贴至高10000元、12万60期0息金融方案"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 1755,
+    "gross_weight_kg": 2190,
+    "approach_departure_deg": "15/19",
+    "battery_supplier": "中创新航"
+  },
+  "references": [
+    {
+      "title": "长安启源 长安启源A07（2026款） 官方配置页 (www.changan.com.cn)",
+      "url": "https://www.changan.com.cn/qiyuan/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "长安启源 长安启源A07（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7209.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "长安启源A07参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/71312.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "http://www.news.cn/auto/20230628/4d3379c565de44e5b638660fbdba2422/202306284d3379c565de44e5b638660fbdba2422_202306282aea955e16394b0aa9dd88fca34d5cf8.jpg"
 }

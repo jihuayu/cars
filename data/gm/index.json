@@ -1,0 +1,189 @@
+{
+  "brand": "gm",
+  "brand_name": "通用新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 4,
+  "sku_count": 8,
+  "models": [
+    {
+      "brand": "gm",
+      "brand_name": "通用新能源",
+      "origin_type": "合资/外资",
+      "model": "别克E5",
+      "model_slug": "buick-e5",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2025-06-19",
+      "image_url": "https://www.saicmotor.com/chinese/images/xwzx/xwk/2025/2025/6/20/047123866ED24635AE9A362672C426F4.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 179900,
+      "price_max_rmb": 189900,
+      "best_zero_to_100_s": 7.5,
+      "max_cltc_ev_km": 620,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/gm/buick-e5.json",
+      "source_urls": [
+        "https://www.saicmotor.com/m/xwzx/xwk/2025/61959.shtml",
+        "https://car.autohome.com.cn/config/series/7043.html"
+      ]
+    },
+    {
+      "brand": "gm",
+      "brand_name": "通用新能源",
+      "origin_type": "合资/外资",
+      "model": "别克至境L7",
+      "model_slug": "buick-electra-l7",
+      "sub_brand": null,
+      "category": "中大型新能源轿车",
+      "release_date": "2026-08-05",
+      "image_url": "https://static.buick.com.cn/assets/ZWxlY3RyYV9sNw/electra_l7/features/SGM-869/kv_m_3.png?image_process=resize,w_768/quality,Q_85",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 194900,
+      "price_max_rmb": 219900,
+      "best_zero_to_100_s": 5.6,
+      "max_cltc_ev_km": 702,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/gm/buick-electra-l7.json",
+      "source_urls": [
+        "https://www.buick.com.cn/electra_l7",
+        "https://car.autohome.com.cn/config/series/8100.html"
+      ]
+    },
+    {
+      "brand": "gm",
+      "brand_name": "通用新能源",
+      "origin_type": "合资/外资",
+      "model": "凯迪拉克IQ锐歌",
+      "model_slug": "cadillac-iq-lyriq",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2026-06-01",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 297700,
+      "price_max_rmb": 399900,
+      "best_zero_to_100_s": 3.3,
+      "max_cltc_ev_km": 600,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/gm/cadillac-iq-lyriq.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6404.html"
+      ]
+    },
+    {
+      "brand": "gm",
+      "brand_name": "通用新能源",
+      "origin_type": "合资/外资",
+      "model": "凯迪拉克IQ傲歌",
+      "model_slug": "cadillac-iq-optiq",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2024-04-25",
+      "image_url": "https://img.evlook.com/evlook/upload/series/133609162940889568.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 239700,
+      "price_max_rmb": 269700,
+      "best_zero_to_100_s": 5.97,
+      "max_cltc_ev_km": 600,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/gm/cadillac-iq-optiq.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/spec/67520.html"
+      ]
+    }
+  ]
+}

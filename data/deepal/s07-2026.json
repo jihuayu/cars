@@ -1,7 +1,7 @@
 {
   "brand": "deepal",
   "brand_name": "深蓝",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "深蓝S07（2026款）",
   "model_slug": "s07-2026",
   "category": "中型SUV",
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -74,43 +75,60 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 4.2英寸后排控制屏（无后排娱乐屏）",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表+55英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(主副驾双零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "主驾舒享包（16向零重力按摩）",
           "price_rmb": 5999,
-          "details": "零重力座椅"
+          "details": "零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂 / 悦享健康包（冷暖箱）",
           "price_rmb": "2999 / 1999",
-          "details": "实用选装"
+          "details": "实用选装",
+          "availability": "可选"
         },
         {
           "name": "主驾舒享包",
           "price_rmb": 5999,
-          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）"
+          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂套件",
           "price_rmb": 2999,
-          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）"
+          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）",
+          "availability": "可选"
         },
         {
           "name": "悦享健康包",
           "price_rmb": 1999,
-          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）"
+          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（记忆泊车）",
           "price_rmb": null,
-          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价"
+          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -150,10 +168,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -177,43 +196,60 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 4.2英寸后排控制屏（无后排娱乐屏）",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表+55英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(主副驾双零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "主驾舒享包（16向零重力按摩）",
           "price_rmb": 5999,
-          "details": "零重力座椅"
+          "details": "零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂 / 悦享健康包（冷暖箱）",
           "price_rmb": "2999 / 1999",
-          "details": "实用选装"
+          "details": "实用选装",
+          "availability": "可选"
         },
         {
           "name": "主驾舒享包",
           "price_rmb": 5999,
-          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）"
+          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂套件",
           "price_rmb": 2999,
-          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）"
+          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）",
+          "availability": "可选"
         },
         {
           "name": "悦享健康包",
           "price_rmb": 1999,
-          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）"
+          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（记忆泊车）",
           "price_rmb": null,
-          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价"
+          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -253,10 +289,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -280,43 +317,60 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 4.2英寸后排控制屏（无后排娱乐屏）",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表+55英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(主副驾双零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "主驾舒享包（16向零重力按摩）",
           "price_rmb": 5999,
-          "details": "零重力座椅"
+          "details": "零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂 / 悦享健康包（冷暖箱）",
           "price_rmb": "2999 / 1999",
-          "details": "实用选装"
+          "details": "实用选装",
+          "availability": "可选"
         },
         {
           "name": "主驾舒享包",
           "price_rmb": 5999,
-          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）"
+          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂套件",
           "price_rmb": 2999,
-          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）"
+          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）",
+          "availability": "可选"
         },
         {
           "name": "悦享健康包",
           "price_rmb": 1999,
-          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）"
+          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（记忆泊车）",
           "price_rmb": null,
-          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价"
+          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -356,10 +410,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -383,43 +438,60 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 4.2英寸后排控制屏（无后排娱乐屏）",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表+55英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(主副驾双零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "主驾舒享包（16向零重力按摩）",
           "price_rmb": 5999,
-          "details": "零重力座椅"
+          "details": "零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂 / 悦享健康包（冷暖箱）",
           "price_rmb": "2999 / 1999",
-          "details": "实用选装"
+          "details": "实用选装",
+          "availability": "可选"
         },
         {
           "name": "主驾舒享包",
           "price_rmb": 5999,
-          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）"
+          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂套件",
           "price_rmb": 2999,
-          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）"
+          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）",
+          "availability": "可选"
         },
         {
           "name": "悦享健康包",
           "price_rmb": 1999,
-          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）"
+          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（记忆泊车）",
           "price_rmb": null,
-          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价"
+          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     },
@@ -459,10 +531,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -486,46 +559,85 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 4.2英寸后排控制屏（无后排娱乐屏）",
+        "power_220v": "无",
+        "instrument_cluster": "10.2英寸全液晶仪表+55英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(主副驾双零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "主驾舒享包（16向零重力按摩）",
           "price_rmb": 5999,
-          "details": "零重力座椅"
+          "details": "零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂 / 悦享健康包（冷暖箱）",
           "price_rmb": "2999 / 1999",
-          "details": "实用选装"
+          "details": "实用选装",
+          "availability": "可选"
         },
         {
           "name": "主驾舒享包",
           "price_rmb": 5999,
-          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）"
+          "details": "包含主驾16向零重力按摩座椅（6向基础电动调节、4向电动腰托、4向电动腿托、2向电动零重力翻转、120°零重力平躺、8点式背部按摩、石墨烯背部加热、座椅记忆/迎宾）",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂套件",
           "price_rmb": 2999,
-          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）"
+          "details": "包含20英寸能量风刃轮毂及邓禄普轮胎（255/45 R20）",
+          "availability": "可选"
         },
         {
           "name": "悦享健康包",
           "price_rmb": 1999,
-          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）"
+          "details": "包含车载智能冷暖箱及纳米水离子负氧空调（车载空气净化器+负离子发生器）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 599,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS SE高阶功能（记忆泊车）",
           "price_rmb": null,
-          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价"
+          "details": "华为乾崑ADS SE版型中记忆泊车标注为选配功能，未公开单独选装价",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M0B/EB/35/600x337_q100_autohomecar__ChxpV2q6E4qAC8nHAB1JTA_s1r4874.png"
+  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M0B/EB/35/600x337_q100_autohomecar__ChxpV2q6E4qAC8nHAB1JTA_s1r4874.png",
+  "promo_highlights": [
+    "2026年11月双十一限时权益价14.99-16.99万元",
+    "至高10000元秋日购车礼+至高4000元超级补贴+至高5年0息"
+  ],
+  "references": [
+    {
+      "title": "深蓝 深蓝S07（2026款） 官方配置页 (www.deepal.com.cn)",
+      "url": "https://www.deepal.com.cn/car/parameter",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "深蓝 深蓝S07（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/6817.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2023/04/17/ef2e7202304171427253323.jpg"
 }

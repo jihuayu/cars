@@ -1,7 +1,7 @@
 {
   "brand": "tank",
   "brand_name": "坦克新能源",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "27款坦克500 Hi4-T / Hi4-Z",
   "model_slug": "tank-500-2027",
   "category": "中大型豪华硬派插混越野SUV",
@@ -26,7 +26,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-213"
       },
       "performance": {
         "drive_type": "机械四驱(9HAT)",
@@ -38,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "蜂巢能源",
         "battery_capacity_kwh": 37.1,
         "cltc_pure_electric_range_km": "110(WLTC)",
         "cltc_combined_range_km": null,
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 16min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,48 +75,65 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 17.3英寸3K后排娱乐屏",
+        "instrument_cluster": "全液晶仪表+HUD(全车七屏)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾娱乐包",
           "price_rmb": null,
-          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个"
+          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个",
+          "availability": "可选"
         },
         {
           "name": "户外休闲包",
           "price_rmb": null,
-          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质"
+          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质",
+          "availability": "全系可选"
         },
         {
           "name": "20英寸商务轮毂（265/50 R20）",
           "price_rmb": null,
-          "details": "标配265/55 R19，全系可选配20英寸商务轮毂"
+          "details": "标配265/55 R19，全系可选配20英寸商务轮毂",
+          "availability": "全系可选"
         },
         {
           "name": "18英寸轮毂+全地形轮胎（265/60 R18）",
           "price_rmb": null,
-          "details": "全系可选配越野AT胎组合"
+          "details": "全系可选配越野AT胎组合",
+          "availability": "全系可选"
         },
         {
           "name": "19英寸空气动力学轮毂（265/55 R19）",
           "price_rmb": null,
-          "details": "Hi4-T及Hi4-Z版本可选配"
+          "details": "Hi4-T及Hi4-Z版本可选配",
+          "availability": "可选"
         },
         {
           "name": "前桥电控式差速锁",
           "price_rmb": null,
-          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配"
+          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配",
+          "availability": "全系可选"
         },
         {
           "name": "远红外夜视系统",
           "price_rmb": null,
-          "details": "全系可选配"
+          "details": "全系可选配",
+          "availability": "全系可选"
         },
         {
           "name": "城市NOA全场景智慧领航辅助软件订阅",
           "price_rmb": null,
-          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用"
+          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用",
+          "availability": "可选"
         }
       ]
     },
@@ -134,7 +153,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-213"
       },
       "performance": {
         "drive_type": "机械四驱(9HAT)",
@@ -146,7 +166,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "蜂巢能源",
         "battery_capacity_kwh": 37.1,
         "cltc_pure_electric_range_km": "110(WLTC)",
         "cltc_combined_range_km": null,
@@ -154,10 +174,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 16min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -181,48 +202,65 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 17.3英寸3K后排娱乐屏",
+        "instrument_cluster": "全液晶仪表+HUD(全车七屏)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾娱乐包",
           "price_rmb": null,
-          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个"
+          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个",
+          "availability": "可选"
         },
         {
           "name": "户外休闲包",
           "price_rmb": null,
-          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质"
+          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质",
+          "availability": "全系可选"
         },
         {
           "name": "20英寸商务轮毂（265/50 R20）",
           "price_rmb": null,
-          "details": "标配265/55 R19，全系可选配20英寸商务轮毂"
+          "details": "标配265/55 R19，全系可选配20英寸商务轮毂",
+          "availability": "全系可选"
         },
         {
           "name": "18英寸轮毂+全地形轮胎（265/60 R18）",
           "price_rmb": null,
-          "details": "全系可选配越野AT胎组合"
+          "details": "全系可选配越野AT胎组合",
+          "availability": "全系可选"
         },
         {
           "name": "19英寸空气动力学轮毂（265/55 R19）",
           "price_rmb": null,
-          "details": "Hi4-T及Hi4-Z版本可选配"
+          "details": "Hi4-T及Hi4-Z版本可选配",
+          "availability": "可选"
         },
         {
           "name": "前桥电控式差速锁",
           "price_rmb": null,
-          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配"
+          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配",
+          "availability": "全系可选"
         },
         {
           "name": "远红外夜视系统",
           "price_rmb": null,
-          "details": "全系可选配"
+          "details": "全系可选配",
+          "availability": "全系可选"
         },
         {
           "name": "城市NOA全场景智慧领航辅助软件订阅",
           "price_rmb": null,
-          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用"
+          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用",
+          "availability": "可选"
         }
       ]
     },
@@ -242,7 +280,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "210-213"
       },
       "performance": {
         "drive_type": "解耦电四驱(3挡DHT)",
@@ -254,7 +293,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "蜂巢能源",
         "battery_capacity_kwh": 59.05,
         "cltc_pure_electric_range_km": "201(WLTC)",
         "cltc_combined_range_km": null,
@@ -262,10 +301,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -289,51 +329,98 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 17.3英寸3K后排娱乐屏",
+        "instrument_cluster": "全液晶仪表+HUD(全车七屏)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾娱乐包",
           "price_rmb": null,
-          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个"
+          "details": "27款Hi4-T智享版及Hi4-Z智享版选配，含15.6英寸2.5K副驾娱乐屏+副驾头枕音响2个",
+          "availability": "可选"
         },
         {
           "name": "户外休闲包",
           "price_rmb": null,
-          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质"
+          "details": "全系可选配，含后拖车取电口+拖车装置+拖车摆动缓解系统+2500kg牵引资质",
+          "availability": "全系可选"
         },
         {
           "name": "20英寸商务轮毂（265/50 R20）",
           "price_rmb": null,
-          "details": "标配265/55 R19，全系可选配20英寸商务轮毂"
+          "details": "标配265/55 R19，全系可选配20英寸商务轮毂",
+          "availability": "全系可选"
         },
         {
           "name": "18英寸轮毂+全地形轮胎（265/60 R18）",
           "price_rmb": null,
-          "details": "全系可选配越野AT胎组合"
+          "details": "全系可选配越野AT胎组合",
+          "availability": "全系可选"
         },
         {
           "name": "19英寸空气动力学轮毂（265/55 R19）",
           "price_rmb": null,
-          "details": "Hi4-T及Hi4-Z版本可选配"
+          "details": "Hi4-T及Hi4-Z版本可选配",
+          "availability": "可选"
         },
         {
           "name": "前桥电控式差速锁",
           "price_rmb": null,
-          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配"
+          "details": "标配后桥电控差速锁，前桥电控差速锁全系可选配",
+          "availability": "全系可选"
         },
         {
           "name": "远红外夜视系统",
           "price_rmb": null,
-          "details": "全系可选配"
+          "details": "全系可选配",
+          "availability": "全系可选"
         },
         {
           "name": "城市NOA全场景智慧领航辅助软件订阅",
           "price_rmb": null,
-          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用"
+          "details": "坦克官网配置表注明需购车后通过官方APP单独订阅使用",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/CC/83/400x400_1_q40_c40_autohomecar__ChxpWGrR6-6AAGNOAC3jnS7vxnI297.jpg"
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/CC/83/400x400_1_q40_c40_autohomecar__ChxpWGrR6-6AAGNOAC3jnS7vxnI297.jpg",
+  "promo_highlights": [
+    "27款上市享至高76,000元权益：3000元抵9000元、至高10,000元选装基金、20,000元置换补贴",
+    "VLA大模型全域辅助驾驶系统终身免费使用"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "蜂巢能源"
+  },
+  "references": [
+    {
+      "title": "坦克新能源 27款坦克500 Hi4-T / Hi4-Z 官方配置页 (www.tanksuv.com)",
+      "url": "https://www.tanksuv.com/carparam-500.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "坦克500 Hi4-Z电池申报参数解析",
+      "url": "https://chejiahao.m.autohome.com.cn/info/15047945",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

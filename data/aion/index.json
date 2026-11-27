@@ -1,21 +1,27 @@
 {
   "brand": "aion",
   "brand_name": "广汽埃安",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 3,
   "sku_count": 10,
   "models": [
     {
       "brand": "aion",
       "brand_name": "广汽埃安",
+      "origin_type": "国产",
       "model": "AION RT（2027款）",
       "model_slug": "aion-rt-2027",
       "sub_brand": null,
       "category": "紧凑型纯电轿跑",
       "release_date": "2026-08-05",
       "image_url": "https://m1.autoimg.cn/newsdfs/g33/M07/CF/E2/400x400_1_q40_c40_autohomecar__ChxpVmpx1wWAWjGjACnS5iPPO1M801.jpg",
+      "interior_image_url": "http://www.evobserver.com/wp-content/uploads/2024/09/2024092710302335.png",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 4,
@@ -23,6 +29,22 @@
       "price_max_rmb": 128800,
       "best_zero_to_100_s": 7.5,
       "max_cltc_ev_km": 710,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/aion/aion-rt-2027.json",
       "source_urls": [
         "https://www.aion.com.cn/",
@@ -32,14 +54,19 @@
     {
       "brand": "aion",
       "brand_name": "广汽埃安",
+      "origin_type": "国产",
       "model": "AION UT（2027款）",
       "model_slug": "aion-ut-2027",
       "sub_brand": null,
       "category": "小型纯电两厢车",
       "release_date": "2026-08-22",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M02/C8/1F/400x400_1_q40_c40_autohomecar__ChxpV2pxhVqAJi2LACJcnsmRhbQ343.jpg",
+      "interior_image_url": "https://autochat.gedb.com.cn/uploadfile/202511/8b8b1457e4ed80f.webp",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 2,
       "option_count": 2,
@@ -47,6 +74,22 @@
       "price_max_rmb": 89800,
       "best_zero_to_100_s": null,
       "max_cltc_ev_km": 530,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/aion/aion-ut-2027.json",
       "source_urls": [
         "https://www.aion.com.cn/vehicle/config/table?cid=NjI%3D"
@@ -55,14 +98,19 @@
     {
       "brand": "aion",
       "brand_name": "广汽埃安",
+      "origin_type": "国产",
       "model": "埃安霸王龙（第二代AION V 家庭版）",
       "model_slug": "aion-v-2026",
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2025-08-27",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/B8/2D/400x400_1_q40_c40_autohomecar__ChtpWGiodzyAHZkTACW8oPArhiI280.jpg",
+      "interior_image_url": "https://pic.inabr.com/content/2024-06-21/216a9026-b5a7-4612-8eca-fbde47d42776.jpg",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 2,
@@ -70,6 +118,22 @@
       "price_max_rmb": 135800,
       "best_zero_to_100_s": 7.9,
       "max_cltc_ev_km": 650,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/aion/aion-v-2026.json",
       "source_urls": [
         "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57"

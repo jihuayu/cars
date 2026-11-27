@@ -1,7 +1,7 @@
 {
   "brand": "deepal",
   "brand_name": "深蓝",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "深蓝S05（2027款）",
   "model_slug": "s05-2027",
   "category": "紧凑型SUV",
@@ -22,7 +22,7 @@
         "height_mm": 1600,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1720,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -73,18 +74,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(低配无仪表无HUD，高配AR-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "主驾按摩，副驾零重力按摩可选装(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智臻畅享包",
           "price_rmb": 5999,
-          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         }
       ]
     },
@@ -100,7 +113,7 @@
         "height_mm": 1600,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1720,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -124,10 +137,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -151,18 +165,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(低配无仪表无HUD，高配AR-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "主驾按摩，副驾零重力按摩可选装(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智臻畅享包",
           "price_rmb": 5999,
-          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         }
       ]
     },
@@ -178,7 +204,7 @@
         "height_mm": 1600,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1720,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -202,10 +228,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -229,18 +256,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(低配无仪表无HUD，高配AR-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "主驾按摩，副驾零重力按摩可选装(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智臻畅享包",
           "price_rmb": 5999,
-          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         }
       ]
     },
@@ -256,7 +295,7 @@
         "height_mm": 1600,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1720,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -280,10 +319,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -307,18 +347,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(低配无仪表无HUD，高配AR-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "主驾按摩，副驾零重力按摩可选装(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智臻畅享包",
           "price_rmb": 5999,
-          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         }
       ]
     },
@@ -334,7 +386,7 @@
         "height_mm": 1600,
         "wheelbase_mm": 2880,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1720,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -358,10 +410,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min(3C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -385,21 +438,63 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(低配无仪表无HUD，高配AR-HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "主驾按摩，副驾零重力按摩可选装(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "智臻畅享包",
           "price_rmb": 5999,
-          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器"
+          "details": "2027款智臻版可选，包含副驾14向零重力按摩座椅、向日葵旋转屏、14扬声器天空环绕音响系统、自动防眩目内后视镜、车载空气净化器",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙钥匙、NFC/RFID钥匙）",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://files.deepal.com.cn/operate/official/1542255672441536513/202511/21DF7E8FF3D0D905D7E8355F1312A120.png"
+  "image_url": "https://files.deepal.com.cn/operate/official/1542255672441536513/202511/21DF7E8FF3D0D905D7E8355F1312A120.png",
+  "promo_highlights": [
+    "厂商限时现金优惠5000元、秋日购车礼至高3000元（截止11月30日）",
+    "赠送6000元驾驶辅助升级礼包、超级置换补贴4000元、至高5年0息"
+  ],
+  "miit_filing": {
+    "miit_batch": "第383批",
+    "product_model_code": "SC6464AAABEV",
+    "curb_weight_kg": 1720,
+    "gross_weight_kg": 2150,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "深蓝 深蓝S05（2027款） 官方配置页 (www.deepal.com.cn)",
+      "url": "https://www.deepal.com.cn/car/configuration?car=S05&sort=1&source=1",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第383批：深蓝S05申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/15192007",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://n.sinaimg.cn/auto/214/w2048h1366/20241014/3337-69ce33607b1c7b9741de2e334391009a.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "lixiang",
   "brand_name": "理想汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "理想i8",
   "model_slug": "i8-2026",
   "category": "中大型6座纯电SUV",
@@ -23,11 +23,12 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2505-2610",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.218
+        "drag_coefficient_cd": 0.218,
+        "ground_clearance_mm": 156
       },
       "performance": {
         "drive_type": "单电机后驱",
@@ -39,7 +40,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "三元锂5C超充电池",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达/理想自研电池",
         "battery_capacity_kwh": 97.8,
         "cltc_pure_electric_range_km": 780,
         "cltc_combined_range_km": 780,
@@ -47,10 +48,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 300,
         "fast_charge_time": "10分钟补能500km",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -74,28 +76,42 @@
         "hud": "HUD抬头显示",
         "audio": "铂金音响系统（最高22扬声器PSS）",
         "fridge": "8.8L智能冷暖双用冰箱",
-        "seat_features": "标配二排右侧零重力座椅、三排加热电动调节"
+        "seat_features": "标配二排右侧零重力座椅、三排加热电动调节",
+        "rear_screen": "高配标配/后驱版选装 21.4英寸3K后舱娱乐屏（选装10,000元）",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "4.82英寸方向盘交互屏+17.4英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(二排右侧标配，前排选装20000元)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后舱娱乐屏套装",
           "price_rmb": 10000,
-          "details": "21.4英寸3K屏+流媒体后视镜+8295P高性能版+二排中置音响"
+          "details": "21.4英寸3K屏+流媒体后视镜+8295P高性能版+二排中置音响",
+          "availability": "可选"
         },
         {
           "name": "主副驾全尺寸零重力座椅",
           "price_rmb": 20000,
-          "details": "带16点揉捏按摩"
+          "details": "带16点揉捏按摩",
+          "availability": "可选"
         },
         {
           "name": "特别版冷光漆（小象灰/天空蓝）",
           "price_rmb": 8000,
-          "details": "冷光车漆"
+          "details": "冷光车漆",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂",
           "price_rmb": 10000,
-          "details": "配米其林静音轮胎"
+          "details": "配米其林静音轮胎",
+          "availability": "可选"
         }
       ]
     },
@@ -111,11 +127,12 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2505-2610",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.218
+        "drag_coefficient_cd": 0.218,
+        "ground_clearance_mm": 156
       },
       "performance": {
         "drive_type": "双电机智能四驱",
@@ -127,7 +144,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "三元锂5C超充电池",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达/理想自研电池",
         "battery_capacity_kwh": 97.8,
         "cltc_pure_electric_range_km": 720,
         "cltc_combined_range_km": 720,
@@ -135,10 +152,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 300,
         "fast_charge_time": "10分钟补能500km",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -162,26 +180,75 @@
         "hud": "HUD抬头显示",
         "audio": "铂金音响系统（最高22扬声器PSS）",
         "fridge": "8.8L智能冷暖双用冰箱",
-        "seat_features": "标配二排右侧零重力座椅、三排加热电动调节"
+        "seat_features": "标配二排右侧零重力座椅、三排加热电动调节",
+        "rear_screen": "高配标配/后驱版选装 21.4英寸3K后舱娱乐屏（选装10,000元）",
+        "power_220v": "标配 220V/230V电源",
+        "instrument_cluster": "4.82英寸方向盘交互屏+17.4英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(二排右侧标配，前排选装20000元)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后舱娱乐屏套装",
           "price_rmb": 10000,
-          "details": "21.4英寸3K屏+流媒体后视镜+8295P高性能版+二排中置音响"
+          "details": "21.4英寸3K屏+流媒体后视镜+8295P高性能版+二排中置音响",
+          "availability": "可选"
         },
         {
           "name": "特别版冷光漆（小象灰/天空蓝）",
           "price_rmb": 8000,
-          "details": "冷光车漆"
+          "details": "冷光车漆",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂",
           "price_rmb": 10000,
-          "details": "配米其林静音轮胎"
+          "details": "配米其林静音轮胎",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Li_Auto_i8_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Li_Auto_i8_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "截至2026年11月30日定购享限时购车权益最高价值59,360元"
+  ],
+  "miit_filing": {
+    "miit_batch": "第394批",
+    "product_model_code": "LXA6511BEVW06",
+    "curb_weight_kg": "2505-2610",
+    "gross_weight_kg": 3130,
+    "approach_departure_deg": "16/17",
+    "battery_supplier": "欣旺达/理想自研电池"
+  },
+  "references": [
+    {
+      "title": "理想汽车 理想i8 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/i8",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想汽车 理想i8 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/news/136.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "全新理想i8工信部第394批申报公示",
+      "url": "https://chejiahao.m.autohome.com.cn/info/19943247",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img.rednet.cn/2025/07-30/cb0c66fd-4543-46ce-aa54-1e0db919962b.jpg"
 }

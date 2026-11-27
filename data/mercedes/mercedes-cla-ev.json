@@ -1,0 +1,135 @@
+{
+  "brand": "mercedes",
+  "brand_name": "奔驰新能源",
+  "model": "奔驰纯电CLA",
+  "model_slug": "mercedes-cla-ev",
+  "origin_type": "合资/外资",
+  "category": "紧凑型纯电轿车",
+  "release_date": "2026-11-10",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2027款于2026-11-10上市，22.90万起，800V架构+最高866km续航"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/8084.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 奔驰CLA新能源参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/8084.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "mercedes-cla-ev-2027-260l",
+      "sku_name": "2027款 260 L 晖银版",
+      "price_rmb": 229000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4763,
+        "width_mm": 1836,
+        "height_mm": 1471,
+        "wheelbase_mm": 2830,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2005
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 165,
+        "motor_torque_nm": 270,
+        "zero_to_100_s": 7.6
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 60.0,
+        "cltc_pure_electric_range_km": 600,
+        "fast_charge_time": "20min(10-80%,320kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "未知"
+      },
+      "cockpit": {
+        "instrument_cluster": "未知",
+        "screens": "未知",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "mercedes-cla-ev-2027-300l-silver",
+      "sku_name": "2027款 300 L 晖银版",
+      "price_rmb": 249000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4763,
+        "width_mm": 1836,
+        "height_mm": 1471,
+        "wheelbase_mm": 2830,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 866,
+        "fast_charge_time": "0.37h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "未知"
+      },
+      "cockpit": {
+        "instrument_cluster": "未知",
+        "screens": "未知",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

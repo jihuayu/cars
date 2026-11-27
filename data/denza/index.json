@@ -1,22 +1,28 @@
 {
   "brand": "denza",
   "brand_name": "腾势",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 4,
   "sku_count": 21,
   "models": [
     {
       "brand": "denza",
       "brand_name": "腾势",
+      "origin_type": "国产",
       "model": "腾势D9（2026款第二代）",
       "model_slug": "denza-d9-2026",
       "sub_brand": null,
       "category": "中大型7座豪华MPV",
       "release_date": "2026-04-27",
       "image_url": "https://m3.auto.itc.cn/q_mini/carpics/360car/6785/-47800985542697715471736241042423.jpg",
+      "interior_image_url": "https://n.sinaimg.cn/spider20260328/266/w1706h960/20260328/058f-f738f689e350ef778fb40950e66e5a45.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 7,
       "option_count": 4,
@@ -24,6 +30,22 @@
       "price_max_rmb": 469800,
       "best_zero_to_100_s": 8.5,
       "max_cltc_ev_km": 800,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/denza/denza-d9-2026.json",
       "source_urls": [
         "https://www.denza.com/cn2_0/brand.html"
@@ -32,15 +54,20 @@
     {
       "brand": "denza",
       "brand_name": "腾势",
+      "origin_type": "国产",
       "model": "腾势N8L（2026款闪充版）",
       "model_slug": "denza-n8l-2026",
       "sub_brand": null,
       "category": "中大型6座豪华SUV",
       "release_date": "2026-06-23",
       "image_url": "https://img1.mydrivers.com/img/20250607/7074eef0-9d1c-4c3b-b881-946aa35d6d22.jpg",
+      "interior_image_url": "https://images.caiwennews.com/images/news/20250927_d4827f40a70c47ac88dae9fa9f91512a.jpeg",
       "powertrains": [
         "BEV",
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 5,
@@ -48,6 +75,22 @@
       "price_max_rmb": 349800,
       "best_zero_to_100_s": 3.7,
       "max_cltc_ev_km": 960,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/denza/denza-n8l-2026.json",
       "source_urls": [
         "https://www.denza.com/cn2_0/brand.html"
@@ -56,14 +99,19 @@
     {
       "brand": "denza",
       "brand_name": "腾势",
+      "origin_type": "国产",
       "model": "腾势N9（2026款闪充版）",
       "model_slug": "denza-n9-2026",
       "sub_brand": null,
       "category": "全尺寸旗舰6座插混SUV",
       "release_date": "2026-05-18",
       "image_url": "https://q6.itc.cn/q_70/images01/20250324/4db54e8e56754a1a88990d0f81712420.png",
+      "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2024/10/10/11/606a09ae505547dd8a9d43325b0b74a4.jpg!jpg",
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 7,
@@ -71,6 +119,22 @@
       "price_max_rmb": 469800,
       "best_zero_to_100_s": 3.7,
       "max_cltc_ev_km": 420,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/denza/denza-n9-2026.json",
       "source_urls": [
         "https://www.denza.com/cn2_0/brand.html"
@@ -79,15 +143,20 @@
     {
       "brand": "denza",
       "brand_name": "腾势",
+      "origin_type": "国产",
       "model": "腾势Z9GT / Z9S（2026款闪充版）",
       "model_slug": "denza-z9gt-2026",
       "sub_brand": null,
       "category": "中大型豪华猎装/旗舰轿车",
       "release_date": "2026-03-05",
       "image_url": "https://img6.donews.com/img/2026/02/06/img_pic_711770371508.jpg",
+      "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2024/11/02/23/6862040a09884db2b9f09ba4f622f849.jpg!jpg",
       "powertrains": [
         "BEV",
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 7,
       "option_count": 4,
@@ -95,6 +164,22 @@
       "price_max_rmb": 369800,
       "best_zero_to_100_s": 2.68,
       "max_cltc_ev_km": 1036,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/denza/denza-z9gt-2026.json",
       "source_urls": [
         "https://www.denza.com/cn2_0/care-compare?goodsId=31"

@@ -1,7 +1,7 @@
 {
   "brand": "fangchengbao",
   "brand_name": "方程豹",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "方程豹钛3（2026款闪充版）",
   "model_slug": "tai3-2026",
   "category": "紧凑型纯电潮玩SUV",
@@ -22,7 +22,7 @@
         "height_mm": 1720,
         "wheelbase_mm": 2745,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1920,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +38,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "温州弗迪电池",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 510,
         "cltc_combined_range_km": 510,
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -73,23 +74,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机套装",
           "price_rmb": 16968,
-          "details": "对应四驱无人机版（较四驱Ultra版差价及标准选装体系），含一年大疆DJI Care（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及双模式手柄；选装后不可拆除，可开启全景天窗变为不可开启全景天幕，车高增至1930mm。"
+          "details": "对应四驱无人机版（较四驱Ultra版差价及标准选装体系），含一年大疆DJI Care（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及双模式手柄；选装后不可拆除，可开启全景天窗变为不可开启全景天幕，车高增至1930mm。",
+          "availability": "可选"
         },
         {
           "name": "官方前脸模块化潮改套件",
           "price_rmb": null,
-          "details": "方程豹联合多家潮改厂牌推出12款联合潮改前脸及外观拓展方案（购车享限时2000元潮改基金），具体单套潮改件价格随方案而定，官网未公布统一标价。"
+          "details": "方程豹联合多家潮改厂牌推出12款联合潮改前脸及外观拓展方案（购车享限时2000元潮改基金），具体单套潮改件价格随方案而定，官网未公布统一标价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆/熏黑运动轮毂与红色卡钳",
           "price_rmb": null,
-          "details": "随版型或潮改方案搭配提供，2026款闪充版全系标配云辇-C与天神之眼智驾，官网未公开车漆与轮毂单项加价。"
+          "details": "随版型或潮改方案搭配提供，2026款闪充版全系标配云辇-C与天神之眼智驾，官网未公开车漆与轮毂单项加价。",
+          "availability": "标配"
         }
       ]
     },
@@ -105,7 +119,7 @@
         "height_mm": 1720,
         "wheelbase_mm": 2745,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1920,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -121,7 +135,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "温州弗迪电池",
         "battery_capacity_kwh": 75.6,
         "cltc_pure_electric_range_km": 620,
         "cltc_combined_range_km": 620,
@@ -129,10 +143,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -156,23 +171,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机套装",
           "price_rmb": 16968,
-          "details": "对应四驱无人机版（较四驱Ultra版差价及标准选装体系），含一年大疆DJI Care（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及双模式手柄；选装后不可拆除，可开启全景天窗变为不可开启全景天幕，车高增至1930mm。"
+          "details": "对应四驱无人机版（较四驱Ultra版差价及标准选装体系），含一年大疆DJI Care（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及双模式手柄；选装后不可拆除，可开启全景天窗变为不可开启全景天幕，车高增至1930mm。",
+          "availability": "可选"
         },
         {
           "name": "官方前脸模块化潮改套件",
           "price_rmb": null,
-          "details": "方程豹联合多家潮改厂牌推出12款联合潮改前脸及外观拓展方案（购车享限时2000元潮改基金），具体单套潮改件价格随方案而定，官网未公布统一标价。"
+          "details": "方程豹联合多家潮改厂牌推出12款联合潮改前脸及外观拓展方案（购车享限时2000元潮改基金），具体单套潮改件价格随方案而定，官网未公布统一标价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆/熏黑运动轮毂与红色卡钳",
           "price_rmb": null,
-          "details": "随版型或潮改方案搭配提供，2026款闪充版全系标配云辇-C与天神之眼智驾，官网未公开车漆与轮毂单项加价。"
+          "details": "随版型或潮改方案搭配提供，2026款闪充版全系标配云辇-C与天神之眼智驾，官网未公开车漆与轮毂单项加价。",
+          "availability": "标配"
         }
       ]
     },
@@ -188,7 +216,7 @@
         "height_mm": 1720,
         "wheelbase_mm": 2745,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1920,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -204,7 +232,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "温州弗迪电池",
         "battery_capacity_kwh": 75.6,
         "cltc_pure_electric_range_km": 565,
         "cltc_combined_range_km": 565,
@@ -212,10 +240,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球节麦弗逊",
@@ -239,26 +268,69 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机套装",
           "price_rmb": 16968,
-          "details": "对应四驱无人机版（较四驱Ultra版差价及标准选装体系），含一年大疆DJI Care（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及双模式手柄；选装后不可拆除，可开启全景天窗变为不可开启全景天幕，车高增至1930mm。"
+          "details": "对应四驱无人机版（较四驱Ultra版差价及标准选装体系），含一年大疆DJI Care（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及双模式手柄；选装后不可拆除，可开启全景天窗变为不可开启全景天幕，车高增至1930mm。",
+          "availability": "可选"
         },
         {
           "name": "官方前脸模块化潮改套件",
           "price_rmb": null,
-          "details": "方程豹联合多家潮改厂牌推出12款联合潮改前脸及外观拓展方案（购车享限时2000元潮改基金），具体单套潮改件价格随方案而定，官网未公布统一标价。"
+          "details": "方程豹联合多家潮改厂牌推出12款联合潮改前脸及外观拓展方案（购车享限时2000元潮改基金），具体单套潮改件价格随方案而定，官网未公布统一标价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆/熏黑运动轮毂与红色卡钳",
           "price_rmb": null,
-          "details": "随版型或潮改方案搭配提供，2026款闪充版全系标配云辇-C与天神之眼智驾，官网未公开车漆与轮毂单项加价。"
+          "details": "随版型或潮改方案搭配提供，2026款闪充版全系标配云辇-C与天神之眼智驾，官网未公开车漆与轮毂单项加价。",
+          "availability": "标配"
         }
       ]
     }
   ],
-  "image_url": "https://q9.itc.cn/images01/20241211/96ce51fae93748c498ecaf1be5775148.jpeg"
+  "image_url": "https://q9.itc.cn/images01/20241211/96ce51fae93748c498ecaf1be5775148.jpeg",
+  "promo_highlights": [
+    "2026款闪充版享1年BYD闪充免费充电权益",
+    "本品置换补贴6000元/他品4000元、首付50%起36期0息"
+  ],
+  "miit_filing": {
+    "miit_batch": "第409批",
+    "product_model_code": "QCJ6460AHBEV11",
+    "curb_weight_kg": 1920,
+    "gross_weight_kg": 2320,
+    "approach_departure_deg": "25/28",
+    "battery_supplier": "温州弗迪电池"
+  },
+  "references": [
+    {
+      "title": "方程豹 方程豹钛3（2026款闪充版） 官方配置页 (www.fangchengbao.com)",
+      "url": "https://www.fangchengbao.com/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第409批：方程豹钛3纯电申报参数",
+      "url": "https://db.m.auto.sohu.com/model_7893/a/1049797820_122014422",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img2.autoimg.cn/svcovers/g25/M0A/58/51/CjIFV2hGTSqAAgZmAAjIStWof18044.jpg"
 }

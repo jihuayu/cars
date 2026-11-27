@@ -1,7 +1,7 @@
 {
   "brand": "voyah",
   "brand_name": "岚图",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "岚图泰山（2026款）",
   "model_slug": "titan-2026",
   "category": "全尺寸旗舰6座插混SUV",
@@ -23,7 +23,7 @@
         "height_mm": 1817,
         "wheelbase_mm": 3120,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2920,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -50,7 +50,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -74,38 +75,56 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶屏+双3.5英寸二排扶手屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排/三排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "自动开合车门（智能感应电动门）",
           "price_rmb": 20000,
-          "details": "全系可选装智能感应自动开合电动门（含全车电吸功能，限时购车权益可享免费升级）"
+          "details": "全系可选装智能感应自动开合电动门（含全车电吸功能，限时购车权益可享免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时购车权益可享免费升级",
+          "availability": "全系可选"
         },
         {
           "name": "22英寸天地之镜轮毂",
           "price_rmb": 10000,
-          "details": "Max、Max+、Ultra版可选装22英寸天地之镜电镀大饼轮毂"
+          "details": "Max、Max+、Ultra版可选装22英寸天地之镜电镀大饼轮毂",
+          "availability": "可选"
         },
         {
           "name": "流光星辰门把手",
           "price_rmb": 5000,
-          "details": "全系可选装流光星辰发光门把手"
+          "details": "全系可选装流光星辰发光门把手",
+          "availability": "全系可选"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 5000,
-          "details": "Max版支持选装/升级价值5,000元电动侧踏板（Max+、Ultra、黑武士版标配）"
+          "details": "Max版支持选装/升级价值5,000元电动侧踏板（Max+、Ultra、黑武士版标配）",
+          "availability": "标配"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "硬件标配192线单激光或896线四激光雷达，开通ADS高阶功能包需另行付费（官方购车权益提供21,000元抵用券，原价以华为官方定价为准）"
+          "details": "硬件标配192线单激光或896线四激光雷达，开通ADS高阶功能包需另行付费（官方购车权益提供21,000元抵用券，原价以华为官方定价为准）",
+          "promo_note": "抵用券",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "提供鎏金紫+玄墨金等双拼色车身选装，未公开官方单价"
+          "details": "提供鎏金紫+玄墨金等双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -121,7 +140,7 @@
         "height_mm": 1817,
         "wheelbase_mm": 3120,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2920,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -148,7 +167,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -172,38 +192,56 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶屏+双3.5英寸二排扶手屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排/三排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "自动开合车门（智能感应电动门）",
           "price_rmb": 20000,
-          "details": "全系可选装智能感应自动开合电动门（含全车电吸功能，限时购车权益可享免费升级）"
+          "details": "全系可选装智能感应自动开合电动门（含全车电吸功能，限时购车权益可享免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时购车权益可享免费升级",
+          "availability": "全系可选"
         },
         {
           "name": "22英寸天地之镜轮毂",
           "price_rmb": 10000,
-          "details": "Max、Max+、Ultra版可选装22英寸天地之镜电镀大饼轮毂"
+          "details": "Max、Max+、Ultra版可选装22英寸天地之镜电镀大饼轮毂",
+          "availability": "可选"
         },
         {
           "name": "流光星辰门把手",
           "price_rmb": 5000,
-          "details": "全系可选装流光星辰发光门把手"
+          "details": "全系可选装流光星辰发光门把手",
+          "availability": "全系可选"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 5000,
-          "details": "Max版支持选装/升级价值5,000元电动侧踏板（Max+、Ultra、黑武士版标配）"
+          "details": "Max版支持选装/升级价值5,000元电动侧踏板（Max+、Ultra、黑武士版标配）",
+          "availability": "标配"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "硬件标配192线单激光或896线四激光雷达，开通ADS高阶功能包需另行付费（官方购车权益提供21,000元抵用券，原价以华为官方定价为准）"
+          "details": "硬件标配192线单激光或896线四激光雷达，开通ADS高阶功能包需另行付费（官方购车权益提供21,000元抵用券，原价以华为官方定价为准）",
+          "promo_note": "抵用券",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "提供鎏金紫+玄墨金等双拼色车身选装，未公开官方单价"
+          "details": "提供鎏金紫+玄墨金等双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -219,7 +257,7 @@
         "height_mm": 1817,
         "wheelbase_mm": 3120,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2920,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -246,7 +284,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -270,38 +309,56 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶屏+双3.5英寸二排扶手屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排/三排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "自动开合车门（智能感应电动门）",
           "price_rmb": 20000,
-          "details": "全系可选装智能感应自动开合电动门（含全车电吸功能，限时购车权益可享免费升级）"
+          "details": "全系可选装智能感应自动开合电动门（含全车电吸功能，限时购车权益可享免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时购车权益可享免费升级",
+          "availability": "全系可选"
         },
         {
           "name": "22英寸天地之镜轮毂",
           "price_rmb": 10000,
-          "details": "Max、Max+、Ultra版可选装22英寸天地之镜电镀大饼轮毂"
+          "details": "Max、Max+、Ultra版可选装22英寸天地之镜电镀大饼轮毂",
+          "availability": "可选"
         },
         {
           "name": "流光星辰门把手",
           "price_rmb": 5000,
-          "details": "全系可选装流光星辰发光门把手"
+          "details": "全系可选装流光星辰发光门把手",
+          "availability": "全系可选"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 5000,
-          "details": "Max版支持选装/升级价值5,000元电动侧踏板（Max+、Ultra、黑武士版标配）"
+          "details": "Max版支持选装/升级价值5,000元电动侧踏板（Max+、Ultra、黑武士版标配）",
+          "availability": "标配"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "硬件标配192线单激光或896线四激光雷达，开通ADS高阶功能包需另行付费（官方购车权益提供21,000元抵用券，原价以华为官方定价为准）"
+          "details": "硬件标配192线单激光或896线四激光雷达，开通ADS高阶功能包需另行付费（官方购车权益提供21,000元抵用券，原价以华为官方定价为准）",
+          "promo_note": "抵用券",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "提供鎏金紫+玄墨金等双拼色车身选装，未公开官方单价"
+          "details": "提供鎏金紫+玄墨金等双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         }
       ]
     },
@@ -317,7 +374,7 @@
         "height_mm": 1817,
         "wheelbase_mm": 3120,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2920,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -344,7 +401,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -368,41 +426,96 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 21.4英寸3K后排吸顶屏+双3.5英寸二排扶手屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排/三排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "自动开合车门（智能感应电动门）",
           "price_rmb": 20000,
-          "details": "全系可选装智能感应自动开合电动门（含全车电吸功能，限时购车权益可享免费升级）"
+          "details": "全系可选装智能感应自动开合电动门（含全车电吸功能，限时购车权益可享免费升级）",
+          "promo_price_rmb": 0,
+          "promo_note": "限时购车权益可享免费升级",
+          "availability": "全系可选"
         },
         {
           "name": "22英寸天地之镜轮毂",
           "price_rmb": 10000,
-          "details": "Max、Max+、Ultra版可选装22英寸天地之镜电镀大饼轮毂"
+          "details": "Max、Max+、Ultra版可选装22英寸天地之镜电镀大饼轮毂",
+          "availability": "可选"
         },
         {
           "name": "流光星辰门把手",
           "price_rmb": 5000,
-          "details": "全系可选装流光星辰发光门把手"
+          "details": "全系可选装流光星辰发光门把手",
+          "availability": "全系可选"
         },
         {
           "name": "电动脚踏板",
           "price_rmb": 5000,
-          "details": "Max版支持选装/升级价值5,000元电动侧踏板（Max+、Ultra、黑武士版标配）"
+          "details": "Max版支持选装/升级价值5,000元电动侧踏板（Max+、Ultra、黑武士版标配）",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "硬件标配192线单激光或896线四激光雷达，开通ADS高阶功能包需另行付费（官方购车权益提供21,000元抵用券，原价以华为官方定价为准）"
+          "details": "硬件标配192线单激光或896线四激光雷达，开通ADS高阶功能包需另行付费（官方购车权益提供21,000元抵用券，原价以华为官方定价为准）",
+          "promo_note": "抵用券",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": null,
-          "details": "提供鎏金紫+玄墨金等双拼色车身选装，未公开官方单价"
+          "details": "提供鎏金紫+玄墨金等双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/titan/375/sc_1.jpg"
+  "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/titan/375/sc_1.jpg",
+  "promo_highlights": [
+    "截至2026年11月30日享10,000元现金回馈、本品置换至高30,000元",
+    "免费升级智能感应电动门、赠华为ADS高阶包抵用券"
+  ],
+  "miit_filing": {
+    "miit_batch": "第408批",
+    "product_model_code": null,
+    "curb_weight_kg": 2920,
+    "gross_weight_kg": 3370,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "岚图 岚图泰山（2026款） 官方配置页 (www.voyah.com.cn)",
+      "url": "https://www.voyah.com.cn/titan.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "岚图 岚图泰山（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/8291.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第408批：岚图泰山申报信息",
+      "url": "https://auto.ifeng.com/c/8tr5c4WeQJM",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

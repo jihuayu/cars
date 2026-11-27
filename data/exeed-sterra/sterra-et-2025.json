@@ -1,7 +1,7 @@
 {
   "brand": "exeed-sterra",
   "brand_name": "星途星纪元",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "星纪元ET（2025款）",
   "model_slug": "sterra-et-2025",
   "category": "中大型SUV",
@@ -27,7 +27,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "172-180"
       },
       "performance": {
         "drive_type": "后驱",
@@ -47,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 14.5min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,28 +76,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表+23英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "前排及高配二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "高配电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾零重力座椅 / 20-21英寸轮毂",
           "price_rmb": "8000 / 6000-8000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂包",
           "price_rmb": 6000,
-          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎"
+          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎",
+          "availability": "可选"
         },
         {
           "name": "零重力座椅",
           "price_rmb": 8000,
-          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）"
+          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "IAS智能空气悬架包+21英寸轮毂",
           "price_rmb": 15000,
-          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂"
+          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂",
+          "availability": "可选"
         }
       ]
     },
@@ -115,7 +131,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "172-180"
       },
       "performance": {
         "drive_type": "后驱",
@@ -135,10 +152,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 14.5min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -162,28 +180,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表+23英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "前排及高配二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "高配电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾零重力座椅 / 20-21英寸轮毂",
           "price_rmb": "8000 / 6000-8000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂包",
           "price_rmb": 6000,
-          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎"
+          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎",
+          "availability": "可选"
         },
         {
           "name": "零重力座椅",
           "price_rmb": 8000,
-          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）"
+          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "IAS智能空气悬架包+21英寸轮毂",
           "price_rmb": 15000,
-          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂"
+          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂",
+          "availability": "可选"
         }
       ]
     },
@@ -203,7 +235,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "172-180"
       },
       "performance": {
         "drive_type": "四驱",
@@ -223,10 +256,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 14.5min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -250,28 +284,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表+23英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "前排及高配二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "高配电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾零重力座椅 / 20-21英寸轮毂",
           "price_rmb": "8000 / 6000-8000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂包",
           "price_rmb": 6000,
-          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎"
+          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎",
+          "availability": "可选"
         },
         {
           "name": "零重力座椅",
           "price_rmb": 8000,
-          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）"
+          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "IAS智能空气悬架包+21英寸轮毂",
           "price_rmb": 15000,
-          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂"
+          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂",
+          "availability": "可选"
         }
       ]
     },
@@ -291,7 +339,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "172-180"
       },
       "performance": {
         "drive_type": "后驱",
@@ -311,10 +360,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -338,28 +388,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表+23英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "前排及高配二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "高配电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾零重力座椅 / 20-21英寸轮毂",
           "price_rmb": "8000 / 6000-8000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂包",
           "price_rmb": 6000,
-          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎"
+          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎",
+          "availability": "可选"
         },
         {
           "name": "零重力座椅",
           "price_rmb": 8000,
-          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）"
+          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "IAS智能空气悬架包+21英寸轮毂",
           "price_rmb": 15000,
-          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂"
+          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂",
+          "availability": "可选"
         }
       ]
     },
@@ -379,7 +443,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "172-180"
       },
       "performance": {
         "drive_type": "后驱",
@@ -399,10 +464,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -426,28 +492,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表+23英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "前排及高配二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "高配电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾零重力座椅 / 20-21英寸轮毂",
           "price_rmb": "8000 / 6000-8000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂包",
           "price_rmb": 6000,
-          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎"
+          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎",
+          "availability": "可选"
         },
         {
           "name": "零重力座椅",
           "price_rmb": 8000,
-          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）"
+          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）",
+          "availability": "可选"
         },
         {
           "name": "IAS智能空气悬架包+21英寸轮毂",
           "price_rmb": 15000,
-          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂"
+          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂",
+          "availability": "可选"
         }
       ]
     },
@@ -467,7 +547,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "172-180"
       },
       "performance": {
         "drive_type": "四驱",
@@ -487,10 +568,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -514,31 +596,67 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表+23英寸HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "前排及高配二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "高配电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "副驾零重力座椅 / 20-21英寸轮毂",
           "price_rmb": "8000 / 6000-8000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂包",
           "price_rmb": 6000,
-          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎"
+          "details": "含20英寸多幅豪华轮辋与255/50 R20马牌轮胎",
+          "availability": "可选"
         },
         {
           "name": "零重力座椅",
           "price_rmb": 8000,
-          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）"
+          "details": "含副驾驶座浮感零重力座椅（中低配版型选配，高配标配）",
+          "availability": "标配"
         },
         {
           "name": "IAS智能空气悬架包+21英寸轮毂",
           "price_rmb": 15000,
-          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂"
+          "details": "含CDC电磁减振系统、空气弹簧及21英寸轮毂",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://www.exeedcars.com/images/xingjiyuan-ET/banner1_mobile.jpg"
+  "image_url": "https://www.exeedcars.com/images/xingjiyuan-ET/banner1_mobile.jpg",
+  "promo_highlights": [
+    "超级置换补贴20000元/台（无需旧车可享）、终端综合让利至高2.5万元",
+    "首任车主整车终身质保"
+  ],
+  "references": [
+    {
+      "title": "星途星纪元 星纪元ET（2025款） 官方配置页 (www.exeedcars.com)",
+      "url": "https://www.exeedcars.com/xjy/et_new/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "星途星纪元 星纪元ET（2025款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7174.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://imgs.tom.com/auto/202308/1148416883/CONTENT68f67bde6d630c1f.jpg"
 }

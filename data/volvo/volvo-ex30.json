@@ -1,0 +1,135 @@
+{
+  "brand": "volvo",
+  "brand_name": "沃尔沃/极星",
+  "model": "沃尔沃EX30",
+  "model_slug": "volvo-ex30",
+  "origin_type": "合资/外资",
+  "category": "小型纯电SUV",
+  "release_date": "2026-03-20",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考优惠约6.3万-6.6万元（参考价13.98万-19.98万元起）"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7275.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 沃尔沃EX30参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7275.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "volvo-ex30-2026-rwd-lr-ultra",
+      "sku_name": "2026款 后驱长续航版Ultra",
+      "price_rmb": 232800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4233,
+        "width_mm": 1838,
+        "height_mm": 1555,
+        "wheelbase_mm": 2650,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 66.0,
+        "cltc_pure_electric_range_km": 590,
+        "fast_charge_time": "0.47h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Pilot Assist领航辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "集成至中控屏",
+        "screens": "12.3英寸纵置中控屏(8155)",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "volvo-ex30-2026-awd-ultra",
+      "sku_name": "2026款 双电机四驱高性能版Ultra",
+      "price_rmb": 255800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4233,
+        "width_mm": 1838,
+        "height_mm": 1555,
+        "wheelbase_mm": 2650,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 315,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.6
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 66.0,
+        "cltc_pure_electric_range_km": 540,
+        "fast_charge_time": "0.47h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Pilot Assist领航辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "集成至中控屏",
+        "screens": "12.3英寸纵置中控屏(8155)",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

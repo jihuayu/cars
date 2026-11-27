@@ -1,21 +1,28 @@
 {
   "brand": "firefly",
   "brand_name": "萤火虫",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 1,
   "sku_count": 6,
   "models": [
     {
       "brand": "firefly",
       "brand_name": "萤火虫",
+      "origin_type": "国产",
       "model": "firefly 萤火虫（2026款）",
       "model_slug": "firefly-2026",
       "sub_brand": null,
       "category": "小型高端纯电两厢车",
       "release_date": "2026-04-07",
       "image_url": "https://cdn-up-public.firefly.world/www-firefly/admin-file-upload/1/2026-11-18/4a1544/0-hero-top-desktop_new.jpg",
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2024/12/24/ac107202412241231492156.jpg",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 6,
       "option_count": 5,
@@ -23,6 +30,22 @@
       "price_max_rmb": 152800,
       "best_zero_to_100_s": 7.9,
       "max_cltc_ev_km": 560,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.86,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/firefly/firefly-2026.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/7990.html"

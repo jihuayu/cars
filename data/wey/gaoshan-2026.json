@@ -1,7 +1,7 @@
 {
   "brand": "wey",
   "brand_name": "魏牌",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "魏牌高山（7/8/9及2027款智慧版）",
   "model_slug": "gaoshan-2026",
   "category": "中大型豪华插混MPV",
@@ -23,11 +23,12 @@
         "height_mm": 1900,
         "wheelbase_mm": 3085,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2960,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "Hi4智能电四驱",
@@ -47,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "全铝前麦弗逊",
@@ -74,33 +76,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 17.3英寸后排娱乐屏（2027款高山8/9升级21.4英寸）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热(高配)",
+        "seat_massage": "前排(高配)/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "铝合金多辐溅镀轮辋",
           "price_rmb": 2000,
-          "details": "高山7及2026款高山7 SUV版选配2000元"
+          "details": "高山7及2026款高山7 SUV版选配2000元",
+          "availability": "可选"
         },
         {
           "name": "第二排零重力座椅套装",
           "price_rmb": 8000,
-          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配",
+          "availability": "可选"
         },
         {
           "name": "动态星空穹顶",
           "price_rmb": 15000,
-          "details": "高山9四驱版选配15000元"
+          "details": "高山9四驱版选配15000元",
+          "availability": "可选"
         },
         {
           "name": "航空座椅套装",
           "price_rmb": 30000,
-          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯",
+          "availability": "可选"
         },
         {
           "name": "城市NOA领航辅助驾驶",
           "price_rmb": null,
-          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配",
+          "availability": "可选"
         }
       ]
     },
@@ -116,11 +133,12 @@
         "height_mm": 1900,
         "wheelbase_mm": 3145,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2960,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "Hi4智能电四驱",
@@ -140,10 +158,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "全铝前麦弗逊",
@@ -167,33 +186,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 17.3英寸后排娱乐屏（2027款高山8/9升级21.4英寸）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热(高配)",
+        "seat_massage": "前排(高配)/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "铝合金多辐溅镀轮辋",
           "price_rmb": 2000,
-          "details": "高山7及2026款高山7 SUV版选配2000元"
+          "details": "高山7及2026款高山7 SUV版选配2000元",
+          "availability": "可选"
         },
         {
           "name": "第二排零重力座椅套装",
           "price_rmb": 8000,
-          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配",
+          "availability": "可选"
         },
         {
           "name": "动态星空穹顶",
           "price_rmb": 15000,
-          "details": "高山9四驱版选配15000元"
+          "details": "高山9四驱版选配15000元",
+          "availability": "可选"
         },
         {
           "name": "航空座椅套装",
           "price_rmb": 30000,
-          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯",
+          "availability": "可选"
         },
         {
           "name": "城市NOA领航辅助驾驶",
           "price_rmb": null,
-          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配",
+          "availability": "可选"
         }
       ]
     },
@@ -209,11 +243,12 @@
         "height_mm": 1890,
         "wheelbase_mm": 3275,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2960,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "Hi4智能电四驱",
@@ -233,10 +268,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "全铝前麦弗逊",
@@ -260,33 +296,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 17.3英寸后排娱乐屏（2027款高山8/9升级21.4英寸）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热(高配)",
+        "seat_massage": "前排(高配)/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "铝合金多辐溅镀轮辋",
           "price_rmb": 2000,
-          "details": "高山7及2026款高山7 SUV版选配2000元"
+          "details": "高山7及2026款高山7 SUV版选配2000元",
+          "availability": "可选"
         },
         {
           "name": "第二排零重力座椅套装",
           "price_rmb": 8000,
-          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配",
+          "availability": "可选"
         },
         {
           "name": "动态星空穹顶",
           "price_rmb": 15000,
-          "details": "高山9四驱版选配15000元"
+          "details": "高山9四驱版选配15000元",
+          "availability": "可选"
         },
         {
           "name": "航空座椅套装",
           "price_rmb": 30000,
-          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯",
+          "availability": "可选"
         },
         {
           "name": "城市NOA领航辅助驾驶",
           "price_rmb": null,
-          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配",
+          "availability": "可选"
         }
       ]
     },
@@ -302,11 +353,12 @@
         "height_mm": 1900,
         "wheelbase_mm": 3145,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2960,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "Hi4智能电四驱",
@@ -326,10 +378,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "18min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "全铝前麦弗逊",
@@ -353,33 +406,48 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 17.3英寸后排娱乐屏（2027款高山8/9升级21.4英寸）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热(高配)",
+        "seat_massage": "前排(高配)/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "铝合金多辐溅镀轮辋",
           "price_rmb": 2000,
-          "details": "高山7及2026款高山7 SUV版选配2000元"
+          "details": "高山7及2026款高山7 SUV版选配2000元",
+          "availability": "可选"
         },
         {
           "name": "第二排零重力座椅套装",
           "price_rmb": 8000,
-          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配",
+          "availability": "可选"
         },
         {
           "name": "动态星空穹顶",
           "price_rmb": 15000,
-          "details": "高山9四驱版选配15000元"
+          "details": "高山9四驱版选配15000元",
+          "availability": "可选"
         },
         {
           "name": "航空座椅套装",
           "price_rmb": 30000,
-          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯",
+          "availability": "可选"
         },
         {
           "name": "城市NOA领航辅助驾驶",
           "price_rmb": null,
-          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配",
+          "availability": "可选"
         }
       ]
     },
@@ -395,11 +463,12 @@
         "height_mm": 1890,
         "wheelbase_mm": 3275,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2960,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "Hi4智能电四驱",
@@ -419,10 +488,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "18min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "全铝前麦弗逊",
@@ -446,36 +516,88 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 17.3英寸后排娱乐屏（2027款高山8/9升级21.4英寸）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热(高配)",
+        "seat_massage": "前排(高配)/二排10点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "铝合金多辐溅镀轮辋",
           "price_rmb": 2000,
-          "details": "高山7及2026款高山7 SUV版选配2000元"
+          "details": "高山7及2026款高山7 SUV版选配2000元",
+          "availability": "可选"
         },
         {
           "name": "第二排零重力座椅套装",
           "price_rmb": 8000,
-          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配"
+          "details": "高山7系列选配8000元，含二排零重力座椅与二排10点按摩绑定选装；高山8/9标配",
+          "availability": "可选"
         },
         {
           "name": "动态星空穹顶",
           "price_rmb": 15000,
-          "details": "高山9四驱版选配15000元"
+          "details": "高山9四驱版选配15000元",
+          "availability": "可选"
         },
         {
           "name": "航空座椅套装",
           "price_rmb": 30000,
-          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯"
+          "details": "高山9四驱版选配30000元，含二排航空座椅、二排电动Easy Entry、三排座椅2向电动腿托及可调阅读灯",
+          "availability": "可选"
         },
         {
           "name": "城市NOA领航辅助驾驶",
           "price_rmb": null,
-          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配"
+          "details": "2025/2026款部分版型标注选配城市路段辅助驾驶；2027款高山8/9智慧版标配",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M04/08/8D/400x400_1_q40_c40_autohomecar__ChxpVmqhEgaAEFg4AG7dF8NhK8A899.jpg"
+  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M04/08/8D/400x400_1_q40_c40_autohomecar__ChxpVmqhEgaAEFg4AG7dF8NhK8A899.jpg",
+  "promo_highlights": [
+    "2027款高山8 HEV购置税补贴6000元、舒享版限时免费赠17.3英寸后排娱乐屏",
+    "价值26000元城市/高速NOA终身免费"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 2960,
+    "gross_weight_kg": 3455,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "魏牌 魏牌高山（7/8/9及2027款智慧版） 官方配置页 (www.wey.com)",
+      "url": "https://www.wey.com/gaoshan.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "魏牌 魏牌高山（7/8/9及2027款智慧版） 官方配置页 (www.wey.com)",
+      "url": "https://www.wey.com/gaoshan-intelligence.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "魏牌高山9工信部申报信息 - 凤凰网汽车",
+      "url": "https://auto.ifeng.com/c/8vOgooqoHr3",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

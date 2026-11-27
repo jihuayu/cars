@@ -1,0 +1,143 @@
+{
+  "brand": "joint-other",
+  "brand_name": "马自达/福特/雷克萨斯",
+  "model": "长安马自达EZ-60",
+  "model_slug": "mazda-ez60",
+  "origin_type": "合资/外资",
+  "category": "中型新能源SUV",
+  "release_date": "2026-09-26",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://q6.itc.cn/images01/20250927/27294699ead34f4abea30ba8c00cabbb.jpeg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "至高2.3万元礼遇+终身零燃权益"
+  ],
+  "source_urls": [
+    "https://www.changan-mazda.com.cn/headlines/detail/?id=789",
+    "https://car.autohome.com.cn/config/spec/79343.html"
+  ],
+  "references": [
+    {
+      "title": "EZ-60马年版上市-长安马自达官网",
+      "url": "https://www.changan-mazda.com.cn/headlines/detail/?id=789",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "EZ-60 2027款参数-汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/79343.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "ez60-reev-200-lidar",
+      "sku_name": "2027款 增程200 Pro激光版",
+      "price_rmb": 139900,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4850,
+        "width_mm": 1935,
+        "height_mm": 1620,
+        "wheelbase_mm": 2902,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 190,
+        "motor_torque_nm": 290,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 31.73,
+        "cltc_pure_electric_range_km": 200,
+        "fast_charge_time": "15分钟(30-80%)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "连续可变阻尼",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "E-ZERO无界智能领航"
+      },
+      "cockpit": {
+        "instrument_cluster": "50/100英寸AR-HUD",
+        "screens": "26.45英寸5K(MT8676)",
+        "rear_screen": "后排触控屏",
+        "power_220v": "无",
+        "seat_heating_ventilation": "全车加热/通风",
+        "seat_massage": "前排8点按摩",
+        "zero_gravity_seat": "前排双零重力",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "可选"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "ez60-bev-600-max",
+      "sku_name": "2027款 纯电600 Max",
+      "price_rmb": 160900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4850,
+        "width_mm": 1935,
+        "height_mm": 1620,
+        "wheelbase_mm": 2902,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2180
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 190,
+        "motor_torque_nm": 290,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 77.94,
+        "cltc_pure_electric_range_km": 600,
+        "fast_charge_time": "15分钟(30-80%)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "连续可变阻尼",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "E-ZERO无界智能领航(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "50/100英寸AR-HUD",
+        "screens": "26.45英寸5K(MT8676)",
+        "rear_screen": "后排触控屏",
+        "power_220v": "无",
+        "seat_heating_ventilation": "全车加热/通风",
+        "seat_massage": "前排8点按摩",
+        "zero_gravity_seat": "前排双零重力",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "标配"
+      },
+      "options": []
+    }
+  ]
+}

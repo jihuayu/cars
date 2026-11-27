@@ -1,7 +1,7 @@
 {
   "brand": "hima",
   "brand_name": "鸿蒙智行",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "sub_brand": "尊界 MAEXTRO",
   "model": "尊界S800（含典藏大观）",
   "model_slug": "maextro-s800-2026",
@@ -24,11 +24,12 @@
         "height_mm": 1542,
         "wheelbase_mm": 3370,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2770-2800",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.206
+        "drag_coefficient_cd": 0.206,
+        "ground_clearance_mm": "100-150"
       },
       "performance": {
         "drive_type": "多电机四驱",
@@ -40,7 +41,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "6C雪鸮增程电池",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(江苏时代)",
         "battery_capacity_kwh": 65.0,
         "cltc_pure_electric_range_km": 400,
         "cltc_combined_range_km": 1333,
@@ -51,7 +52,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -75,48 +77,65 @@
         "hud": "76英寸华为临境HUD",
         "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
         "fridge": "后排冷暖箱",
-        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信",
+        "rear_screen": "高配标配/选装 40英寸车规级激光投影巨幕",
+        "instrument_cluster": "12.3英寸全液晶仪表+76英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排20点全身按摩(明确含靠背、坐垫/臀部、腿托)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "典藏大观“锦绣繁花主题套装”",
           "price_rmb": 200000,
-          "details": "高定主题套装"
+          "details": "高定主题套装",
+          "availability": "可选"
         },
         {
           "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
           "price_rmb": null,
-          "details": "以官方定制器为准"
+          "details": "以官方定制器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（265/40 R21）",
           "price_rmb": 30000,
-          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配"
+          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配",
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": "2026款典藏大观4座标配，其余版本可选"
+          "details": "2026款典藏大观4座标配，其余版本可选",
+          "availability": "可选"
         },
         {
           "name": "智能电子外后视镜",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空顶",
           "price_rmb": 80000,
-          "details": "原价50000元，2025年10月起调整为80000元"
+          "details": "原价50000元，2025年10月起调整为80000元",
+          "availability": "可选"
         },
         {
           "name": "后排智能交互系统（隐私巨幕套件+后排智能交互系统）",
           "price_rmb": 60000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -132,11 +151,12 @@
         "height_mm": 1542,
         "wheelbase_mm": 3370,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2770-2800",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.206
+        "drag_coefficient_cd": 0.206,
+        "ground_clearance_mm": "100-150"
       },
       "performance": {
         "drive_type": "多电机四驱",
@@ -148,7 +168,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "6C雪鸮增程电池",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(江苏时代)",
         "battery_capacity_kwh": 65.0,
         "cltc_pure_electric_range_km": 400,
         "cltc_combined_range_km": 1333,
@@ -159,7 +179,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -183,48 +204,65 @@
         "hud": "76英寸华为临境HUD",
         "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
         "fridge": "后排冷暖箱",
-        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信",
+        "rear_screen": "高配标配/选装 40英寸车规级激光投影巨幕",
+        "instrument_cluster": "12.3英寸全液晶仪表+76英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排20点全身按摩(明确含靠背、坐垫/臀部、腿托)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "典藏大观“锦绣繁花主题套装”",
           "price_rmb": 200000,
-          "details": "高定主题套装"
+          "details": "高定主题套装",
+          "availability": "可选"
         },
         {
           "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
           "price_rmb": null,
-          "details": "以官方定制器为准"
+          "details": "以官方定制器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（265/40 R21）",
           "price_rmb": 30000,
-          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配"
+          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配",
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": "2026款典藏大观4座标配，其余版本可选"
+          "details": "2026款典藏大观4座标配，其余版本可选",
+          "availability": "可选"
         },
         {
           "name": "智能电子外后视镜",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空顶",
           "price_rmb": 80000,
-          "details": "原价50000元，2025年10月起调整为80000元"
+          "details": "原价50000元，2025年10月起调整为80000元",
+          "availability": "可选"
         },
         {
           "name": "后排智能交互系统（隐私巨幕套件+后排智能交互系统）",
           "price_rmb": 60000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -240,11 +278,12 @@
         "height_mm": 1542,
         "wheelbase_mm": 3370,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2770-2800",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.206
+        "drag_coefficient_cd": 0.206,
+        "ground_clearance_mm": "100-150"
       },
       "performance": {
         "drive_type": "多电机四驱",
@@ -256,7 +295,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "6C雪鸮增程电池",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(江苏时代)",
         "battery_capacity_kwh": 65.0,
         "cltc_pure_electric_range_km": 400,
         "cltc_combined_range_km": 1333,
@@ -267,7 +306,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -291,48 +331,65 @@
         "hud": "76英寸华为临境HUD",
         "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
         "fridge": "后排冷暖箱",
-        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信",
+        "rear_screen": "高配标配/选装 40英寸车规级激光投影巨幕",
+        "instrument_cluster": "12.3英寸全液晶仪表+76英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排20点全身按摩(明确含靠背、坐垫/臀部、腿托)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "典藏大观“锦绣繁花主题套装”",
           "price_rmb": 200000,
-          "details": "高定主题套装"
+          "details": "高定主题套装",
+          "availability": "可选"
         },
         {
           "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
           "price_rmb": null,
-          "details": "以官方定制器为准"
+          "details": "以官方定制器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（265/40 R21）",
           "price_rmb": 30000,
-          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配"
+          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配",
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": "2026款典藏大观4座标配，其余版本可选"
+          "details": "2026款典藏大观4座标配，其余版本可选",
+          "availability": "可选"
         },
         {
           "name": "智能电子外后视镜",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空顶",
           "price_rmb": 80000,
-          "details": "原价50000元，2025年10月起调整为80000元"
+          "details": "原价50000元，2025年10月起调整为80000元",
+          "availability": "可选"
         },
         {
           "name": "后排智能交互系统（隐私巨幕套件+后排智能交互系统）",
           "price_rmb": 60000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -348,11 +405,12 @@
         "height_mm": 1542,
         "wheelbase_mm": 3370,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2770-2800",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.206
+        "drag_coefficient_cd": 0.206,
+        "ground_clearance_mm": "100-150"
       },
       "performance": {
         "drive_type": "多电机四驱",
@@ -364,7 +422,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "6C雪鸮增程电池",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(江苏时代)",
         "battery_capacity_kwh": 65.0,
         "cltc_pure_electric_range_km": 400,
         "cltc_combined_range_km": 1333,
@@ -375,7 +433,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -399,48 +458,65 @@
         "hud": "76英寸华为临境HUD",
         "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
         "fridge": "后排冷暖箱",
-        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信",
+        "rear_screen": "高配标配/选装 40英寸车规级激光投影巨幕",
+        "instrument_cluster": "12.3英寸全液晶仪表+76英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排20点全身按摩(明确含靠背、坐垫/臀部、腿托)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "典藏大观“锦绣繁花主题套装”",
           "price_rmb": 200000,
-          "details": "高定主题套装"
+          "details": "高定主题套装",
+          "availability": "可选"
         },
         {
           "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
           "price_rmb": null,
-          "details": "以官方定制器为准"
+          "details": "以官方定制器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（265/40 R21）",
           "price_rmb": 30000,
-          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配"
+          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配",
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": "2026款典藏大观4座标配，其余版本可选"
+          "details": "2026款典藏大观4座标配，其余版本可选",
+          "availability": "可选"
         },
         {
           "name": "智能电子外后视镜",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空顶",
           "price_rmb": 80000,
-          "details": "原价50000元，2025年10月起调整为80000元"
+          "details": "原价50000元，2025年10月起调整为80000元",
+          "availability": "可选"
         },
         {
           "name": "后排智能交互系统（隐私巨幕套件+后排智能交互系统）",
           "price_rmb": 60000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -456,11 +532,12 @@
         "height_mm": 1542,
         "wheelbase_mm": 3370,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2770-2800",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.206
+        "drag_coefficient_cd": 0.206,
+        "ground_clearance_mm": "100-150"
       },
       "performance": {
         "drive_type": "多电机四驱",
@@ -472,7 +549,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C纯电超充电池",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(江苏时代)",
         "battery_capacity_kwh": 97.0,
         "cltc_pure_electric_range_km": 702,
         "cltc_combined_range_km": 702,
@@ -483,7 +560,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -507,51 +585,104 @@
         "hud": "76英寸华为临境HUD",
         "audio": "HUAWEI SOUND ULTIMATE 43扬声器",
         "fridge": "后排冷暖箱",
-        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信"
+        "seat_features": "ActiveSafe后排双零重力+77°智慧电动门+隐私光幕玻璃+卫星通信",
+        "rear_screen": "高配标配/选装 40英寸车规级激光投影巨幕",
+        "instrument_cluster": "12.3英寸全液晶仪表+76英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排20点全身按摩(明确含靠背、坐垫/臀部、腿托)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "典藏大观“锦绣繁花主题套装”",
           "price_rmb": 200000,
-          "details": "高定主题套装"
+          "details": "高定主题套装",
+          "availability": "可选"
         },
         {
           "name": "6C4B双拼漆 / 电子外后视镜 / 21英寸大饼轮毂 / 可变星空顶",
           "price_rmb": null,
-          "details": "以官方定制器为准"
+          "details": "以官方定制器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（265/40 R21）",
           "price_rmb": 30000,
-          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配"
+          "details": "星辉/星耀5座及星辉4座可选，星耀4座及典藏大观4座标配",
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": "2026款典藏大观4座标配，其余版本可选"
+          "details": "2026款典藏大观4座标配，其余版本可选",
+          "availability": "可选"
         },
         {
           "name": "智能电子外后视镜",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空顶",
           "price_rmb": 80000,
-          "details": "原价50000元，2025年10月起调整为80000元"
+          "details": "原价50000元，2025年10月起调整为80000元",
+          "availability": "可选"
         },
         {
           "name": "后排智能交互系统（隐私巨幕套件+后排智能交互系统）",
           "price_rmb": 60000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://hima.auto/dam/hima-site/cn/zunjie/s800-new/videos/welcome/zunjie-s800-cover-xs-poster.jpg"
+  "image_url": "https://hima.auto/dam/hima-site/cn/zunjie/s800-new/videos/welcome/zunjie-s800-cover-xs-poster.jpg",
+  "promo_highlights": [
+    "鸿蒙智行官方限时购车权益（含1.5万元补贴等）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第407批",
+    "product_model_code": "HFC7150DREEV5",
+    "curb_weight_kg": "2770-2800",
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "宁德时代(江苏时代)"
+  },
+  "references": [
+    {
+      "title": "鸿蒙智行 尊界S800（含典藏大观） 官方配置页 (hima.auto)",
+      "url": "https://hima.auto/zunjie/s800/configuration/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "鸿蒙智行 尊界S800（含典藏大观） 官方配置页 (hima.auto)",
+      "url": "https://hima.auto/zunjie/s800/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第407批：尊界S800增程版申报公示",
+      "url": "https://chejiahao.m.autohome.com.cn/info/19328766",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/05/30/3712e202505301517038604.jpg"
 }

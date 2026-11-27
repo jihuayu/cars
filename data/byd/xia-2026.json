@@ -1,7 +1,7 @@
 {
   "brand": "byd",
   "brand_name": "比亚迪",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "比亚迪夏（2026款 DM-i）",
   "model_slug": "xia-2026",
   "category": "中大型7座插混MPV",
@@ -22,11 +22,12 @@
         "height_mm": 1805,
         "wheelbase_mm": 3045,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2470-2650",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 140
       },
       "performance": {
         "drive_type": "前驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "独立悬架",
@@ -73,23 +75,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 15.6英寸后排吸顶屏",
+        "power_220v": "高配标配 后备厢220V电源接口 2.2kW",
+        "instrument_cluster": "12.3英寸全液晶仪表(高配+26英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "高配标配(二排零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "原厂双色车身车漆（月影黑金/鎏光紫金）",
           "price_rmb": 20000,
-          "details": "全系4款主力版本均支持选装，官方原价20000元，限时「双色焕装礼」选装价6000元。"
+          "details": "全系4款主力版本均支持选装，官方原价20000元，限时「双色焕装礼」选装价6000元。",
+          "availability": "可选"
         },
         {
           "name": "舒享豪华选装包",
           "price_rmb": 16000,
-          "details": "218KM卓越型（顶配）专属选装包，包含AR投影感应、副驾娱乐屏、智能香氛系统、28扬声器迪声音响。"
+          "details": "218KM卓越型（顶配）专属选装包，包含AR投影感应、副驾娱乐屏、智能香氛系统、28扬声器迪声音响。",
+          "availability": "可选"
         },
         {
           "name": "单色金属车漆（润玉白/玄空黑/远山青等）",
           "price_rmb": 0,
-          "details": "2026款提供多款常规单色外观金属漆，随车免费可选。"
+          "details": "2026款提供多款常规单色外观金属漆，随车免费可选。",
+          "availability": "可选"
         }
       ]
     },
@@ -105,11 +120,12 @@
         "height_mm": 1805,
         "wheelbase_mm": 3045,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2470-2650",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 140
       },
       "performance": {
         "drive_type": "前驱",
@@ -129,10 +145,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "独立悬架",
@@ -156,23 +173,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 15.6英寸后排吸顶屏",
+        "power_220v": "高配标配 后备厢220V电源接口 2.2kW",
+        "instrument_cluster": "12.3英寸全液晶仪表(高配+26英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "高配标配(二排零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "原厂双色车身车漆（月影黑金/鎏光紫金）",
           "price_rmb": 20000,
-          "details": "全系4款主力版本均支持选装，官方原价20000元，限时「双色焕装礼」选装价6000元。"
+          "details": "全系4款主力版本均支持选装，官方原价20000元，限时「双色焕装礼」选装价6000元。",
+          "availability": "可选"
         },
         {
           "name": "舒享豪华选装包",
           "price_rmb": 16000,
-          "details": "218KM卓越型（顶配）专属选装包，包含AR投影感应、副驾娱乐屏、智能香氛系统、28扬声器迪声音响。"
+          "details": "218KM卓越型（顶配）专属选装包，包含AR投影感应、副驾娱乐屏、智能香氛系统、28扬声器迪声音响。",
+          "availability": "可选"
         },
         {
           "name": "单色金属车漆（润玉白/玄空黑/远山青等）",
           "price_rmb": 0,
-          "details": "2026款提供多款常规单色外观金属漆，随车免费可选。"
+          "details": "2026款提供多款常规单色外观金属漆，随车免费可选。",
+          "availability": "可选"
         }
       ]
     },
@@ -188,11 +218,12 @@
         "height_mm": 1805,
         "wheelbase_mm": 3045,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2470-2650",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 140
       },
       "performance": {
         "drive_type": "前驱",
@@ -212,10 +243,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "独立悬架",
@@ -239,23 +271,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 15.6英寸后排吸顶屏",
+        "power_220v": "高配标配 后备厢220V电源接口 2.2kW",
+        "instrument_cluster": "12.3英寸全液晶仪表(高配+26英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "高配标配(二排零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "原厂双色车身车漆（月影黑金/鎏光紫金）",
           "price_rmb": 20000,
-          "details": "全系4款主力版本均支持选装，官方原价20000元，限时「双色焕装礼」选装价6000元。"
+          "details": "全系4款主力版本均支持选装，官方原价20000元，限时「双色焕装礼」选装价6000元。",
+          "availability": "可选"
         },
         {
           "name": "舒享豪华选装包",
           "price_rmb": 16000,
-          "details": "218KM卓越型（顶配）专属选装包，包含AR投影感应、副驾娱乐屏、智能香氛系统、28扬声器迪声音响。"
+          "details": "218KM卓越型（顶配）专属选装包，包含AR投影感应、副驾娱乐屏、智能香氛系统、28扬声器迪声音响。",
+          "availability": "可选"
         },
         {
           "name": "单色金属车漆（润玉白/玄空黑/远山青等）",
           "price_rmb": 0,
-          "details": "2026款提供多款常规单色外观金属漆，随车免费可选。"
+          "details": "2026款提供多款常规单色外观金属漆，随车免费可选。",
+          "availability": "可选"
         }
       ]
     },
@@ -271,11 +316,12 @@
         "height_mm": 1805,
         "wheelbase_mm": 3045,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2470-2650",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 140
       },
       "performance": {
         "drive_type": "前驱",
@@ -295,10 +341,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "独立悬架",
@@ -322,26 +369,69 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 15.6英寸后排吸顶屏",
+        "power_220v": "高配标配 后备厢220V电源接口 2.2kW",
+        "instrument_cluster": "12.3英寸全液晶仪表(高配+26英寸HUD)",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "高配标配(二排零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "原厂双色车身车漆（月影黑金/鎏光紫金）",
           "price_rmb": 20000,
-          "details": "全系4款主力版本均支持选装，官方原价20000元，限时「双色焕装礼」选装价6000元。"
+          "details": "全系4款主力版本均支持选装，官方原价20000元，限时「双色焕装礼」选装价6000元。",
+          "availability": "可选"
         },
         {
           "name": "舒享豪华选装包",
           "price_rmb": 16000,
-          "details": "218KM卓越型（顶配）专属选装包，包含AR投影感应、副驾娱乐屏、智能香氛系统、28扬声器迪声音响。"
+          "details": "218KM卓越型（顶配）专属选装包，包含AR投影感应、副驾娱乐屏、智能香氛系统、28扬声器迪声音响。",
+          "availability": "可选"
         },
         {
           "name": "单色金属车漆（润玉白/玄空黑/远山青等）",
           "price_rmb": 0,
-          "details": "2026款提供多款常规单色外观金属漆，随车免费可选。"
+          "details": "2026款提供多款常规单色外观金属漆，随车免费可选。",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://global-img.bitauto.com/usercenter/yhzx/20251030/970/w1200_yichecar_182172197027813.jpg.webp"
+  "image_url": "https://global-img.bitauto.com/usercenter/yhzx/20251030/970/w1200_yichecar_182172197027813.jpg.webp",
+  "promo_highlights": [
+    "限时置换权益价19.68万-25.98万元（较指导价优惠1万元）",
+    "鎏光紫金/月影黑金双拼色限时选装价6000元（原价20000元）"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "2470-2650",
+    "gross_weight_kg": 3225,
+    "approach_departure_deg": null,
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪 比亚迪夏（2026款 DM-i） 官方配置页 (www.bydauto.com.cn)",
+      "url": "https://www.bydauto.com.cn/pc/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪夏参数配置表 - EV视界",
+      "url": "https://www.evlook.com/xia/peizhi",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img.rednet.cn/2024/11-18/fdbc7706-327f-4082-9f12-a6993d2bd56a.png"
 }

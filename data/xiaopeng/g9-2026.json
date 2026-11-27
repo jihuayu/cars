@@ -1,7 +1,7 @@
 {
   "brand": "xiaopeng",
   "brand_name": "小鹏汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2026款小鹏G9",
   "model_slug": "g9-2026",
   "category": "中大型纯电SUV",
@@ -49,7 +49,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -73,33 +74,47 @@
         "hud": null,
         "audio": "20扬声器Xopera音响",
         "fridge": null,
-        "seat_features": "Nappa真皮，四座通风/加热/十点按摩"
+        "seat_features": "Nappa真皮，四座通风/加热/十点按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "21英寸多辐轮毂+米其林PS EV胎",
           "price_rmb": 6000,
-          "details": "后驱版可选，四驱版标配"
+          "details": "后驱版可选，四驱版标配",
+          "availability": "可选"
         },
         {
           "name": "黑武士升级套装",
           "price_rmb": 8000,
-          "details": "暗夜黑+21英寸熏黑轮毂+炽焰橙卡钳"
+          "details": "暗夜黑+21英寸熏黑轮毂+炽焰橙卡钳",
+          "availability": "可选"
         },
         {
           "name": "月光骑士升级套装",
           "price_rmb": 12000,
-          "details": "新月银哑光漆+21英寸熏黑轮毂+炽焰橙卡钳"
+          "details": "新月银哑光漆+21英寸熏黑轮毂+炽焰橙卡钳",
+          "availability": "可选"
         }
       ]
     },
@@ -142,7 +157,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -166,33 +182,47 @@
         "hud": null,
         "audio": "20扬声器Xopera音响",
         "fridge": null,
-        "seat_features": "Nappa真皮，四座通风/加热/十点按摩"
+        "seat_features": "Nappa真皮，四座通风/加热/十点按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "21英寸多辐轮毂+米其林PS EV胎",
           "price_rmb": 6000,
-          "details": "后驱版可选，四驱版标配"
+          "details": "后驱版可选，四驱版标配",
+          "availability": "可选"
         },
         {
           "name": "黑武士升级套装",
           "price_rmb": 8000,
-          "details": "暗夜黑+21英寸熏黑轮毂+炽焰橙卡钳"
+          "details": "暗夜黑+21英寸熏黑轮毂+炽焰橙卡钳",
+          "availability": "可选"
         },
         {
           "name": "月光骑士升级套装",
           "price_rmb": 12000,
-          "details": "新月银哑光漆+21英寸熏黑轮毂+炽焰橙卡钳"
+          "details": "新月银哑光漆+21英寸熏黑轮毂+炽焰橙卡钳",
+          "availability": "可选"
         }
       ]
     },
@@ -235,7 +265,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -259,36 +290,79 @@
         "hud": null,
         "audio": "20扬声器Xopera音响",
         "fridge": null,
-        "seat_features": "Nappa真皮，四座通风/加热/十点按摩"
+        "seat_features": "Nappa真皮，四座通风/加热/十点按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "21英寸多辐轮毂+米其林PS EV胎",
           "price_rmb": 6000,
-          "details": "后驱版可选，四驱版标配"
+          "details": "后驱版可选，四驱版标配",
+          "availability": "标配"
         },
         {
           "name": "黑武士升级套装",
           "price_rmb": 8000,
-          "details": "暗夜黑+21英寸熏黑轮毂+炽焰橙卡钳"
+          "details": "暗夜黑+21英寸熏黑轮毂+炽焰橙卡钳",
+          "availability": "可选"
         },
         {
           "name": "月光骑士升级套装",
           "price_rmb": 12000,
-          "details": "新月银哑光漆+21英寸熏黑轮毂+炽焰橙卡钳"
+          "details": "新月银哑光漆+21英寸熏黑轮毂+炽焰橙卡钳",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/08-07/pic_20260807113423_93692.png"
+  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/08-07/pic_20260807113423_93692.png",
+  "promo_highlights": [
+    "图灵AI智驾终身免费权益（2027年Q2前下订）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第407批",
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "小鹏汽车 2026款小鹏G9 官方配置页 (www.xiaopeng.com)",
+      "url": "https://www.xiaopeng.com/g9_2026/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第407批新车解读（含小鹏G9） - 车东西",
+      "url": "https://chedongxi.com/p/367662.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

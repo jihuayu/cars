@@ -1,21 +1,27 @@
 {
   "brand": "icar",
   "brand_name": "iCAR",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 2,
   "sku_count": 9,
   "models": [
     {
       "brand": "icar",
       "brand_name": "iCAR",
+      "origin_type": "国产",
       "model": "iCAR 超级V23（2027款）",
       "model_slug": "icar-v23-2027",
       "sub_brand": null,
       "category": "紧凑型方盒子纯电SUV",
       "release_date": "2026-11-16",
       "image_url": "https://www.icarglobal.com/images/superV23/v23-02-mb.webp",
+      "interior_image_url": "https://x0.ifengimg.com/ucms/2024_51/557776F4B7DB295CD73861AE6108DBCA1ADA4F10_size69_w864_h486.jpg",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 3,
@@ -23,6 +29,22 @@
       "price_max_rmb": 154800,
       "best_zero_to_100_s": 4.5,
       "max_cltc_ev_km": 550,
+      "ground_clearance_mm": "200-210",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/icar/icar-v23-2027.json",
       "source_urls": [
         "https://www.icarglobal.com/zh/carview/iCARV23/"
@@ -31,14 +53,19 @@
     {
       "brand": "icar",
       "brand_name": "iCAR",
+      "origin_type": "国产",
       "model": "iCAR V27（2026/2027款）",
       "model_slug": "icar-v27-2027",
       "sub_brand": null,
       "category": "中大型方盒子增程SUV",
       "release_date": "2026-03-13",
       "image_url": "https://www.icarglobal.com/images/carV27/v27-01-bkg-mb.webp",
+      "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2025/11/27/11/b3e9adbf4f80499fbf886e3221be0612.jpg!jpg",
       "powertrains": [
         "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 5,
       "option_count": 2,
@@ -46,6 +73,22 @@
       "price_max_rmb": 203800,
       "best_zero_to_100_s": 5.5,
       "max_cltc_ev_km": 300,
+      "ground_clearance_mm": "210-220",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/icar/icar-v27-2027.json",
       "source_urls": [
         "https://www.icarglobal.com/zh/carview/iCARV27/"

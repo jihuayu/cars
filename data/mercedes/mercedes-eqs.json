@@ -1,0 +1,82 @@
+{
+  "brand": "mercedes",
+  "brand_name": "奔驰新能源",
+  "model": "奔驰EQS",
+  "model_slug": "mercedes-eqs",
+  "origin_type": "合资/外资",
+  "category": "大型纯电轿车",
+  "release_date": "2025-09-17",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考优惠16万元起，部分地区报价低至45万元起"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/5382.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 奔驰EQS参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/5382.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "mercedes-eqs-2025-500-4matic",
+      "sku_name": "2025款 500 4MATIC",
+      "price_rmb": 881000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5224,
+        "width_mm": null,
+        "height_mm": null,
+        "wheelbase_mm": 3210,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 330,
+        "motor_torque_nm": 828,
+        "zero_to_100_s": 5.1
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 122.0,
+        "cltc_pure_electric_range_km": 840,
+        "fast_charge_time": "0.58h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配",
+        "cdc": "标配",
+        "rear_wheel_steering": "标配(最大10°)"
+      },
+      "adas": {
+        "chip": "英伟达Xavier",
+        "lidar": "无",
+        "system": "L2+级高速NOA"
+      },
+      "cockpit": {
+        "instrument_cluster": "MBUX超联屏仪表",
+        "screens": "17.7英寸OLED中控+12.3英寸副驾屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "全车加热，前排通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

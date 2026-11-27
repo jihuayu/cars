@@ -1,7 +1,7 @@
 {
   "brand": "hima",
   "brand_name": "鸿蒙智行",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "sub_brand": "问界 AITO",
   "model": "问界M6（2026款）",
   "model_slug": "aito-m6-2026",
@@ -24,7 +24,7 @@
         "height_mm": 1736,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2445-2510",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -48,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -75,53 +76,72 @@
         "hud": "26.1英寸W-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "可选冷暖冰箱",
-        "seat_features": "大五座舒享空间"
+        "seat_features": "大五座舒享空间",
+        "rear_screen": "选装/高配标配 17.3英寸后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表+26.1英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(低配副驾选装)",
+        "steering_wheel_electric": "电动调节(入门Max手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装(高配绑定后排娱乐屏/部分标配)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 20-21英寸轮毂 / 电动踏板 / 17.3英寸吸顶屏 / 冷暖箱",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "全车电动吸合车门",
           "price_rmb": 2000,
-          "details": "Max+/Ultra等版本可选"
+          "details": "Max+/Ultra等版本可选",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 6800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅（含电动方向盘/记忆）",
           "price_rmb": 10000,
-          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配"
+          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 6000,
-          "details": "Max/Max+版可选，Ultra标配"
+          "details": "Max/Max+版可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 5000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排娱乐套装（17.3英寸3K后排娱乐屏+流媒体内后视镜）",
           "price_rmb": 8000,
-          "details": "Max+/Ultra版绑定选配"
+          "details": "Max+/Ultra版绑定选配",
+          "availability": "可选"
         },
         {
           "name": "华为ADS高阶智驾包",
           "price_rmb": 12000,
-          "details": "限时买断价"
+          "details": "限时买断价",
+          "availability": "可选"
         }
       ]
     },
@@ -137,7 +157,7 @@
         "height_mm": 1736,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2445-2510",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -161,10 +181,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -188,53 +209,72 @@
         "hud": "26.1英寸W-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "可选冷暖冰箱",
-        "seat_features": "大五座舒享空间"
+        "seat_features": "大五座舒享空间",
+        "rear_screen": "选装/高配标配 17.3英寸后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表+26.1英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(低配副驾选装)",
+        "steering_wheel_electric": "电动调节(入门Max手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装(高配绑定后排娱乐屏/部分标配)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 20-21英寸轮毂 / 电动踏板 / 17.3英寸吸顶屏 / 冷暖箱",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "全车电动吸合车门",
           "price_rmb": 2000,
-          "details": "Max+/Ultra等版本可选"
+          "details": "Max+/Ultra等版本可选",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 6800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅（含电动方向盘/记忆）",
           "price_rmb": 10000,
-          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配"
+          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 6000,
-          "details": "Max/Max+版可选，Ultra标配"
+          "details": "Max/Max+版可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 5000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排娱乐套装（17.3英寸3K后排娱乐屏+流媒体内后视镜）",
           "price_rmb": 8000,
-          "details": "Max+/Ultra版绑定选配"
+          "details": "Max+/Ultra版绑定选配",
+          "availability": "可选"
         },
         {
           "name": "华为ADS高阶智驾包",
           "price_rmb": 12000,
-          "details": "限时买断价"
+          "details": "限时买断价",
+          "availability": "可选"
         }
       ]
     },
@@ -250,7 +290,7 @@
         "height_mm": 1736,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2445-2510",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -274,10 +314,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -301,53 +342,72 @@
         "hud": "26.1英寸W-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "可选冷暖冰箱",
-        "seat_features": "大五座舒享空间"
+        "seat_features": "大五座舒享空间",
+        "rear_screen": "选装/高配标配 17.3英寸后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表+26.1英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(低配副驾选装)",
+        "steering_wheel_electric": "电动调节(入门Max手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装(高配绑定后排娱乐屏/部分标配)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 20-21英寸轮毂 / 电动踏板 / 17.3英寸吸顶屏 / 冷暖箱",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "全车电动吸合车门",
           "price_rmb": 2000,
-          "details": "Max+/Ultra等版本可选"
+          "details": "Max+/Ultra等版本可选",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 6800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅（含电动方向盘/记忆）",
           "price_rmb": 10000,
-          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配"
+          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 6000,
-          "details": "Max/Max+版可选，Ultra标配"
+          "details": "Max/Max+版可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 5000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排娱乐套装（17.3英寸3K后排娱乐屏+流媒体内后视镜）",
           "price_rmb": 8000,
-          "details": "Max+/Ultra版绑定选配"
+          "details": "Max+/Ultra版绑定选配",
+          "availability": "可选"
         },
         {
           "name": "华为ADS高阶智驾包",
           "price_rmb": 12000,
-          "details": "限时买断价"
+          "details": "限时买断价",
+          "availability": "可选"
         }
       ]
     },
@@ -363,7 +423,7 @@
         "height_mm": 1736,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2445-2510",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -387,10 +447,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -414,53 +475,72 @@
         "hud": "26.1英寸W-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "可选冷暖冰箱",
-        "seat_features": "大五座舒享空间"
+        "seat_features": "大五座舒享空间",
+        "rear_screen": "选装/高配标配 17.3英寸后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表+26.1英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(低配副驾选装)",
+        "steering_wheel_electric": "电动调节(入门Max手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装(高配绑定后排娱乐屏/部分标配)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 20-21英寸轮毂 / 电动踏板 / 17.3英寸吸顶屏 / 冷暖箱",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "全车电动吸合车门",
           "price_rmb": 2000,
-          "details": "Max+/Ultra等版本可选"
+          "details": "Max+/Ultra等版本可选",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 6800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅（含电动方向盘/记忆）",
           "price_rmb": 10000,
-          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配"
+          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 6000,
-          "details": "Max/Max+版可选，Ultra标配"
+          "details": "Max/Max+版可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 5000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排娱乐套装（17.3英寸3K后排娱乐屏+流媒体内后视镜）",
           "price_rmb": 8000,
-          "details": "Max+/Ultra版绑定选配"
+          "details": "Max+/Ultra版绑定选配",
+          "availability": "可选"
         },
         {
           "name": "华为ADS高阶智驾包",
           "price_rmb": 12000,
-          "details": "限时买断价"
+          "details": "限时买断价",
+          "availability": "可选"
         }
       ]
     },
@@ -476,7 +556,7 @@
         "height_mm": 1736,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2445-2510",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -500,10 +580,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -527,53 +608,72 @@
         "hud": "26.1英寸W-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "可选冷暖冰箱",
-        "seat_features": "大五座舒享空间"
+        "seat_features": "大五座舒享空间",
+        "rear_screen": "选装/高配标配 17.3英寸后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表+26.1英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(低配副驾选装)",
+        "steering_wheel_electric": "电动调节(入门Max手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装(高配绑定后排娱乐屏/部分标配)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 20-21英寸轮毂 / 电动踏板 / 17.3英寸吸顶屏 / 冷暖箱",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "全车电动吸合车门",
           "price_rmb": 2000,
-          "details": "Max+/Ultra等版本可选"
+          "details": "Max+/Ultra等版本可选",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 6800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅（含电动方向盘/记忆）",
           "price_rmb": 10000,
-          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配"
+          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 6000,
-          "details": "Max/Max+版可选，Ultra标配"
+          "details": "Max/Max+版可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 5000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排娱乐套装（17.3英寸3K后排娱乐屏+流媒体内后视镜）",
           "price_rmb": 8000,
-          "details": "Max+/Ultra版绑定选配"
+          "details": "Max+/Ultra版绑定选配",
+          "availability": "可选"
         },
         {
           "name": "华为ADS高阶智驾包",
           "price_rmb": 12000,
-          "details": "限时买断价"
+          "details": "限时买断价",
+          "availability": "可选"
         }
       ]
     },
@@ -589,7 +689,7 @@
         "height_mm": 1736,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2445-2510",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -613,10 +713,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -640,53 +741,72 @@
         "hud": "26.1英寸W-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "可选冷暖冰箱",
-        "seat_features": "大五座舒享空间"
+        "seat_features": "大五座舒享空间",
+        "rear_screen": "选装/高配标配 17.3英寸后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表+26.1英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(低配副驾选装)",
+        "steering_wheel_electric": "电动调节(入门Max手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装(高配绑定后排娱乐屏/部分标配)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 20-21英寸轮毂 / 电动踏板 / 17.3英寸吸顶屏 / 冷暖箱",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "全车电动吸合车门",
           "price_rmb": 2000,
-          "details": "Max+/Ultra等版本可选"
+          "details": "Max+/Ultra等版本可选",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 6800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅（含电动方向盘/记忆）",
           "price_rmb": 10000,
-          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配"
+          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 6000,
-          "details": "Max/Max+版可选，Ultra标配"
+          "details": "Max/Max+版可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 5000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排娱乐套装（17.3英寸3K后排娱乐屏+流媒体内后视镜）",
           "price_rmb": 8000,
-          "details": "Max+/Ultra版绑定选配"
+          "details": "Max+/Ultra版绑定选配",
+          "availability": "可选"
         },
         {
           "name": "华为ADS高阶智驾包",
           "price_rmb": 12000,
-          "details": "限时买断价"
+          "details": "限时买断价",
+          "availability": "可选"
         }
       ]
     },
@@ -702,7 +822,7 @@
         "height_mm": 1736,
         "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2445-2510",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -726,10 +846,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -753,56 +874,112 @@
         "hud": "26.1英寸W-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "可选冷暖冰箱",
-        "seat_features": "大五座舒享空间"
+        "seat_features": "大五座舒享空间",
+        "rear_screen": "选装/高配标配 17.3英寸后排娱乐屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "8.88英寸全液晶仪表+26.1英寸HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(低配副驾选装)",
+        "steering_wheel_electric": "电动调节(入门Max手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装(高配绑定后排娱乐屏/部分标配)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 20-21英寸轮毂 / 电动踏板 / 17.3英寸吸顶屏 / 冷暖箱",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "全车电动吸合车门",
           "price_rmb": 2000,
-          "details": "Max+/Ultra等版本可选"
+          "details": "Max+/Ultra等版本可选",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 6800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅（含电动方向盘/记忆）",
           "price_rmb": 10000,
-          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配"
+          "details": "Max/纯电Max+版可选，增程Max+及Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 6000,
-          "details": "Max/Max+版可选，Ultra标配"
+          "details": "Max/Max+版可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 5000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排娱乐套装（17.3英寸3K后排娱乐屏+流媒体内后视镜）",
           "price_rmb": 8000,
-          "details": "Max+/Ultra版绑定选配"
+          "details": "Max+/Ultra版绑定选配",
+          "availability": "可选"
         },
         {
           "name": "华为ADS高阶智驾包",
           "price_rmb": 12000,
-          "details": "限时买断价"
+          "details": "限时买断价",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://aito.auto/dam/content/dam/aito/cn/model/m6/images/kv/wenjie-m6-key-vision-thumb.jpg"
+  "image_url": "https://aito.auto/dam/content/dam/aito/cn/model/m6/images/kv/wenjie-m6-key-vision-thumb.jpg",
+  "promo_highlights": [
+    "限时权益三选一：10000元现车补贴 / 3年0息 / 贷5免3金融方案",
+    "ADS高阶功能包补贴+活力橙/流光青外观限时免费+冷暖箱与电吸门免费升级"
+  ],
+  "miit_filing": {
+    "miit_batch": "第408批",
+    "product_model_code": "SKE6501DBEVR3",
+    "curb_weight_kg": "2445-2510",
+    "gross_weight_kg": 2885,
+    "approach_departure_deg": null,
+    "battery_supplier": "宁德时代/国轩高科(宜春国轩)"
+  },
+  "references": [
+    {
+      "title": "鸿蒙智行 问界M6（2026款） 官方配置页 (aito.auto)",
+      "url": "https://aito.auto/model/m6/configuration/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "鸿蒙智行 问界M6（2026款） 官方配置页 (aito.auto)",
+      "url": "https://aito.auto/model/m6/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第408批：问界M6电池配套申报信息",
+      "url": "https://libattery.ofweek.com/2026-06/ART-36008-8120-30690578.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img.rednet.cn/2026/03-23/bd3f923b-8bbf-4366-85e5-70c8296025a4.jpg"
 }

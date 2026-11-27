@@ -1,21 +1,28 @@
 {
   "brand": "onvo",
   "brand_name": "乐道",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 3,
   "sku_count": 14,
   "models": [
     {
       "brand": "onvo",
       "brand_name": "乐道",
+      "origin_type": "国产",
       "model": "乐道L60（2026款）",
       "model_slug": "l60-2026",
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2026-06-11",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l60/g1.6/soo/highlights/highlights-carousel-02-desktop.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 6,
       "option_count": 8,
@@ -23,6 +30,22 @@
       "price_max_rmb": 251800,
       "best_zero_to_100_s": 4.6,
       "max_cltc_ev_km": 740,
+      "ground_clearance_mm": 175,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/onvo/l60-2026.json",
       "source_urls": [
         "https://configuration.onvo.cn/index?model_code=L60&scene=office"
@@ -31,14 +54,19 @@
     {
       "brand": "onvo",
       "brand_name": "乐道",
+      "origin_type": "国产",
       "model": "乐道L80（2026款）",
       "model_slug": "l80-2026",
       "sub_brand": null,
       "category": "中大型5座纯电SUV",
       "release_date": "2026-05-15",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l80/highlights/highlights-carousel-01-desktop.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 3,
       "option_count": 7,
@@ -46,6 +74,22 @@
       "price_max_rmb": 279800,
       "best_zero_to_100_s": 4.5,
       "max_cltc_ev_km": 615,
+      "ground_clearance_mm": 260,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/onvo/l80-2026.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/8591.html"
@@ -54,14 +98,19 @@
     {
       "brand": "onvo",
       "brand_name": "乐道",
+      "origin_type": "国产",
       "model": "乐道L90（2026款）",
       "model_slug": "l90-2026",
       "sub_brand": null,
       "category": "大型6/7座纯电SUV",
       "release_date": "2026-04-21",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 5,
       "option_count": 9,
@@ -69,6 +118,22 @@
       "price_max_rmb": 299800,
       "best_zero_to_100_s": 4.7,
       "max_cltc_ev_km": 600,
+      "ground_clearance_mm": 260,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": true,
+      "has_zero_gravity": true,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/onvo/l90-2026.json",
       "source_urls": [
         "https://www.onvo.cn/l90",

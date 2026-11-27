@@ -1,0 +1,144 @@
+{
+  "brand": "gm",
+  "brand_name": "通用新能源",
+  "model": "别克至境L7",
+  "model_slug": "buick-electra-l7",
+  "origin_type": "合资/外资",
+  "category": "中大型新能源轿车",
+  "release_date": "2026-08-05",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://static.buick.com.cn/assets/ZWxlY3RyYV9sNw/electra_l7/features/SGM-869/kv_m_3.png?image_process=resize,w_768/quality,Q_85",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "纯电版国补预售价16.99万-20.69万",
+    "增程版享1000抵8000+至高1.5万置换补贴"
+  ],
+  "source_urls": [
+    "https://www.buick.com.cn/electra_l7",
+    "https://car.autohome.com.cn/config/series/8100.html"
+  ],
+  "references": [
+    {
+      "title": "至境L7-别克官网",
+      "url": "https://www.buick.com.cn/electra_l7",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "别克至境L7参数配置-汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/8100.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "buick-l7-reev-avenir",
+      "sku_name": "2025款 增程 302 艾维亚版",
+      "price_rmb": 219900,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5032,
+        "width_mm": 1952,
+        "height_mm": 1500,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 252,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 40.2,
+        "cltc_pure_electric_range_km": 302,
+        "fast_charge_time": "3C快充(130kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "预瞄式RTD可变悬架",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "逍遥智行(Momenta R6)"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.25英寸+50英寸AR-HUD",
+        "screens": "15.6英寸(8775P)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "四座加热/通风",
+        "seat_massage": "前排按摩",
+        "zero_gravity_seat": "副驾双120°零重力",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "buick-l7-bev-702",
+      "sku_name": "2026款 纯电 702 奢享智行版",
+      "price_rmb": 194900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5032,
+        "width_mm": 1952,
+        "height_mm": 1500,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 282,
+        "motor_torque_nm": 382,
+        "zero_to_100_s": 5.6
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 80.6,
+        "cltc_pure_electric_range_km": 702,
+        "fast_charge_time": "10分钟补能450km(6C)",
+        "v2l_power_kw": 6.0
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "预瞄式RTD可变悬架",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "逍遥智行(Momenta R6)"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.25英寸+50英寸AR-HUD",
+        "screens": "15.6英寸(8775P)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "四座加热/通风",
+        "seat_massage": "标配",
+        "zero_gravity_seat": "副驾双120°零重力",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

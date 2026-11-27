@@ -1,7 +1,7 @@
 {
   "brand": "xiaomi",
   "brand_name": "小米汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "小米SU7（2026款）",
   "model_slug": "su7-2026",
   "category": "中大型纯电轿跑",
@@ -23,7 +23,7 @@
         "height_mm": 1460,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1980-2205",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 752,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 73.0,
         "cltc_pure_electric_range_km": 720,
         "cltc_combined_range_km": 720,
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,43 +75,60 @@
         "hud": "选装",
         "audio": "14扬声器",
         "fridge": "选装3000元",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（支持前排椅背拓展外接小米平板/iPad）",
+        "power_220v": "无",
+        "instrument_cluster": "7.1英寸全液晶仪表+HUD(选装/高配标配)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "主驾10点式按摩(副驾随零重力选配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "电动调节(入门版手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "科技舒享套装（标准/Pro可选）",
           "price_rmb": 15000,
-          "details": "HUD/电吸门/麂皮顶等"
+          "details": "HUD/电吸门/麂皮顶等",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅",
           "price_rmb": 9000,
-          "details": "副驾零重力"
+          "details": "副驾零重力",
+          "availability": "可选"
         },
         {
           "name": "25扬声器音响（标准/Pro可选）",
           "price_rmb": 6000,
-          "details": "杜比全景声"
+          "details": "杜比全景声",
+          "availability": "可选"
         },
         {
           "name": "车载智能冰箱",
           "price_rmb": 3000,
-          "details": "全系可选"
+          "details": "全系可选",
+          "availability": "全系可选"
         },
         {
           "name": "电动前备厢",
           "price_rmb": 2000,
-          "details": "电动前备厢"
+          "details": "电动前备厢",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂 / 21英寸轮毂（Max）",
           "price_rmb": "6000 / 16000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "碳纤维套件（Max）",
           "price_rmb": 11000,
-          "details": "碳纤维外观件"
+          "details": "碳纤维外观件",
+          "availability": "可选"
         }
       ]
     },
@@ -126,7 +144,7 @@
         "height_mm": 1445,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1980-2205",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -142,7 +160,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 752,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 96.3,
         "cltc_pure_electric_range_km": 902,
         "cltc_combined_range_km": 902,
@@ -150,10 +168,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 21min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -177,43 +196,60 @@
         "hud": "选装",
         "audio": "14扬声器",
         "fridge": "选装3000元",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（支持前排椅背拓展外接小米平板/iPad）",
+        "power_220v": "无",
+        "instrument_cluster": "7.1英寸全液晶仪表+HUD(选装/高配标配)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "主驾10点式按摩(副驾随零重力选配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "电动调节(入门版手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "科技舒享套装（标准/Pro可选）",
           "price_rmb": 15000,
-          "details": "HUD/电吸门/麂皮顶等"
+          "details": "HUD/电吸门/麂皮顶等",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅",
           "price_rmb": 9000,
-          "details": "副驾零重力"
+          "details": "副驾零重力",
+          "availability": "可选"
         },
         {
           "name": "25扬声器音响（标准/Pro可选）",
           "price_rmb": 6000,
-          "details": "杜比全景声"
+          "details": "杜比全景声",
+          "availability": "可选"
         },
         {
           "name": "车载智能冰箱",
           "price_rmb": 3000,
-          "details": "全系可选"
+          "details": "全系可选",
+          "availability": "全系可选"
         },
         {
           "name": "电动前备厢",
           "price_rmb": 2000,
-          "details": "电动前备厢"
+          "details": "电动前备厢",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂 / 21英寸轮毂（Max）",
           "price_rmb": "6000 / 16000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "碳纤维套件（Max）",
           "price_rmb": 11000,
-          "details": "碳纤维外观件"
+          "details": "碳纤维外观件",
+          "availability": "可选"
         }
       ]
     },
@@ -229,7 +265,7 @@
         "height_mm": 1445,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1980-2205",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -245,7 +281,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 897,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池/宁德时代",
         "battery_capacity_kwh": 101.7,
         "cltc_pure_electric_range_km": 835,
         "cltc_combined_range_km": 835,
@@ -253,10 +289,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 12min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -280,46 +317,100 @@
         "hud": "56英寸HUD",
         "audio": "25扬声器+杜比全景声",
         "fridge": "选装3000元",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（支持前排椅背拓展外接小米平板/iPad）",
+        "power_220v": "无",
+        "instrument_cluster": "7.1英寸全液晶仪表+HUD(选装/高配标配)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "主驾10点式按摩(副驾随零重力选配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "电动调节(入门版手动调节)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "科技舒享套装（标准/Pro可选）",
           "price_rmb": 15000,
-          "details": "HUD/电吸门/麂皮顶等"
+          "details": "HUD/电吸门/麂皮顶等",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅",
           "price_rmb": 9000,
-          "details": "副驾零重力"
+          "details": "副驾零重力",
+          "availability": "可选"
         },
         {
           "name": "25扬声器音响（标准/Pro可选）",
           "price_rmb": 6000,
-          "details": "杜比全景声"
+          "details": "杜比全景声",
+          "availability": "可选"
         },
         {
           "name": "车载智能冰箱",
           "price_rmb": 3000,
-          "details": "全系可选"
+          "details": "全系可选",
+          "availability": "全系可选"
         },
         {
           "name": "电动前备厢",
           "price_rmb": 2000,
-          "details": "电动前备厢"
+          "details": "电动前备厢",
+          "availability": "可选"
         },
         {
           "name": "20英寸轮毂 / 21英寸轮毂（Max）",
           "price_rmb": "6000 / 16000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "碳纤维套件（Max）",
           "price_rmb": 11000,
-          "details": "碳纤维外观件"
+          "details": "碳纤维外观件",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/su7_20260319/pc/0-1_1.jpg"
+  "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/su7_20260319/pc/0-1_1.jpg",
+  "promo_highlights": [
+    "2026年11月限时3年0息 / 5年分期3年0息 / 6000元保险补贴三选一",
+    "限时综合购车权益至高6.1万元"
+  ],
+  "miit_filing": {
+    "miit_batch": "第377批",
+    "product_model_code": "BJ7000MBEVR2 / BJ7000MBEVA1",
+    "curb_weight_kg": "1980-2205",
+    "gross_weight_kg": 2655,
+    "approach_departure_deg": null,
+    "battery_supplier": "弗迪电池/宁德时代"
+  },
+  "references": [
+    {
+      "title": "小米汽车 小米SU7（2026款） 官方配置页 (www.xiaomiev.com)",
+      "url": "https://www.xiaomiev.com/car-config",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小米汽车 小米SU7（2026款） 官方配置页 (www.xiaomiev.com)",
+      "url": "https://www.xiaomiev.com/su7",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小米SU7工信部第377批申报参数",
+      "url": "http://auto.cyol.com/gb/articles/2023-12/14/content_6zgmWqh7zy.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

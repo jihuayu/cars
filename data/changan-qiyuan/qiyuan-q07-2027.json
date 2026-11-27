@@ -1,7 +1,7 @@
 {
   "brand": "changan-qiyuan",
   "brand_name": "长安启源",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "长安启源Q07（2027款）",
   "model_slug": "qiyuan-q07-2027",
   "category": "中型插混SUV",
@@ -27,7 +27,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "前驱",
@@ -47,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -74,23 +76,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（前排高配提供12.8英寸副驾娱乐屏）",
+        "power_220v": "高配标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(49英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风",
+        "seat_massage": "前排8点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "专属特别车漆（月华银/星汉紫）",
           "price_rmb": 2000,
-          "details": "含月华银专属特别色（指导选装价2000元，曾限时1000元选装）；2027款新增星汉紫光影渐变外观车漆"
+          "details": "含月华银专属特别色（指导选装价2000元，曾限时1000元选装）；2027款新增星汉紫光影渐变外观车漆",
+          "availability": "可选"
         },
         {
           "name": "泊车辅助包",
           "price_rmb": 2000,
-          "details": "含高阶泊车辅助功能（老款部分版型选装价2000元；2027款天枢领航版已全系标配激光雷达及天枢领航Pro）"
+          "details": "含高阶泊车辅助功能（老款部分版型选装价2000元；2027款天枢领航版已全系标配激光雷达及天枢领航Pro）",
+          "availability": "标配"
         },
         {
           "name": "品质座舱包",
           "price_rmb": null,
-          "details": "含副驾零重力按摩座椅、主驾按摩、后排小桌板、PAD支架接口、二排座椅通风加热、方向盘加热等（2027款入门版以上已标配）"
+          "details": "含副驾零重力按摩座椅、主驾按摩、后排小桌板、PAD支架接口、二排座椅通风加热、方向盘加热等（2027款入门版以上已标配）",
+          "availability": "可选"
         }
       ]
     },
@@ -110,7 +125,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "前驱",
@@ -130,10 +146,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -157,23 +174,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（前排高配提供12.8英寸副驾娱乐屏）",
+        "power_220v": "高配标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(49英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风",
+        "seat_massage": "前排8点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "专属特别车漆（月华银/星汉紫）",
           "price_rmb": 2000,
-          "details": "含月华银专属特别色（指导选装价2000元，曾限时1000元选装）；2027款新增星汉紫光影渐变外观车漆"
+          "details": "含月华银专属特别色（指导选装价2000元，曾限时1000元选装）；2027款新增星汉紫光影渐变外观车漆",
+          "availability": "可选"
         },
         {
           "name": "泊车辅助包",
           "price_rmb": 2000,
-          "details": "含高阶泊车辅助功能（老款部分版型选装价2000元；2027款天枢领航版已全系标配激光雷达及天枢领航Pro）"
+          "details": "含高阶泊车辅助功能（老款部分版型选装价2000元；2027款天枢领航版已全系标配激光雷达及天枢领航Pro）",
+          "availability": "标配"
         },
         {
           "name": "品质座舱包",
           "price_rmb": null,
-          "details": "含副驾零重力按摩座椅、主驾按摩、后排小桌板、PAD支架接口、二排座椅通风加热、方向盘加热等（2027款入门版以上已标配）"
+          "details": "含副驾零重力按摩座椅、主驾按摩、后排小桌板、PAD支架接口、二排座椅通风加热、方向盘加热等（2027款入门版以上已标配）",
+          "availability": "可选"
         }
       ]
     },
@@ -193,7 +223,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "前驱",
@@ -213,10 +244,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -240,23 +272,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（前排高配提供12.8英寸副驾娱乐屏）",
+        "power_220v": "高配标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(49英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风",
+        "seat_massage": "前排8点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "专属特别车漆（月华银/星汉紫）",
           "price_rmb": 2000,
-          "details": "含月华银专属特别色（指导选装价2000元，曾限时1000元选装）；2027款新增星汉紫光影渐变外观车漆"
+          "details": "含月华银专属特别色（指导选装价2000元，曾限时1000元选装）；2027款新增星汉紫光影渐变外观车漆",
+          "availability": "可选"
         },
         {
           "name": "泊车辅助包",
           "price_rmb": 2000,
-          "details": "含高阶泊车辅助功能（老款部分版型选装价2000元；2027款天枢领航版已全系标配激光雷达及天枢领航Pro）"
+          "details": "含高阶泊车辅助功能（老款部分版型选装价2000元；2027款天枢领航版已全系标配激光雷达及天枢领航Pro）",
+          "availability": "标配"
         },
         {
           "name": "品质座舱包",
           "price_rmb": null,
-          "details": "含副驾零重力按摩座椅、主驾按摩、后排小桌板、PAD支架接口、二排座椅通风加热、方向盘加热等（2027款入门版以上已标配）"
+          "details": "含副驾零重力按摩座椅、主驾按摩、后排小桌板、PAD支架接口、二排座椅通风加热、方向盘加热等（2027款入门版以上已标配）",
+          "availability": "可选"
         }
       ]
     },
@@ -276,7 +321,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 185
       },
       "performance": {
         "drive_type": "前驱",
@@ -296,10 +342,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -323,26 +370,61 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（前排高配提供12.8英寸副驾娱乐屏）",
+        "power_220v": "高配标配 220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(49英寸AR-HUD)",
+        "seat_heating_ventilation": "前排及二排加热/通风",
+        "seat_massage": "前排8点按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "专属特别车漆（月华银/星汉紫）",
           "price_rmb": 2000,
-          "details": "含月华银专属特别色（指导选装价2000元，曾限时1000元选装）；2027款新增星汉紫光影渐变外观车漆"
+          "details": "含月华银专属特别色（指导选装价2000元，曾限时1000元选装）；2027款新增星汉紫光影渐变外观车漆",
+          "availability": "可选"
         },
         {
           "name": "泊车辅助包",
           "price_rmb": 2000,
-          "details": "含高阶泊车辅助功能（老款部分版型选装价2000元；2027款天枢领航版已全系标配激光雷达及天枢领航Pro）"
+          "details": "含高阶泊车辅助功能（老款部分版型选装价2000元；2027款天枢领航版已全系标配激光雷达及天枢领航Pro）",
+          "availability": "标配"
         },
         {
           "name": "品质座舱包",
           "price_rmb": null,
-          "details": "含副驾零重力按摩座椅、主驾按摩、后排小桌板、PAD支架接口、二排座椅通风加热、方向盘加热等（2027款入门版以上已标配）"
+          "details": "含副驾零重力按摩座椅、主驾按摩、后排小桌板、PAD支架接口、二排座椅通风加热、方向盘加热等（2027款入门版以上已标配）",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2025/01/02/10/a5f0da3b7336485781fa1dbcf8660a07.jpg!jpg"
+  "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2025/01/02/10/a5f0da3b7336485781fa1dbcf8660a07.jpg!jpg",
+  "promo_highlights": [
+    "2027款天枢领航版限时权益价12.98万-15.98万元（享10000元超级置换补贴）",
+    "全系标配激光雷达与天枢领航Pro、CDC智能魔毯悬架"
+  ],
+  "references": [
+    {
+      "title": "长安启源 长安启源Q07（2027款） 官方配置页 (www.changan.com.cn)",
+      "url": "https://www.changan.com.cn/qiyuan/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "长安启源 长安启源Q07（2027款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7975.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://n.sinaimg.cn/www/transform/300/w660h440/20250225/e188-8ded4ee1faf4dd3ec2c924ed6828c5b1.jpg"
 }

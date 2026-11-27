@@ -1,7 +1,7 @@
 {
   "brand": "hyptec",
   "brand_name": "广汽昊铂",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "昊铂GT（2025/2026款）",
   "model_slug": "hyptec-gt-2026",
   "category": "中大型纯电运动轿跑",
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,28 +75,44 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "电动旋翼门+前排电吸门+电动尾翼套装",
           "price_rmb": null,
-          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益"
+          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费升级权益",
+          "availability": "可选"
         },
         {
           "name": "尾部押尾",
           "price_rmb": 200,
-          "details": "与电动尾翼互斥，官方选装价200元"
+          "details": "与电动尾翼互斥，官方选装价200元",
+          "availability": "可选"
         },
         {
           "name": "豪华尊享套装",
           "price_rmb": 0,
-          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配"
+          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配",
+          "availability": "可选"
         },
         {
           "name": "5G车联网升级",
           "price_rmb": null,
-          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配"
+          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配",
+          "availability": "可选"
         }
       ]
     },
@@ -135,10 +152,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -162,28 +180,44 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "电动旋翼门+前排电吸门+电动尾翼套装",
           "price_rmb": null,
-          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益"
+          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费升级权益",
+          "availability": "可选"
         },
         {
           "name": "尾部押尾",
           "price_rmb": 200,
-          "details": "与电动尾翼互斥，官方选装价200元"
+          "details": "与电动尾翼互斥，官方选装价200元",
+          "availability": "可选"
         },
         {
           "name": "豪华尊享套装",
           "price_rmb": 0,
-          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配"
+          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配",
+          "availability": "可选"
         },
         {
           "name": "5G车联网升级",
           "price_rmb": null,
-          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配"
+          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配",
+          "availability": "可选"
         }
       ]
     },
@@ -223,10 +257,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 22min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -250,28 +285,44 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "电动旋翼门+前排电吸门+电动尾翼套装",
           "price_rmb": null,
-          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益"
+          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费升级权益",
+          "availability": "可选"
         },
         {
           "name": "尾部押尾",
           "price_rmb": 200,
-          "details": "与电动尾翼互斥，官方选装价200元"
+          "details": "与电动尾翼互斥，官方选装价200元",
+          "availability": "可选"
         },
         {
           "name": "豪华尊享套装",
           "price_rmb": 0,
-          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配"
+          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配",
+          "availability": "可选"
         },
         {
           "name": "5G车联网升级",
           "price_rmb": null,
-          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配"
+          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配",
+          "availability": "可选"
         }
       ]
     },
@@ -311,10 +362,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 22min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -338,31 +390,69 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "电动旋翼门+前排电吸门+电动尾翼套装",
           "price_rmb": null,
-          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益"
+          "details": "汽车之家配置表标注为选装包（暂无公开单价），部分版本曾提供限时免费升级权益",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费升级权益",
+          "availability": "可选"
         },
         {
           "name": "尾部押尾",
           "price_rmb": 200,
-          "details": "与电动尾翼互斥，官方选装价200元"
+          "details": "与电动尾翼互斥，官方选装价200元",
+          "availability": "可选"
         },
         {
           "name": "豪华尊享套装",
           "price_rmb": 0,
-          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配"
+          "details": "含Nappa真皮座椅、前排10点SPA级按摩、后排座椅加热，配置表标注免费选配",
+          "availability": "可选"
         },
         {
           "name": "5G车联网升级",
           "price_rmb": null,
-          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配"
+          "details": "2026款710攀登版标配5G，部分2025款改款Max版标注为选配",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M01/ED/F9/400x400_1_q40_c40_autohomecar__ChxpVWqeP-OAfEplAD3wkXkvyZU044.jpg"
+  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M01/ED/F9/400x400_1_q40_c40_autohomecar__ChxpVWqeP-OAfEplAD3wkXkvyZU044.jpg",
+  "promo_highlights": [
+    "置换5000元补贴或终身免费充电（2000kWh/年）二选一",
+    "首任车主终身免费保养及三电终身质保、免费赠家用充电桩"
+  ],
+  "references": [
+    {
+      "title": "广汽昊铂 昊铂GT（2025/2026款） 官方配置页 (www.hyptec.com)",
+      "url": "https://www.hyptec.com/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "广汽昊铂 昊铂GT（2025/2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7084.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img2.autoimg.cn/svcovers/g31/M08/54/CC/ChxoHWYwULSAAQkxAAE_dQP-ois256.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "hima",
   "brand_name": "鸿蒙智行",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "sub_brand": "问界 AITO",
   "model": "问界新M8（2027款）",
   "model_slug": "aito-m8-2027",
@@ -24,7 +24,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -48,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -75,98 +76,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -182,7 +211,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -206,10 +235,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -233,98 +263,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -340,7 +398,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -364,10 +422,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -391,98 +450,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -498,7 +585,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -522,10 +609,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -549,98 +637,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -656,7 +772,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -680,10 +796,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -707,98 +824,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -814,7 +959,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -838,10 +983,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -865,98 +1011,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -972,7 +1146,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -996,10 +1170,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -1023,98 +1198,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -1130,7 +1333,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -1154,10 +1357,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -1181,98 +1385,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -1288,7 +1520,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -1312,10 +1544,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -1339,98 +1572,126 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -1446,7 +1707,7 @@
         "height_mm": 1795,
         "wheelbase_mm": 3105,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2820",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -1470,10 +1731,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V超快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -1497,101 +1759,167 @@
         "hud": "AR-HUD",
         "audio": "HUAWEI SOUND",
         "fridge": "超制冷压缩机冰箱（-18℃至50℃）",
-        "seat_features": "Ultra六座标配三把零重力座椅"
+        "seat_features": "Ultra六座标配三把零重力座椅",
+        "rear_screen": "高配Ultra标配/Max选装 21英寸4K护眼柔光吸顶屏",
+        "power_220v": "高配标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风，三排加热",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "专属车色（瑞红等4色）",
           "price_rmb": 8000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "电动踏板",
           "price_rmb": 8000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅 / 主驾零重力座椅",
           "price_rmb": "8000 / 10000",
-          "details": "零重力座椅选装"
+          "details": "零重力座椅选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸后排柔光娱乐屏",
           "price_rmb": 10000,
-          "details": "后排吸顶屏"
+          "details": "后排吸顶屏",
+          "availability": "可选"
         },
         {
           "name": "智慧电动门",
           "price_rmb": 15000,
-          "details": "电动开合车门"
+          "details": "电动开合车门",
+          "availability": "可选"
         },
         {
           "name": "后轮转向",
           "price_rmb": 20000,
-          "details": "主动后轮转向"
+          "details": "主动后轮转向",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（前265/45 R21、后285/45 R21）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "21英寸黑曜运动轮毂套装（21英寸黑曜运动轮毂+红色卡钳+黑曜套件）",
           "price_rmb": 12000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "整体主动转向系统（±8°后轮转向）",
           "price_rmb": 20000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "自动开合车门（含全车电吸门）",
           "price_rmb": 15000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "百万像素智慧投影大灯",
           "price_rmb": 15000,
-          "details": "纯电Ultra等可选，增程Ultra标配"
+          "details": "纯电Ultra等可选，增程Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸4K后排娱乐屏",
           "price_rmb": 10000,
-          "details": "Max/Max+可选，Ultra标配"
+          "details": "Max/Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "主驾驶零重力座椅",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "副驾驶零重力座椅",
           "price_rmb": 8000,
-          "details": "Max+可选，Ultra标配"
+          "details": "Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "75.4度大电池包（增程四驱Max+/Ultra，WLTC综合续航1255km）",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "120度大电池包（纯电Max+，CLTC纯电续航763-830km）",
           "price_rmb": 20000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://aito.auto/dam/content/dam/aito/cn/homepage/main/img/261123/m8-new-pc.jpg"
+  "image_url": "https://aito.auto/dam/content/dam/aito/cn/homepage/main/img/261123/m8-new-pc.jpg",
+  "promo_highlights": [
+    "2027款首销权益至高价值3.5万元（截至2027年1月3日）",
+    "含至高1.5万元通用选配金+1万元后轮转向限时优惠+免费升级1万元主驾零重力座椅",
+    "鸿蒙智行老车主增换购再减免2万元"
+  ],
+  "miit_filing": {
+    "miit_batch": "第409批",
+    "product_model_code": null,
+    "curb_weight_kg": "2745-2820",
+    "gross_weight_kg": 3270,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "鸿蒙智行 问界新M8（2027款） 官方配置页 (aito.auto)",
+      "url": "https://aito.auto/model/m8/configuration/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "鸿蒙智行 问界新M8（2027款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/8003.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第409批：问界新M8申报信息",
+      "url": "https://auto.ifeng.com/c/8wlGlqLjonF",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img1.mydrivers.com/img/20250327/26bac11987e24efa984fc5879f55ef23.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "firefly",
   "brand_name": "萤火虫",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "firefly 萤火虫（2026款）",
   "model_slug": "firefly-2026",
   "category": "小型高端纯电两厢车",
@@ -22,7 +22,7 @@
         "height_mm": 1557,
         "wheelbase_mm": 2615,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1492,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +38,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达",
         "battery_capacity_kwh": 42.1,
         "cltc_pure_electric_range_km": 420,
         "cltc_combined_range_km": 420,
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 29min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.86,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -73,33 +74,50 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "6英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热，高配前排通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（42kWh电池包）",
           "price_rmb": "399元/月",
-          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "60kWh长续航电池包升级",
           "price_rmb": 17000,
-          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km",
+          "availability": "可选"
         },
         {
           "name": "g-force引力操控套装",
           "price_rmb": 3999,
-          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）",
+          "promo_price_rmb": 2999,
+          "promo_note": "限时优惠价2,999元",
+          "availability": "可选"
         },
         {
           "name": "美拉德车漆配色",
           "price_rmb": 2000,
-          "details": "2026款新增美拉德专属外观车漆选装"
+          "details": "2026款新增美拉德专属外观车漆选装",
+          "availability": "可选"
         }
       ]
     },
@@ -115,7 +133,7 @@
         "height_mm": 1557,
         "wheelbase_mm": 2615,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1492,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -131,7 +149,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达",
         "battery_capacity_kwh": 42.1,
         "cltc_pure_electric_range_km": 420,
         "cltc_combined_range_km": 420,
@@ -139,10 +157,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 29min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.86,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -166,33 +185,50 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "6英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热，高配前排通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（42kWh电池包）",
           "price_rmb": "399元/月",
-          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "60kWh长续航电池包升级",
           "price_rmb": 17000,
-          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km",
+          "availability": "可选"
         },
         {
           "name": "g-force引力操控套装",
           "price_rmb": 3999,
-          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）",
+          "promo_price_rmb": 2999,
+          "promo_note": "限时优惠价2,999元",
+          "availability": "可选"
         },
         {
           "name": "美拉德车漆配色",
           "price_rmb": 2000,
-          "details": "2026款新增美拉德专属外观车漆选装"
+          "details": "2026款新增美拉德专属外观车漆选装",
+          "availability": "可选"
         }
       ]
     },
@@ -208,7 +244,7 @@
         "height_mm": 1557,
         "wheelbase_mm": 2615,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1492,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -224,7 +260,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达",
         "battery_capacity_kwh": 42.1,
         "cltc_pure_electric_range_km": 420,
         "cltc_combined_range_km": 420,
@@ -232,10 +268,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 29min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.86,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -259,33 +296,50 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "6英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热，高配前排通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（42kWh电池包）",
           "price_rmb": "399元/月",
-          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "60kWh长续航电池包升级",
           "price_rmb": 17000,
-          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km",
+          "availability": "可选"
         },
         {
           "name": "g-force引力操控套装",
           "price_rmb": 3999,
-          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）",
+          "promo_price_rmb": 2999,
+          "promo_note": "限时优惠价2,999元",
+          "availability": "可选"
         },
         {
           "name": "美拉德车漆配色",
           "price_rmb": 2000,
-          "details": "2026款新增美拉德专属外观车漆选装"
+          "details": "2026款新增美拉德专属外观车漆选装",
+          "availability": "可选"
         }
       ]
     },
@@ -301,7 +355,7 @@
         "height_mm": 1557,
         "wheelbase_mm": 2615,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1492,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -317,7 +371,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达",
         "battery_capacity_kwh": 60.0,
         "cltc_pure_electric_range_km": 560,
         "cltc_combined_range_km": 560,
@@ -325,10 +379,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 33min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.86,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -352,33 +407,50 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "6英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热，高配前排通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（42kWh电池包）",
           "price_rmb": "399元/月",
-          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "60kWh长续航电池包升级",
           "price_rmb": 17000,
-          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km",
+          "availability": "可选"
         },
         {
           "name": "g-force引力操控套装",
           "price_rmb": 3999,
-          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）",
+          "promo_price_rmb": 2999,
+          "promo_note": "限时优惠价2,999元",
+          "availability": "可选"
         },
         {
           "name": "美拉德车漆配色",
           "price_rmb": 2000,
-          "details": "2026款新增美拉德专属外观车漆选装"
+          "details": "2026款新增美拉德专属外观车漆选装",
+          "availability": "可选"
         }
       ]
     },
@@ -394,7 +466,7 @@
         "height_mm": 1557,
         "wheelbase_mm": 2615,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1492,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -410,7 +482,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达",
         "battery_capacity_kwh": 60.0,
         "cltc_pure_electric_range_km": 560,
         "cltc_combined_range_km": 560,
@@ -418,10 +490,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 33min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.86,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -445,33 +518,50 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "6英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热，高配前排通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（42kWh电池包）",
           "price_rmb": "399元/月",
-          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "60kWh长续航电池包升级",
           "price_rmb": 17000,
-          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km",
+          "availability": "可选"
         },
         {
           "name": "g-force引力操控套装",
           "price_rmb": 3999,
-          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）",
+          "promo_price_rmb": 2999,
+          "promo_note": "限时优惠价2,999元",
+          "availability": "可选"
         },
         {
           "name": "美拉德车漆配色",
           "price_rmb": 2000,
-          "details": "2026款新增美拉德专属外观车漆选装"
+          "details": "2026款新增美拉德专属外观车漆选装",
+          "availability": "可选"
         }
       ]
     },
@@ -487,7 +577,7 @@
         "height_mm": 1557,
         "wheelbase_mm": 2615,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1492,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -503,7 +593,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达",
         "battery_capacity_kwh": 60.0,
         "cltc_pure_electric_range_km": 560,
         "cltc_combined_range_km": 560,
@@ -511,10 +601,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 33min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.86,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -538,36 +629,84 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "6英寸全液晶仪表",
+        "seat_heating_ventilation": "前排标配加热，高配前排通风，二排无",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（42kWh电池包）",
           "price_rmb": "399元/月",
-          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月"
+          "details": "42kWh标准续航版（CLTC 420km）BaaS购车立减40,000元（7.98万元起），电池月租金399元/月",
+          "availability": "可选"
         },
         {
           "name": "BaaS电池租用服务（60kWh电池包）",
           "price_rmb": "599元/月",
-          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月"
+          "details": "60kWh长续航版（CLTC 560km）BaaS购车立减57,000元（7.98万元起），电池月租金599元/月",
+          "availability": "可选"
         },
         {
           "name": "60kWh长续航电池包升级",
           "price_rmb": 17000,
-          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km"
+          "details": "相较42kWh版（11.98万元起）整车买断加价17,000元（13.68万元起），CLTC续航由420km提升至560km",
+          "availability": "可选"
         },
         {
           "name": "g-force引力操控套装",
           "price_rmb": 3999,
-          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）"
+          "details": "包含g-force引力操控套装及g-force g值氛围环（限时优惠价2,999元）",
+          "promo_price_rmb": 2999,
+          "promo_note": "限时优惠价2,999元",
+          "availability": "可选"
         },
         {
           "name": "美拉德车漆配色",
           "price_rmb": 2000,
-          "details": "2026款新增美拉德专属外观车漆选装"
+          "details": "2026款新增美拉德专属外观车漆选装",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://cdn-up-public.firefly.world/www-firefly/admin-file-upload/1/2026-11-18/4a1544/0-hero-top-desktop_new.jpg"
+  "image_url": "https://cdn-up-public.firefly.world/www-firefly/admin-file-upload/1/2026-11-18/4a1544/0-hero-top-desktop_new.jpg",
+  "promo_highlights": [
+    "BaaS电池租用方案购车价7.98万元起（月租399元起）",
+    "首任车主享价值15000元10年NOP智能领航辅助免费使用权",
+    "2000元购置税补贴或7kW家充桩二选一"
+  ],
+  "miit_filing": {
+    "miit_batch": "第391批",
+    "product_model_code": null,
+    "curb_weight_kg": 1492,
+    "gross_weight_kg": 1875,
+    "approach_departure_deg": "21/26",
+    "battery_supplier": "欣旺达"
+  },
+  "references": [
+    {
+      "title": "萤火虫 firefly 萤火虫（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7990.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第391批：firefly萤火虫申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/18778136",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2024/12/24/ac107202412241231492156.jpg"
 }

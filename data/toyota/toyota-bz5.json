@@ -1,0 +1,135 @@
+{
+  "brand": "toyota",
+  "brand_name": "丰田新能源",
+  "model": "一汽丰田bZ5",
+  "model_slug": "toyota-bz5",
+  "origin_type": "合资/外资",
+  "category": "中型纯电SUV",
+  "release_date": "2025-06-10",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://i2.dd-img.com/content/editor/68484f077bf81.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "至高3.8万元8重礼遇，终端参考价11.38万起"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7713.html"
+  ],
+  "references": [
+    {
+      "title": "丰田bZ5参数配置-汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7713.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "bz5-550-pro-smart",
+      "sku_name": "2025款 550 PRO智行版",
+      "price_rmb": 159800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1866,
+        "height_mm": 1510,
+        "wheelbase_mm": 2880,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1950
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 65.28,
+        "cltc_pure_electric_range_km": 550,
+        "fast_charge_time": "27分钟(30-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "Momenta 5.0+TSS"
+      },
+      "cockpit": {
+        "instrument_cluster": "液晶仪表",
+        "screens": "15.6英寸中控屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "bz5-630-max-smart",
+      "sku_name": "2025款 630 MAX智行版",
+      "price_rmb": 179800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1866,
+        "height_mm": 1510,
+        "wheelbase_mm": 2880,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 73.98,
+        "cltc_pure_electric_range_km": 630,
+        "fast_charge_time": "29分钟(30-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "Momenta 5.0+TSS"
+      },
+      "cockpit": {
+        "instrument_cluster": "液晶仪表",
+        "screens": "15.6英寸中控屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

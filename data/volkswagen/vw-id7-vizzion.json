@@ -1,0 +1,133 @@
+{
+  "brand": "volkswagen",
+  "brand_name": "大众新能源",
+  "model": "大众ID.7 VIZZION",
+  "model_slug": "vw-id7-vizzion",
+  "origin_type": "合资/外资",
+  "category": "中型纯电掀背轿车",
+  "release_date": "2023-12-15",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://n.sinaimg.cn/auto/0/w2048h1152/20231215/384c-f581e89843999af73918ca4d24f58638.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7208.html"
+  ],
+  "references": [
+    {
+      "title": "大众ID.7 VIZZION参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7208.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "vw-id7-vizzion-pro",
+      "sku_name": "2024款 PRO",
+      "price_rmb": 237777,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4956,
+        "width_mm": 1862,
+        "height_mm": 1537,
+        "wheelbase_mm": 2965,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2122
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 84.8,
+        "cltc_pure_electric_range_km": 642,
+        "fast_charge_time": "最高100kW快充",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Travel Assist 3.0(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "嵌入式小屏仪表+AR-HUD",
+        "screens": "15英寸悬浮中控屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "vw-id7-vizzion-prime",
+      "sku_name": "2024款 PRIME",
+      "price_rmb": 262777,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4956,
+        "width_mm": 1862,
+        "height_mm": 1537,
+        "wheelbase_mm": 2965,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2232
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 230,
+        "motor_torque_nm": 472,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 84.8,
+        "cltc_pure_electric_range_km": 570,
+        "fast_charge_time": "最高100kW快充",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Travel Assist 3.0(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "嵌入式小屏仪表+AR-HUD",
+        "screens": "15英寸悬浮中控屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

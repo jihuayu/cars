@@ -1,7 +1,7 @@
 {
   "brand": "lixiang",
   "brand_name": "理想汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "全新理想i9",
   "model_slug": "i9-2026",
   "category": "全尺寸6座纯电旗舰SUV",
@@ -23,7 +23,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2745-2780",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "三元锂5C超充电池",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达/宁德时代(江苏时代)/理想自有电池企业",
         "battery_capacity_kwh": 101.0,
         "cltc_pure_electric_range_km": 705,
         "cltc_combined_range_km": 705,
@@ -47,10 +47,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": null,
         "fast_charge_time": "10分钟补能500km",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -74,31 +75,81 @@
         "hud": null,
         "audio": "23扬声器Home音乐厅音响",
         "fridge": "标配冷暖冰箱",
-        "seat_features": "标配四把全尺寸零重力座椅与二排旋转座椅"
+        "seat_features": "标配四把全尺寸零重力座椅与二排旋转座椅",
+        "rear_screen": "标配 21.4英寸4K滑移娱乐屏",
+        "instrument_cluster": "HUD无传统仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排18点热石揉捏按摩(背部12点+座垫6点，明确含座垫/臀部)",
+        "zero_gravity_seat": "标配(前排+二排)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双马赫M100具身智能套装",
           "price_rmb": 30000,
-          "details": "首销20000元：增配1颗M100+3颗补盲激光雷达+三色星环大灯"
+          "details": "首销20000元：增配1颗M100+3颗补盲激光雷达+三色星环大灯",
+          "availability": "可选"
         },
         {
           "name": "理想Home剧院音响",
           "price_rmb": 20000,
-          "details": "首销10000元：9.3.6布局/29扬声器/4960W"
+          "details": "首销10000元：9.3.6布局/29扬声器/4960W",
+          "availability": "可选"
         },
         {
           "name": "电动调光玻璃",
           "price_rmb": 10000,
-          "details": "电动调光玻璃"
+          "details": "电动调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "悬浮组合桌板",
           "price_rmb": 3500,
-          "details": "二排悬浮组合桌板"
+          "details": "二排悬浮组合桌板",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Li_Auto_i9_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Li_Auto_i9_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "截至2026年11月30日限时免费赠送价值10,000元限定车漆",
+    "理想Home剧院音响限时优惠（价值10,000元）、老车主复购赠音响+30,000积分"
+  ],
+  "miit_filing": {
+    "miit_batch": "第409批",
+    "product_model_code": null,
+    "curb_weight_kg": "2745-2780",
+    "gross_weight_kg": 3300,
+    "approach_departure_deg": null,
+    "battery_supplier": "欣旺达/宁德时代(江苏时代)/理想自有电池企业"
+  },
+  "references": [
+    {
+      "title": "理想汽车 全新理想i9 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/news/188.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想汽车 全新理想i9 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想i9纯电六座SUV工信部第409批申报",
+      "url": "https://auto.ifeng.com/c/8ueQFcdLanW",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.ifanr.com/wp-content/uploads/2026/09/Lii9-3.jpg"
 }

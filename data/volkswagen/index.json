@@ -1,0 +1,231 @@
+{
+  "brand": "volkswagen",
+  "brand_name": "大众新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 5,
+  "sku_count": 10,
+  "models": [
+    {
+      "brand": "volkswagen",
+      "brand_name": "大众新能源",
+      "origin_type": "合资/外资",
+      "model": "大众ID. UNYX 与众 (与众06)",
+      "model_slug": "vw-id-unyx",
+      "sub_brand": null,
+      "category": "紧凑型纯电轿跑SUV",
+      "release_date": "2026-10-17",
+      "image_url": "https://car2.autoimg.cn/cardfs/product/g34/M02/96/FD/400x400_0_f42_autohomecar__ChtpWGoJ1KeAc2SDAGdH3zoSVso490.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 129900,
+      "price_max_rmb": 149900,
+      "best_zero_to_100_s": 7.5,
+      "max_cltc_ev_km": 630,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/volkswagen/vw-id-unyx.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7628.html"
+      ]
+    },
+    {
+      "brand": "volkswagen",
+      "brand_name": "大众新能源",
+      "origin_type": "合资/外资",
+      "model": "大众ID.3",
+      "model_slug": "vw-id3",
+      "sub_brand": null,
+      "category": "紧凑型纯电两厢车",
+      "release_date": "2025-09-22",
+      "image_url": "https://k.sinaimg.cn/n/default/f8781c75/20260807/qiche_010.jpeg/w700d1q75cms.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 129888,
+      "price_max_rmb": 138388,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 451,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/volkswagen/vw-id3.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6265.html"
+      ]
+    },
+    {
+      "brand": "volkswagen",
+      "brand_name": "大众新能源",
+      "origin_type": "合资/外资",
+      "model": "大众ID.4 CROZZ",
+      "model_slug": "vw-id4-crozz",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2025-08-26",
+      "image_url": "https://global-img.bitauto.com/usercenter/yhzx/20260623/498/218269949826426./w1260_m0_q100_yichecar_11af07d7d33ff2ebfc92fdb04755e32c.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 149900,
+      "price_max_rmb": 207600,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 601,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/volkswagen/vw-id4-crozz.json",
+      "source_urls": [
+        "https://www.bitauto.my/zh/wiki/%E5%A4%A7%E4%BC%97ID.4%20CROZZ/"
+      ]
+    },
+    {
+      "brand": "volkswagen",
+      "brand_name": "大众新能源",
+      "origin_type": "合资/外资",
+      "model": "大众ID.4 X",
+      "model_slug": "vw-id4-x",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2025-05-16",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 159888,
+      "price_max_rmb": 211888,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 601,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/volkswagen/vw-id4-x.json",
+      "source_urls": [
+        "https://m.svw-volkswagen.com/id4x",
+        "https://car.autohome.com.cn/config/series/5511.html"
+      ]
+    },
+    {
+      "brand": "volkswagen",
+      "brand_name": "大众新能源",
+      "origin_type": "合资/外资",
+      "model": "大众ID.7 VIZZION",
+      "model_slug": "vw-id7-vizzion",
+      "sub_brand": null,
+      "category": "中型纯电掀背轿车",
+      "release_date": "2023-12-15",
+      "image_url": "https://n.sinaimg.cn/auto/0/w2048h1152/20231215/384c-f581e89843999af73918ca4d24f58638.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 237777,
+      "price_max_rmb": 262777,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 642,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": false,
+      "has_miit": false,
+      "file": "data/volkswagen/vw-id7-vizzion.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7208.html"
+      ]
+    }
+  ]
+}

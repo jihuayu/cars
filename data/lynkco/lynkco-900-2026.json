@@ -1,7 +1,7 @@
 {
   "brand": "lynkco",
   "brand_name": "领克新能源",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "领克900（2025/2026款）",
   "model_slug": "lynkco-900-2026",
   "category": "全尺寸旗舰插混SUV（5/6座）",
@@ -22,11 +22,12 @@
         "height_mm": 1810,
         "wheelbase_mm": 3160,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2810,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 194
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -38,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源",
         "battery_capacity_kwh": 44.85,
         "cltc_pure_electric_range_km": 220,
         "cltc_combined_range_km": 1355,
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 26min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,13 +75,24 @@
         "hud": "95英寸AR-HUD",
         "audio": "哈曼卡顿23扬（可选31扬）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 30英寸6K后排悬浮娱乐屏+6英寸后排智控中心",
+        "power_220v": "标配 2个220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表+95英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(6座高配二排右侧，5座版无)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
           "price_rmb": "10000 / 10000 / 7000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         }
       ]
     },
@@ -95,11 +108,12 @@
         "height_mm": 1810,
         "wheelbase_mm": 3160,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2810,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 194
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -111,7 +125,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源",
         "battery_capacity_kwh": 44.85,
         "cltc_pure_electric_range_km": 220,
         "cltc_combined_range_km": 1355,
@@ -119,10 +133,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 26min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -146,13 +161,24 @@
         "hud": "95英寸AR-HUD",
         "audio": "哈曼卡顿23扬（可选31扬）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 30英寸6K后排悬浮娱乐屏+6英寸后排智控中心",
+        "power_220v": "标配 2个220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表+95英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(6座高配二排右侧，5座版无)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
           "price_rmb": "10000 / 10000 / 7000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         }
       ]
     },
@@ -168,11 +194,12 @@
         "height_mm": 1810,
         "wheelbase_mm": 3160,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2810,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 194
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -184,7 +211,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源",
         "battery_capacity_kwh": 52.38,
         "cltc_pure_electric_range_km": 280,
         "cltc_combined_range_km": 1350,
@@ -192,10 +219,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -219,13 +247,24 @@
         "hud": "95英寸AR-HUD",
         "audio": "哈曼卡顿23扬（可选31扬）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 30英寸6K后排悬浮娱乐屏+6英寸后排智控中心",
+        "power_220v": "标配 2个220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表+95英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(6座高配二排右侧，5座版无)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
           "price_rmb": "10000 / 10000 / 7000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         }
       ]
     },
@@ -241,11 +280,12 @@
         "height_mm": 1810,
         "wheelbase_mm": 3160,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2810,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 194
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -257,7 +297,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源",
         "battery_capacity_kwh": 44.85,
         "cltc_pure_electric_range_km": 220,
         "cltc_combined_range_km": 1355,
@@ -265,10 +305,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 26min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -292,13 +333,24 @@
         "hud": "95英寸AR-HUD",
         "audio": "哈曼卡顿23扬（可选31扬）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 30英寸6K后排悬浮娱乐屏+6英寸后排智控中心",
+        "power_220v": "标配 2个220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表+95英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(6座高配二排右侧，5座版无)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
           "price_rmb": "10000 / 10000 / 7000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         }
       ]
     },
@@ -314,11 +366,12 @@
         "height_mm": 1810,
         "wheelbase_mm": 3160,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2810,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 194
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -330,7 +383,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源",
         "battery_capacity_kwh": 44.85,
         "cltc_pure_electric_range_km": 220,
         "cltc_combined_range_km": 1355,
@@ -338,10 +391,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 26min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -365,13 +419,24 @@
         "hud": "95英寸AR-HUD",
         "audio": "哈曼卡顿23扬（可选31扬）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 30英寸6K后排悬浮娱乐屏+6英寸后排智控中心",
+        "power_220v": "标配 2个220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表+95英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(6座高配二排右侧，5座版无)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
           "price_rmb": "10000 / 10000 / 7000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         }
       ]
     },
@@ -387,11 +452,12 @@
         "height_mm": 1810,
         "wheelbase_mm": 3160,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2810,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 194
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -403,7 +469,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源",
         "battery_capacity_kwh": 52.38,
         "cltc_pure_electric_range_km": 280,
         "cltc_combined_range_km": 1350,
@@ -411,10 +477,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -438,13 +505,24 @@
         "hud": "95英寸AR-HUD",
         "audio": "哈曼卡顿23扬（可选31扬）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 30英寸6K后排悬浮娱乐屏+6英寸后排智控中心",
+        "power_220v": "标配 2个220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表+95英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(6座高配二排右侧，5座版无)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
           "price_rmb": "10000 / 10000 / 7000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         }
       ]
     },
@@ -460,11 +538,12 @@
         "height_mm": 1810,
         "wheelbase_mm": 3160,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2810,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 194
       },
       "performance": {
         "drive_type": "三电机四驱",
@@ -476,7 +555,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源",
         "battery_capacity_kwh": 52.38,
         "cltc_pure_electric_range_km": 268,
         "cltc_combined_range_km": 1443,
@@ -484,10 +563,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -511,16 +591,57 @@
         "hud": "95英寸AR-HUD",
         "audio": "哈曼卡顿23扬（可选31扬）",
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 30英寸6K后排悬浮娱乐屏+6英寸后排智控中心",
+        "power_220v": "标配 2个220V电源接口",
+        "instrument_cluster": "12.66英寸全液晶仪表+95英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(6座高配二排右侧，5座版无)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "31扬哈曼卡顿 / 电动踏板 / 拖车钩",
           "price_rmb": "10000 / 10000 / 7000",
-          "details": "官方选装"
+          "details": "官方选装",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Lynk_%26_Co_900_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Lynk_%26_Co_900_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "2026年11月终端参考优惠约30,000元",
+    "大五座版上市期曾推最高4.5万元现金权益及限时置换价25.48万元起"
+  ],
+  "miit_filing": {
+    "miit_batch": "第391批",
+    "product_model_code": "MR6521DPHEV100",
+    "curb_weight_kg": 2810,
+    "gross_weight_kg": 3345,
+    "approach_departure_deg": null,
+    "battery_supplier": "江苏时代新能源"
+  },
+  "references": [
+    {
+      "title": "领克新能源 领克900（2025/2026款） 官方配置页 (www.lynkco.com.cn)",
+      "url": "https://www.lynkco.com.cn/cars/900/900-configurator",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第391批：领克900 EM-P申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/18817085",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/01/900.jpg"
 }

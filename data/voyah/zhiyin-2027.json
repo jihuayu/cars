@@ -1,7 +1,7 @@
 {
   "brand": "voyah",
   "brand_name": "岚图",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "岚图知音（2027款 896线乾崑版）",
   "model_slug": "zhiyin-2027",
   "category": "中型纯电SUV",
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 10min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -73,38 +74,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双电机四驱 / 米其林静音胎 / 智慧灯幕",
           "price_rmb": "20000 / 10000 / 10000",
-          "details": "2027款官方选装"
+          "details": "2027款官方选装",
+          "availability": "可选"
         },
         {
           "name": "双电机四驱系统",
           "price_rmb": 20000,
-          "details": "2027款后驱896线乾崑版（21.29万元）升级至四驱896线乾崑版（23.29万元）差价20,000元"
+          "details": "2027款后驱896线乾崑版（21.29万元）升级至四驱896线乾崑版（23.29万元）差价20,000元",
+          "availability": "可选"
         },
         {
           "name": "闪动星河智慧灯幕",
           "price_rmb": null,
-          "details": "前脸46.75英寸、264颗LED灯珠“闪动星河智慧灯幕”支持选装，未公开官方单价"
+          "details": "前脸46.75英寸、264颗LED灯珠“闪动星河智慧灯幕”支持选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "米其林静音轮胎",
           "price_rmb": null,
-          "details": "2027款官方支持选装米其林静音胎，未公开官方单价"
+          "details": "2027款官方支持选装米其林静音胎，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 5高阶功能包（城区NCA/记忆泊车/远程召唤）",
           "price_rmb": null,
-          "details": "全系标配华为896线激光雷达硬件，城市路段领航、记忆泊车及远程召唤为选配开通项，未公开官方单价"
+          "details": "全系标配华为896线激光雷达硬件，城市路段领航、记忆泊车及远程召唤为选配开通项，未公开官方单价",
+          "availability": "标配"
         },
         {
           "name": "百万舒享包（2025款参考选装）",
           "price_rmb": 8000,
-          "details": "含二排座椅按摩、副驾后背小桌板、主驾后背拓展坞、后备厢一键放倒与12V/220V电源、OMS摄像头（2027款已将小桌板、电动放倒及220V电源纳入标配）"
+          "details": "含二排座椅按摩、副驾后背小桌板、主驾后背拓展坞、后备厢一键放倒与12V/220V电源、OMS摄像头（2027款已将小桌板、电动放倒及220V电源纳入标配）",
+          "availability": "可选"
         }
       ]
     },
@@ -144,10 +161,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 10min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -171,38 +189,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双电机四驱 / 米其林静音胎 / 智慧灯幕",
           "price_rmb": "20000 / 10000 / 10000",
-          "details": "2027款官方选装"
+          "details": "2027款官方选装",
+          "availability": "可选"
         },
         {
           "name": "双电机四驱系统",
           "price_rmb": 20000,
-          "details": "2027款后驱896线乾崑版（21.29万元）升级至四驱896线乾崑版（23.29万元）差价20,000元"
+          "details": "2027款后驱896线乾崑版（21.29万元）升级至四驱896线乾崑版（23.29万元）差价20,000元",
+          "availability": "可选"
         },
         {
           "name": "闪动星河智慧灯幕",
           "price_rmb": null,
-          "details": "前脸46.75英寸、264颗LED灯珠“闪动星河智慧灯幕”支持选装，未公开官方单价"
+          "details": "前脸46.75英寸、264颗LED灯珠“闪动星河智慧灯幕”支持选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "米其林静音轮胎",
           "price_rmb": null,
-          "details": "2027款官方支持选装米其林静音胎，未公开官方单价"
+          "details": "2027款官方支持选装米其林静音胎，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 5高阶功能包（城区NCA/记忆泊车/远程召唤）",
           "price_rmb": null,
-          "details": "全系标配华为896线激光雷达硬件，城市路段领航、记忆泊车及远程召唤为选配开通项，未公开官方单价"
+          "details": "全系标配华为896线激光雷达硬件，城市路段领航、记忆泊车及远程召唤为选配开通项，未公开官方单价",
+          "availability": "标配"
         },
         {
           "name": "百万舒享包（2025款参考选装）",
           "price_rmb": 8000,
-          "details": "含二排座椅按摩、副驾后背小桌板、主驾后背拓展坞、后备厢一键放倒与12V/220V电源、OMS摄像头（2027款已将小桌板、电动放倒及220V电源纳入标配）"
+          "details": "含二排座椅按摩、副驾后背小桌板、主驾后背拓展坞、后备厢一键放倒与12V/220V电源、OMS摄像头（2027款已将小桌板、电动放倒及220V电源纳入标配）",
+          "availability": "可选"
         }
       ]
     },
@@ -242,10 +276,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 32.5min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -269,41 +304,71 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双电机四驱 / 米其林静音胎 / 智慧灯幕",
           "price_rmb": "20000 / 10000 / 10000",
-          "details": "2027款官方选装"
+          "details": "2027款官方选装",
+          "availability": "可选"
         },
         {
           "name": "双电机四驱系统",
           "price_rmb": 20000,
-          "details": "2027款后驱896线乾崑版（21.29万元）升级至四驱896线乾崑版（23.29万元）差价20,000元"
+          "details": "2027款后驱896线乾崑版（21.29万元）升级至四驱896线乾崑版（23.29万元）差价20,000元",
+          "availability": "可选"
         },
         {
           "name": "闪动星河智慧灯幕",
           "price_rmb": null,
-          "details": "前脸46.75英寸、264颗LED灯珠“闪动星河智慧灯幕”支持选装，未公开官方单价"
+          "details": "前脸46.75英寸、264颗LED灯珠“闪动星河智慧灯幕”支持选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "米其林静音轮胎",
           "price_rmb": null,
-          "details": "2027款官方支持选装米其林静音胎，未公开官方单价"
+          "details": "2027款官方支持选装米其林静音胎，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 5高阶功能包（城区NCA/记忆泊车/远程召唤）",
           "price_rmb": null,
-          "details": "全系标配华为896线激光雷达硬件，城市路段领航、记忆泊车及远程召唤为选配开通项，未公开官方单价"
+          "details": "全系标配华为896线激光雷达硬件，城市路段领航、记忆泊车及远程召唤为选配开通项，未公开官方单价",
+          "availability": "标配"
         },
         {
           "name": "百万舒享包（2025款参考选装）",
           "price_rmb": 8000,
-          "details": "含二排座椅按摩、副驾后背小桌板、主驾后背拓展坞、后备厢一键放倒与12V/220V电源、OMS摄像头（2027款已将小桌板、电动放倒及220V电源纳入标配）"
+          "details": "含二排座椅按摩、副驾后背小桌板、主驾后背拓展坞、后备厢一键放倒与12V/220V电源、OMS摄像头（2027款已将小桌板、电动放倒及220V电源纳入标配）",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M01/AF/F1/autohomecar__Chto52rpjSCAD8mQAGWhFa0Ik9M961.png"
+  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M01/AF/F1/autohomecar__Chto52rpjSCAD8mQAGWhFa0Ik9M961.png",
+  "promo_highlights": [
+    "上市限时权益价19.79万元起（较指导价21.29万元直降1.5万元）"
+  ],
+  "references": [
+    {
+      "title": "岚图 岚图知音（2027款 896线乾崑版） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7728.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

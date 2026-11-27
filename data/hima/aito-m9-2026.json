@@ -1,7 +1,7 @@
 {
   "brand": "hima",
   "brand_name": "鸿蒙智行",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "sub_brand": "问界 AITO",
   "model": "全新一代问界M9（2026款）",
   "model_slug": "aito-m9-2026",
@@ -24,11 +24,12 @@
         "height_mm": null,
         "wheelbase_mm": 3125,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2920-3200",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.1,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 135
       },
       "performance": {
         "drive_type": "三电机/双电机四驱",
@@ -48,10 +49,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "15分钟快充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -75,58 +77,80 @@
         "hud": "AR-HUD",
         "audio": "领世加长版43扬声器",
         "fridge": "车载冷暖箱",
-        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+        "seat_features": "领世加长版四零重力+隐私调光玻璃",
+        "rear_screen": "高配Ultra标配/Max+选装 32英寸升降式激光投影幕布",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(五座版二排右侧选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "领世加长版“先行臻选包”",
           "price_rmb": 122000,
-          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "双拼车漆 / 电动踏板 / 投影巨幕",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "22英寸11孔月辉轮毂（含悬浮车标）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动拖挂钩（含拖车取电口，准拖1500kg）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空天幕",
           "price_rmb": 50000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "云氧奢享套装（舒云Hysoft座椅+森林级车载制氧系统）",
           "price_rmb": 25000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "全彩智慧投影大灯（双百万像素全彩智慧投影大灯+侧向全彩激光投影）",
           "price_rmb": 35000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "先行者甄选包（Ultimate领世加长版专属内外饰/22英寸轮毂/环绕隐私调光玻璃等）",
           "price_rmb": 122000,
-          "details": "限时价80000元"
+          "details": "限时价80000元",
+          "promo_price_rmb": 80000,
+          "promo_note": "限时价80000元",
+          "availability": "可选"
         }
       ]
     },
@@ -142,11 +166,12 @@
         "height_mm": null,
         "wheelbase_mm": 3125,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2920-3200",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.1,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 135
       },
       "performance": {
         "drive_type": "三电机/双电机四驱",
@@ -166,10 +191,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "15分钟快充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -193,58 +219,80 @@
         "hud": "AR-HUD",
         "audio": "领世加长版43扬声器",
         "fridge": "车载冷暖箱",
-        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+        "seat_features": "领世加长版四零重力+隐私调光玻璃",
+        "rear_screen": "高配Ultra标配/Max+选装 32英寸升降式激光投影幕布",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(五座版二排右侧选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "领世加长版“先行臻选包”",
           "price_rmb": 122000,
-          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "双拼车漆 / 电动踏板 / 投影巨幕",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "22英寸11孔月辉轮毂（含悬浮车标）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动拖挂钩（含拖车取电口，准拖1500kg）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空天幕",
           "price_rmb": 50000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "云氧奢享套装（舒云Hysoft座椅+森林级车载制氧系统）",
           "price_rmb": 25000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "全彩智慧投影大灯（双百万像素全彩智慧投影大灯+侧向全彩激光投影）",
           "price_rmb": 35000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "先行者甄选包（Ultimate领世加长版专属内外饰/22英寸轮毂/环绕隐私调光玻璃等）",
           "price_rmb": 122000,
-          "details": "限时价80000元"
+          "details": "限时价80000元",
+          "promo_price_rmb": 80000,
+          "promo_note": "限时价80000元",
+          "availability": "可选"
         }
       ]
     },
@@ -260,11 +308,12 @@
         "height_mm": null,
         "wheelbase_mm": 3125,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2920-3200",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.1,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 135
       },
       "performance": {
         "drive_type": "三电机/双电机四驱",
@@ -284,10 +333,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "15分钟快充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -311,58 +361,80 @@
         "hud": "AR-HUD",
         "audio": "领世加长版43扬声器",
         "fridge": "车载冷暖箱",
-        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+        "seat_features": "领世加长版四零重力+隐私调光玻璃",
+        "rear_screen": "高配Ultra标配/Max+选装 32英寸升降式激光投影幕布",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(五座版二排右侧选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "领世加长版“先行臻选包”",
           "price_rmb": 122000,
-          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "双拼车漆 / 电动踏板 / 投影巨幕",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "22英寸11孔月辉轮毂（含悬浮车标）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动拖挂钩（含拖车取电口，准拖1500kg）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空天幕",
           "price_rmb": 50000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "云氧奢享套装（舒云Hysoft座椅+森林级车载制氧系统）",
           "price_rmb": 25000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "全彩智慧投影大灯（双百万像素全彩智慧投影大灯+侧向全彩激光投影）",
           "price_rmb": 35000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "先行者甄选包（Ultimate领世加长版专属内外饰/22英寸轮毂/环绕隐私调光玻璃等）",
           "price_rmb": 122000,
-          "details": "限时价80000元"
+          "details": "限时价80000元",
+          "promo_price_rmb": 80000,
+          "promo_note": "限时价80000元",
+          "availability": "可选"
         }
       ]
     },
@@ -378,11 +450,12 @@
         "height_mm": null,
         "wheelbase_mm": 3125,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2920-3200",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.1,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 135
       },
       "performance": {
         "drive_type": "三电机/双电机四驱",
@@ -402,10 +475,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "15分钟快充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -429,58 +503,80 @@
         "hud": "AR-HUD",
         "audio": "领世加长版43扬声器",
         "fridge": "车载冷暖箱",
-        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+        "seat_features": "领世加长版四零重力+隐私调光玻璃",
+        "rear_screen": "高配Ultra标配/Max+选装 32英寸升降式激光投影幕布",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(五座版二排右侧选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "领世加长版“先行臻选包”",
           "price_rmb": 122000,
-          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "双拼车漆 / 电动踏板 / 投影巨幕",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "22英寸11孔月辉轮毂（含悬浮车标）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动拖挂钩（含拖车取电口，准拖1500kg）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空天幕",
           "price_rmb": 50000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "云氧奢享套装（舒云Hysoft座椅+森林级车载制氧系统）",
           "price_rmb": 25000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "全彩智慧投影大灯（双百万像素全彩智慧投影大灯+侧向全彩激光投影）",
           "price_rmb": 35000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "先行者甄选包（Ultimate领世加长版专属内外饰/22英寸轮毂/环绕隐私调光玻璃等）",
           "price_rmb": 122000,
-          "details": "限时价80000元"
+          "details": "限时价80000元",
+          "promo_price_rmb": 80000,
+          "promo_note": "限时价80000元",
+          "availability": "可选"
         }
       ]
     },
@@ -496,11 +592,12 @@
         "height_mm": null,
         "wheelbase_mm": 3125,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2920-3200",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.1,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 135
       },
       "performance": {
         "drive_type": "三电机/双电机四驱",
@@ -520,10 +617,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "15分钟快充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -547,58 +645,80 @@
         "hud": "AR-HUD",
         "audio": "领世加长版43扬声器",
         "fridge": "车载冷暖箱",
-        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+        "seat_features": "领世加长版四零重力+隐私调光玻璃",
+        "rear_screen": "高配Ultra标配/Max+选装 32英寸升降式激光投影幕布",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(五座版二排右侧选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "领世加长版“先行臻选包”",
           "price_rmb": 122000,
-          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "双拼车漆 / 电动踏板 / 投影巨幕",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "22英寸11孔月辉轮毂（含悬浮车标）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动拖挂钩（含拖车取电口，准拖1500kg）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空天幕",
           "price_rmb": 50000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "云氧奢享套装（舒云Hysoft座椅+森林级车载制氧系统）",
           "price_rmb": 25000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "全彩智慧投影大灯（双百万像素全彩智慧投影大灯+侧向全彩激光投影）",
           "price_rmb": 35000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "先行者甄选包（Ultimate领世加长版专属内外饰/22英寸轮毂/环绕隐私调光玻璃等）",
           "price_rmb": 122000,
-          "details": "限时价80000元"
+          "details": "限时价80000元",
+          "promo_price_rmb": 80000,
+          "promo_note": "限时价80000元",
+          "availability": "可选"
         }
       ]
     },
@@ -614,11 +734,12 @@
         "height_mm": null,
         "wheelbase_mm": 3125,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2920-3200",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.1,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 135
       },
       "performance": {
         "drive_type": "三电机/双电机四驱",
@@ -638,10 +759,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "15分钟快充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -665,58 +787,80 @@
         "hud": "AR-HUD",
         "audio": "领世加长版43扬声器",
         "fridge": "车载冷暖箱",
-        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+        "seat_features": "领世加长版四零重力+隐私调光玻璃",
+        "rear_screen": "高配Ultra标配/Max+选装 32英寸升降式激光投影幕布",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(五座版二排右侧选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "领世加长版“先行臻选包”",
           "price_rmb": 122000,
-          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "双拼车漆 / 电动踏板 / 投影巨幕",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "22英寸11孔月辉轮毂（含悬浮车标）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动拖挂钩（含拖车取电口，准拖1500kg）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空天幕",
           "price_rmb": 50000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "云氧奢享套装（舒云Hysoft座椅+森林级车载制氧系统）",
           "price_rmb": 25000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "全彩智慧投影大灯（双百万像素全彩智慧投影大灯+侧向全彩激光投影）",
           "price_rmb": 35000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "先行者甄选包（Ultimate领世加长版专属内外饰/22英寸轮毂/环绕隐私调光玻璃等）",
           "price_rmb": 122000,
-          "details": "限时价80000元"
+          "details": "限时价80000元",
+          "promo_price_rmb": 80000,
+          "promo_note": "限时价80000元",
+          "availability": "可选"
         }
       ]
     },
@@ -732,11 +876,12 @@
         "height_mm": null,
         "wheelbase_mm": 3236,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2920-3200",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.1,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 135
       },
       "performance": {
         "drive_type": "三电机/双电机四驱",
@@ -756,10 +901,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "15分钟快充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -783,58 +929,80 @@
         "hud": "AR-HUD",
         "audio": "领世加长版43扬声器",
         "fridge": "车载冷暖箱",
-        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+        "seat_features": "领世加长版四零重力+隐私调光玻璃",
+        "rear_screen": "高配Ultra标配/Max+选装 32英寸升降式激光投影幕布",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(五座版二排右侧选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "领世加长版“先行臻选包”",
           "price_rmb": 122000,
-          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "双拼车漆 / 电动踏板 / 投影巨幕",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "22英寸11孔月辉轮毂（含悬浮车标）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动拖挂钩（含拖车取电口，准拖1500kg）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空天幕",
           "price_rmb": 50000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "云氧奢享套装（舒云Hysoft座椅+森林级车载制氧系统）",
           "price_rmb": 25000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "全彩智慧投影大灯（双百万像素全彩智慧投影大灯+侧向全彩激光投影）",
           "price_rmb": 35000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "先行者甄选包（Ultimate领世加长版专属内外饰/22英寸轮毂/环绕隐私调光玻璃等）",
           "price_rmb": 122000,
-          "details": "限时价80000元"
+          "details": "限时价80000元",
+          "promo_price_rmb": 80000,
+          "promo_note": "限时价80000元",
+          "availability": "可选"
         }
       ]
     },
@@ -850,11 +1018,12 @@
         "height_mm": null,
         "wheelbase_mm": 3236,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2920-3200",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.1,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 135
       },
       "performance": {
         "drive_type": "三电机/双电机四驱",
@@ -874,10 +1043,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "15分钟快充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "途灵龙行平台",
@@ -901,61 +1071,120 @@
         "hud": "AR-HUD",
         "audio": "领世加长版43扬声器",
         "fridge": "车载冷暖箱",
-        "seat_features": "领世加长版四零重力+隐私调光玻璃"
+        "seat_features": "领世加长版四零重力+隐私调光玻璃",
+        "rear_screen": "高配Ultra标配/Max+选装 32英寸升降式激光投影幕布",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "12.3英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(五座版二排右侧选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "华为乾崑智驾ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）"
+          "details": "2026年7月起恢复买断标准价36000元（叠加车企20000-21000元补贴后实付约15000-16000元）",
+          "availability": "可选"
         },
         {
           "name": "领世加长版“先行臻选包”",
           "price_rmb": 122000,
-          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃"
+          "details": "首销限时80000元：专属内外饰+22英寸轮毂+环绕隐私调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "双拼车漆 / 电动踏板 / 投影巨幕",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "22英寸11孔月辉轮毂（含悬浮车标）",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动拖挂钩（含拖车取电口，准拖1500kg）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 30000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "智能星空天幕",
           "price_rmb": 50000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "云氧奢享套装（舒云Hysoft座椅+森林级车载制氧系统）",
           "price_rmb": 25000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "全彩智慧投影大灯（双百万像素全彩智慧投影大灯+侧向全彩激光投影）",
           "price_rmb": 35000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "先行者甄选包（Ultimate领世加长版专属内外饰/22英寸轮毂/环绕隐私调光玻璃等）",
           "price_rmb": 122000,
-          "details": "限时价80000元"
+          "details": "限时价80000元",
+          "promo_price_rmb": 80000,
+          "promo_note": "限时价80000元",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://s1.xchuxing.com/xchuxing/carousel/2026/04/22/9c1e1202604221701207248.png?imageView2/2/w/750/q/100"
+  "image_url": "https://s1.xchuxing.com/xchuxing/carousel/2026/04/22/9c1e1202604221701207248.png?imageView2/2/w/750/q/100",
+  "promo_highlights": [
+    "2026款首批用户至高5.2万元购车权益（含购置税补贴、购车红包及ADS高阶功能包补贴）",
+    "鸿蒙智行老车主专属增换购补贴"
+  ],
+  "miit_filing": {
+    "miit_batch": "第407批",
+    "product_model_code": null,
+    "curb_weight_kg": "2920-3200",
+    "gross_weight_kg": 3735,
+    "approach_departure_deg": "18/21",
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "鸿蒙智行 全新一代问界M9（2026款） 官方配置页 (aito.auto)",
+      "url": "https://aito.auto/model/m9/configuration/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "鸿蒙智行 全新一代问界M9（2026款） 官方配置页 (aito.auto)",
+      "url": "https://aito.auto/model/m9-new/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "问界M9 2026款参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/77438.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://cjh2.autoimg.cn/cjh2.autoimg.cn/chejiahaodfs/g26/M07/D7/60/630x0_q100_autohomecar__ChxkjmU11i-AOHeYAACpqoqfCPo139.jpg?x_image_process=text/6L2m5Li75oyH5Y2X/fontSize/12"
 }

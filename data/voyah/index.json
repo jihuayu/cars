@@ -1,22 +1,29 @@
 {
   "brand": "voyah",
   "brand_name": "岚图",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 5,
   "sku_count": 21,
   "models": [
     {
       "brand": "voyah",
       "brand_name": "岚图",
+      "origin_type": "国产",
       "model": "全新岚图梦想家（2026款）",
       "model_slug": "dreamer-2026",
       "sub_brand": null,
       "category": "中大型豪华MPV",
       "release_date": "2025-09-15",
       "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/dreamer-champion/kv_0408_375.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "BEV",
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 8,
       "option_count": 4,
@@ -24,6 +31,22 @@
       "price_max_rmb": 709900,
       "best_zero_to_100_s": 5.9,
       "max_cltc_ev_km": 701,
+      "ground_clearance_mm": 150,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/voyah/dreamer-2026.json",
       "source_urls": [
         "https://www.voyah.com.cn/dreamer9.html",
@@ -33,14 +56,19 @@
     {
       "brand": "voyah",
       "brand_name": "岚图",
+      "origin_type": "国产",
       "model": "岚图FREE+（2025款）",
       "model_slug": "free-plus-2025",
       "sub_brand": null,
       "category": "中大型5座增程SUV",
       "release_date": "2025-07-12",
       "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g28/M06/B0/A5/autohomecar__Chtlx2has8OARyFBAAJKqezyCEQ159.jpg?x_image_process=text/5paw6IO95rqQ6KeG6YeO/fontSize/12",
+      "interior_image_url": null,
       "powertrains": [
         "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 4,
@@ -48,6 +76,22 @@
       "price_max_rmb": 279900,
       "best_zero_to_100_s": 4.9,
       "max_cltc_ev_km": 318,
+      "ground_clearance_mm": "143-170",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/voyah/free-plus-2025.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/spec/73126.html"
@@ -56,14 +100,19 @@
     {
       "brand": "voyah",
       "brand_name": "岚图",
+      "origin_type": "国产",
       "model": "岚图泰山（2026款）",
       "model_slug": "titan-2026",
       "sub_brand": null,
       "category": "全尺寸旗舰6座插混SUV",
       "release_date": "2025-11-18",
       "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/titan/375/sc_1.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 4,
       "option_count": 6,
@@ -71,6 +120,22 @@
       "price_max_rmb": 509900,
       "best_zero_to_100_s": 5.2,
       "max_cltc_ev_km": 350,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/voyah/titan-2026.json",
       "source_urls": [
         "https://www.voyah.com.cn/titan.html",
@@ -80,14 +145,19 @@
     {
       "brand": "voyah",
       "brand_name": "岚图",
+      "origin_type": "国产",
       "model": "岚图知音（2027款 896线乾崑版）",
       "model_slug": "zhiyin-2027",
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2026-11-13",
       "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M01/AF/F1/autohomecar__Chto52rpjSCAD8mQAGWhFa0Ik9M961.png",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 6,
@@ -95,6 +165,22 @@
       "price_max_rmb": 242900,
       "best_zero_to_100_s": 4.3,
       "max_cltc_ev_km": 901,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/voyah/zhiyin-2027.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/7728.html"
@@ -103,14 +189,19 @@
     {
       "brand": "voyah",
       "brand_name": "岚图",
+      "origin_type": "国产",
       "model": "岚图追光L（2026款）",
       "model_slug": "zhuiguang-l-2026",
       "sub_brand": null,
       "category": "中大型插混行政轿车",
       "release_date": "2025-12-10",
       "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M03/73/B4/autohomecar__ChtpWGjnFsOAMo4rAAUIRhOAwv0356.png?x_image_process=text/5rG96L2m6Kej5b-n6ZO6/fontSize/12",
+      "interior_image_url": null,
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 3,
       "option_count": 4,
@@ -118,6 +209,22 @@
       "price_max_rmb": 339900,
       "best_zero_to_100_s": 4.8,
       "max_cltc_ev_km": 410,
+      "ground_clearance_mm": 119,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/voyah/zhuiguang-l-2026.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/8259.html"

@@ -1,7 +1,7 @@
 {
   "brand": "voyah",
   "brand_name": "岚图",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "全新岚图梦想家（2026款）",
   "model_slug": "dreamer-2026",
   "category": "中大型豪华MPV",
@@ -23,11 +23,12 @@
         "height_mm": 1820,
         "wheelbase_mm": 3200,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2642-2682",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 150
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -47,10 +48,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -74,28 +76,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K吸顶娱乐屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热/通风(部分版本)",
+        "seat_massage": "前排/二排26点叩击式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 16000,
-          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）",
+          "availability": "可选"
         },
         {
           "name": "天地星辉轮毂",
           "price_rmb": 10000,
-          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装",
+          "availability": "可选"
         },
         {
           "name": "金銮红等双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -111,11 +126,12 @@
         "height_mm": 1820,
         "wheelbase_mm": 3200,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2642-2682",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 150
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -135,10 +151,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 12min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -162,28 +179,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K吸顶娱乐屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热/通风(部分版本)",
+        "seat_massage": "前排/二排26点叩击式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 16000,
-          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）",
+          "availability": "可选"
         },
         {
           "name": "天地星辉轮毂",
           "price_rmb": 10000,
-          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装",
+          "availability": "可选"
         },
         {
           "name": "金銮红等双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -199,11 +229,12 @@
         "height_mm": 1820,
         "wheelbase_mm": 3200,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2642-2682",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 150
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -223,10 +254,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -250,28 +282,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K吸顶娱乐屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热/通风(部分版本)",
+        "seat_massage": "前排/二排26点叩击式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 16000,
-          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）",
+          "availability": "可选"
         },
         {
           "name": "天地星辉轮毂",
           "price_rmb": 10000,
-          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装",
+          "availability": "可选"
         },
         {
           "name": "金銮红等双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -287,11 +332,12 @@
         "height_mm": 1820,
         "wheelbase_mm": 3200,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2642-2682",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 150
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -311,10 +357,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 12min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -338,28 +385,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K吸顶娱乐屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热/通风(部分版本)",
+        "seat_massage": "前排/二排26点叩击式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 16000,
-          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）",
+          "availability": "可选"
         },
         {
           "name": "天地星辉轮毂",
           "price_rmb": 10000,
-          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装",
+          "availability": "可选"
         },
         {
           "name": "金銮红等双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -375,11 +435,12 @@
         "height_mm": 1820,
         "wheelbase_mm": 3200,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2642-2682",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 150
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -399,10 +460,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 12min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -426,28 +488,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K吸顶娱乐屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热/通风(部分版本)",
+        "seat_massage": "前排/二排26点叩击式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 16000,
-          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）",
+          "availability": "可选"
         },
         {
           "name": "天地星辉轮毂",
           "price_rmb": 10000,
-          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装",
+          "availability": "可选"
         },
         {
           "name": "金銮红等双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -463,11 +538,12 @@
         "height_mm": 1820,
         "wheelbase_mm": 3200,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2642-2682",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 150
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -487,10 +563,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 12min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -514,28 +591,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K吸顶娱乐屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热/通风(部分版本)",
+        "seat_massage": "前排/二排26点叩击式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 16000,
-          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）",
+          "availability": "可选"
         },
         {
           "name": "天地星辉轮毂",
           "price_rmb": 10000,
-          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装",
+          "availability": "可选"
         },
         {
           "name": "金銮红等双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -551,11 +641,12 @@
         "height_mm": 1820,
         "wheelbase_mm": 3200,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2642-2682",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 150
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -575,10 +666,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -602,28 +694,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K吸顶娱乐屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热/通风(部分版本)",
+        "seat_massage": "前排/二排26点叩击式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 16000,
-          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）",
+          "availability": "可选"
         },
         {
           "name": "天地星辉轮毂",
           "price_rmb": 10000,
-          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装",
+          "availability": "可选"
         },
         {
           "name": "金銮红等双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -639,11 +744,12 @@
         "height_mm": 1820,
         "wheelbase_mm": 3200,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2642-2682",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 150
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -663,10 +769,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "800V快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -690,31 +797,80 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配 17.3英寸3K吸顶娱乐屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+29英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热/通风(部分版本)",
+        "seat_massage": "前排/二排26点叩击式按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "后排调光隐私玻璃",
           "price_rmb": 16000,
-          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）"
+          "details": "2026款梦想家9 PHEV/EV Ultra+版可选装（礼尊版标配）",
+          "availability": "可选"
         },
         {
           "name": "天地星辉轮毂",
           "price_rmb": 10000,
-          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装"
+          "details": "2026款梦想家9 PHEV/EV Ultra及Ultra+等版型可选装",
+          "availability": "可选"
         },
         {
           "name": "金銮红等双拼色车身车漆",
           "price_rmb": null,
-          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价"
+          "details": "2026款新增“金銮红”双拼色车身选装，未公开官方单价",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价"
+          "details": "乾崑版及梦想家9标配华为192线或896线四激光雷达硬件，城市路段领航辅助及记忆泊车为选配开通项，未公开单价",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/dreamer-champion/kv_0408_375.jpg"
+  "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/dreamer-champion/kv_0408_375.jpg",
+  "promo_highlights": [
+    "2026年11月“梦成真”限时购车权益综合至高9.1万元、0首付金融贴息及置换补贴"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "2642-2682",
+    "gross_weight_kg": 3217,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "岚图 全新岚图梦想家（2026款） 官方配置页 (www.voyah.com.cn)",
+      "url": "https://www.voyah.com.cn/dreamer9.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "岚图 全新岚图梦想家（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/6459.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "岚图梦想家官方整车基本性能参数",
+      "url": "https://m.voyah.com.cn/userguide/h56c/jssj_page20.html",
+      "type": "miit",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

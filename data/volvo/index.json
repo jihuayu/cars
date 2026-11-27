@@ -1,0 +1,187 @@
+{
+  "brand": "volvo",
+  "brand_name": "沃尔沃/极星",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 4,
+  "sku_count": 7,
+  "models": [
+    {
+      "brand": "volvo",
+      "brand_name": "沃尔沃/极星",
+      "origin_type": "合资/外资",
+      "model": "极星Polestar 4",
+      "model_slug": "polestar-4",
+      "sub_brand": null,
+      "category": "中大型纯电轿跑SUV",
+      "release_date": "2025-05-16",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 338000,
+      "price_max_rmb": 398000,
+      "best_zero_to_100_s": 3.8,
+      "max_cltc_ev_km": 755,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/volvo/polestar-4.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6654.html"
+      ]
+    },
+    {
+      "brand": "volvo",
+      "brand_name": "沃尔沃/极星",
+      "origin_type": "合资/外资",
+      "model": "沃尔沃EM90",
+      "model_slug": "volvo-em90",
+      "sub_brand": null,
+      "category": "中大型纯电MPV",
+      "release_date": "2026-04-24",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 1,
+      "option_count": 0,
+      "price_min_rmb": 818000,
+      "price_max_rmb": 818000,
+      "best_zero_to_100_s": 8.3,
+      "max_cltc_ev_km": 738,
+      "ground_clearance_mm": 148,
+      "max_v2l_kw": 6.6,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/volvo/volvo-em90.json",
+      "source_urls": [
+        "https://www.volvocars.com.cn/zh-cn/l/specifications/em90-electric/",
+        "https://car.autohome.com.cn/config/series/7365.html"
+      ]
+    },
+    {
+      "brand": "volvo",
+      "brand_name": "沃尔沃/极星",
+      "origin_type": "合资/外资",
+      "model": "沃尔沃EX30",
+      "model_slug": "volvo-ex30",
+      "sub_brand": null,
+      "category": "小型纯电SUV",
+      "release_date": "2026-03-20",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 232800,
+      "price_max_rmb": 255800,
+      "best_zero_to_100_s": 3.6,
+      "max_cltc_ev_km": 590,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/volvo/volvo-ex30.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7275.html"
+      ]
+    },
+    {
+      "brand": "volvo",
+      "brand_name": "沃尔沃/极星",
+      "origin_type": "合资/外资",
+      "model": "沃尔沃EX90",
+      "model_slug": "volvo-ex90",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2026-05-29",
+      "image_url": "https://car2.autoimg.cn/cardfs/product/g34/M0A/25/3B/400x400_0_f42_autohomecar__ChtpWGoYaLaANEHSAFOEit3d-fQ601.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 795900,
+      "price_max_rmb": 894900,
+      "best_zero_to_100_s": 4.2,
+      "max_cltc_ev_km": 756,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/volvo/volvo-ex90.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7230.html"
+      ]
+    }
+  ]
+}

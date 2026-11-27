@@ -1,7 +1,7 @@
 {
   "brand": "byd",
   "brand_name": "比亚迪",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "比亚迪海狮07（EV / DM-i）",
   "model_slug": "sealion-07-2025",
   "category": "中型SUV",
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -74,23 +75,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。"
+          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆（亚特兰蒂斯灰/苍烟色/曜石黑等）",
           "price_rmb": 0,
-          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。"
+          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（19/20英寸）",
           "price_rmb": null,
-          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。"
+          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。",
+          "availability": "可选"
         }
       ]
     },
@@ -130,10 +144,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -157,23 +172,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。"
+          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆（亚特兰蒂斯灰/苍烟色/曜石黑等）",
           "price_rmb": 0,
-          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。"
+          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（19/20英寸）",
           "price_rmb": null,
-          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。"
+          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。",
+          "availability": "可选"
         }
       ]
     },
@@ -213,10 +241,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -240,23 +269,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。"
+          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆（亚特兰蒂斯灰/苍烟色/曜石黑等）",
           "price_rmb": 0,
-          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。"
+          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（19/20英寸）",
           "price_rmb": null,
-          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。"
+          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。",
+          "availability": "可选"
         }
       ]
     },
@@ -296,10 +338,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -323,23 +366,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。"
+          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆（亚特兰蒂斯灰/苍烟色/曜石黑等）",
           "price_rmb": 0,
-          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。"
+          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（19/20英寸）",
           "price_rmb": null,
-          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。"
+          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。",
+          "availability": "可选"
         }
       ]
     },
@@ -379,10 +435,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -406,28 +463,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢车载无人机（DM-i领航+起）",
           "price_rmb": 16968,
-          "details": "车载无人机系统"
+          "details": "车载无人机系统",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。"
+          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆（亚特兰蒂斯灰/苍烟色/曜石黑等）",
           "price_rmb": 0,
-          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。"
+          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（19/20英寸）",
           "price_rmb": null,
-          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。"
+          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。",
+          "availability": "可选"
         }
       ]
     },
@@ -467,10 +538,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -494,28 +566,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢车载无人机（DM-i领航+起）",
           "price_rmb": 16968,
-          "details": "车载无人机系统"
+          "details": "车载无人机系统",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。"
+          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆（亚特兰蒂斯灰/苍烟色/曜石黑等）",
           "price_rmb": 0,
-          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。"
+          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（19/20英寸）",
           "price_rmb": null,
-          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。"
+          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。",
+          "availability": "可选"
         }
       ]
     },
@@ -555,10 +641,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -582,31 +669,67 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "10.25英寸全液晶仪表+50英寸AR-HUD",
+        "seat_heating_ventilation": "前排及高配二排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢车载无人机（DM-i领航+起）",
           "price_rmb": 16968,
-          "details": "车载无人机系统"
+          "details": "车载无人机系统",
+          "availability": "可选"
         },
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。"
+          "details": "海狮07 DM-i全系（150领航版/150领航+版/135高性能激光雷达版）均可选装，含举升伸缩停机坪、定制大疆无人机及手柄。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆（亚特兰蒂斯灰/苍烟色/曜石黑等）",
           "price_rmb": 0,
-          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。"
+          "details": "海狮07 EV/DM-i常规外观配色与暮色蓝内饰均随版型免费可选，未设高价车漆选装。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（19/20英寸）",
           "price_rmb": null,
-          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。"
+          "details": "19英寸与20英寸铝合金轮毂按高低配版型绑定，官网未提供独立付费升级包。",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://s3.xchuxing.com/xchuxing/article/2024/04/26/6f0aa202404261414364171.png"
+  "image_url": "https://s3.xchuxing.com/xchuxing/article/2024/04/26/6f0aa202404261414364171.png",
+  "promo_highlights": [
+    "置换补贴至高2.6万元（含国补至高2万元+比亚迪置换至高6000元）",
+    "首任车主2年内免费7kW充电桩及安装服务、三电终身保修"
+  ],
+  "references": [
+    {
+      "title": "比亚迪 比亚迪海狮07（EV / DM-i） 官方配置页 (www.bydauto.com.cn)",
+      "url": "https://www.bydauto.com.cn/pc/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪 比亚迪海狮07（EV / DM-i） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/6851.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://n.sinaimg.cn/www/transform/355/w660h495/20240523/5d8f-78f28ab35f37858f4ddf368107a84c4e.jpg"
 }

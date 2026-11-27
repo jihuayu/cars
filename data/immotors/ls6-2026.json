@@ -1,7 +1,7 @@
 {
   "brand": "immotors",
   "brand_name": "智己汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "智己LS6（全新一代纯电 / 2026款超级增程）",
   "model_slug": "ls6-2026",
   "category": "中大型5座SUV",
@@ -23,7 +23,7 @@
         "height_mm": 1671,
         "wheelbase_mm": 2960,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": "636-1852",
         "frunk_volume_l": 105,
         "min_turning_radius_m": 4.79,
@@ -50,7 +50,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -74,28 +75,46 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器（纯电）/ 21扬声器（增程）",
         "fridge": "11L冷暖双开门冰箱（增程选装6800元）",
-        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅"
+        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾8000元)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "高定豪华配置包（纯电上市期常免费升级）",
           "price_rmb": 35800,
-          "details": "4D按摩+B&O+副驾屏+11L冰箱"
+          "details": "4D按摩+B&O+副驾屏+11L冰箱",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "11L冷暖冰箱（增程版选装）",
           "price_rmb": 6800,
-          "details": "增程Max可选"
+          "details": "增程Max可选",
+          "availability": "可选"
         },
         {
           "name": "YAT半幅方向盘（增程版）",
           "price_rmb": 2000,
-          "details": "半幅方向盘"
+          "details": "半幅方向盘",
+          "availability": "可选"
         }
       ]
     },
@@ -111,7 +130,7 @@
         "height_mm": 1671,
         "wheelbase_mm": 2960,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": "636-1852",
         "frunk_volume_l": 105,
         "min_turning_radius_m": 4.79,
@@ -138,7 +157,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -162,28 +182,46 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器（纯电）/ 21扬声器（增程）",
         "fridge": "11L冷暖双开门冰箱（增程选装6800元）",
-        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅"
+        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾8000元)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "高定豪华配置包（纯电上市期常免费升级）",
           "price_rmb": 35800,
-          "details": "4D按摩+B&O+副驾屏+11L冰箱"
+          "details": "4D按摩+B&O+副驾屏+11L冰箱",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "11L冷暖冰箱（增程版选装）",
           "price_rmb": 6800,
-          "details": "增程Max可选"
+          "details": "增程Max可选",
+          "availability": "可选"
         },
         {
           "name": "YAT半幅方向盘（增程版）",
           "price_rmb": 2000,
-          "details": "半幅方向盘"
+          "details": "半幅方向盘",
+          "availability": "可选"
         }
       ]
     },
@@ -199,7 +237,7 @@
         "height_mm": 1671,
         "wheelbase_mm": 2960,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": "617-1833",
         "frunk_volume_l": 105,
         "min_turning_radius_m": 4.49,
@@ -226,7 +264,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -250,28 +289,46 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器（纯电）/ 21扬声器（增程）",
         "fridge": "11L冷暖双开门冰箱（增程选装6800元）",
-        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅"
+        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾8000元)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "高定豪华配置包（纯电上市期常免费升级）",
           "price_rmb": 35800,
-          "details": "4D按摩+B&O+副驾屏+11L冰箱"
+          "details": "4D按摩+B&O+副驾屏+11L冰箱",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "11L冷暖冰箱（增程版选装）",
           "price_rmb": 6800,
-          "details": "增程Max可选"
+          "details": "增程Max可选",
+          "availability": "可选"
         },
         {
           "name": "YAT半幅方向盘（增程版）",
           "price_rmb": 2000,
-          "details": "半幅方向盘"
+          "details": "半幅方向盘",
+          "availability": "可选"
         }
       ]
     },
@@ -287,7 +344,7 @@
         "height_mm": 1673,
         "wheelbase_mm": 2960,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": "606-1822",
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.79,
@@ -314,7 +371,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -338,28 +396,46 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器（纯电）/ 21扬声器（增程）",
         "fridge": "11L冷暖双开门冰箱（增程选装6800元）",
-        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅"
+        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾8000元)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "高定豪华配置包（纯电上市期常免费升级）",
           "price_rmb": 35800,
-          "details": "4D按摩+B&O+副驾屏+11L冰箱"
+          "details": "4D按摩+B&O+副驾屏+11L冰箱",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "11L冷暖冰箱（增程版选装）",
           "price_rmb": 6800,
-          "details": "增程Max可选"
+          "details": "增程Max可选",
+          "availability": "可选"
         },
         {
           "name": "YAT半幅方向盘（增程版）",
           "price_rmb": 2000,
-          "details": "半幅方向盘"
+          "details": "半幅方向盘",
+          "availability": "可选"
         }
       ]
     },
@@ -375,7 +451,7 @@
         "height_mm": 1673,
         "wheelbase_mm": 2960,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": "606-1822",
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.79,
@@ -402,7 +478,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -426,31 +503,85 @@
         "hud": null,
         "audio": "丹麦B&O 16扬声器（纯电）/ 21扬声器（增程）",
         "fridge": "11L冷暖双开门冰箱（增程选装6800元）",
-        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅"
+        "seat_features": "主驾4D机械按摩+副驾零重力/贵妃椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(副驾8000元)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "高定豪华配置包（纯电上市期常免费升级）",
           "price_rmb": 35800,
-          "details": "4D按摩+B&O+副驾屏+11L冰箱"
+          "details": "4D按摩+B&O+副驾屏+11L冰箱",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "11L冷暖冰箱（增程版选装）",
           "price_rmb": 6800,
-          "details": "增程Max可选"
+          "details": "增程Max可选",
+          "availability": "可选"
         },
         {
           "name": "YAT半幅方向盘（增程版）",
           "price_rmb": 2000,
-          "details": "半幅方向盘"
+          "details": "半幅方向盘",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://portal-static.immotors.com/images/portal/1790162846471%2540vr0wwwhh.jpeg"
+  "image_url": "https://portal-static.immotors.com/images/portal/1790162846471%2540vr0wwwhh.jpeg",
+  "promo_highlights": [
+    "全新一代LS6预售/限时权益价20.99万元起"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 2410,
+    "gross_weight_kg": 2861,
+    "approach_departure_deg": "17/21",
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "智己汽车 智己LS6（全新一代纯电 / 2026款超级增程） 官方配置页 (www.immotors.com)",
+      "url": "https://www.immotors.com/website/vehicle_config/ls6m3",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智己汽车 智己LS6（全新一代纯电 / 2026款超级增程） 官方配置页 (www.immotors.com)",
+      "url": "https://www.immotors.com/website/vehicle_config/ls6m2",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智己LS6参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/71890.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/08/24/17/35937d66a8a64007a2a1f1a46d25b1c0.jpg!jpg"
 }

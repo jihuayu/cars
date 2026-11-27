@@ -1,0 +1,299 @@
+{
+  "brand": "tesla",
+  "brand_name": "特斯拉",
+  "model": "Model 3",
+  "model_slug": "tesla-model-3",
+  "origin_type": "合资/外资",
+  "category": "中型纯电轿车",
+  "release_date": "2026-10-01",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "“特从容”5年0息金融方案（首付3.99万元起，截至2026-12-31）",
+    "后驱/长续航版限时尾款立减10,000元",
+    "限时车漆选装礼金8,000元（珍珠白/海洋蓝减免后0元）"
+  ],
+  "source_urls": [
+    "https://www.tesla.cn/campaign/sales-promo-overview",
+    "https://car.autohome.com.cn/config/series/5346.html",
+    "https://price.pcauto.com.cn/m142641/config.html"
+  ],
+  "references": [
+    {
+      "title": "特斯拉中国现行福利活动",
+      "url": "https://www.tesla.cn/campaign/sales-promo-overview",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 Model 3 参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/5346.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "太平洋汽车 Model 3 2027款参数配置表",
+      "url": "https://price.pcauto.com.cn/m142641/config.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "tesla-model-3-2027-rwd",
+      "sku_name": "2027款 后轮驱动版",
+      "price_rmb": 235500,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4720,
+        "width_mm": 1848,
+        "height_mm": 1442,
+        "wheelbase_mm": 2875,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1760
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 194,
+        "motor_torque_nm": 340,
+        "zero_to_100_s": 6.1
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 62.5,
+        "cltc_pure_electric_range_km": 634,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "2颗 Tesla HW 4.0 (720 TOPS)",
+        "lidar": "无",
+        "system": "Autopilot基础版（可选装FSD）"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "16英寸2K中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "珍珠白/海洋蓝车漆",
+          "price_rmb": 8000,
+          "promo_price_rmb": 0,
+          "details": "限时车漆选装福利减免8,000元"
+        },
+        {
+          "name": "浅灰内饰",
+          "price_rmb": 8000,
+          "promo_price_rmb": null,
+          "details": "选装浅灰色内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "tesla-model-3-2027-lr-rwd",
+      "sku_name": "2027款 长续航后轮驱动版",
+      "price_rmb": 259500,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4720,
+        "width_mm": 1848,
+        "height_mm": 1442,
+        "wheelbase_mm": 2875,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1760
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 225,
+        "motor_torque_nm": 428,
+        "zero_to_100_s": 5.2
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 78.4,
+        "cltc_pure_electric_range_km": 830,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "2颗 Tesla HW 4.0 (720 TOPS)",
+        "lidar": "无",
+        "system": "Autopilot基础版（可选装FSD）"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "16英寸2K中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "珍珠白/海洋蓝车漆",
+          "price_rmb": 8000,
+          "promo_price_rmb": 0,
+          "details": "限时车漆选装福利减免8,000元"
+        },
+        {
+          "name": "浅灰内饰",
+          "price_rmb": 8000,
+          "promo_price_rmb": null,
+          "details": "选装浅灰色内饰"
+        }
+      ]
+    },
+    {
+      "sku_id": "tesla-model-3-2027-lr-awd",
+      "sku_name": "2027款 长续航全轮驱动版",
+      "price_rmb": 285500,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4720,
+        "width_mm": 1848,
+        "height_mm": 1442,
+        "wheelbase_mm": 2875,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1823
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 370,
+        "motor_torque_nm": 578,
+        "zero_to_100_s": 3.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 78.4,
+        "cltc_pure_electric_range_km": 753,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "2颗 Tesla HW 4.0 (720 TOPS)",
+        "lidar": "无",
+        "system": "Autopilot基础版（可选装FSD）"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "16英寸2K中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "珍珠白/海洋蓝车漆",
+          "price_rmb": 8000,
+          "promo_price_rmb": 0,
+          "details": "限时车漆选装福利减免8,000元"
+        }
+      ]
+    },
+    {
+      "sku_id": "tesla-model-3-2027-perf",
+      "sku_name": "2027款 高性能全轮驱动版",
+      "price_rmb": 339500,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4724,
+        "width_mm": 1848,
+        "height_mm": 1430,
+        "wheelbase_mm": 2875,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1851
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 441,
+        "motor_torque_nm": 697,
+        "zero_to_100_s": 3.1
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 78.4,
+        "cltc_pure_electric_range_km": 670,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "2颗 Tesla HW 4.0 (720 TOPS)",
+        "lidar": "无",
+        "system": "Autopilot基础版（可选装FSD）"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "16英寸2K中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "珍珠白/海洋蓝车漆",
+          "price_rmb": 8000,
+          "promo_price_rmb": 0,
+          "details": "限时车漆选装福利减免8,000元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "brand": "lixiang",
   "brand_name": "理想汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "全新一代理想L9",
   "model_slug": "l9-2026",
   "category": "全尺寸6座旗舰SUV",
@@ -24,7 +24,7 @@
         "height_mm": 1810,
         "wheelbase_mm": 3125,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2755-2835",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -48,10 +48,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 420,
         "fast_charge_time": "10分钟充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": 6.3
+        "wltc_fuel_consumption_l_100km": 6.3,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -75,38 +76,53 @@
         "hud": null,
         "audio": "标配音响（可选5440W 9.3.6星环剧院音响）",
         "fridge": "10L智能电动冷暖冰箱（-6℃至50℃）",
-        "seat_features": "标配二排双动态零重力座椅（ABTS+防下潜气囊）+三排一键大躺"
+        "seat_features": "标配二排双动态零重力座椅（ABTS+防下潜气囊）+三排一键大躺",
+        "rear_screen": "标配 21英寸4K神奇移动屏",
+        "instrument_cluster": "HUD无传统仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排18点热石揉捏按摩(背部12点+座垫6点，明确含座垫/臀部)",
+        "zero_gravity_seat": "标配(前排+二排)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "9.3.6无瑕星环剧院音响",
           "price_rmb": 30000,
-          "details": "33扬声器/5440W峰值功率"
+          "details": "33扬声器/5440W峰值功率",
+          "availability": "可选"
         },
         {
           "name": "一排双零重力座椅",
           "price_rmb": 15000,
-          "details": "主副驾全尺寸零重力座椅"
+          "details": "主副驾全尺寸零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "全车电容防夹智能电关门",
           "price_rmb": 15000,
-          "details": "四门电容防夹电关门"
+          "details": "四门电容防夹电关门",
+          "availability": "可选"
         },
         {
           "name": "二三排电动调光玻璃",
           "price_rmb": 10000,
-          "details": "多级高隔热电动调光玻璃"
+          "details": "多级高隔热电动调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "隐藏式电动踏板",
           "price_rmb": 10000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "电动拖车钩",
           "price_rmb": 6000,
-          "details": "原厂电动拖车钩"
+          "details": "原厂电动拖车钩",
+          "availability": "可选"
         }
       ]
     },
@@ -122,7 +138,7 @@
         "height_mm": 1810,
         "wheelbase_mm": 3125,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2755-2835",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.3,
@@ -146,10 +162,11 @@
         "fast_charge_rate": "5C",
         "max_charge_power_kw": 420,
         "fast_charge_time": "10分钟充至80%",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": 6.3
+        "wltc_fuel_consumption_l_100km": 6.3,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -173,51 +190,112 @@
         "hud": null,
         "audio": "可选5440W 9.3.6星环剧院音响",
         "fridge": "10L智能电动冷暖冰箱（-6℃至50℃）",
-        "seat_features": "标配二排双动态零重力座椅+三排一键大躺+Livis专属软枕刺绣"
+        "seat_features": "标配二排双动态零重力座椅+三排一键大躺+Livis专属软枕刺绣",
+        "rear_screen": "标配 21英寸4K神奇移动屏",
+        "instrument_cluster": "HUD无传统仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排18点热石揉捏按摩(背部12点+座垫6点，明确含座垫/臀部)",
+        "zero_gravity_seat": "标配(前排+二排)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "定制版双色车身（紫金/绿金/棕金/黑金）",
           "price_rmb": 20000,
-          "details": "四款定制双色车身"
+          "details": "四款定制双色车身",
+          "availability": "可选"
         },
         {
           "name": "9.3.6无瑕星环剧院音响",
           "price_rmb": 30000,
-          "details": "33扬声器/5440W峰值功率"
+          "details": "33扬声器/5440W峰值功率",
+          "availability": "可选"
         },
         {
           "name": "全车电容防夹智能电动门",
           "price_rmb": 20000,
-          "details": "四门电动门+固态激光雷达防开门杀"
+          "details": "四门电动门+固态激光雷达防开门杀",
+          "availability": "可选"
         },
         {
           "name": "一排双零重力座椅",
           "price_rmb": 15000,
-          "details": "主副驾全尺寸零重力座椅"
+          "details": "主副驾全尺寸零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "二三排电动调光玻璃",
           "price_rmb": 10000,
-          "details": "多级高隔热电动调光玻璃"
+          "details": "多级高隔热电动调光玻璃",
+          "availability": "可选"
         },
         {
           "name": "隐藏式电动踏板",
           "price_rmb": 10000,
-          "details": "隐藏式电动踏板"
+          "details": "隐藏式电动踏板",
+          "availability": "可选"
         },
         {
           "name": "Livis专属22英寸晶灰轮毂",
           "price_rmb": 10000,
-          "details": "Livis专属22英寸轮毂"
+          "details": "Livis专属22英寸轮毂",
+          "availability": "可选"
         },
         {
           "name": "电动拖车钩",
           "price_rmb": 6000,
-          "details": "原厂电动拖车钩"
+          "details": "原厂电动拖车钩",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://p.ampmake.com/mall/20260515/cms/news/f4158871-9e32-44ec-9bea-118e7d7a0b00.jpg"
+  "image_url": "https://p.ampmake.com/mall/20260515/cms/news/f4158871-9e32-44ec-9bea-118e7d7a0b00.jpg",
+  "promo_highlights": [
+    "截至2026年11月30日限时权益最高129,000元：现金减免1万+保险1万+选装基金1万",
+    "限时赠送价值7万-7.5万元剧院音响/零重力座椅/电动踏板/电动门配置升级"
+  ],
+  "miit_filing": {
+    "miit_batch": "第411批",
+    "product_model_code": null,
+    "curb_weight_kg": "2755-2835",
+    "gross_weight_kg": 3435,
+    "approach_departure_deg": "20/22",
+    "battery_supplier": "欣旺达/宁德时代(江苏时代)/江苏理想汽车电池"
+  },
+  "references": [
+    {
+      "title": "理想汽车 全新一代理想L9 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想汽车 全新一代理想L9 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/L9",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想汽车 全新一代理想L9 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/news/159.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想L9 Livis工信部第411批申报参数 - IT之家",
+      "url": "https://www.ithome.com/0/999/914.htm",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2022/03/11/19/19e589be814f4970b42d6a194d30e168.jpg!jpg"
 }

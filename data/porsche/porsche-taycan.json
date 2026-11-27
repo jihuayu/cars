@@ -1,0 +1,148 @@
+{
+  "brand": "porsche",
+  "brand_name": "保时捷新能源",
+  "model": "保时捷Taycan",
+  "model_slug": "porsche-taycan",
+  "origin_type": "合资/外资",
+  "category": "中大型纯电轿跑",
+  "release_date": "2025-10-14",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款新增杜比全景声支持，多项选装价格下调"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/4867.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 Taycan参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/4867.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "porsche-taycan-2026-base",
+      "sku_name": "2026款 Taycan",
+      "price_rmb": 918000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4963,
+        "width_mm": 1966,
+        "height_mm": 1379,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": 2119
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 300,
+        "motor_torque_nm": 410,
+        "zero_to_100_s": 4.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 604,
+        "fast_charge_time": "0.3h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配(双腔)",
+        "cdc": "标配",
+        "rear_wheel_steering": "选配(13500元)"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "标配定速巡航(全速ACC选配18000元)"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "中控主屏+空调屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "整体主动转向",
+          "price_rmb": 13500,
+          "promo_price_rmb": null,
+          "details": "后轮转向"
+        },
+        {
+          "name": "全速自适应巡航",
+          "price_rmb": 18000,
+          "promo_price_rmb": null,
+          "details": "L2级辅助驾驶"
+        }
+      ]
+    },
+    {
+      "sku_id": "porsche-taycan-2026-4s",
+      "sku_name": "2026款 Taycan 4S",
+      "price_rmb": 1038000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4963,
+        "width_mm": 1966,
+        "height_mm": 1379,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": 2274
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 380,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 3.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 676,
+        "fast_charge_time": "0.3h(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配(双腔)",
+        "cdc": "标配",
+        "rear_wheel_steering": "选配"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "标配定速巡航(L2可选配)"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "中控主屏+空调屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

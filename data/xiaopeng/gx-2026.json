@@ -1,7 +1,7 @@
 {
   "brand": "xiaopeng",
   "brand_name": "小鹏汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "小鹏GX",
   "model_slug": "gx-2026",
   "category": "全尺寸大六座旗舰SUV",
@@ -22,7 +22,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2690-2890",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +38,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 63.3,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1585,
@@ -49,7 +49,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": 60,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -73,38 +74,54 @@
         "hud": "88英寸AR-HUD",
         "audio": "标配音响",
         "fridge": "无菌双温区车载冰箱",
-        "seat_features": "六座全排可躺平"
+        "seat_features": "六座全排可躺平",
+        "rear_screen": "高配标配/低配选装 21.4英寸3K娱乐大屏（12000元二排娱乐套装）",
+        "power_220v": "标配 2.2kW车内220V电源插座",
+        "instrument_cluster": "8.8英寸全液晶仪表+88英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排按摩(二排右侧明确含靠背及坐垫16点按摩)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "二排娱乐套装（Max可选）",
           "price_rmb": 12000,
-          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "科技升级套装（Ultra SE可选）",
           "price_rmb": 15000,
-          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙",
+          "availability": "可选"
         },
         {
           "name": "智能电动迎宾踏板",
           "price_rmb": 6000,
-          "details": "含迎宾光毯，旗舰版标配"
+          "details": "含迎宾光毯，旗舰版标配",
+          "availability": "可选"
         },
         {
           "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
           "price_rmb": "6000 / 12000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
           "price_rmb": "6000-15000",
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "林雾紫内饰",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -120,7 +137,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2690-2890",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -136,7 +153,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 63.3,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1585,
@@ -147,7 +164,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": 60,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -171,38 +189,54 @@
         "hud": "88英寸AR-HUD",
         "audio": "33扬声器音响",
         "fridge": "无菌双温区车载冰箱",
-        "seat_features": "六座全排可躺平"
+        "seat_features": "六座全排可躺平",
+        "rear_screen": "高配标配/低配选装 21.4英寸3K娱乐大屏（12000元二排娱乐套装）",
+        "power_220v": "标配 2.2kW车内220V电源插座",
+        "instrument_cluster": "8.8英寸全液晶仪表+88英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排按摩(二排右侧明确含靠背及坐垫16点按摩)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "二排娱乐套装（Max可选）",
           "price_rmb": 12000,
-          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "科技升级套装（Ultra SE可选）",
           "price_rmb": 15000,
-          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙",
+          "availability": "可选"
         },
         {
           "name": "智能电动迎宾踏板",
           "price_rmb": 6000,
-          "details": "含迎宾光毯，旗舰版标配"
+          "details": "含迎宾光毯，旗舰版标配",
+          "availability": "可选"
         },
         {
           "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
           "price_rmb": "6000 / 12000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
           "price_rmb": "6000-15000",
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "林雾紫内饰",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -218,7 +252,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2690-2890",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -234,7 +268,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 63.3,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1585,
@@ -245,7 +279,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": 60,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -269,38 +304,54 @@
         "hud": "88英寸AR-HUD",
         "audio": "33扬声器音响",
         "fridge": "无菌双温区车载冰箱",
-        "seat_features": "六座全排可躺平"
+        "seat_features": "六座全排可躺平",
+        "rear_screen": "高配标配/低配选装 21.4英寸3K娱乐大屏（12000元二排娱乐套装）",
+        "power_220v": "标配 2.2kW车内220V电源插座",
+        "instrument_cluster": "8.8英寸全液晶仪表+88英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排按摩(二排右侧明确含靠背及坐垫16点按摩)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "二排娱乐套装（Max可选）",
           "price_rmb": 12000,
-          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "科技升级套装（Ultra SE可选）",
           "price_rmb": 15000,
-          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙",
+          "availability": "可选"
         },
         {
           "name": "智能电动迎宾踏板",
           "price_rmb": 6000,
-          "details": "含迎宾光毯，旗舰版标配"
+          "details": "含迎宾光毯，旗舰版标配",
+          "availability": "可选"
         },
         {
           "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
           "price_rmb": "6000 / 12000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
           "price_rmb": "6000-15000",
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "林雾紫内饰",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -316,7 +367,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2690-2890",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -332,7 +383,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": 63.3,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1585,
@@ -343,7 +394,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": 60,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -367,38 +419,54 @@
         "hud": "88英寸AR-HUD",
         "audio": "33扬声器音响",
         "fridge": "无菌双温区车载冰箱",
-        "seat_features": "六座全排可躺平"
+        "seat_features": "六座全排可躺平",
+        "rear_screen": "高配标配/低配选装 21.4英寸3K娱乐大屏（12000元二排娱乐套装）",
+        "power_220v": "标配 2.2kW车内220V电源插座",
+        "instrument_cluster": "8.8英寸全液晶仪表+88英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排按摩(二排右侧明确含靠背及坐垫16点按摩)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "二排娱乐套装（Max可选）",
           "price_rmb": 12000,
-          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "科技升级套装（Ultra SE可选）",
           "price_rmb": 15000,
-          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙",
+          "availability": "可选"
         },
         {
           "name": "智能电动迎宾踏板",
           "price_rmb": 6000,
-          "details": "含迎宾光毯，旗舰版标配"
+          "details": "含迎宾光毯，旗舰版标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
           "price_rmb": "6000 / 12000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
           "price_rmb": "6000-15000",
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "林雾紫内饰",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -414,7 +482,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2690-2890",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -430,7 +498,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 665,
         "cltc_combined_range_km": 665,
@@ -441,7 +509,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -465,38 +534,54 @@
         "hud": "88英寸AR-HUD",
         "audio": "标配音响",
         "fridge": "无菌双温区车载冰箱",
-        "seat_features": "六座全排可躺平"
+        "seat_features": "六座全排可躺平",
+        "rear_screen": "高配标配/低配选装 21.4英寸3K娱乐大屏（12000元二排娱乐套装）",
+        "power_220v": "标配 2.2kW车内220V电源插座",
+        "instrument_cluster": "8.8英寸全液晶仪表+88英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排按摩(二排右侧明确含靠背及坐垫16点按摩)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "二排娱乐套装（Max可选）",
           "price_rmb": 12000,
-          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "科技升级套装（Ultra SE可选）",
           "price_rmb": 15000,
-          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙",
+          "availability": "可选"
         },
         {
           "name": "智能电动迎宾踏板",
           "price_rmb": 6000,
-          "details": "含迎宾光毯，旗舰版标配"
+          "details": "含迎宾光毯，旗舰版标配",
+          "availability": "可选"
         },
         {
           "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
           "price_rmb": "6000 / 12000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
           "price_rmb": "6000-15000",
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "林雾紫内饰",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -512,7 +597,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2690-2890",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -528,7 +613,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 665,
         "cltc_combined_range_km": 665,
@@ -539,7 +624,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -563,38 +649,54 @@
         "hud": "88英寸AR-HUD",
         "audio": "33扬声器音响",
         "fridge": "无菌双温区车载冰箱",
-        "seat_features": "六座全排可躺平"
+        "seat_features": "六座全排可躺平",
+        "rear_screen": "高配标配/低配选装 21.4英寸3K娱乐大屏（12000元二排娱乐套装）",
+        "power_220v": "标配 2.2kW车内220V电源插座",
+        "instrument_cluster": "8.8英寸全液晶仪表+88英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排按摩(二排右侧明确含靠背及坐垫16点按摩)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "二排娱乐套装（Max可选）",
           "price_rmb": 12000,
-          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "科技升级套装（Ultra SE可选）",
           "price_rmb": 15000,
-          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙",
+          "availability": "可选"
         },
         {
           "name": "智能电动迎宾踏板",
           "price_rmb": 6000,
-          "details": "含迎宾光毯，旗舰版标配"
+          "details": "含迎宾光毯，旗舰版标配",
+          "availability": "可选"
         },
         {
           "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
           "price_rmb": "6000 / 12000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
           "price_rmb": "6000-15000",
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "林雾紫内饰",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -610,7 +712,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2690-2890",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -626,7 +728,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 665,
         "cltc_combined_range_km": 665,
@@ -637,7 +739,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -661,38 +764,54 @@
         "hud": "88英寸AR-HUD",
         "audio": "33扬声器音响",
         "fridge": "无菌双温区车载冰箱",
-        "seat_features": "六座全排可躺平"
+        "seat_features": "六座全排可躺平",
+        "rear_screen": "高配标配/低配选装 21.4英寸3K娱乐大屏（12000元二排娱乐套装）",
+        "power_220v": "标配 2.2kW车内220V电源插座",
+        "instrument_cluster": "8.8英寸全液晶仪表+88英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排按摩(二排右侧明确含靠背及坐垫16点按摩)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "二排娱乐套装（Max可选）",
           "price_rmb": 12000,
-          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "科技升级套装（Ultra SE可选）",
           "price_rmb": 15000,
-          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙",
+          "availability": "可选"
         },
         {
           "name": "智能电动迎宾踏板",
           "price_rmb": 6000,
-          "details": "含迎宾光毯，旗舰版标配"
+          "details": "含迎宾光毯，旗舰版标配",
+          "availability": "可选"
         },
         {
           "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
           "price_rmb": "6000 / 12000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
           "price_rmb": "6000-15000",
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "林雾紫内饰",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -708,7 +827,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2690-2890",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -724,7 +843,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 750,
         "cltc_combined_range_km": 750,
@@ -735,7 +854,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -759,41 +879,87 @@
         "hud": "88英寸AR-HUD",
         "audio": "33扬声器音响",
         "fridge": "无菌双温区车载冰箱",
-        "seat_features": "六座全排可躺平"
+        "seat_features": "六座全排可躺平",
+        "rear_screen": "高配标配/低配选装 21.4英寸3K娱乐大屏（12000元二排娱乐套装）",
+        "power_220v": "标配 2.2kW车内220V电源插座",
+        "instrument_cluster": "8.8英寸全液晶仪表+88英寸AR-HUD",
+        "seat_heating_ventilation": "前排/二排加热/通风，三排加热",
+        "seat_massage": "前排/二排按摩(二排右侧明确含靠背及坐垫16点按摩)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "二排娱乐套装（Max可选）",
           "price_rmb": 12000,
-          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅"
+          "details": "21.4英寸3K屏+流媒体后视镜+二排右侧零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "科技升级套装（Ultra SE可选）",
           "price_rmb": 15000,
-          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙"
+          "details": "AI数字投影大灯+四门智能电动车门+7键UWB钥匙",
+          "availability": "可选"
         },
         {
           "name": "智能电动迎宾踏板",
           "price_rmb": 6000,
-          "details": "含迎宾光毯，旗舰版标配"
+          "details": "含迎宾光毯，旗舰版标配",
+          "availability": "标配"
         },
         {
           "name": "21英寸星驰轮毂 / 22英寸日冕轮毂",
           "price_rmb": "6000 / 12000",
-          "details": "轮毂升级"
+          "details": "轮毂升级",
+          "availability": "可选"
         },
         {
           "name": "付费车漆（峡湾灰/丹霞红/云漠金/昆仑云境）",
           "price_rmb": "6000-15000",
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "林雾紫内饰",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png"
+  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+  "promo_highlights": [
+    "限时权益价26.98万-34.98万元、首销期至高超36000元配置/购车权益",
+    "图灵AI智驾终身免费权益"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "2690-2890",
+    "gross_weight_kg": 3405,
+    "approach_departure_deg": null,
+    "battery_supplier": "中创新航"
+  },
+  "references": [
+    {
+      "title": "小鹏汽车 小鹏GX 官方配置页 (www.xiaopeng.com)",
+      "url": "https://www.xiaopeng.com/gx/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏GX超级增程工信部申报整备质量与电池信息",
+      "url": "https://cj.sina.cn/articles/view/7879776542/1d5abd91e068014ivk",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

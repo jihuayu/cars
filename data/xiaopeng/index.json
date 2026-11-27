@@ -1,22 +1,28 @@
 {
   "brand": "xiaopeng",
   "brand_name": "小鹏汽车",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 8,
   "sku_count": 40,
   "models": [
     {
       "brand": "xiaopeng",
       "brand_name": "小鹏汽车",
+      "origin_type": "国产",
       "model": "2026款小鹏G6",
       "model_slug": "g6-2026",
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2026-01-08",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/XPeng_G6_018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV",
         "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 4,
@@ -24,6 +30,22 @@
       "price_max_rmb": 186800,
       "best_zero_to_100_s": 6.4,
       "max_cltc_ev_km": 625,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaopeng/g6-2026.json",
       "source_urls": [
         "https://www.xiaopeng.com/g6_2026/configuration.html"
@@ -32,15 +54,20 @@
     {
       "brand": "xiaopeng",
       "brand_name": "小鹏汽车",
+      "origin_type": "国产",
       "model": "2026款小鹏G7",
       "model_slug": "g7-2026",
       "sub_brand": null,
       "category": "中大型SUV",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "interior_image_url": null,
       "powertrains": [
         "BEV",
         "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 5,
@@ -48,6 +75,22 @@
       "price_max_rmb": 205800,
       "best_zero_to_100_s": 6.5,
       "max_cltc_ev_km": 702,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaopeng/g7-2026.json",
       "source_urls": [
         "https://www.xiaopeng.com/g7_2026/configuration.html"
@@ -56,14 +99,19 @@
     {
       "brand": "xiaopeng",
       "brand_name": "小鹏汽车",
+      "origin_type": "国产",
       "model": "2026款小鹏G9",
       "model_slug": "g9-2026",
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/08-07/pic_20260807113423_93692.png",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 5,
@@ -71,6 +119,22 @@
       "price_max_rmb": 278800,
       "best_zero_to_100_s": 4.2,
       "max_cltc_ev_km": 725,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaopeng/g9-2026.json",
       "source_urls": [
         "https://www.xiaopeng.com/g9_2026/configuration.html"
@@ -79,15 +143,21 @@
     {
       "brand": "xiaopeng",
       "brand_name": "小鹏汽车",
+      "origin_type": "国产",
       "model": "小鹏GX",
       "model_slug": "gx-2026",
       "sub_brand": null,
       "category": "全尺寸大六座旗舰SUV",
       "release_date": "2026-05-20",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "interior_image_url": null,
       "powertrains": [
         "BEV",
         "REEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 8,
       "option_count": 6,
@@ -95,6 +165,22 @@
       "price_max_rmb": 359800,
       "best_zero_to_100_s": 4.98,
       "max_cltc_ev_km": 750,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": true,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaopeng/gx-2026.json",
       "source_urls": [
         "https://www.xiaopeng.com/gx/configuration.html"
@@ -103,14 +189,19 @@
     {
       "brand": "xiaopeng",
       "brand_name": "小鹏汽车",
+      "origin_type": "国产",
       "model": "2026款小鹏MONA M03",
       "model_slug": "mona-m03-2026",
       "sub_brand": null,
       "category": "紧凑型纯电掀背轿跑",
       "release_date": "2026-04-02",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 6,
       "option_count": 6,
@@ -118,6 +209,22 @@
       "price_max_rmb": 151800,
       "best_zero_to_100_s": 7.4,
       "max_cltc_ev_km": 640,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": true,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaopeng/mona-m03-2026.json",
       "source_urls": [
         "https://www.xiaopeng.com/m03_2026/configuration.html"
@@ -126,14 +233,20 @@
     {
       "brand": "xiaopeng",
       "brand_name": "小鹏汽车",
+      "origin_type": "国产",
       "model": "全新小鹏P7",
       "model_slug": "p7-2026",
       "sub_brand": null,
       "category": "中大型纯电运动轿跑",
       "release_date": "2025-08-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/XPeng_P7_II_MY2025_IMG03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 8,
@@ -141,6 +254,22 @@
       "price_max_rmb": 301800,
       "best_zero_to_100_s": 3.7,
       "max_cltc_ev_km": 820,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaopeng/p7-2026.json",
       "source_urls": [
         "https://www.xiaopeng.com/p7n/configuration.html"
@@ -149,15 +278,20 @@
     {
       "brand": "xiaopeng",
       "brand_name": "小鹏汽车",
+      "origin_type": "国产",
       "model": "2026款小鹏P7+",
       "model_slug": "p7-plus-2026",
       "sub_brand": null,
       "category": "中大型家用轿跑",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "interior_image_url": null,
       "powertrains": [
         "BEV",
         "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 4,
       "option_count": 7,
@@ -165,6 +299,22 @@
       "price_max_rmb": 198800,
       "best_zero_to_100_s": 5.9,
       "max_cltc_ev_km": 725,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaopeng/p7-plus-2026.json",
       "source_urls": [
         "https://www.xiaopeng.com/p7_plus_2026/configuration.html"
@@ -173,15 +323,20 @@
     {
       "brand": "xiaopeng",
       "brand_name": "小鹏汽车",
+      "origin_type": "国产",
       "model": "2026款小鹏X9",
       "model_slug": "x9-2026",
       "sub_brand": null,
       "category": "中大型7座MPV",
       "release_date": "2025-11-20",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+      "interior_image_url": null,
       "powertrains": [
         "BEV",
         "REEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 8,
       "option_count": 6,
@@ -189,6 +344,22 @@
       "price_max_rmb": 369800,
       "best_zero_to_100_s": 8.0,
       "max_cltc_ev_km": 750,
+      "ground_clearance_mm": 185,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/xiaopeng/x9-2026.json",
       "source_urls": [
         "https://www.xiaopeng.com/x9_2026/configuration.html"

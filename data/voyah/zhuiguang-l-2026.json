@@ -1,7 +1,7 @@
 {
   "brand": "voyah",
   "brand_name": "岚图",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "岚图追光L（2026款）",
   "model_slug": "zhuiguang-l-2026",
   "category": "中大型插混行政轿车",
@@ -26,7 +26,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 119
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 12min(320kW)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -73,28 +75,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+39英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "20英寸光晖轮毂（大饼轮毂）",
           "price_rmb": 10000,
-          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂"
+          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": 10000,
-          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身"
+          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价"
+          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价",
+          "availability": "标配"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": null,
-          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价"
+          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -114,7 +129,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 119
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -134,10 +150,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 12min(320kW)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -161,28 +178,41 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+39英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "20英寸光晖轮毂（大饼轮毂）",
           "price_rmb": 10000,
-          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂"
+          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": 10000,
-          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身"
+          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价"
+          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价",
+          "availability": "标配"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": null,
-          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价"
+          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价",
+          "availability": "可选"
         }
       ]
     },
@@ -202,7 +232,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 119
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -222,10 +253,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "20%-80% 12min(320kW)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -249,31 +281,59 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排控制屏",
+        "instrument_cluster": "10.25英寸全液晶仪表+39英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "20英寸光晖轮毂（大饼轮毂）",
           "price_rmb": 10000,
-          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂"
+          "details": "2026款四驱Ultra版可选装20英寸光晖电镀轮毂",
+          "availability": "可选"
         },
         {
           "name": "双拼色车身车漆",
           "price_rmb": 10000,
-          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身"
+          "details": "2026款四驱Ultra版可选装金銮红、金耀黑双拼色车身",
+          "availability": "可选"
         },
         {
           "name": "华为乾崑智驾ADS 4高阶功能包（城区NCA/记忆泊车）",
           "price_rmb": null,
-          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价"
+          "details": "全系标配192线激光雷达，城市路段领航辅助及记忆泊车为选配开通项，未公开官方单价",
+          "availability": "标配"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": null,
-          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价"
+          "details": "四驱Max、Ultra版配置表标注ETC为选装（尊荣版标配），未公开单价",
+          "availability": "标配"
         }
       ]
     }
   ],
-  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M03/73/B4/autohomecar__ChtpWGjnFsOAMo4rAAUIRhOAwv0356.png?x_image_process=text/5rG96L2m6Kej5b-n6ZO6/fontSize/12"
+  "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M03/73/B4/autohomecar__ChtpWGjnFsOAMo4rAAUIRhOAwv0356.png?x_image_process=text/5rG96L2m6Kej5b-n6ZO6/fontSize/12",
+  "promo_highlights": [
+    "截至2026年11月30日10,000元限时现金直减、本品置换至高30,000元",
+    "华为乾崑智驾ADS4.1高阶功能包21,000元抵扣券、首付50%起3年0息"
+  ],
+  "references": [
+    {
+      "title": "岚图 岚图追光L（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/8259.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

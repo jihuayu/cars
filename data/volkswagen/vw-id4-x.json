@@ -1,0 +1,143 @@
+{
+  "brand": "volkswagen",
+  "brand_name": "大众新能源",
+  "model": "大众ID.4 X",
+  "model_slug": "vw-id4-x",
+  "origin_type": "合资/外资",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2025-05-16",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "聪明款限时一口价13.99万元起，出众版14.75万元起"
+  ],
+  "source_urls": [
+    "https://m.svw-volkswagen.com/id4x",
+    "https://car.autohome.com.cn/config/series/5511.html"
+  ],
+  "references": [
+    {
+      "title": "ID.4 X 聪明款官方页面 - 上汽大众官网",
+      "url": "https://m.svw-volkswagen.com/id4x",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "ID.4 X参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/5511.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "vw-id4-x-2025-pure",
+      "sku_name": "2025款 改款 聪明款 纯净智享版",
+      "price_rmb": 159888,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4612,
+        "width_mm": 1852,
+        "height_mm": 1640,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1960
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 125,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 52.8,
+        "cltc_pure_electric_range_km": 425,
+        "fast_charge_time": "0.67小时(0-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "IQ.Drive(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "5.3英寸悬浮数字仪表",
+        "screens": "12.9英寸中控屏(ID.S 5.0)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "vw-id4-x-2025-ultra",
+      "sku_name": "2025款 改款 聪明款 极智长续航版",
+      "price_rmb": 211888,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4612,
+        "width_mm": 1852,
+        "height_mm": 1640,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2120
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 170,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 80.2,
+        "cltc_pure_electric_range_km": 601,
+        "fast_charge_time": "0.67小时(0-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "IQ.Drive(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "5.3英寸悬浮数字仪表",
+        "screens": "12.9英寸中控屏(ID.S 5.0)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

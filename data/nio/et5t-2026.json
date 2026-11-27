@@ -1,7 +1,7 @@
 {
   "brand": "nio",
   "brand_name": "蔚来",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2026款蔚来ET5T",
   "model_slug": "et5t-2026",
   "category": "中型纯电旅行车",
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "支持3分钟自动换电+直流快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆式前悬架",
@@ -73,38 +74,53 @@
         "hud": "18.8英寸HUD",
         "audio": "7.1.4沉浸声音响（23扬声器/1000W）",
         "fridge": null,
-        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.2英寸全液晶仪表+18.8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "20英寸轮圈",
           "price_rmb": 9500,
-          "details": "轮圈升级"
+          "details": "轮圈升级",
+          "availability": "可选"
         },
         {
           "name": "光感天幕",
           "price_rmb": 9500,
-          "details": "智能调光全景天幕"
+          "details": "智能调光全景天幕",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "车载情感伙伴"
+          "details": "车载情感伙伴",
+          "availability": "可选"
         },
         {
           "name": "拖挂套装（1400kg）",
           "price_rmb": 7500,
-          "details": "隐藏式电动拖钩"
+          "details": "隐藏式电动拖钩",
+          "availability": "可选"
         },
         {
           "name": "超清流媒体内后视镜",
           "price_rmb": 3800,
-          "details": "流媒体后视镜"
+          "details": "流媒体后视镜",
+          "availability": "可选"
         },
         {
           "name": "交流充放电套装",
           "price_rmb": 3000,
-          "details": "含车载OBC"
+          "details": "含车载OBC",
+          "availability": "可选"
         }
       ]
     },
@@ -144,10 +160,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "支持3分钟自动换电+直流快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆式前悬架",
@@ -171,38 +188,53 @@
         "hud": "18.8英寸HUD",
         "audio": "7.1.4沉浸声音响（23扬声器/1000W）",
         "fridge": null,
-        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.2英寸全液晶仪表+18.8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "20英寸轮圈",
           "price_rmb": 9500,
-          "details": "轮圈升级"
+          "details": "轮圈升级",
+          "availability": "可选"
         },
         {
           "name": "光感天幕",
           "price_rmb": 9500,
-          "details": "智能调光全景天幕"
+          "details": "智能调光全景天幕",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "车载情感伙伴"
+          "details": "车载情感伙伴",
+          "availability": "可选"
         },
         {
           "name": "拖挂套装（1400kg）",
           "price_rmb": 7500,
-          "details": "隐藏式电动拖钩"
+          "details": "隐藏式电动拖钩",
+          "availability": "可选"
         },
         {
           "name": "超清流媒体内后视镜",
           "price_rmb": 3800,
-          "details": "流媒体后视镜"
+          "details": "流媒体后视镜",
+          "availability": "可选"
         },
         {
           "name": "交流充放电套装",
           "price_rmb": 3000,
-          "details": "含车载OBC"
+          "details": "含车载OBC",
+          "availability": "可选"
         }
       ]
     },
@@ -242,10 +274,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "支持3分钟自动换电+直流快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆式前悬架",
@@ -269,41 +302,86 @@
         "hud": "18.8英寸HUD",
         "audio": "7.1.4沉浸声音响（23扬声器/1000W）",
         "fridge": null,
-        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.2英寸全液晶仪表+18.8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "20英寸轮圈",
           "price_rmb": 9500,
-          "details": "轮圈升级"
+          "details": "轮圈升级",
+          "availability": "可选"
         },
         {
           "name": "光感天幕",
           "price_rmb": 9500,
-          "details": "智能调光全景天幕"
+          "details": "智能调光全景天幕",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "车载情感伙伴"
+          "details": "车载情感伙伴",
+          "availability": "可选"
         },
         {
           "name": "拖挂套装（1400kg）",
           "price_rmb": 7500,
-          "details": "隐藏式电动拖钩"
+          "details": "隐藏式电动拖钩",
+          "availability": "可选"
         },
         {
           "name": "超清流媒体内后视镜",
           "price_rmb": 3800,
-          "details": "流媒体后视镜"
+          "details": "流媒体后视镜",
+          "availability": "可选"
         },
         {
           "name": "交流充放电套装",
           "price_rmb": 3000,
-          "details": "含车载OBC"
+          "details": "含车载OBC",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2023_NIO_ET5_Touring_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2023_NIO_ET5_Touring_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "截至2026年11月30日享0首付5免2、5折选装优惠、5年NOP+免费使用权",
+    "100kWh租电享首年租金付1赠1"
+  ],
+  "miit_filing": {
+    "miit_batch": "第392批",
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "蔚来 2026款蔚来ET5T 官方配置页 (www.nio.cn)",
+      "url": "https://www.nio.cn/et5t",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第392批申报目录：蔚来ET5T年度改款",
+      "url": "https://www.xchuxing.com/article/146985",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

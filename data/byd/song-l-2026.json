@@ -1,7 +1,7 @@
 {
   "brand": "byd",
   "brand_name": "比亚迪",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "比亚迪宋L（EV 智驾版 / 2026款 DM-i）",
   "model_slug": "song-l-2026",
   "category": "中型SUV",
@@ -23,7 +23,7 @@
         "height_mm": 1560,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2265,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 71.8,
         "cltc_pure_electric_range_km": 550,
         "cltc_combined_range_km": 550,
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 25min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -74,18 +75,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
           "price_rmb": null,
-          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。",
+          "availability": "可选"
         },
         {
           "name": "轮毂与高阶配置",
           "price_rmb": null,
-          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。",
+          "availability": "标配"
         }
       ]
     },
@@ -101,7 +114,7 @@
         "height_mm": 1560,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2265,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -117,7 +130,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 87.04,
         "cltc_pure_electric_range_km": 662,
         "cltc_combined_range_km": 662,
@@ -125,10 +138,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 25min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -152,18 +166,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
           "price_rmb": null,
-          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。",
+          "availability": "可选"
         },
         {
           "name": "轮毂与高阶配置",
           "price_rmb": null,
-          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。",
+          "availability": "标配"
         }
       ]
     },
@@ -179,7 +205,7 @@
         "height_mm": 1560,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2265,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -195,7 +221,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 87.04,
         "cltc_pure_electric_range_km": 662,
         "cltc_combined_range_km": 662,
@@ -203,10 +229,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 25min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -230,18 +257,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
           "price_rmb": null,
-          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。",
+          "availability": "可选"
         },
         {
           "name": "轮毂与高阶配置",
           "price_rmb": null,
-          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。",
+          "availability": "标配"
         }
       ]
     },
@@ -257,7 +296,7 @@
         "height_mm": 1560,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2265,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -273,7 +312,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 87.04,
         "cltc_pure_electric_range_km": 602,
         "cltc_combined_range_km": 602,
@@ -281,10 +320,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 25min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -308,18 +348,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
           "price_rmb": null,
-          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。",
+          "availability": "可选"
         },
         {
           "name": "轮毂与高阶配置",
           "price_rmb": null,
-          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。",
+          "availability": "标配"
         }
       ]
     },
@@ -335,7 +387,7 @@
         "height_mm": null,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2265,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -351,7 +403,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 18.3,
         "cltc_pure_electric_range_km": 130,
         "cltc_combined_range_km": null,
@@ -359,10 +411,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 23min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -386,18 +439,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
           "price_rmb": null,
-          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。",
+          "availability": "可选"
         },
         {
           "name": "轮毂与高阶配置",
           "price_rmb": null,
-          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。",
+          "availability": "标配"
         }
       ]
     },
@@ -413,7 +478,7 @@
         "height_mm": null,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2265,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -429,7 +494,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 26.6,
         "cltc_pure_electric_range_km": 200,
         "cltc_combined_range_km": 1630,
@@ -437,10 +502,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -464,18 +530,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
           "price_rmb": null,
-          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。",
+          "availability": "可选"
         },
         {
           "name": "轮毂与高阶配置",
           "price_rmb": null,
-          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。",
+          "availability": "标配"
         }
       ]
     },
@@ -491,7 +569,7 @@
         "height_mm": null,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2265,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -507,7 +585,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 26.6,
         "cltc_pure_electric_range_km": 200,
         "cltc_combined_range_km": 1630,
@@ -515,10 +593,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 17min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂/麦弗逊",
@@ -542,21 +621,70 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "高配前排加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "外观金属车漆（官窑灰/星河米/雪域白/墨玉黑）",
           "price_rmb": null,
-          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。"
+          "details": "2026款宋L DM-i新增官窑灰、星河米等专属原厂金属车漆，官网未披露额外选装加价。",
+          "availability": "可选"
         },
         {
           "name": "轮毂与高阶配置",
           "price_rmb": null,
-          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。"
+          "details": "2026款宋L DM-i推出130KM超越型、200KM超越型、200KM卓越型三款配置，云辇-C底盘与天神之眼智驾为全系标配，未公布独立付费选装包价格。",
+          "availability": "标配"
         }
       ]
     }
   ],
-  "image_url": "https://www.byd.com/material/domestic-official/dynasty/home/1-kv/icon-0331/qin/26-song-l-dm-i/26-song-l-dm-i-kv-p.jpg"
+  "image_url": "https://www.byd.com/material/domestic-official/dynasty/home/1-kv/icon-0331/qin/26-song-l-dm-i/26-song-l-dm-i-kv-p.jpg",
+  "promo_highlights": [
+    "2026款宋L DM-i享6300元金融贴息及5000元本品置换补贴",
+    "首任非营运车主三电终身质保"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 2265,
+    "gross_weight_kg": 2640,
+    "approach_departure_deg": "16/19",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪 比亚迪宋L（EV 智驾版 / 2026款 DM-i） 官方配置页 (www.bydauto.com.cn)",
+      "url": "https://www.bydauto.com.cn/pc/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪 比亚迪宋L（EV 智驾版 / 2026款 DM-i） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7220.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "宋L EV参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/69743.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2023/10/19/27b14202310191508312554.jpg"
 }

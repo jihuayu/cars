@@ -1,7 +1,7 @@
 {
   "brand": "aion",
   "brand_name": "广汽埃安",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "AION RT（2027款）",
   "model_slug": "aion-rt-2027",
   "category": "紧凑型纯电轿跑",
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 24min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -74,28 +75,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排主驾标配加热/通风，高配副驾加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "18英寸轮毂及轮胎（235/45 R18）",
           "price_rmb": 2000,
-          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）"
+          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": 200,
-          "details": "全系可选装"
+          "details": "全系可选装",
+          "availability": "全系可选"
         },
         {
           "name": "Ultra套装（激光雷达+尊享座舱）",
           "price_rmb": 20000,
-          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架"
+          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架",
+          "availability": "可选"
         },
         {
           "name": "高速领航+泊车辅助套装",
           "price_rmb": 4000,
-          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等"
+          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等",
+          "availability": "可选"
         }
       ]
     },
@@ -135,10 +150,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 24min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -162,28 +178,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排主驾标配加热/通风，高配副驾加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "18英寸轮毂及轮胎（235/45 R18）",
           "price_rmb": 2000,
-          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）"
+          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": 200,
-          "details": "全系可选装"
+          "details": "全系可选装",
+          "availability": "全系可选"
         },
         {
           "name": "Ultra套装（激光雷达+尊享座舱）",
           "price_rmb": 20000,
-          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架"
+          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架",
+          "availability": "可选"
         },
         {
           "name": "高速领航+泊车辅助套装",
           "price_rmb": 4000,
-          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等"
+          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等",
+          "availability": "可选"
         }
       ]
     },
@@ -223,10 +253,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 24min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -250,28 +281,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排主驾标配加热/通风，高配副驾加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "18英寸轮毂及轮胎（235/45 R18）",
           "price_rmb": 2000,
-          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）"
+          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": 200,
-          "details": "全系可选装"
+          "details": "全系可选装",
+          "availability": "全系可选"
         },
         {
           "name": "Ultra套装（激光雷达+尊享座舱）",
           "price_rmb": 20000,
-          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架"
+          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架",
+          "availability": "可选"
         },
         {
           "name": "高速领航+泊车辅助套装",
           "price_rmb": 4000,
-          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等"
+          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等",
+          "availability": "可选"
         }
       ]
     },
@@ -311,10 +356,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "99秒换电 / 26min快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -338,31 +384,68 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "seat_heating_ventilation": "前排主驾标配加热/通风，高配副驾加热/通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "18英寸轮毂及轮胎（235/45 R18）",
           "price_rmb": 2000,
-          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）"
+          "details": "标配215/55 R17，2027款605智豪版/710智豪版/710智尊版选配2000元（2026款为3000元）",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": 200,
-          "details": "全系可选装"
+          "details": "全系可选装",
+          "availability": "全系可选"
         },
         {
           "name": "Ultra套装（激光雷达+尊享座舱）",
           "price_rmb": 20000,
-          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架"
+          "details": "含126线激光雷达+Orin-X芯片+城市NDA智驾、主动进气格栅、多色氛围灯、外后视镜记忆、主副驾座椅记忆及一键放平、后排大扶手带弹出式杯架",
+          "availability": "可选"
         },
         {
           "name": "高速领航+泊车辅助套装",
           "price_rmb": 4000,
-          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等"
+          "details": "含高速领航辅助、自动/遥控/记忆泊车、前驻车雷达、并线辅助、倒车车侧预警等",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M07/CF/E2/400x400_1_q40_c40_autohomecar__ChxpVmpx1wWAWjGjACnS5iPPO1M801.jpg"
+  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M07/CF/E2/400x400_1_q40_c40_autohomecar__ChxpVmpx1wWAWjGjACnS5iPPO1M801.jpg",
+  "promo_highlights": [
+    "广汽本品置换补贴7000元/非广汽品牌置换补贴5000元",
+    "门店下定赠价值2000元新车礼包",
+    "首任非营运车主三电终身质保"
+  ],
+  "references": [
+    {
+      "title": "广汽埃安 AION RT（2027款） 官方配置页 (www.aion.com.cn)",
+      "url": "https://www.aion.com.cn/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "广汽埃安 AION RT（2027款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/7860.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "http://www.evobserver.com/wp-content/uploads/2024/09/2024092710302335.png"
 }

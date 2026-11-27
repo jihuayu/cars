@@ -1,7 +1,7 @@
 {
   "brand": "fangchengbao",
   "brand_name": "方程豹",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "方程豹豹5（2026款）",
   "model_slug": "bao5-2026",
   "category": "中型硬派电驱越野SUV",
@@ -26,7 +26,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-310"
       },
       "performance": {
         "drive_type": "DMO双电机四驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,23 +75,37 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源（2.2kW）",
+        "instrument_cluster": "12.3英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。"
+          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及2.5T拖车资质+前桥差速锁",
           "price_rmb": 8000,
-          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。"
+          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板 / 20英寸轮毂 / 专属外观车漆",
           "price_rmb": null,
-          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。"
+          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         }
       ]
     },
@@ -109,7 +125,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-310"
       },
       "performance": {
         "drive_type": "DMO双电机四驱",
@@ -129,10 +146,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -156,23 +174,37 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源（2.2kW）",
+        "instrument_cluster": "12.3英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。"
+          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及2.5T拖车资质+前桥差速锁",
           "price_rmb": 8000,
-          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。"
+          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板 / 20英寸轮毂 / 专属外观车漆",
           "price_rmb": null,
-          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。"
+          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         }
       ]
     },
@@ -192,7 +224,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-310"
       },
       "performance": {
         "drive_type": "DMO双电机四驱",
@@ -212,10 +245,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -239,23 +273,37 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源（2.2kW）",
+        "instrument_cluster": "12.3英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。"
+          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及2.5T拖车资质+前桥差速锁",
           "price_rmb": 8000,
-          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。"
+          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板 / 20英寸轮毂 / 专属外观车漆",
           "price_rmb": null,
-          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。"
+          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         }
       ]
     },
@@ -275,7 +323,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-310"
       },
       "performance": {
         "drive_type": "DMO双电机四驱",
@@ -295,10 +344,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -322,23 +372,37 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源（2.2kW）",
+        "instrument_cluster": "12.3英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。"
+          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及2.5T拖车资质+前桥差速锁",
           "price_rmb": 8000,
-          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。"
+          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板 / 20英寸轮毂 / 专属外观车漆",
           "price_rmb": null,
-          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。"
+          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         }
       ]
     },
@@ -358,7 +422,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-310"
       },
       "performance": {
         "drive_type": "DMO双电机四驱",
@@ -378,10 +443,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -405,23 +471,37 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源（2.2kW）",
+        "instrument_cluster": "12.3英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。"
+          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及2.5T拖车资质+前桥差速锁",
           "price_rmb": 8000,
-          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。"
+          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板 / 20英寸轮毂 / 专属外观车漆",
           "price_rmb": null,
-          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。"
+          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         }
       ]
     },
@@ -441,7 +521,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "220-310"
       },
       "performance": {
         "drive_type": "DMO双电机四驱",
@@ -461,10 +542,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -488,26 +570,55 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "标配 后备厢220V电源（2.2kW）",
+        "instrument_cluster": "12.3英寸全液晶仪表+26英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，高配二排加热/通风",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "高配标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。"
+          "details": "2026款豹5云辇闪充版等车型支持选装，包含一年大疆DJI Care随心换车载无人机版（968元）、智能机库（含4K超广角车顶摄像头）、DJI AIR 3S定制车载无人机及定制双模式手柄。",
+          "availability": "可选"
         },
         {
           "name": "拖车钩及2.5T拖车资质+前桥差速锁",
           "price_rmb": 8000,
-          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。"
+          "details": "包含2.5T原厂拖挂资质、机械拖车钩、拖车电源取电口以及前桥差速锁，官方选装价8000元。",
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板 / 20英寸轮毂 / 专属外观车漆",
           "price_rmb": null,
-          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。"
+          "details": "2026款提供5款外观配色，电动踏板、大尺寸轮毂等配置按版型标配或通过官方选装基金抵扣，官网未公开单项统一选装价格。",
+          "promo_note": "选装基金抵扣",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://imgs.tom.com/auto/202308/1176417139/CONTENT69db35b6a91ec478.jpg"
+  "image_url": "https://imgs.tom.com/auto/202308/1176417139/CONTENT69db35b6a91ec478.jpg",
+  "promo_highlights": [
+    "截至2026年11月30日限时综合权益至高3.8万元",
+    "本品及硬派越野置换补贴10000元/他品8000元、闪充版赠12个月免费闪充"
+  ],
+  "references": [
+    {
+      "title": "方程豹 方程豹豹5（2026款） 官方配置页 (www.fangchengbao.com)",
+      "url": "https://www.fangchengbao.com/bao5",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2023/09/15/ece7c202309151519304875.jpg"
 }

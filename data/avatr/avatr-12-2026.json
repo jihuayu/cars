@@ -1,7 +1,7 @@
 {
   "brand": "avatr",
   "brand_name": "阿维塔",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "阿维塔12（2026款）",
   "model_slug": "avatr-12-2026",
   "category": "中大型豪华掀背轿车",
@@ -22,7 +22,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2325-2340",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -49,7 +49,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -73,28 +74,43 @@
         "hud": null,
         "audio": "英国之宝音响",
         "fridge": null,
-        "seat_features": "可选副驾零重力/4座VIP尊享包/16英寸后舱天幕屏"
+        "seat_features": "可选副驾零重力/4座VIP尊享包/16英寸后舱天幕屏",
+        "rear_screen": "选装/高配标配 16英寸后舱悬浮天幕屏（豪华影院套装）",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排标配加热(高配二排通风)",
+        "seat_massage": "前排按摩，高配或选装二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "主驾标配/副驾选装",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "外观选装色（云紫/曦金灰）",
           "price_rmb": 6000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "21英寸光束多辐轮毂 / 21英寸气旋五辐轮毂",
           "price_rmb": "10000 / 5000",
-          "details": "含前轮Brembo四活塞珊瑚红定钳"
+          "details": "含前轮Brembo四活塞珊瑚红定钳",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 豪华影院套装 / 4座VIP包",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -110,7 +126,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2325-2340",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -137,7 +153,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -161,28 +178,43 @@
         "hud": null,
         "audio": "英国之宝音响",
         "fridge": null,
-        "seat_features": "可选副驾零重力/4座VIP尊享包/16英寸后舱天幕屏"
+        "seat_features": "可选副驾零重力/4座VIP尊享包/16英寸后舱天幕屏",
+        "rear_screen": "选装/高配标配 16英寸后舱悬浮天幕屏（豪华影院套装）",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排标配加热(高配二排通风)",
+        "seat_massage": "前排按摩，高配或选装二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "主驾标配/副驾选装",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "外观选装色（云紫/曦金灰）",
           "price_rmb": 6000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "21英寸光束多辐轮毂 / 21英寸气旋五辐轮毂",
           "price_rmb": "10000 / 5000",
-          "details": "含前轮Brembo四活塞珊瑚红定钳"
+          "details": "含前轮Brembo四活塞珊瑚红定钳",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 豪华影院套装 / 4座VIP包",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -198,7 +230,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2325-2340",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -225,7 +257,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -249,28 +282,43 @@
         "hud": null,
         "audio": "英国之宝音响",
         "fridge": null,
-        "seat_features": "可选副驾零重力/4座VIP尊享包/16英寸后舱天幕屏"
+        "seat_features": "可选副驾零重力/4座VIP尊享包/16英寸后舱天幕屏",
+        "rear_screen": "选装/高配标配 16英寸后舱悬浮天幕屏（豪华影院套装）",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排标配加热(高配二排通风)",
+        "seat_massage": "前排按摩，高配或选装二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "主驾标配/副驾选装",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "外观选装色（云紫/曦金灰）",
           "price_rmb": 6000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "21英寸光束多辐轮毂 / 21英寸气旋五辐轮毂",
           "price_rmb": "10000 / 5000",
-          "details": "含前轮Brembo四活塞珊瑚红定钳"
+          "details": "含前轮Brembo四活塞珊瑚红定钳",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 豪华影院套装 / 4座VIP包",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         }
       ]
     },
@@ -286,7 +334,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "2325-2340",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -313,7 +361,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -337,31 +386,77 @@
         "hud": null,
         "audio": "英国之宝音响",
         "fridge": null,
-        "seat_features": "可选副驾零重力/4座VIP尊享包/16英寸后舱天幕屏"
+        "seat_features": "可选副驾零重力/4座VIP尊享包/16英寸后舱天幕屏",
+        "rear_screen": "选装/高配标配 16英寸后舱悬浮天幕屏（豪华影院套装）",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排标配加热(高配二排通风)",
+        "seat_massage": "前排按摩，高配或选装二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "主驾标配/副驾选装",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "外观选装色（云紫/曦金灰）",
           "price_rmb": 6000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "21英寸光束多辐轮毂 / 21英寸气旋五辐轮毂",
           "price_rmb": "10000 / 5000",
-          "details": "含前轮Brembo四活塞珊瑚红定钳"
+          "details": "含前轮Brembo四活塞珊瑚红定钳",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 豪华影院套装 / 4座VIP包",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://fs.avatr.com/avatar-boss-admin-view/img/095dd7db70475a16d45933716609a8da.png"
+  "image_url": "https://fs.avatr.com/avatar-boss-admin-view/img/095dd7db70475a16d45933716609a8da.png",
+  "promo_highlights": [
+    "截至2026年11月30日10000元购置税补贴、21000元ADS Max高阶功能包等额抵扣券",
+    "价值10000元副驾零重力座椅免费升级、价值3000元外饰色限时折扣",
+    "5年0息限时金融政策（20万限额）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第396批",
+    "product_model_code": "SC7150AAAK6HEV",
+    "curb_weight_kg": "2325-2340",
+    "gross_weight_kg": 2725,
+    "approach_departure_deg": null,
+    "battery_supplier": "时代长安动力电池/四川时代新能源"
+  },
+  "references": [
+    {
+      "title": "阿维塔 阿维塔12（2026款） 官方配置页 (www.avatr.com)",
+      "url": "https://www.avatr.com/configuration?car=12",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第396批：新款阿维塔12申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/20742648",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img.rednet.cn/2026/02-10/ae0723a2-77a0-49bc-92b0-6163d7eb9741.jpg"
 }

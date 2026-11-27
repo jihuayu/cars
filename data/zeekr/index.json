@@ -1,21 +1,28 @@
 {
   "brand": "zeekr",
   "brand_name": "极氪",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 6,
   "sku_count": 28,
   "models": [
     {
       "brand": "zeekr",
       "brand_name": "极氪",
+      "origin_type": "国产",
       "model": "极氪001（2026款）",
       "model_slug": "zeekr-001-2026",
       "sub_brand": null,
       "category": "中大型纯电猎装轿跑",
       "release_date": "2025-10-11",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/2022_Zeekr_001_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 5,
       "option_count": 3,
@@ -23,6 +30,22 @@
       "price_max_rmb": 365000,
       "best_zero_to_100_s": 2.83,
       "max_cltc_ev_km": 810,
+      "ground_clearance_mm": 170,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/zeekr/zeekr-001-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/zeekr001",
@@ -32,14 +55,20 @@
     {
       "brand": "zeekr",
       "brand_name": "极氪",
+      "origin_type": "国产",
       "model": "极氪007 / 007GT（2026款）",
       "model_slug": "zeekr-007-2026",
       "sub_brand": null,
       "category": "中型纯电轿车 / 猎装车",
       "release_date": "2026-04-10",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Zeekr_007_006_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 8,
       "option_count": 3,
@@ -47,6 +76,22 @@
       "price_max_rmb": 243900,
       "best_zero_to_100_s": 2.73,
       "max_cltc_ev_km": 905,
+      "ground_clearance_mm": 152,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/zeekr/zeekr-007-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/zeekr007",
@@ -56,14 +101,19 @@
     {
       "brand": "zeekr",
       "brand_name": "极氪",
+      "origin_type": "国产",
       "model": "极氪009（2026款 / 光辉版）",
       "model_slug": "zeekr-009-2026",
       "sub_brand": null,
       "category": "中大型豪华纯电MPV",
       "release_date": "2026-05-19",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Zeekr_009_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 5,
       "option_count": 2,
@@ -71,6 +121,22 @@
       "price_max_rmb": 899000,
       "best_zero_to_100_s": 3.9,
       "max_cltc_ev_km": 740,
+      "ground_clearance_mm": 142,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/zeekr/zeekr-009-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/zeekr009"
@@ -79,14 +145,20 @@
     {
       "brand": "zeekr",
       "brand_name": "极氪",
+      "origin_type": "国产",
       "model": "极氪7X（2026款）",
       "model_slug": "zeekr-7x-2026",
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2025-10-28",
       "image_url": "https://zcms.zeekrlife.com/published/assets/e43663416a6ef4d925d682a72c7414fbc36f7f3acc414df83565d9ea49287850/1574.jpg",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 2,
@@ -94,6 +166,22 @@
       "price_max_rmb": 269800,
       "best_zero_to_100_s": 2.98,
       "max_cltc_ev_km": 802,
+      "ground_clearance_mm": "150-230",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/zeekr/zeekr-7x-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/config"
@@ -102,14 +190,19 @@
     {
       "brand": "zeekr",
       "brand_name": "极氪",
+      "origin_type": "国产",
       "model": "极氪9X（2026款）",
       "model_slug": "zeekr-9x-2026",
       "sub_brand": null,
       "category": "全尺寸超豪华电混旗舰SUV",
       "release_date": "2025-09-29",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%28CHN-Hubei%29_Showcar_Zeekr_9X_No-plate_2025-12-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 5,
       "option_count": 2,
@@ -117,6 +210,22 @@
       "price_max_rmb": 599900,
       "best_zero_to_100_s": 3.1,
       "max_cltc_ev_km": 380,
+      "ground_clearance_mm": "200-208",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/zeekr/zeekr-9x-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/zeekr9x"
@@ -125,14 +234,20 @@
     {
       "brand": "zeekr",
       "brand_name": "极氪",
+      "origin_type": "国产",
       "model": "极氪MIX（2025款）",
       "model_slug": "zeekr-mix-2025",
       "sub_brand": null,
       "category": "中型纯电家庭跨界MPV",
       "release_date": "2024-10-23",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%28CHN-Shanghai%29_Showcar_Zeekr_Mix_No-plate_2024-12-08_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "interior_image_url": null,
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 2,
       "option_count": 1,
@@ -140,6 +255,22 @@
       "price_max_rmb": 299900,
       "best_zero_to_100_s": 6.8,
       "max_cltc_ev_km": 702,
+      "ground_clearance_mm": 165,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/zeekr/zeekr-mix-2025.json",
       "source_urls": [
         "https://m.zeekrlife.com/config"

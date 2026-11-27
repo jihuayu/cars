@@ -1,7 +1,7 @@
 {
   "brand": "leapmotor",
   "brand_name": "零跑汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "零跑Lafa5（2026款）",
   "model_slug": "lafa5-2026",
   "category": "紧凑型纯电两厢掀背车",
@@ -26,7 +26,8 @@
         "trunk_volume_l": "435/1400",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "127-154"
       },
       "performance": {
         "drive_type": "单电机后置后驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18-19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -73,13 +75,26 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "50:50黄金轴荷比两厢掀背"
+        "seat_features": "50:50黄金轴荷比两厢掀背",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性外饰色（液态银/雷厉黄/星芒绿）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -99,7 +114,8 @@
         "trunk_volume_l": "435/1400",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "127-154"
       },
       "performance": {
         "drive_type": "单电机后置后驱",
@@ -119,10 +135,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18-19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -146,13 +163,26 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "50:50黄金轴荷比两厢掀背"
+        "seat_features": "50:50黄金轴荷比两厢掀背",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性外饰色（液态银/雷厉黄/星芒绿）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -172,7 +202,8 @@
         "trunk_volume_l": "435/1400",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "127-154"
       },
       "performance": {
         "drive_type": "单电机后置后驱",
@@ -192,10 +223,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18-19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -219,13 +251,26 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "50:50黄金轴荷比两厢掀背"
+        "seat_features": "50:50黄金轴荷比两厢掀背",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性外饰色（液态银/雷厉黄/星芒绿）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -245,7 +290,8 @@
         "trunk_volume_l": "435/1400",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "127-154"
       },
       "performance": {
         "drive_type": "单电机后置后驱",
@@ -265,10 +311,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18-19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -292,13 +339,26 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "50:50黄金轴荷比两厢掀背"
+        "seat_features": "50:50黄金轴荷比两厢掀背",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性外饰色（液态银/雷厉黄/星芒绿）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -318,7 +378,8 @@
         "trunk_volume_l": "435/1400",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "127-154"
       },
       "performance": {
         "drive_type": "单电机后置后驱",
@@ -338,10 +399,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18-19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -365,13 +427,26 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "50:50黄金轴荷比两厢掀背"
+        "seat_features": "50:50黄金轴荷比两厢掀背",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性外饰色（液态银/雷厉黄/星芒绿）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -391,7 +466,8 @@
         "trunk_volume_l": "435/1400",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "127-154"
       },
       "performance": {
         "drive_type": "单电机后置后驱",
@@ -411,10 +487,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18-19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -438,13 +515,26 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "50:50黄金轴荷比两厢掀背"
+        "seat_features": "50:50黄金轴荷比两厢掀背",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性外饰色（液态银/雷厉黄/星芒绿）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     },
@@ -464,7 +554,8 @@
         "trunk_volume_l": "435/1400",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "127-154"
       },
       "performance": {
         "drive_type": "单电机后置后驱",
@@ -484,10 +575,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 18-19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "麦弗逊式独立悬架",
@@ -511,16 +603,59 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "50:50黄金轴荷比两厢掀背"
+        "seat_features": "50:50黄金轴荷比两厢掀背",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热、通风，二排无",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性外饰色（液态银/雷厉黄/星芒绿）",
           "price_rmb": 2000,
-          "details": "常限时免费"
+          "details": "常限时免费",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://ueapp-oss-static.leapmotor.com/img/basedatacartype/card/20261119/24f73f6260484130bbcf35d717a4f883.png"
+  "image_url": "https://ueapp-oss-static.leapmotor.com/img/basedatacartype/card/20261119/24f73f6260484130bbcf35d717a4f883.png",
+  "promo_highlights": [
+    "2026年11月焕新上市限时优惠价10.28万-12.88万元",
+    "截至2026年12月31日享至高17680元限时权益+8万2年0息"
+  ],
+  "miit_filing": {
+    "miit_batch": "第410批",
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": "14/22",
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "零跑汽车 零跑Lafa5（2026款） 官方配置页 (www.leapmotor.cn)",
+      "url": "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第410批：新款零跑Lafa5申报信息",
+      "url": "https://hao.yiche.com/wenzhang/112149377/",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "http://www.xinhuanet.com/auto/20251110/3181a3e8fdf74a5e9de4b506505c4ace/202511103181a3e8fdf74a5e9de4b506505c4ace_202511101126586130rId10image5.jpeg"
 }

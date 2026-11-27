@@ -1,0 +1,135 @@
+{
+  "brand": "bmw",
+  "brand_name": "宝马新能源",
+  "model": "宝马iX",
+  "model_slug": "bmw-ix",
+  "origin_type": "合资/外资",
+  "category": "中大型纯电SUV",
+  "release_date": "2023-07-24",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M00/CD/62/400x400_0_f42_autohomecar__ChxpVWrSxVuAJe3mAAZMqhV3dAE209.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "进口车型终端优惠幅度较大（部分门店优惠约25万-35万元）"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/4942.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 宝马iX参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/4942.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "bmw-ix-xdrive50",
+      "sku_name": "2023款改款xDrive 50",
+      "price_rmb": 846900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4955,
+        "width_mm": 1967,
+        "height_mm": 1698,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 665,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "Mobileye EyeQ5H",
+        "lidar": "无",
+        "system": "BMW自动驾驶辅助Pro"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "14.9英寸中控屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "bmw-ix-m60",
+      "sku_name": "2023款 M60",
+      "price_rmb": 1009900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4955,
+        "width_mm": 1967,
+        "height_mm": 1698,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 455,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 3.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 640,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "未知",
+        "cdc": "未知",
+        "rear_wheel_steering": "未知"
+      },
+      "adas": {
+        "chip": "Mobileye EyeQ5H",
+        "lidar": "无",
+        "system": "BMW自动驾驶辅助Pro"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "14.9英寸中控屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

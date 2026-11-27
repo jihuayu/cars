@@ -1,7 +1,7 @@
 {
   "brand": "lixiang",
   "brand_name": "理想汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "新一代理想L6",
   "model_slug": "l6-2026",
   "category": "中大型5座SUV",
@@ -24,11 +24,12 @@
         "height_mm": 1735,
         "wheelbase_mm": 2920,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2520,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 181
       },
       "performance": {
         "drive_type": "前后双电机智能全时四驱",
@@ -40,7 +41,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "增程专用超充电池",
-        "battery_supplier": null,
+        "battery_supplier": "欣旺达/理想自研电池",
         "battery_capacity_kwh": 51.0,
         "cltc_pure_electric_range_km": 300,
         "cltc_combined_range_km": 1250,
@@ -51,7 +52,8 @@
         "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": 50,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "全铝前双叉臂独立悬架",
@@ -75,46 +77,106 @@
         "hud": null,
         "audio": "标配音响（可选7.3.4铂金音响）",
         "fridge": "标配智能电动冷暖双用冰箱（支持-6℃冷冻）",
-        "seat_features": "标配二排140°大躺椅、高密度侧窗隐私帘、四门静音电吸门"
+        "seat_features": "标配二排140°大躺椅、高密度侧窗隐私帘、四门静音电吸门",
+        "rear_screen": "选装 21英寸后舱专属娱乐屏（10,000元）",
+        "instrument_cluster": "HUD无传统仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "选装(主驾10000元、副驾10000元)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆（沙丘黄/风信紫/小象灰/曜石黑）",
           "price_rmb": 6000,
-          "details": "标配陨石灰、珍珠白、GT银"
+          "details": "标配陨石灰、珍珠白、GT银",
+          "availability": "可选"
         },
         {
           "name": "原厂曜黑套件",
           "price_rmb": 2000,
-          "details": "高亮黑窗框饰条、后视镜底座、轮毂"
+          "details": "高亮黑窗框饰条、后视镜底座、轮毂",
+          "availability": "可选"
         },
         {
           "name": "前排双零重力座椅",
           "price_rmb": 20000,
-          "details": "16向电调、4向加热腿托、18点揉捏按摩"
+          "details": "16向电调、4向加热腿托、18点揉捏按摩",
+          "availability": "可选"
         },
         {
           "name": "后排娱乐套装",
           "price_rmb": 10000,
-          "details": "21英寸4K二排屏、顶棚化妆镜、流媒体后视镜、中置音响、二排RGB视觉模组"
+          "details": "21英寸4K二排屏、顶棚化妆镜、流媒体后视镜、中置音响、二排RGB视觉模组",
+          "availability": "可选"
         },
         {
           "name": "双马赫具身智能套装",
           "price_rmb": 30000,
-          "details": "增加1颗马赫M100芯片、3颗固态可变焦激光雷达、前排电动门"
+          "details": "增加1颗马赫M100芯片、3颗固态可变焦激光雷达、前排电动门",
+          "availability": "可选"
         },
         {
           "name": "原厂电动拖车钩",
           "price_rmb": 6000,
-          "details": "原厂电动拖车钩"
+          "details": "原厂电动拖车钩",
+          "availability": "可选"
         },
         {
           "name": "铂金音响系统",
           "price_rmb": 5000,
-          "details": "7.3.4全景声布局"
+          "details": "7.3.4全景声布局",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://p.ampmake.com/mall/20260723/cms/news/8f9fef5b-62da-4462-b592-03dc5357bdda.JPEG"
+  "image_url": "https://p.ampmake.com/mall/20260723/cms/news/8f9fef5b-62da-4462-b592-03dc5357bdda.JPEG",
+  "promo_highlights": [
+    "截至2026年11月30日限时购车权益最高45,735元（0首付5年分期3年0息）",
+    "赠送价值20,000元主副驾零重力座椅、4款车漆限时免费（价值6,000元）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第407批",
+    "product_model_code": null,
+    "curb_weight_kg": 2520,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "欣旺达/理想自研电池"
+  },
+  "references": [
+    {
+      "title": "理想汽车 新一代理想L6 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想汽车 新一代理想L6 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/L6",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想汽车 新一代理想L6 官方配置页 (www.lixiang.com)",
+      "url": "https://www.lixiang.com/news/184.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新理想L6工信部申报参数（第407批）",
+      "url": "https://db.m.auto.sohu.com/model_7311/a/1021140093_116210",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://www.7car.tw/uploads/article/53/103053/7car-202404301215-7.jpg"
 }

@@ -1,21 +1,27 @@
 {
   "brand": "fangchengbao",
   "brand_name": "方程豹",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 4,
   "sku_count": 17,
   "models": [
     {
       "brand": "fangchengbao",
       "brand_name": "方程豹",
+      "origin_type": "国产",
       "model": "方程豹豹5（2026款）",
       "model_slug": "bao5-2026",
       "sub_brand": null,
       "category": "中型硬派电驱越野SUV",
       "release_date": "2025-10-20",
       "image_url": "https://imgs.tom.com/auto/202308/1176417139/CONTENT69db35b6a91ec478.jpg",
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2023/09/15/ece7c202309151519304875.jpg",
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 6,
       "option_count": 3,
@@ -23,6 +29,22 @@
       "price_max_rmb": 329800,
       "best_zero_to_100_s": 4.8,
       "max_cltc_ev_km": 210,
+      "ground_clearance_mm": "220-310",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/fangchengbao/bao5-2026.json",
       "source_urls": [
         "https://www.fangchengbao.com/bao5"
@@ -31,14 +53,19 @@
     {
       "brand": "fangchengbao",
       "brand_name": "方程豹",
+      "origin_type": "国产",
       "model": "方程豹豹8（2026款闪充版）",
       "model_slug": "bao8-2026",
       "sub_brand": null,
       "category": "中大型智能硬派旗舰SUV",
       "release_date": "2026-05-13",
       "image_url": "https://n.sinaimg.cn/www/transform/278/w660h418/20241012/762a-f848c4c5679642abb2a990726962828c.jpg",
+      "interior_image_url": "https://n.sinaimg.cn/www/transform/300/w660h440/20240917/87a3-e887e95bc678a3504f1b3eeb2171ab59.jpg",
       "powertrains": [
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 7,
@@ -46,6 +73,22 @@
       "price_max_rmb": 427800,
       "best_zero_to_100_s": 4.8,
       "max_cltc_ev_km": 200,
+      "ground_clearance_mm": "220-320",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/fangchengbao/bao8-2026.json",
       "source_urls": [
         "https://www.fangchengbao.com/product/bao8.html"
@@ -54,14 +97,19 @@
     {
       "brand": "fangchengbao",
       "brand_name": "方程豹",
+      "origin_type": "国产",
       "model": "方程豹钛3（2026款闪充版）",
       "model_slug": "tai3-2026",
       "sub_brand": null,
       "category": "紧凑型纯电潮玩SUV",
       "release_date": "2026-03-13",
       "image_url": "https://q9.itc.cn/images01/20241211/96ce51fae93748c498ecaf1be5775148.jpeg",
+      "interior_image_url": "https://img2.autoimg.cn/svcovers/g25/M0A/58/51/CjIFV2hGTSqAAgZmAAjIStWof18044.jpg",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 3,
@@ -69,6 +117,22 @@
       "price_max_rmb": 169800,
       "best_zero_to_100_s": 4.7,
       "max_cltc_ev_km": 620,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/fangchengbao/tai3-2026.json",
       "source_urls": [
         "https://www.fangchengbao.com/"
@@ -77,15 +141,20 @@
     {
       "brand": "fangchengbao",
       "brand_name": "方程豹",
+      "origin_type": "国产",
       "model": "方程豹钛7（2026款 PHEV / EV闪充版）",
       "model_slug": "tai7-2026",
       "sub_brand": null,
       "category": "中大型方盒子SUV",
       "release_date": "2026-04-29",
       "image_url": "https://img1.mydrivers.com/img/20250621/33f664b3-924a-47ef-b8a7-98b75f0888bf.png",
+      "interior_image_url": "https://img.rednet.cn/2025/08-20/f7a37d67-7797-4e83-86ed-ea5403935e21.webp",
       "powertrains": [
         "BEV",
         "PHEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 5,
       "option_count": 5,
@@ -93,6 +162,22 @@
       "price_max_rmb": 239800,
       "best_zero_to_100_s": 4.5,
       "max_cltc_ev_km": 755,
+      "ground_clearance_mm": 205,
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/fangchengbao/tai7-2026.json",
       "source_urls": [
         "https://www.fangchengbao.com/disposition-tai7.html"

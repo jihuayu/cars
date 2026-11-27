@@ -1,0 +1,90 @@
+{
+  "brand": "tesla",
+  "brand_name": "特斯拉",
+  "model": "Model Y L",
+  "model_slug": "tesla-model-y-l",
+  "origin_type": "合资/外资",
+  "category": "中大型纯电六座SUV",
+  "release_date": "2025-08-19",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://img4.wtsimg.com/flashnews/images/20260621/feishu_GuO9b5bO4oFHnpxOGRwca1xCn7b.jpg!1200",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "纳入“特从容”5年0息金融方案（首付5.99万元起，截至2026-12-31）"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/spec/73654.html",
+    "http://auto.news18a.com/news/storys_267963.html"
+  ],
+  "references": [
+    {
+      "title": "汽车之家 Model Y L 2025款参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/73654.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "网通社 特斯拉Model Y L正式上市",
+      "url": "http://auto.news18a.com/news/storys_267963.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "tesla-model-y-l-2025-lr-awd",
+      "sku_name": "2025款 长续航全轮驱动版",
+      "price_rmb": 339000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4976,
+        "width_mm": 1920,
+        "height_mm": 1668,
+        "wheelbase_mm": 3040,
+        "ground_clearance_mm": 166,
+        "seats": 6,
+        "curb_weight_kg": 2088
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": 567,
+        "zero_to_100_s": 4.5
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 82.0,
+        "cltc_pure_electric_range_km": 751,
+        "fast_charge_time": "最高250kW快充",
+        "v2l_power_kw": 2.2
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Autopilot基础版（可选装FSD）"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "16英寸中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "二排独立座椅支持加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "brand": "leapmotor",
   "brand_name": "零跑汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2027款零跑C11",
   "model_slug": "c11-2027",
   "category": "中型5座SUV",
@@ -27,7 +27,8 @@
         "trunk_volume_l": "485/1151",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -39,7 +40,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/中凌新能源/凌骁能源",
         "battery_capacity_kwh": 41.7,
         "cltc_pure_electric_range_km": 300,
         "cltc_combined_range_km": 1220,
@@ -50,7 +51,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": 47,
-        "wltc_fuel_consumption_l_100km": 5.11
+        "wltc_fuel_consumption_l_100km": 5.11,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -74,13 +76,24 @@
         "hud": "高配AR-HUD",
         "audio": "高配21扬声器PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压套装"
+        "seat_features": "可选悦境零压套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压套装",
           "price_rmb": 10000,
-          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响"
+          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响",
+          "availability": "可选"
         }
       ]
     },
@@ -100,7 +113,8 @@
         "trunk_volume_l": "485/1151",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -112,7 +126,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/中凌新能源/凌骁能源",
         "battery_capacity_kwh": 41.7,
         "cltc_pure_electric_range_km": 300,
         "cltc_combined_range_km": 1220,
@@ -123,7 +137,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": 47,
-        "wltc_fuel_consumption_l_100km": 5.11
+        "wltc_fuel_consumption_l_100km": 5.11,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -147,13 +162,24 @@
         "hud": "高配AR-HUD",
         "audio": "高配21扬声器PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压套装"
+        "seat_features": "可选悦境零压套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压套装",
           "price_rmb": 10000,
-          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响"
+          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响",
+          "availability": "可选"
         }
       ]
     },
@@ -169,11 +195,12 @@
         "height_mm": 1658,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2398,
         "trunk_volume_l": "485/1151",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -185,7 +212,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/中凌新能源/凌骁能源",
         "battery_capacity_kwh": 81.9,
         "cltc_pure_electric_range_km": 640,
         "cltc_combined_range_km": 640,
@@ -196,7 +223,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -220,13 +248,24 @@
         "hud": "高配AR-HUD",
         "audio": "高配21扬声器PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压套装"
+        "seat_features": "可选悦境零压套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压套装",
           "price_rmb": 10000,
-          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响"
+          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响",
+          "availability": "可选"
         }
       ]
     },
@@ -242,11 +281,12 @@
         "height_mm": 1658,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2398,
         "trunk_volume_l": "485/1151",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -258,7 +298,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/中凌新能源/凌骁能源",
         "battery_capacity_kwh": 81.9,
         "cltc_pure_electric_range_km": 640,
         "cltc_combined_range_km": 640,
@@ -269,7 +309,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -293,13 +334,24 @@
         "hud": "高配AR-HUD",
         "audio": "高配21扬声器PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压套装"
+        "seat_features": "可选悦境零压套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压套装",
           "price_rmb": 10000,
-          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响"
+          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响",
+          "availability": "可选"
         }
       ]
     },
@@ -315,11 +367,12 @@
         "height_mm": 1658,
         "wheelbase_mm": 2930,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2398,
         "trunk_volume_l": "485/1151",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 175
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -331,7 +384,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "合肥国轩高科/中凌新能源/凌骁能源",
         "battery_capacity_kwh": 81.9,
         "cltc_pure_electric_range_km": 640,
         "cltc_combined_range_km": 640,
@@ -342,7 +395,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -366,16 +420,64 @@
         "hud": "高配AR-HUD",
         "audio": "高配21扬声器PSS音响",
         "fridge": null,
-        "seat_features": "可选悦境零压套装"
+        "seat_features": "可选悦境零压套装",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排按摩(高配，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配前排)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "悦境零压套装",
           "price_rmb": 10000,
-          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响"
+          "details": "主副驾双零重力+4向腿托+按摩+二排小桌板+头枕音响",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2020_Leapmotor_C11_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2020_Leapmotor_C11_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "智享版/激光雷达版限时享5000元悦境零压套装选装基金",
+    "限时免费享价值2000元云栖金车漆、本品增换购5000元补贴"
+  ],
+  "miit_filing": {
+    "miit_batch": "第414批",
+    "product_model_code": "FZ6500REEVWC11LB",
+    "curb_weight_kg": 2398,
+    "gross_weight_kg": 2885,
+    "approach_departure_deg": "17/19",
+    "battery_supplier": "合肥国轩高科/中凌新能源/凌骁能源"
+  },
+  "references": [
+    {
+      "title": "零跑汽车 2027款零跑C11 官方配置页 (cn.leapmotor.com)",
+      "url": "https://cn.leapmotor.com/parameter-pk-web.html?carTypeId=1&platform=web",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "零跑汽车 2027款零跑C11 官方配置页 (cn.leapmotor.com)",
+      "url": "https://cn.leapmotor.com/C11-aggregation.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第414批：零跑C11增程申报信息",
+      "url": "https://finance.sina.cn/2026-11-26/detail-inizyzmp9151622.d.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g33/M0B/9F/47/autohomecar__Chto52roMPeAUDqFAAbR970GNlU514.jpg?x_image_process=text/6L2m5ZyI6ICBSw==/fontSize/12"
 }

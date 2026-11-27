@@ -1,21 +1,27 @@
 {
   "brand": "arcfox",
   "brand_name": "极狐",
-  "data_as_of": "2026-11-26",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
   "model_count": 4,
   "sku_count": 15,
   "models": [
     {
       "brand": "arcfox",
       "brand_name": "极狐",
+      "origin_type": "国产",
       "model": "极狐阿尔法S5（2027款）",
       "model_slug": "alpha-s5-2027",
       "sub_brand": null,
       "category": "中型纯电轿跑",
       "release_date": "2026-11-16",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/C9/A4/400x400_1_q40_c40_autohomecar__ChtpWGrSCJOAZILpACJHIMvYGiM954.jpg",
+      "interior_image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M09/FF/06/600x337_q100_autohomecar__ChxpWGm4BG2AHFqjABBCxdBMUFQ994.png",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 3,
@@ -23,6 +29,22 @@
       "price_max_rmb": 144800,
       "best_zero_to_100_s": 5.9,
       "max_cltc_ev_km": 750,
+      "ground_clearance_mm": 120,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/arcfox/alpha-s5-2027.json",
       "source_urls": [
         "https://www.arcfox.com.cn/"
@@ -31,14 +53,19 @@
     {
       "brand": "arcfox",
       "brand_name": "极狐",
+      "origin_type": "国产",
       "model": "极狐阿尔法S6 / T6",
       "model_slug": "alpha-s6-t6-2026",
       "sub_brand": null,
       "category": "中大型纯电轿车 / SUV",
       "release_date": "2025-04-02",
       "image_url": "https://k2.autoimg.cn/koubeidfs/g28/M07/75/B3/800x600_1_q87_autohomecar__ChxkmmhZh2-ASa6nABfkZXf-mZY470.png.webp",
+      "interior_image_url": "https://global-img.bitauto.com/usercenter/autoalbum/20250624/11/w1200_m5_yichecar_074841701137367.jpg.webp",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
       ],
       "sku_count": 4,
       "option_count": 6,
@@ -46,6 +73,22 @@
       "price_max_rmb": 225800,
       "best_zero_to_100_s": 4.6,
       "max_cltc_ev_km": 735,
+      "ground_clearance_mm": 160,
+      "max_v2l_kw": 3.5,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/arcfox/alpha-s6-t6-2026.json",
       "source_urls": [
         "https://www.arcfox.com.cn/S6/index.html"
@@ -54,15 +97,21 @@
     {
       "brand": "arcfox",
       "brand_name": "极狐",
+      "origin_type": "国产",
       "model": "极狐全新阿尔法T5（2026款）",
       "model_slug": "alpha-t5-2026",
       "sub_brand": null,
       "category": "中型SUV",
       "release_date": "2025-10-28",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M00/99/0D/400x400_1_q40_c40_autohomecar__ChtpWGjpxT-AQyXyAEcn9wvZTKk54.jpeg",
+      "interior_image_url": "https://www.arcfox.com.cn/T5/images/m/part4.jpg",
       "powertrains": [
         "BEV",
         "REEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
       ],
       "sku_count": 5,
       "option_count": 3,
@@ -70,6 +119,22 @@
       "price_max_rmb": 158800,
       "best_zero_to_100_s": 6.5,
       "max_cltc_ev_km": 705,
+      "ground_clearance_mm": 166,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
       "file": "data/arcfox/alpha-t5-2026.json",
       "source_urls": [
         "https://www.arcfox.com.cn/T5/index.html"
@@ -78,14 +143,19 @@
     {
       "brand": "arcfox",
       "brand_name": "极狐",
+      "origin_type": "国产",
       "model": "极狐考拉S（2026款）",
       "model_slug": "kaola-s-2026",
       "sub_brand": null,
       "category": "紧凑型电动侧滑门纯电SUV",
       "release_date": "2026-01-13",
       "image_url": "https://www2.autoimg.cn/chejiahaodfs/g33/M06/60/5D/400x400_0_f42_autohomecar__ChxpVmlnSTiAOv7DAAFA5sN8K0k637.jpg",
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2023/01/09/d43c0202301092037516162.jpg",
       "powertrains": [
         "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
       ],
       "sku_count": 3,
       "option_count": 1,
@@ -93,6 +163,22 @@
       "price_max_rmb": 119800,
       "best_zero_to_100_s": null,
       "max_cltc_ev_km": 520,
+      "ground_clearance_mm": 145,
+      "max_v2l_kw": 3.5,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
       "file": "data/arcfox/kaola-s-2026.json",
       "source_urls": [
         "https://www.arcfox.com.cn/"

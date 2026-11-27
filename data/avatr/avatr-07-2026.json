@@ -1,7 +1,7 @@
 {
   "brand": "avatr",
   "brand_name": "阿维塔",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "阿维塔07（2026款）",
   "model_slug": "avatr-07-2026",
   "category": "中型SUV",
@@ -27,7 +27,8 @@
         "trunk_volume_l": "500-1325",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.259
+        "drag_coefficient_cd": 0.259,
+        "ground_clearance_mm": "147-156"
       },
       "performance": {
         "drive_type": "单电机后驱",
@@ -50,7 +51,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": 45,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -74,58 +76,79 @@
         "hud": null,
         "audio": "英国之宝16/25扬声器",
         "fridge": "可选装智能车载冷暖箱（2000元）",
-        "seat_features": "前排双零重力座椅、四门电吸门"
+        "seat_features": "前排双零重力座椅、四门电吸门",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排加热(高配二排通风)",
+        "seat_massage": "前排SPA级8点按摩(高配全车按摩，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力，部分版本选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装(部分高配标配)"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "宁德时代52.01kWh 5C骁遥大电池（增程可选）",
           "price_rmb": 20000,
-          "details": "纯电续航升至333km/综合1200km"
+          "details": "纯电续航升至333km/综合1200km",
+          "availability": "可选"
         },
         {
           "name": "英国之宝25扬声器卓越之声（Elite可选）",
           "price_rmb": 10000,
-          "details": "2016W 7.1.4声场"
+          "details": "2016W 7.1.4声场",
+          "availability": "可选"
         },
         {
           "name": "智能车载冷暖箱",
           "price_rmb": 2000,
-          "details": "车载冷暖箱"
+          "details": "车载冷暖箱",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 21英寸轮毂",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸大轮毂（265/45 R21）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "4L车载冷暖冰箱",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "25扬声器英国之宝音响",
           "price_rmb": 10000,
-          "details": "Elite版可选，Max+/Ultra标配"
+          "details": "Elite版可选，Max+/Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "尊享套装（NAPPA真皮座椅+NAPPA真皮方向盘+Dinamica超纤绒类麂皮顶棚）",
           "price_rmb": 10000,
-          "details": "Elite/Max+可选，Ultra标配"
+          "details": "Elite/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "探索套装（运动套件+行李箱金属装饰件+车门护板AVATR LED字标+LED前照灯行李架+拖车挂钩）",
           "price_rmb": 12000,
-          "details": "Ultra版可选"
+          "details": "Ultra版可选",
+          "availability": "可选"
         }
       ]
     },
@@ -141,11 +164,12 @@
         "height_mm": 1605,
         "wheelbase_mm": 2940,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2315,
         "trunk_volume_l": "500-1325",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.259
+        "drag_coefficient_cd": 0.259,
+        "ground_clearance_mm": "147-156"
       },
       "performance": {
         "drive_type": "单电机后驱",
@@ -168,7 +192,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": 45,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -192,58 +217,79 @@
         "hud": null,
         "audio": "英国之宝16/25扬声器",
         "fridge": "可选装智能车载冷暖箱（2000元）",
-        "seat_features": "前排双零重力座椅、四门电吸门"
+        "seat_features": "前排双零重力座椅、四门电吸门",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排加热(高配二排通风)",
+        "seat_massage": "前排SPA级8点按摩(高配全车按摩，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力，部分版本选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装(部分高配标配)"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "宁德时代52.01kWh 5C骁遥大电池（增程可选）",
           "price_rmb": 20000,
-          "details": "纯电续航升至333km/综合1200km"
+          "details": "纯电续航升至333km/综合1200km",
+          "availability": "可选"
         },
         {
           "name": "英国之宝25扬声器卓越之声（Elite可选）",
           "price_rmb": 10000,
-          "details": "2016W 7.1.4声场"
+          "details": "2016W 7.1.4声场",
+          "availability": "可选"
         },
         {
           "name": "智能车载冷暖箱",
           "price_rmb": 2000,
-          "details": "车载冷暖箱"
+          "details": "车载冷暖箱",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 21英寸轮毂",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸大轮毂（265/45 R21）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "4L车载冷暖冰箱",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "25扬声器英国之宝音响",
           "price_rmb": 10000,
-          "details": "Elite版可选，Max+/Ultra标配"
+          "details": "Elite版可选，Max+/Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "尊享套装（NAPPA真皮座椅+NAPPA真皮方向盘+Dinamica超纤绒类麂皮顶棚）",
           "price_rmb": 10000,
-          "details": "Elite/Max+可选，Ultra标配"
+          "details": "Elite/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "探索套装（运动套件+行李箱金属装饰件+车门护板AVATR LED字标+LED前照灯行李架+拖车挂钩）",
           "price_rmb": 12000,
-          "details": "Ultra版可选"
+          "details": "Ultra版可选",
+          "availability": "可选"
         }
       ]
     },
@@ -259,11 +305,12 @@
         "height_mm": 1605,
         "wheelbase_mm": 2940,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2315,
         "trunk_volume_l": "500-1325",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.259
+        "drag_coefficient_cd": 0.259,
+        "ground_clearance_mm": "147-156"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -286,7 +333,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": 45,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -310,58 +358,79 @@
         "hud": null,
         "audio": "英国之宝16/25扬声器",
         "fridge": "可选装智能车载冷暖箱（2000元）",
-        "seat_features": "前排双零重力座椅、四门电吸门"
+        "seat_features": "前排双零重力座椅、四门电吸门",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排加热(高配二排通风)",
+        "seat_massage": "前排SPA级8点按摩(高配全车按摩，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力，部分版本选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装(部分高配标配)"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "宁德时代52.01kWh 5C骁遥大电池（增程可选）",
           "price_rmb": 20000,
-          "details": "纯电续航升至333km/综合1200km"
+          "details": "纯电续航升至333km/综合1200km",
+          "availability": "可选"
         },
         {
           "name": "英国之宝25扬声器卓越之声（Elite可选）",
           "price_rmb": 10000,
-          "details": "2016W 7.1.4声场"
+          "details": "2016W 7.1.4声场",
+          "availability": "可选"
         },
         {
           "name": "智能车载冷暖箱",
           "price_rmb": 2000,
-          "details": "车载冷暖箱"
+          "details": "车载冷暖箱",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 21英寸轮毂",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸大轮毂（265/45 R21）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "4L车载冷暖冰箱",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "25扬声器英国之宝音响",
           "price_rmb": 10000,
-          "details": "Elite版可选，Max+/Ultra标配"
+          "details": "Elite版可选，Max+/Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "尊享套装（NAPPA真皮座椅+NAPPA真皮方向盘+Dinamica超纤绒类麂皮顶棚）",
           "price_rmb": 10000,
-          "details": "Elite/Max+可选，Ultra标配"
+          "details": "Elite/Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "探索套装（运动套件+行李箱金属装饰件+车门护板AVATR LED字标+LED前照灯行李架+拖车挂钩）",
           "price_rmb": 12000,
-          "details": "Ultra版可选"
+          "details": "Ultra版可选",
+          "availability": "可选"
         }
       ]
     },
@@ -381,7 +450,8 @@
         "trunk_volume_l": "500-1325",
         "frunk_volume_l": 90,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.259
+        "drag_coefficient_cd": 0.259,
+        "ground_clearance_mm": "147-156"
       },
       "performance": {
         "drive_type": "单电机后驱",
@@ -404,7 +474,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -428,58 +499,79 @@
         "hud": null,
         "audio": "英国之宝16/25扬声器",
         "fridge": "可选装智能车载冷暖箱（2000元）",
-        "seat_features": "前排双零重力座椅、四门电吸门"
+        "seat_features": "前排双零重力座椅、四门电吸门",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排加热(高配二排通风)",
+        "seat_massage": "前排SPA级8点按摩(高配全车按摩，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力，部分版本选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装(部分高配标配)"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "宁德时代52.01kWh 5C骁遥大电池（增程可选）",
           "price_rmb": 20000,
-          "details": "纯电续航升至333km/综合1200km"
+          "details": "纯电续航升至333km/综合1200km",
+          "availability": "可选"
         },
         {
           "name": "英国之宝25扬声器卓越之声（Elite可选）",
           "price_rmb": 10000,
-          "details": "2016W 7.1.4声场"
+          "details": "2016W 7.1.4声场",
+          "availability": "可选"
         },
         {
           "name": "智能车载冷暖箱",
           "price_rmb": 2000,
-          "details": "车载冷暖箱"
+          "details": "车载冷暖箱",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 21英寸轮毂",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸大轮毂（265/45 R21）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "4L车载冷暖冰箱",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "25扬声器英国之宝音响",
           "price_rmb": 10000,
-          "details": "Elite版可选，Max+/Ultra标配"
+          "details": "Elite版可选，Max+/Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "尊享套装（NAPPA真皮座椅+NAPPA真皮方向盘+Dinamica超纤绒类麂皮顶棚）",
           "price_rmb": 10000,
-          "details": "Elite/Max+可选，Ultra标配"
+          "details": "Elite/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "探索套装（运动套件+行李箱金属装饰件+车门护板AVATR LED字标+LED前照灯行李架+拖车挂钩）",
           "price_rmb": 12000,
-          "details": "Ultra版可选"
+          "details": "Ultra版可选",
+          "availability": "可选"
         }
       ]
     },
@@ -495,11 +587,12 @@
         "height_mm": 1620,
         "wheelbase_mm": 2940,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2315,
         "trunk_volume_l": "500-1325",
         "frunk_volume_l": 90,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.259
+        "drag_coefficient_cd": 0.259,
+        "ground_clearance_mm": "147-156"
       },
       "performance": {
         "drive_type": "单电机后驱",
@@ -522,7 +615,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -546,58 +640,79 @@
         "hud": null,
         "audio": "英国之宝16/25扬声器",
         "fridge": "可选装智能车载冷暖箱（2000元）",
-        "seat_features": "前排双零重力座椅、四门电吸门"
+        "seat_features": "前排双零重力座椅、四门电吸门",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排加热(高配二排通风)",
+        "seat_massage": "前排SPA级8点按摩(高配全车按摩，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力，部分版本选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装(部分高配标配)"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "宁德时代52.01kWh 5C骁遥大电池（增程可选）",
           "price_rmb": 20000,
-          "details": "纯电续航升至333km/综合1200km"
+          "details": "纯电续航升至333km/综合1200km",
+          "availability": "可选"
         },
         {
           "name": "英国之宝25扬声器卓越之声（Elite可选）",
           "price_rmb": 10000,
-          "details": "2016W 7.1.4声场"
+          "details": "2016W 7.1.4声场",
+          "availability": "可选"
         },
         {
           "name": "智能车载冷暖箱",
           "price_rmb": 2000,
-          "details": "车载冷暖箱"
+          "details": "车载冷暖箱",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 21英寸轮毂",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸大轮毂（265/45 R21）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "4L车载冷暖冰箱",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "25扬声器英国之宝音响",
           "price_rmb": 10000,
-          "details": "Elite版可选，Max+/Ultra标配"
+          "details": "Elite版可选，Max+/Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "尊享套装（NAPPA真皮座椅+NAPPA真皮方向盘+Dinamica超纤绒类麂皮顶棚）",
           "price_rmb": 10000,
-          "details": "Elite/Max+可选，Ultra标配"
+          "details": "Elite/Max+可选，Ultra标配",
+          "availability": "可选"
         },
         {
           "name": "探索套装（运动套件+行李箱金属装饰件+车门护板AVATR LED字标+LED前照灯行李架+拖车挂钩）",
           "price_rmb": 12000,
-          "details": "Ultra版可选"
+          "details": "Ultra版可选",
+          "availability": "可选"
         }
       ]
     },
@@ -613,11 +728,12 @@
         "height_mm": 1620,
         "wheelbase_mm": 2940,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2315,
         "trunk_volume_l": "500-1325",
         "frunk_volume_l": 90,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": 0.259
+        "drag_coefficient_cd": 0.259,
+        "ground_clearance_mm": "147-156"
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -640,7 +756,8 @@
         "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂全铝独立悬架",
@@ -664,61 +781,120 @@
         "hud": null,
         "audio": "英国之宝16/25扬声器",
         "fridge": "可选装智能车载冷暖箱（2000元）",
-        "seat_features": "前排双零重力座椅、四门电吸门"
+        "seat_features": "前排双零重力座椅、四门电吸门",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "35.4英寸4K全景远端屏",
+        "seat_heating_ventilation": "前排加热/通风，二排加热(高配二排通风)",
+        "seat_massage": "前排SPA级8点按摩(高配全车按摩，是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(前排双零重力，部分版本选装)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "选装(部分高配标配)"
       },
       "options": [
         {
           "name": "华为乾崑ADS Max高阶功能包",
           "price_rmb": 36000,
-          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）"
+          "details": "2026年7月1日起恢复标准买断价36000元（阿维塔购车常赠20000-21000元抵扣券）",
+          "promo_note": "抵扣券",
+          "availability": "可选"
         },
         {
           "name": "宁德时代52.01kWh 5C骁遥大电池（增程可选）",
           "price_rmb": 20000,
-          "details": "纯电续航升至333km/综合1200km"
+          "details": "纯电续航升至333km/综合1200km",
+          "availability": "可选"
         },
         {
           "name": "英国之宝25扬声器卓越之声（Elite可选）",
           "price_rmb": 10000,
-          "details": "2016W 7.1.4声场"
+          "details": "2016W 7.1.4声场",
+          "availability": "可选"
         },
         {
           "name": "智能车载冷暖箱",
           "price_rmb": 2000,
-          "details": "车载冷暖箱"
+          "details": "车载冷暖箱",
+          "availability": "可选"
         },
         {
           "name": "超清电子外后视镜 / 21英寸轮毂",
           "price_rmb": null,
-          "details": "以官方配置器为准"
+          "details": "以官方配置器为准",
+          "availability": "可选"
         },
         {
           "name": "21英寸大轮毂（265/45 R21）",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "4L车载冷暖冰箱",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "25扬声器英国之宝音响",
           "price_rmb": 10000,
-          "details": "Elite版可选，Max+/Ultra标配"
+          "details": "Elite版可选，Max+/Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "尊享套装（NAPPA真皮座椅+NAPPA真皮方向盘+Dinamica超纤绒类麂皮顶棚）",
           "price_rmb": 10000,
-          "details": "Elite/Max+可选，Ultra标配"
+          "details": "Elite/Max+可选，Ultra标配",
+          "availability": "标配"
         },
         {
           "name": "探索套装（运动套件+行李箱金属装饰件+车门护板AVATR LED字标+LED前照灯行李架+拖车挂钩）",
           "price_rmb": 12000,
-          "details": "Ultra版可选"
+          "details": "Ultra版可选",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://static.avatr.com/pc-website/images/car07/v1/pc/KV_07.jpg"
+  "image_url": "https://static.avatr.com/pc-website/images/car07/v1/pc/KV_07.jpg",
+  "promo_highlights": [
+    "截至2026年11月30日限时21000元ADS Max高阶功能包等额抵扣券",
+    "5年0息限时金融政策（16万限额）",
+    "赠送ADS进阶功能包及首任车主终身三电质保"
+  ],
+  "miit_filing": {
+    "miit_batch": "第383批",
+    "product_model_code": "SC6481ECABEV",
+    "curb_weight_kg": 2315,
+    "gross_weight_kg": 2690,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "阿维塔 阿维塔07（2026款） 官方配置页 (www.avatr.com)",
+      "url": "https://www.avatr.com/configuration?car=07",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "阿维塔 阿维塔07（2026款） 官方配置页 (www.avatr.com)",
+      "url": "https://www.avatr.com/07",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第383批：阿维塔07申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/15191286",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://imgs.tom.com/auto/202406/1741021664/CONTENT2ec0846c8637cc89.jpg"
 }

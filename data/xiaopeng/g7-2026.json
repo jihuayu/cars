@@ -1,7 +1,7 @@
 {
   "brand": "xiaopeng",
   "brand_name": "小鹏汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2026款小鹏G7",
   "model_slug": "g7-2026",
   "category": "中大型SUV",
@@ -49,7 +49,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": 60,
-        "wltc_fuel_consumption_l_100km": 5.9
+        "wltc_fuel_consumption_l_100km": 5.9,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -73,33 +74,48 @@
         "hud": "87英寸追光全景HUD",
         "audio": "20扬声器7.1.4音响",
         "fridge": null,
-        "seat_features": "满配豪华舒适座椅"
+        "seat_features": "满配豪华舒适座椅",
+        "rear_screen": "标配 8英寸后排娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(87英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风(高配，覆盖坐垫及靠背)",
+        "seat_massage": "前排/二排(高配)按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片（2250 TOPS）+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片（2250 TOPS）+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂+米其林胎",
           "price_rmb": 6000,
-          "details": "轮毂/轮胎升级套装"
+          "details": "轮毂/轮胎升级套装",
+          "availability": "可选"
         },
         {
           "name": "黑武士升级套装",
           "price_rmb": 6000,
-          "details": "暗夜黑车漆+20英寸熏黑轮毂+熏黑卡钳"
+          "details": "暗夜黑车漆+20英寸熏黑轮毂+熏黑卡钳",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅",
           "price_rmb": 6000,
-          "details": "座椅升级套装"
+          "details": "座椅升级套装",
+          "availability": "可选"
         }
       ]
     },
@@ -142,7 +158,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": 60,
-        "wltc_fuel_consumption_l_100km": 5.9
+        "wltc_fuel_consumption_l_100km": 5.9,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -166,33 +183,48 @@
         "hud": "87英寸追光全景HUD",
         "audio": "20扬声器7.1.4音响",
         "fridge": null,
-        "seat_features": "满配豪华舒适座椅"
+        "seat_features": "满配豪华舒适座椅",
+        "rear_screen": "标配 8英寸后排娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(87英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风(高配，覆盖坐垫及靠背)",
+        "seat_massage": "前排/二排(高配)按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片（2250 TOPS）+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片（2250 TOPS）+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂+米其林胎",
           "price_rmb": 6000,
-          "details": "轮毂/轮胎升级套装"
+          "details": "轮毂/轮胎升级套装",
+          "availability": "可选"
         },
         {
           "name": "黑武士升级套装",
           "price_rmb": 6000,
-          "details": "暗夜黑车漆+20英寸熏黑轮毂+熏黑卡钳"
+          "details": "暗夜黑车漆+20英寸熏黑轮毂+熏黑卡钳",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅",
           "price_rmb": 6000,
-          "details": "座椅升级套装"
+          "details": "座椅升级套装",
+          "availability": "可选"
         }
       ]
     },
@@ -235,7 +267,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -259,33 +292,48 @@
         "hud": "87英寸追光全景HUD",
         "audio": "20扬声器7.1.4音响",
         "fridge": null,
-        "seat_features": "满配豪华舒适座椅"
+        "seat_features": "满配豪华舒适座椅",
+        "rear_screen": "标配 8英寸后排娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(87英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风(高配，覆盖坐垫及靠背)",
+        "seat_massage": "前排/二排(高配)按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片（2250 TOPS）+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片（2250 TOPS）+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂+米其林胎",
           "price_rmb": 6000,
-          "details": "轮毂/轮胎升级套装"
+          "details": "轮毂/轮胎升级套装",
+          "availability": "可选"
         },
         {
           "name": "黑武士升级套装",
           "price_rmb": 6000,
-          "details": "暗夜黑车漆+20英寸熏黑轮毂+熏黑卡钳"
+          "details": "暗夜黑车漆+20英寸熏黑轮毂+熏黑卡钳",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅",
           "price_rmb": 6000,
-          "details": "座椅升级套装"
+          "details": "座椅升级套装",
+          "availability": "可选"
         }
       ]
     },
@@ -328,7 +376,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -352,36 +401,80 @@
         "hud": "87英寸追光全景HUD",
         "audio": "20扬声器7.1.4音响",
         "fridge": null,
-        "seat_features": "满配豪华舒适座椅"
+        "seat_features": "满配豪华舒适座椅",
+        "rear_screen": "标配 8英寸后排娱乐屏",
+        "power_220v": "无",
+        "instrument_cluster": "AR-HUD无仪表(87英寸AR-HUD)",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风(高配，覆盖坐垫及靠背)",
+        "seat_massage": "前排/二排(高配)按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片（1500 TOPS）+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片（2250 TOPS）+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片（2250 TOPS）+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂+米其林胎",
           "price_rmb": 6000,
-          "details": "轮毂/轮胎升级套装"
+          "details": "轮毂/轮胎升级套装",
+          "availability": "可选"
         },
         {
           "name": "黑武士升级套装",
           "price_rmb": 6000,
-          "details": "暗夜黑车漆+20英寸熏黑轮毂+熏黑卡钳"
+          "details": "暗夜黑车漆+20英寸熏黑轮毂+熏黑卡钳",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅",
           "price_rmb": 6000,
-          "details": "座椅升级套装"
+          "details": "座椅升级套装",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png"
+  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+  "promo_highlights": [
+    "全系享8000元购车补贴、图灵AI智驾终身免费权益"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "小鹏汽车 2026款小鹏G7 官方配置页 (www.xiaopeng.com)",
+      "url": "https://www.xiaopeng.com/g7_2026/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏G7工信部电池申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/19266162",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

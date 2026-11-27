@@ -1,7 +1,7 @@
 {
   "brand": "onvo",
   "brand_name": "乐道",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "乐道L80（2026款）",
   "model_slug": "l80-2026",
   "category": "中大型5座纯电SUV",
@@ -26,7 +26,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 260
       },
       "performance": {
         "drive_type": "后驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -73,43 +75,59 @@
         "hud": null,
         "audio": null,
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排场景屏；Max+/Ultra+标配 17.3英寸3K天空娱乐屏",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（85kWh电池包）",
           "price_rmb": "899元/月",
-          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月"
+          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月",
+          "availability": "可选"
         },
         {
           "name": "星光设计套装",
           "price_rmb": 16800,
-          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈"
+          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈",
+          "availability": "全系可选"
         },
         {
           "name": "21英寸轮圈及轮胎",
           "price_rmb": 10000,
-          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）"
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）",
+          "availability": "标配"
         },
         {
           "name": "“步步高升”展翼电动脚踏板",
           "price_rmb": 10000,
-          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）"
+          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）",
+          "availability": "可选"
         },
         {
           "name": "17.3英寸3K后排吸顶娱乐屏",
           "price_rmb": 8000,
-          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）",
+          "availability": "可选"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "城市/高速领航辅助驾驶订阅（NOA/NOP+）",
           "price_rmb": null,
-          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准"
+          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准",
+          "availability": "全系可选"
         }
       ]
     },
@@ -129,7 +147,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 260
       },
       "performance": {
         "drive_type": "后驱",
@@ -149,10 +168,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -176,43 +196,59 @@
         "hud": null,
         "audio": null,
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排场景屏；Max+/Ultra+标配 17.3英寸3K天空娱乐屏",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（85kWh电池包）",
           "price_rmb": "899元/月",
-          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月"
+          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月",
+          "availability": "可选"
         },
         {
           "name": "星光设计套装",
           "price_rmb": 16800,
-          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈"
+          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈",
+          "availability": "全系可选"
         },
         {
           "name": "21英寸轮圈及轮胎",
           "price_rmb": 10000,
-          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）"
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）",
+          "availability": "标配"
         },
         {
           "name": "“步步高升”展翼电动脚踏板",
           "price_rmb": 10000,
-          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）"
+          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）",
+          "availability": "可选"
         },
         {
           "name": "17.3英寸3K后排吸顶娱乐屏",
           "price_rmb": 8000,
-          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "城市/高速领航辅助驾驶订阅（NOA/NOP+）",
           "price_rmb": null,
-          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准"
+          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准",
+          "availability": "全系可选"
         }
       ]
     },
@@ -232,7 +268,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 260
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -252,10 +289,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 25min / 换电",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": null,
@@ -279,46 +317,91 @@
         "hud": null,
         "audio": null,
         "fridge": "标配冷暖箱",
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 8英寸后排场景屏；Max+/Ultra+标配 17.3英寸3K天空娱乐屏",
+        "instrument_cluster": "AR-HUD无仪表",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "BaaS电池租用服务（85kWh电池包）",
           "price_rmb": "899元/月",
-          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月"
+          "details": "采用BaaS租电购车车价立减86,000元（15.68万元起），月租金899元/月",
+          "availability": "可选"
         },
         {
           "name": "星光设计套装",
           "price_rmb": 16800,
-          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈"
+          "details": "全系可选，包含星瀚蓝车身色与21英寸多辐玄晖轮圈",
+          "availability": "全系可选"
         },
         {
           "name": "21英寸轮圈及轮胎",
           "price_rmb": 10000,
-          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）"
+          "details": "全系标配20英寸轮圈，可选装21英寸轮圈（前255/50 R21、后275/45 R21，含六辐曜黑等样式）",
+          "availability": "标配"
         },
         {
           "name": "“步步高升”展翼电动脚踏板",
           "price_rmb": 10000,
-          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）"
+          "details": "Pro、Max+版可选装电动侧踏板（Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "17.3英寸3K后排吸顶娱乐屏",
           "price_rmb": 8000,
-          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）"
+          "details": "Pro版可选装17.3英寸3K后排娱乐屏（Max+、Ultra+版标配）",
+          "availability": "标配"
         },
         {
           "name": "遥控钥匙",
           "price_rmb": 399,
-          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）"
+          "details": "实体遥控钥匙选装（标配蓝牙/NFC/智能手表钥匙）",
+          "availability": "可选"
         },
         {
           "name": "城市/高速领航辅助驾驶订阅（NOA/NOP+）",
           "price_rmb": null,
-          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准"
+          "details": "全系支持城市及高速路段领航辅助驾驶订阅开通，具体月费以乐道官方智驾订阅方案为准",
+          "availability": "全系可选"
         }
       ]
     }
   ],
-  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l80/highlights/highlights-carousel-01-desktop.jpg"
+  "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l80/highlights/highlights-carousel-01-desktop.jpg",
+  "promo_highlights": [
+    "BaaS租电车价立减8.6万元（15.68万元起）、赠送5年NOA智能辅助驾驶免费使用权"
+  ],
+  "miit_filing": {
+    "miit_batch": "第403批",
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "乐道 乐道L80（2026款） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/series/8591.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第403批：乐道L80申报目录",
+      "url": "https://k.sina.com.cn/article_5911038801_160534b51027019ine.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

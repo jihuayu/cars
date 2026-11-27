@@ -1,7 +1,7 @@
 {
   "brand": "byd",
   "brand_name": "比亚迪",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "比亚迪海豹06（2027款 DM-i / EV）",
   "model_slug": "seal-06-2027",
   "category": "中型轿车",
@@ -39,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 230,
         "cltc_combined_range_km": null,
@@ -47,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球头麦弗逊",
@@ -74,18 +75,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "顶配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "天神之眼B-辅助驾驶激光版（DiPilot 300）",
           "price_rmb": null,
-          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。"
+          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆与轮毂",
           "price_rmb": null,
-          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。"
+          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。",
+          "availability": "可选"
         }
       ]
     },
@@ -117,7 +130,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 230,
         "cltc_combined_range_km": null,
@@ -125,10 +138,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球头麦弗逊",
@@ -152,18 +166,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "顶配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "天神之眼B-辅助驾驶激光版（DiPilot 300）",
           "price_rmb": null,
-          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。"
+          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆与轮毂",
           "price_rmb": null,
-          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。"
+          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。",
+          "availability": "可选"
         }
       ]
     },
@@ -195,7 +221,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 34.0,
         "cltc_pure_electric_range_km": 320,
         "cltc_combined_range_km": 2370,
@@ -203,10 +229,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球头麦弗逊",
@@ -230,18 +257,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "顶配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "天神之眼B-辅助驾驶激光版（DiPilot 300）",
           "price_rmb": null,
-          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。"
+          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆与轮毂",
           "price_rmb": null,
-          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。"
+          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。",
+          "availability": "可选"
         }
       ]
     },
@@ -273,7 +312,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 34.0,
         "cltc_pure_electric_range_km": 320,
         "cltc_combined_range_km": 2370,
@@ -281,10 +320,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球头麦弗逊",
@@ -308,18 +348,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "顶配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "天神之眼B-辅助驾驶激光版（DiPilot 300）",
           "price_rmb": null,
-          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。"
+          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。",
+          "availability": "标配"
         },
         {
           "name": "外观车漆与轮毂",
           "price_rmb": null,
-          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。"
+          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。",
+          "availability": "可选"
         }
       ]
     },
@@ -351,7 +403,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 52.87,
         "cltc_pure_electric_range_km": 530,
         "cltc_combined_range_km": 530,
@@ -359,10 +411,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球头麦弗逊",
@@ -386,18 +439,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "顶配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "天神之眼B-辅助驾驶激光版（DiPilot 300）",
           "price_rmb": null,
-          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。"
+          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆与轮毂",
           "price_rmb": null,
-          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。"
+          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。",
+          "availability": "可选"
         }
       ]
     },
@@ -429,7 +494,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 52.87,
         "cltc_pure_electric_range_km": 530,
         "cltc_combined_range_km": 530,
@@ -437,10 +502,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球头麦弗逊",
@@ -464,18 +530,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "顶配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "天神之眼B-辅助驾驶激光版（DiPilot 300）",
           "price_rmb": null,
-          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。"
+          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆与轮毂",
           "price_rmb": null,
-          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。"
+          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。",
+          "availability": "可选"
         }
       ]
     },
@@ -507,7 +585,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 64.32,
         "cltc_pure_electric_range_km": 630,
         "cltc_combined_range_km": 630,
@@ -515,10 +593,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球头麦弗逊",
@@ -542,18 +621,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "顶配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "天神之眼B-辅助驾驶激光版（DiPilot 300）",
           "price_rmb": null,
-          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。"
+          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆与轮毂",
           "price_rmb": null,
-          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。"
+          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。",
+          "availability": "可选"
         }
       ]
     },
@@ -585,7 +676,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪电池",
         "battery_capacity_kwh": 64.32,
         "cltc_pure_electric_range_km": 630,
         "cltc_combined_range_km": 630,
@@ -593,10 +684,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双球头麦弗逊",
@@ -620,21 +712,71 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表(高配+12英寸HUD)",
+        "seat_heating_ventilation": "高配前排加热/通风，低配及二排无",
+        "seat_massage": "顶配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "天神之眼B-辅助驾驶激光版（DiPilot 300）",
           "price_rmb": null,
-          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。"
+          "details": "2027款海豹06 EV/DM-i顶配630/320旗舰型标配车顶激光雷达与城市领航，尊享型支持付费选装，官网未公开统一单项选装价。",
+          "availability": "标配"
         },
         {
           "name": "外观车漆与轮毂",
           "price_rmb": null,
-          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。"
+          "details": "2027款共12款配置（EV与DM-i），云辇-C悬架、18英寸轮毂及W-HUD等核心配置主要通过舒享/智享/尊享/旗舰版型梯度划分，无独立公开价选装包。",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://global-img.bitauto.hk/usercenter/yhzx/20260727/300/w1260_m5_q100_yichecar_511623130087662.jpg"
+  "image_url": "https://global-img.bitauto.hk/usercenter/yhzx/20260727/300/w1260_m5_q100_yichecar_511623130087662.jpg",
+  "promo_highlights": [
+    "比亚迪本品置换补贴4000元/他品置换补贴3000元",
+    "0首付5年超长贷或首付50%起24期0息",
+    "EV版享一年免费闪充权益"
+  ],
+  "miit_filing": {
+    "miit_batch": "第393批",
+    "product_model_code": "BYD7150ADHEV6 / BYD7150ADHEV8",
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪 比亚迪海豹06（2027款 DM-i / EV） 官方配置页 (www.bydauto.com.cn)",
+      "url": "https://www.bydauto.com.cn/pc/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪 比亚迪海豹06（2027款 DM-i / EV） 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/config/spec/78809.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第393批：比亚迪海豹06申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/19669823",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img5.myhsw.cn/2024-04-24/TI4SkryhxxK54cHm.jpg"
 }

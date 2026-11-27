@@ -1,0 +1,145 @@
+{
+  "brand": "smart",
+  "brand_name": "smart",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 3,
+  "sku_count": 6,
+  "models": [
+    {
+      "brand": "smart",
+      "brand_name": "smart",
+      "origin_type": "合资/外资",
+      "model": "smart精灵#1",
+      "model_slug": "smart-1",
+      "sub_brand": null,
+      "category": "小型纯电SUV",
+      "release_date": "2026-08-06",
+      "image_url": "https://q3.itc.cn/q_70/images03/20260807/a5e2abff6f754b569dfa838b8fbe55b9.jpeg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 1,
+      "price_min_rmb": 152900,
+      "price_max_rmb": 172900,
+      "best_zero_to_100_s": 6.7,
+      "max_cltc_ev_km": 535,
+      "ground_clearance_mm": 181,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/smart/smart-1.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6369.html"
+      ]
+    },
+    {
+      "brand": "smart",
+      "brand_name": "smart",
+      "origin_type": "合资/外资",
+      "model": "smart精灵#3",
+      "model_slug": "smart-3",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2025-07-11",
+      "image_url": "https://m1.auto.itc.cn/c_fill,w_600,h_400/30139420.JPG",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 184900,
+      "price_max_rmb": 259900,
+      "best_zero_to_100_s": 3.6,
+      "max_cltc_ev_km": 555,
+      "ground_clearance_mm": 135,
+      "max_v2l_kw": 3.3,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/smart/smart-3.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7044.html"
+      ]
+    },
+    {
+      "brand": "smart",
+      "brand_name": "smart",
+      "origin_type": "合资/外资",
+      "model": "smart精灵#5",
+      "model_slug": "smart-5",
+      "sub_brand": null,
+      "category": "中型新能源SUV",
+      "release_date": "2026-08-21",
+      "image_url": "https://s3.xchuxing.com/xchuxing/article/2024/10/27/5403f20241027210828509.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV",
+        "PHEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 1,
+      "price_min_rmb": 189900,
+      "price_max_rmb": 379900,
+      "best_zero_to_100_s": 3.8,
+      "max_cltc_ev_km": 660,
+      "ground_clearance_mm": 192,
+      "max_v2l_kw": 3.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/smart/smart-5.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/spec/78924.html",
+        "https://car.autohome.com.cn/config/spec/75056.html"
+      ]
+    }
+  ]
+}

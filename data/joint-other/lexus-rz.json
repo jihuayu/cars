@@ -1,0 +1,151 @@
+{
+  "brand": "joint-other",
+  "brand_name": "马自达/福特/雷克萨斯",
+  "model": "雷克萨斯RZ",
+  "model_slug": "lexus-rz",
+  "origin_type": "合资/外资",
+  "category": "中型豪华纯电SUV",
+  "release_date": "2023-12-15",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://up-lexus-test.oss-cn-beijing.aliyuncs.com/news/7e26ca5ce01a4bc1a8caf5955c0d474f.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端优惠最高12万元，300e参考价23.59万起",
+    "6年/15万公里整车质保"
+  ],
+  "source_urls": [
+    "https://www.lexus.com.cn/node/5709",
+    "https://car.autohome.com.cn/config/series/6525.html"
+  ],
+  "references": [
+    {
+      "title": "全新RZ 300e上市-雷克萨斯官网",
+      "url": "https://www.lexus.com.cn/node/5709",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "雷克萨斯RZ参数配置-汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6525.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "rz-300e-zongxiang",
+      "sku_name": "2023款 300e 长续航纵享版",
+      "price_rmb": 379900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4805,
+        "width_mm": 1895,
+        "height_mm": 1635,
+        "wheelbase_mm": 2850,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1960
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 266.3,
+        "zero_to_100_s": 7.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 67.5,
+        "cltc_pure_electric_range_km": 614,
+        "fast_charge_time": "28分钟(至80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "可选运动阻尼",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "LSS+ 3.0(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "14英寸中控屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "科技智享A/B套装",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "360全景/HUD等"
+        }
+      ]
+    },
+    {
+      "sku_id": "rz-450e-zongling",
+      "sku_name": "2023款 450e 四驱纵领版",
+      "price_rmb": 459900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4805,
+        "width_mm": 1895,
+        "height_mm": 1635,
+        "wheelbase_mm": 2850,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2110
+      },
+      "performance": {
+        "drive_type": "双电机四驱(DIRECT4)",
+        "motor_power_kw": 230,
+        "motor_torque_nm": 434.8,
+        "zero_to_100_s": 5.3
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 66.0,
+        "cltc_pure_electric_range_km": 455,
+        "fast_charge_time": "28分钟(至80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "LSS+ 3.0(L2)"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶+HUD",
+        "screens": "14英寸中控屏",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热通风+后排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

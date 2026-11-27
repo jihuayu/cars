@@ -1,0 +1,99 @@
+{
+  "brand": "honda",
+  "brand_name": "本田新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 2,
+  "sku_count": 4,
+  "models": [
+    {
+      "brand": "honda",
+      "brand_name": "本田新能源",
+      "origin_type": "合资/外资",
+      "model": "广汽本田P7(烨P7)",
+      "model_slug": "honda-p7",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2025-04-15",
+      "image_url": "https://m3.auto.itc.cn/q_mini/carpics/360car/7389/-26709231831031073821742997073983.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 1,
+      "price_min_rmb": 199900,
+      "price_max_rmb": 249900,
+      "best_zero_to_100_s": 4.6,
+      "max_cltc_ev_km": 650,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.5,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/honda/honda-p7.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7677.html"
+      ]
+    },
+    {
+      "brand": "honda",
+      "brand_name": "本田新能源",
+      "origin_type": "合资/外资",
+      "model": "东风本田S7(烨S7)",
+      "model_slug": "honda-s7",
+      "sub_brand": null,
+      "category": "中型纯电SUV",
+      "release_date": "2025-03-06",
+      "image_url": "https://img.evlook.com/evlook/upload/series/133930454211355056.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 2,
+      "price_min_rmb": 199900,
+      "price_max_rmb": 249900,
+      "best_zero_to_100_s": 4.6,
+      "max_cltc_ev_km": 650,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 3.5,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/honda/honda-s7.json",
+      "source_urls": [
+        "https://www.dongfeng-honda.com/S7/configuration.html",
+        "https://car.autohome.com.cn/config/series/7676.html"
+      ]
+    }
+  ]
+}

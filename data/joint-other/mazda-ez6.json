@@ -1,0 +1,135 @@
+{
+  "brand": "joint-other",
+  "brand_name": "马自达/福特/雷克萨斯",
+  "model": "长安马自达EZ-6",
+  "model_slug": "mazda-ez6",
+  "origin_type": "合资/外资",
+  "category": "中型新能源掀背车",
+  "release_date": "2025-11-01",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://k.sinaimg.cn/n/default/f8781c75/20260807/qiche_019.jpeg/w700d1q75cms.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款官降2万，增程11.98万起，补贴后低至9.98万"
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7692.html"
+  ],
+  "references": [
+    {
+      "title": "马自达EZ-6参数配置-汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7692.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "ez6-reev-200-pro",
+      "sku_name": "2026款 增程200 Pro",
+      "price_rmb": 144800,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4921,
+        "width_mm": 1890,
+        "height_mm": 1485,
+        "wheelbase_mm": 2895,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1820
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 28.4,
+        "cltc_pure_electric_range_km": 200,
+        "fast_charge_time": "20分钟(30-80%)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "E-ZERO(L2.5)"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.1英寸液晶",
+        "screens": "14.6英寸(8155)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "选装",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "ez6-bev-600-max",
+      "sku_name": "2026款 纯电600 Max运动版",
+      "price_rmb": 162800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4921,
+        "width_mm": 1890,
+        "height_mm": 1485,
+        "wheelbase_mm": 2895,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1962
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 190,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 68.8,
+        "cltc_pure_electric_range_km": 600,
+        "fast_charge_time": "15分钟(30-80%)",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "E-ZERO(L2.5)"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.1英寸+AR-HUD",
+        "screens": "14.6英寸(8155)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "前排零重力",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

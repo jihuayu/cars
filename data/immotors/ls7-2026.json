@@ -1,7 +1,7 @@
 {
   "brand": "immotors",
   "brand_name": "智己汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "智己LS7 焕新版",
   "model_slug": "ls7-2026",
   "category": "中大型纯电SUV",
@@ -49,7 +49,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -73,28 +74,50 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "零重力座椅"
+        "seat_features": "零重力座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(可升降联屏)",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "22英寸锋锐撞色运动轮辋（前255/45 R22、后285/40 R22，米其林Pilot Sport EV）",
           "price_rmb": 22800,
-          "details": "限时权益免费升级"
+          "details": "限时权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益免费升级",
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘",
           "price_rmb": 2000,
-          "details": "限时权益免费升级"
+          "details": "限时权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益免费升级",
+          "availability": "可选"
         },
         {
           "name": "IM AD全功能包（城市NOA+高速高架NOA+代客泊车+信任增强）",
           "price_rmb": 36800,
-          "details": "限时权益终身免费使用"
+          "details": "限时权益终身免费使用",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益终身免费使用",
+          "availability": "可选"
         }
       ]
     },
@@ -137,7 +160,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -161,31 +185,68 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": "零重力座椅"
+        "seat_features": "零重力座椅",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "全液晶仪表(可升降联屏)",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "前排/二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "22英寸锋锐撞色运动轮辋（前255/45 R22、后285/40 R22，米其林Pilot Sport EV）",
           "price_rmb": 22800,
-          "details": "限时权益免费升级"
+          "details": "限时权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益免费升级",
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘",
           "price_rmb": 2000,
-          "details": "限时权益免费升级"
+          "details": "限时权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益免费升级",
+          "availability": "可选"
         },
         {
           "name": "IM AD全功能包（城市NOA+高速高架NOA+代客泊车+信任增强）",
           "price_rmb": 36800,
-          "details": "限时权益终身免费使用"
+          "details": "限时权益终身免费使用",
+          "promo_price_rmb": 0,
+          "promo_note": "限时权益终身免费使用",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://portal-static.immotors.com/images/portal/1749795176931%2540a349kp4v.png"
+  "image_url": "https://portal-static.immotors.com/images/portal/1749795176931%2540a349kp4v.png",
+  "promo_highlights": [
+    "上市限时权益价29.99万-32.99万元（直降10000元）",
+    "部分外观车漆限时选装价5800元、IM AD全功能包限时终身免费"
+  ],
+  "references": [
+    {
+      "title": "智己汽车 智己LS7 焕新版 参数配置与申报参考 (car.autohome.com.cn)",
+      "url": "https://car.autohome.com.cn/price/brand-448-632.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://imgs.tom.com/auto/202212/1916881117/CONTENT04b1f4696256d24e.jpg"
 }

@@ -1,0 +1,99 @@
+{
+  "brand": "nissan",
+  "brand_name": "日产新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 2,
+  "sku_count": 4,
+  "models": [
+    {
+      "brand": "nissan",
+      "brand_name": "日产新能源",
+      "origin_type": "合资/外资",
+      "model": "东风日产ARIYA艾睿雅",
+      "model_slug": "nissan-ariya",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2023-07-20",
+      "image_url": "https://ino.auto.itc.cn/c_zoom,w_480,h_320/q_mini/transparent-logo/6800/9ff76828b428fd4577dc574df394e67f.png",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 237900,
+      "price_max_rmb": 282900,
+      "best_zero_to_100_s": 5.1,
+      "max_cltc_ev_km": 623,
+      "ground_clearance_mm": 140,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/nissan/nissan-ariya.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6714.html"
+      ]
+    },
+    {
+      "brand": "nissan",
+      "brand_name": "日产新能源",
+      "origin_type": "合资/外资",
+      "model": "东风日产N7",
+      "model_slug": "nissan-n7",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2026-09-22",
+      "image_url": "https://img.dongfeng-nissan.com.cn/large-file/technology/page2/array/2d.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 139900,
+      "price_max_rmb": 156900,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 625,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": 6.6,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/nissan/nissan-n7.json",
+      "source_urls": [
+        "https://www.dongfeng-nissan.com.cn/car/n7",
+        "https://car.autohome.com.cn/config/series/7935.html"
+      ]
+    }
+  ]
+}

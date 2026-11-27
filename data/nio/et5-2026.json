@@ -1,7 +1,7 @@
 {
   "brand": "nio",
   "brand_name": "蔚来",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2026款蔚来ET5",
   "model_slug": "et5-2026",
   "category": "中型纯电轿跑",
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "支持3分钟自动换电+直流快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆式前悬架",
@@ -73,53 +74,71 @@
         "hud": "18.8英寸HUD",
         "audio": "7.1.4沉浸声音响（23扬声器）",
         "fridge": null,
-        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.2英寸全液晶仪表+18.8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆（云初黄/镜空粉/远空紫/月辉银）",
           "price_rmb": 10000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "Moon主题外观套件",
           "price_rmb": 4500,
-          "details": "哑光熏黑套件"
+          "details": "哑光熏黑套件",
+          "availability": "可选"
         },
         {
           "name": "轮圈升级（19英寸银辉 / 20英寸花竞·风速）",
           "price_rmb": "3500 / 9500",
-          "details": "标准版可选"
+          "details": "标准版可选",
+          "availability": "可选"
         },
         {
           "name": "气辉橙卡钳",
           "price_rmb": 3500,
-          "details": "高性能卡钳涂装"
+          "details": "高性能卡钳涂装",
+          "availability": "可选"
         },
         {
           "name": "特殊内饰（电驭紫/薄藤紫）",
           "price_rmb": 4800,
-          "details": "付费内饰"
+          "details": "付费内饰",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "标配NOMI Halo"
+          "details": "标配NOMI Halo",
+          "availability": "可选"
         },
         {
           "name": "拖挂套装（隐藏式电动拖钩）",
           "price_rmb": 7500,
-          "details": "合法拖挂资质"
+          "details": "合法拖挂资质",
+          "availability": "可选"
         },
         {
           "name": "超清流媒体内后视镜",
           "price_rmb": 3800,
-          "details": "流媒体内后视镜"
+          "details": "流媒体内后视镜",
+          "availability": "可选"
         },
         {
           "name": "交流充放电套装",
           "price_rmb": 3000,
-          "details": "含车载OBC"
+          "details": "含车载OBC",
+          "availability": "可选"
         }
       ]
     },
@@ -159,10 +178,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "支持3分钟自动换电+直流快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆式前悬架",
@@ -186,53 +206,71 @@
         "hud": "18.8英寸HUD",
         "audio": "7.1.4沉浸声音响（23扬声器）",
         "fridge": null,
-        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.2英寸全液晶仪表+18.8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆（云初黄/镜空粉/远空紫/月辉银）",
           "price_rmb": 10000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "Moon主题外观套件",
           "price_rmb": 4500,
-          "details": "哑光熏黑套件"
+          "details": "哑光熏黑套件",
+          "availability": "可选"
         },
         {
           "name": "轮圈升级（19英寸银辉 / 20英寸花竞·风速）",
           "price_rmb": "3500 / 9500",
-          "details": "标准版可选"
+          "details": "标准版可选",
+          "availability": "可选"
         },
         {
           "name": "气辉橙卡钳",
           "price_rmb": 3500,
-          "details": "高性能卡钳涂装"
+          "details": "高性能卡钳涂装",
+          "availability": "可选"
         },
         {
           "name": "特殊内饰（电驭紫/薄藤紫）",
           "price_rmb": 4800,
-          "details": "付费内饰"
+          "details": "付费内饰",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "标配NOMI Halo"
+          "details": "标配NOMI Halo",
+          "availability": "可选"
         },
         {
           "name": "拖挂套装（隐藏式电动拖钩）",
           "price_rmb": 7500,
-          "details": "合法拖挂资质"
+          "details": "合法拖挂资质",
+          "availability": "可选"
         },
         {
           "name": "超清流媒体内后视镜",
           "price_rmb": 3800,
-          "details": "流媒体内后视镜"
+          "details": "流媒体内后视镜",
+          "availability": "可选"
         },
         {
           "name": "交流充放电套装",
           "price_rmb": 3000,
-          "details": "含车载OBC"
+          "details": "含车载OBC",
+          "availability": "可选"
         }
       ]
     },
@@ -272,10 +310,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "支持3分钟自动换电+直流快充",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "五连杆式前悬架",
@@ -299,56 +338,104 @@
         "hud": "18.8英寸HUD",
         "audio": "7.1.4沉浸声音响（23扬声器）",
         "fridge": null,
-        "seat_features": "标配Nappa真皮+前排加热/通风/按摩"
+        "seat_features": "标配Nappa真皮+前排加热/通风/按摩",
+        "rear_screen": "不支持",
+        "instrument_cluster": "10.2英寸全液晶仪表+18.8英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "选装",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊车漆（云初黄/镜空粉/远空紫/月辉银）",
           "price_rmb": 10000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "Moon主题外观套件",
           "price_rmb": 4500,
-          "details": "哑光熏黑套件"
+          "details": "哑光熏黑套件",
+          "availability": "可选"
         },
         {
           "name": "轮圈升级（19英寸银辉 / 20英寸花竞·风速）",
           "price_rmb": "3500 / 9500",
-          "details": "标准版可选"
+          "details": "标准版可选",
+          "availability": "可选"
         },
         {
           "name": "气辉橙卡钳",
           "price_rmb": 3500,
-          "details": "高性能卡钳涂装"
+          "details": "高性能卡钳涂装",
+          "availability": "可选"
         },
         {
           "name": "特殊内饰（电驭紫/薄藤紫）",
           "price_rmb": 4800,
-          "details": "付费内饰"
+          "details": "付费内饰",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "标配NOMI Halo"
+          "details": "标配NOMI Halo",
+          "availability": "可选"
         },
         {
           "name": "拖挂套装（隐藏式电动拖钩）",
           "price_rmb": 7500,
-          "details": "合法拖挂资质"
+          "details": "合法拖挂资质",
+          "availability": "可选"
         },
         {
           "name": "超清流媒体内后视镜",
           "price_rmb": 3800,
-          "details": "流媒体内后视镜"
+          "details": "流媒体内后视镜",
+          "availability": "可选"
         },
         {
           "name": "交流充放电套装",
           "price_rmb": 3000,
-          "details": "含车载OBC"
+          "details": "含车载OBC",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/NIO_ET5_IMG_8291.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/NIO_ET5_IMG_8291.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "截至2026年11月30日享0首付5免2、5折选装优惠、5年NOP+免费使用权",
+    "100kWh租电享首年租金付1赠1、限时免费升级流媒体内后视镜（价值3,800元）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第392批",
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "蔚来 2026款蔚来ET5 官方配置页 (www.nio.cn)",
+      "url": "https://www.nio.cn/vehicle/configuration/et5",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第392批申报目录：蔚来ET5年度改款",
+      "url": "https://www.xchuxing.com/article/146985",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

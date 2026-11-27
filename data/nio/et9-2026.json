@@ -1,7 +1,7 @@
 {
   "brand": "nio",
   "brand_name": "蔚来",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "蔚来ET9",
   "model_slug": "et9-2026",
   "category": "全尺寸行政四座旗舰轿车",
@@ -22,11 +22,12 @@
         "height_mm": null,
         "wheelbase_mm": 3250,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2379,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 200
       },
       "performance": {
         "drive_type": "双电机四驱（前180kW/后340kW）",
@@ -38,7 +39,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "102kWh电池包",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 102,
         "cltc_pure_electric_range_km": "620-650",
         "cltc_combined_range_km": "620-650",
@@ -49,7 +50,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前五连杆独立悬架",
@@ -73,53 +75,71 @@
         "hud": "蓝宝石全焦段AR-HUD",
         "audio": "九霄天琴8.2.4.8音响（35扬声器/4420W）",
         "fridge": "行政冷暖箱",
-        "seat_features": "原生行政四座飞航头等舱"
+        "seat_features": "原生行政四座飞航头等舱",
+        "rear_screen": "标配 双14.5英寸OLED行政屏",
+        "instrument_cluster": "1.4米天际线屏(Skyline)+120英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排全方位按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "子夜镜瓷蓝专属车漆",
           "price_rmb": 30000,
-          "details": "高定车漆"
+          "details": "高定车漆",
+          "availability": "可选"
         },
         {
           "name": "其余特殊车漆（月辉银/南极星蓝/曙光金等）",
           "price_rmb": 10000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "轮圈升级（22英寸星叶 / 23英寸锻造）",
           "price_rmb": "6500-23500",
-          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500"
+          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500",
+          "availability": "可选"
         },
         {
           "name": "气辉橙卡钳",
           "price_rmb": 3500,
-          "details": "卡钳涂装"
+          "details": "卡钳涂装",
+          "availability": "可选"
         },
         {
           "name": "24K镀金车标套件",
           "price_rmb": 8000,
-          "details": "镀金车标"
+          "details": "镀金车标",
+          "availability": "可选"
         },
         {
           "name": "特殊内饰主题（探索/远航）",
           "price_rmb": 8000,
-          "details": "专属内饰"
+          "details": "专属内饰",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "情感交互伙伴"
+          "details": "情感交互伙伴",
+          "availability": "可选"
         },
         {
           "name": "NIO Link全景互联行政屏",
           "price_rmb": 13000,
-          "details": "后排双行政屏"
+          "details": "后排双行政屏",
+          "availability": "可选"
         },
         {
           "name": "天琴钻石高音",
           "price_rmb": 12000,
-          "details": "声学升级"
+          "details": "声学升级",
+          "availability": "可选"
         }
       ]
     },
@@ -135,11 +155,12 @@
         "height_mm": null,
         "wheelbase_mm": 3250,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2379,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 200
       },
       "performance": {
         "drive_type": "双电机四驱（前180kW/后340kW）",
@@ -151,7 +172,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "102kWh电池包",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 102,
         "cltc_pure_electric_range_km": "620-650",
         "cltc_combined_range_km": "620-650",
@@ -162,7 +183,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前五连杆独立悬架",
@@ -186,53 +208,71 @@
         "hud": "蓝宝石全焦段AR-HUD",
         "audio": "九霄天琴8.2.4.8音响（35扬声器/4420W）",
         "fridge": "行政冷暖箱",
-        "seat_features": "原生行政四座飞航头等舱"
+        "seat_features": "原生行政四座飞航头等舱",
+        "rear_screen": "标配 双14.5英寸OLED行政屏",
+        "instrument_cluster": "1.4米天际线屏(Skyline)+120英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排全方位按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "子夜镜瓷蓝专属车漆",
           "price_rmb": 30000,
-          "details": "高定车漆"
+          "details": "高定车漆",
+          "availability": "可选"
         },
         {
           "name": "其余特殊车漆（月辉银/南极星蓝/曙光金等）",
           "price_rmb": 10000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "轮圈升级（22英寸星叶 / 23英寸锻造）",
           "price_rmb": "6500-23500",
-          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500"
+          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500",
+          "availability": "可选"
         },
         {
           "name": "气辉橙卡钳",
           "price_rmb": 3500,
-          "details": "卡钳涂装"
+          "details": "卡钳涂装",
+          "availability": "可选"
         },
         {
           "name": "24K镀金车标套件",
           "price_rmb": 8000,
-          "details": "镀金车标"
+          "details": "镀金车标",
+          "availability": "可选"
         },
         {
           "name": "特殊内饰主题（探索/远航）",
           "price_rmb": 8000,
-          "details": "专属内饰"
+          "details": "专属内饰",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "情感交互伙伴"
+          "details": "情感交互伙伴",
+          "availability": "可选"
         },
         {
           "name": "NIO Link全景互联行政屏",
           "price_rmb": 13000,
-          "details": "后排双行政屏"
+          "details": "后排双行政屏",
+          "availability": "可选"
         },
         {
           "name": "天琴钻石高音",
           "price_rmb": 12000,
-          "details": "声学升级"
+          "details": "声学升级",
+          "availability": "可选"
         }
       ]
     },
@@ -248,11 +288,12 @@
         "height_mm": null,
         "wheelbase_mm": 3250,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2379,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 200
       },
       "performance": {
         "drive_type": "双电机四驱（前180kW/后340kW）",
@@ -264,7 +305,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": "102kWh电池包",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 102,
         "cltc_pure_electric_range_km": "620-650",
         "cltc_combined_range_km": "620-650",
@@ -275,7 +316,8 @@
         "v2l_power_kw": null,
         "battery_swap_supported": true,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前五连杆独立悬架",
@@ -299,56 +341,103 @@
         "hud": "蓝宝石全焦段AR-HUD",
         "audio": "九霄天琴8.2.4.8音响（35扬声器/4420W）",
         "fridge": "行政冷暖箱",
-        "seat_features": "原生行政四座飞航头等舱"
+        "seat_features": "原生行政四座飞航头等舱",
+        "rear_screen": "标配 双14.5英寸OLED行政屏",
+        "instrument_cluster": "1.4米天际线屏(Skyline)+120英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排全方位按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "子夜镜瓷蓝专属车漆",
           "price_rmb": 30000,
-          "details": "高定车漆"
+          "details": "高定车漆",
+          "availability": "可选"
         },
         {
           "name": "其余特殊车漆（月辉银/南极星蓝/曙光金等）",
           "price_rmb": 10000,
-          "details": "付费外观色"
+          "details": "付费外观色",
+          "availability": "可选"
         },
         {
           "name": "轮圈升级（22英寸星叶 / 23英寸锻造）",
           "price_rmb": "6500-23500",
-          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500"
+          "details": "星叶6500/揽月12000/花冠17000/花耀亮黑23500",
+          "availability": "可选"
         },
         {
           "name": "气辉橙卡钳",
           "price_rmb": 3500,
-          "details": "卡钳涂装"
+          "details": "卡钳涂装",
+          "availability": "可选"
         },
         {
           "name": "24K镀金车标套件",
           "price_rmb": 8000,
-          "details": "镀金车标"
+          "details": "镀金车标",
+          "availability": "可选"
         },
         {
           "name": "特殊内饰主题（探索/远航）",
           "price_rmb": 8000,
-          "details": "专属内饰"
+          "details": "专属内饰",
+          "availability": "可选"
         },
         {
           "name": "NOMI Mate 3.0",
           "price_rmb": 4900,
-          "details": "情感交互伙伴"
+          "details": "情感交互伙伴",
+          "availability": "可选"
         },
         {
           "name": "NIO Link全景互联行政屏",
           "price_rmb": 13000,
-          "details": "后排双行政屏"
+          "details": "后排双行政屏",
+          "availability": "可选"
         },
         {
           "name": "天琴钻石高音",
           "price_rmb": 12000,
-          "details": "声学升级"
+          "details": "声学升级",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nio_ET9_MY2025_IMG01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nio_ET9_MY2025_IMG01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "锁单放弃三项无忧权益包可直接减免10万元；保留权益包享10年每月4次免费换电+5年免费NOP+"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 2379,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "宁德时代"
+  },
+  "references": [
+    {
+      "title": "蔚来 蔚来ET9 官方配置页 (www.nio.cn)",
+      "url": "https://www.nio.cn/vehicle/configuration/et9",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来ET9工信部申报公示参数 - 中关村在线",
+      "url": "https://auto.zol.com.cn/909/9093445.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

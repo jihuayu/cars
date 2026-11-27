@@ -1,7 +1,7 @@
 {
   "brand": "immotors",
   "brand_name": "智己汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "智己LS9（旗舰大六座）",
   "model_slug": "ls9-2026",
   "category": "全尺寸旗舰6座SUV",
@@ -22,7 +22,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2695,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.77,
@@ -49,7 +49,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -73,68 +74,96 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "4D机械按摩+智控地暖系统"
+        "seat_features": "4D机械按摩+智控地暖系统",
+        "rear_screen": "标配 4K后排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "靠背4D机械按摩+坐垫6点气袋按摩(明确含座垫/臀部)",
+        "zero_gravity_seat": "标配(副驾+二排零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "高定大师艺术车色",
           "price_rmb": 5000,
-          "details": "上市权益免费升级"
+          "details": "上市权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "21英寸星耀多辐轮毂",
           "price_rmb": 12800,
-          "details": "上市权益免费升级"
+          "details": "上市权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "22英寸星芒镜面轮毂",
           "price_rmb": 26800,
-          "details": "大饼式轮毂"
+          "details": "大饼式轮毂",
+          "availability": "可选"
         },
         {
           "name": "豪华配置升级包",
           "price_rmb": 58800,
-          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（265/45 R21）",
           "price_rmb": 12800,
-          "details": "52/66 Ultra可选，Hyper标配"
+          "details": "52/66 Ultra可选，Hyper标配",
+          "availability": "可选"
         },
         {
           "name": "22英寸轮毂（265/40 R22）",
           "price_rmb": 26800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "B&O豪华音响（25喇叭）",
           "price_rmb": 32800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘（4向电动调节/电容感应）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "拖挂系统（原厂拖车钩及牵引资质+13 Pin专用电气接口+拖挂专用后防撞梁+保险杠，准拖1500kg）",
           "price_rmb": 2280,
-          "details": "Ultra可选，Hyper标配"
+          "details": "Ultra可选，Hyper标配",
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -150,7 +179,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2695,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.77,
@@ -177,7 +206,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -201,68 +231,96 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "4D机械按摩+智控地暖系统"
+        "seat_features": "4D机械按摩+智控地暖系统",
+        "rear_screen": "标配 4K后排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "靠背4D机械按摩+坐垫6点气袋按摩(明确含座垫/臀部)",
+        "zero_gravity_seat": "标配(副驾+二排零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "高定大师艺术车色",
           "price_rmb": 5000,
-          "details": "上市权益免费升级"
+          "details": "上市权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "21英寸星耀多辐轮毂",
           "price_rmb": 12800,
-          "details": "上市权益免费升级"
+          "details": "上市权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "22英寸星芒镜面轮毂",
           "price_rmb": 26800,
-          "details": "大饼式轮毂"
+          "details": "大饼式轮毂",
+          "availability": "可选"
         },
         {
           "name": "豪华配置升级包",
           "price_rmb": 58800,
-          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（265/45 R21）",
           "price_rmb": 12800,
-          "details": "52/66 Ultra可选，Hyper标配"
+          "details": "52/66 Ultra可选，Hyper标配",
+          "availability": "可选"
         },
         {
           "name": "22英寸轮毂（265/40 R22）",
           "price_rmb": 26800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "B&O豪华音响（25喇叭）",
           "price_rmb": 32800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘（4向电动调节/电容感应）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "拖挂系统（原厂拖车钩及牵引资质+13 Pin专用电气接口+拖挂专用后防撞梁+保险杠，准拖1500kg）",
           "price_rmb": 2280,
-          "details": "Ultra可选，Hyper标配"
+          "details": "Ultra可选，Hyper标配",
+          "availability": "可选"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     },
@@ -278,7 +336,7 @@
         "height_mm": null,
         "wheelbase_mm": null,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2695,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 4.77,
@@ -305,7 +363,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -329,71 +388,129 @@
         "hud": null,
         "audio": "丹麦B&O音响",
         "fridge": null,
-        "seat_features": "4D机械按摩+智控地暖系统"
+        "seat_features": "4D机械按摩+智控地暖系统",
+        "rear_screen": "标配 4K后排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "全液晶仪表(贯穿式联屏)+HUD",
+        "seat_heating_ventilation": "前排/二排加热、通风",
+        "seat_massage": "靠背4D机械按摩+坐垫6点气袋按摩(明确含座垫/臀部)",
+        "zero_gravity_seat": "标配(副驾+二排零重力)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "IM AD高级辅助驾驶全功能包",
           "price_rmb": 36800,
-          "details": "新车上市首任车主常赠5年或终身免费使用权"
+          "details": "新车上市首任车主常赠5年或终身免费使用权",
+          "promo_price_rmb": 0,
+          "promo_note": "终身免费使用权",
+          "availability": "可选"
         },
         {
           "name": "高定大师艺术车色",
           "price_rmb": 5000,
-          "details": "上市权益免费升级"
+          "details": "上市权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "21英寸星耀多辐轮毂",
           "price_rmb": 12800,
-          "details": "上市权益免费升级"
+          "details": "上市权益免费升级",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费/权益赠送",
+          "availability": "可选"
         },
         {
           "name": "22英寸星芒镜面轮毂",
           "price_rmb": 26800,
-          "details": "大饼式轮毂"
+          "details": "大饼式轮毂",
+          "availability": "可选"
         },
         {
           "name": "豪华配置升级包",
           "price_rmb": 58800,
-          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）"
+          "details": "智慧射灯+二排4D机械按摩+B&O+智能电动踏板（上市期常免费）",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂（265/45 R21）",
           "price_rmb": 12800,
-          "details": "52/66 Ultra可选，Hyper标配"
+          "details": "52/66 Ultra可选，Hyper标配",
+          "availability": "标配"
         },
         {
           "name": "22英寸轮毂（265/40 R22）",
           "price_rmb": 26800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "电动侧踏板",
           "price_rmb": 10000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "B&O豪华音响（25喇叭）",
           "price_rmb": 32800,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "YAT巡航型半幅柔感瞬热方向盘（4向电动调节/电容感应）",
           "price_rmb": 2000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         },
         {
           "name": "拖挂系统（原厂拖车钩及牵引资质+13 Pin专用电气接口+拖挂专用后防撞梁+保险杠，准拖1500kg）",
           "price_rmb": 2280,
-          "details": "Ultra可选，Hyper标配"
+          "details": "Ultra可选，Hyper标配",
+          "availability": "标配"
         },
         {
           "name": "一体式超广域智慧探射灯",
           "price_rmb": 8000,
-          "details": null
+          "details": null,
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://portal-static.immotors.com/images/portal/1784250480447%25406yrn3u13.jpg"
+  "image_url": "https://portal-static.immotors.com/images/portal/1784250480447%25406yrn3u13.jpg",
+  "promo_highlights": [
+    "全系上市权益价31.98万元起，LS9 Hyper权益价34.98万元（直降30000元）",
+    "限时升级21英寸星耀超多辐豪华轮辋"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 2695,
+    "gross_weight_kg": 3205,
+    "approach_departure_deg": null,
+    "battery_supplier": "时代上汽"
+  },
+  "references": [
+    {
+      "title": "智己汽车 智己LS9（旗舰大六座） 官方配置页 (www.immotors.com)",
+      "url": "https://www.immotors.com/website/news_detail/234",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智己LS9工信部申报参数",
+      "url": "https://chejiahao.m.autohome.com.cn/info/21116582",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M08/48/BB/400x400_0_f42_autohomecar__ChtpWGkJ5liAUi7oAA038-7nktE227.png"
 }

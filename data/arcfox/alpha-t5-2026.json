@@ -1,7 +1,7 @@
 {
   "brand": "arcfox",
   "brand_name": "极狐",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "极狐全新阿尔法T5（2026款）",
   "model_slug": "alpha-t5-2026",
   "category": "中型SUV",
@@ -22,11 +22,12 @@
         "height_mm": 1650,
         "wheelbase_mm": 2845,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1975,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 166
       },
       "performance": {
         "drive_type": "后驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -73,23 +75,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(22.8英寸HUD)",
+        "seat_heating_ventilation": "前排标配加热/通风，高配二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊外观色",
           "price_rmb": 5000,
-          "details": "限时赠送"
+          "details": "限时赠送",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": null,
-          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价",
+          "availability": "可选"
         },
         {
           "name": "外观个性配色",
           "price_rmb": null,
-          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准",
+          "availability": "可选"
         }
       ]
     },
@@ -105,11 +120,12 @@
         "height_mm": 1650,
         "wheelbase_mm": 2845,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1975,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 166
       },
       "performance": {
         "drive_type": "后驱",
@@ -129,10 +145,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -156,23 +173,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(22.8英寸HUD)",
+        "seat_heating_ventilation": "前排标配加热/通风，高配二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊外观色",
           "price_rmb": 5000,
-          "details": "限时赠送"
+          "details": "限时赠送",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": null,
-          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价",
+          "availability": "可选"
         },
         {
           "name": "外观个性配色",
           "price_rmb": null,
-          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准",
+          "availability": "可选"
         }
       ]
     },
@@ -188,11 +218,12 @@
         "height_mm": 1650,
         "wheelbase_mm": 2845,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1975,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 166
       },
       "performance": {
         "drive_type": "前驱",
@@ -212,10 +243,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -239,23 +271,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(22.8英寸HUD)",
+        "seat_heating_ventilation": "前排标配加热/通风，高配二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊外观色",
           "price_rmb": 5000,
-          "details": "限时赠送"
+          "details": "限时赠送",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": null,
-          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价",
+          "availability": "可选"
         },
         {
           "name": "外观个性配色",
           "price_rmb": null,
-          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准",
+          "availability": "可选"
         }
       ]
     },
@@ -271,11 +316,12 @@
         "height_mm": 1650,
         "wheelbase_mm": 2845,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1975,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 166
       },
       "performance": {
         "drive_type": "前驱",
@@ -295,10 +341,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 8.9min(5C)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -322,23 +369,36 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(22.8英寸HUD)",
+        "seat_heating_ventilation": "前排标配加热/通风，高配二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊外观色",
           "price_rmb": 5000,
-          "details": "限时赠送"
+          "details": "限时赠送",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": null,
-          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价",
+          "availability": "可选"
         },
         {
           "name": "外观个性配色",
           "price_rmb": null,
-          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准",
+          "availability": "可选"
         }
       ]
     },
@@ -354,11 +414,12 @@
         "height_mm": 1650,
         "wheelbase_mm": 2845,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1975,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 166
       },
       "performance": {
         "drive_type": "前驱",
@@ -378,10 +439,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂/三元锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -405,26 +467,70 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "高配标配 车内220V/230V电源",
+        "instrument_cluster": "AR-HUD无仪表(22.8英寸HUD)",
+        "seat_heating_ventilation": "前排标配加热/通风，高配二排加热",
+        "seat_massage": "高配前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "高配标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "特殊外观色",
           "price_rmb": 5000,
-          "details": "限时赠送"
+          "details": "限时赠送",
+          "availability": "可选"
         },
         {
           "name": "原厂ETC装置",
           "price_rmb": null,
-          "details": "2026款汽车之家配置表标注为选装项，未公开单价"
+          "details": "2026款汽车之家配置表标注为选装项，未公开单价",
+          "availability": "可选"
         },
         {
           "name": "外观个性配色",
           "price_rmb": null,
-          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准"
+          "details": "提供多款外观车漆及内饰配色方案，具体选装费用以官方APP及门店为准",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M00/99/0D/400x400_1_q40_c40_autohomecar__ChtpWGjpxT-AQyXyAEcn9wvZTKk54.jpeg"
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M00/99/0D/400x400_1_q40_c40_autohomecar__ChtpWGjpxT-AQyXyAEcn9wvZTKk54.jpeg",
+  "promo_highlights": [
+    "截至2026年11月30日限时优惠价10.48万元起（直降0.9万-1.1万元）",
+    "赠送价值5000元特殊外观色与价值4999元充电桩抵扣券",
+    "三电终身质保、电池自燃烧一赔一"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": "BJ6470A501BEV",
+    "curb_weight_kg": 1975,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": null
+  },
+  "references": [
+    {
+      "title": "极狐 极狐全新阿尔法T5（2026款） 官方配置页 (www.arcfox.com.cn)",
+      "url": "https://www.arcfox.com.cn/T5/index.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极狐阿尔法T5测评及型号公示 - 中汽测评",
+      "url": "https://c-ncap.org.cn/evaluation/559b59ea1c4dcf8eeb063bbf145127a2",
+      "type": "miit",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://www.arcfox.com.cn/T5/images/m/part4.jpg"
 }

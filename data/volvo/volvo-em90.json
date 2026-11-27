@@ -1,0 +1,90 @@
+{
+  "brand": "volvo",
+  "brand_name": "沃尔沃/极星",
+  "model": "沃尔沃EM90",
+  "model_slug": "volvo-em90",
+  "origin_type": "合资/外资",
+  "category": "中大型纯电MPV",
+  "release_date": "2026-04-24",
+  "data_as_of": "2026-11-27",
+  "image_url": null,
+  "interior_image_url": null,
+  "promo_highlights": [
+    "官方指导价81.80万元，置换补贴最高3万元等权益以门店为准"
+  ],
+  "source_urls": [
+    "https://www.volvocars.com.cn/zh-cn/l/specifications/em90-electric/",
+    "https://car.autohome.com.cn/config/series/7365.html"
+  ],
+  "references": [
+    {
+      "title": "沃尔沃官网 EM90参数配置",
+      "url": "https://www.volvocars.com.cn/zh-cn/l/specifications/em90-electric/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 沃尔沃EM90参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7365.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "volvo-em90-2027-ultra-6seat",
+      "sku_name": "2027款 Ultra 六座",
+      "price_rmb": 818000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5206,
+        "width_mm": 2024,
+        "height_mm": 1859,
+        "wheelbase_mm": 3205,
+        "ground_clearance_mm": 148,
+        "seats": 6,
+        "curb_weight_kg": 2763
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 343,
+        "zero_to_100_s": 8.3
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 116.0,
+        "cltc_pure_electric_range_km": 738,
+        "fast_charge_time": "0.47h(10-80%)",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "标配(双腔)",
+        "cdc": "标配(CDC)",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "2颗Mobileye EyeQ5H",
+        "lidar": "无",
+        "system": "Pilot Assist领航辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "未知",
+        "screens": "未知",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "brand": "denza",
   "brand_name": "腾势",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "腾势N8L（2026款闪充版）",
   "model_slug": "denza-n8l-2026",
   "category": "中大型6座豪华SUV",
@@ -22,7 +22,7 @@
         "height_mm": 1820,
         "wheelbase_mm": 3075,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3110,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +38,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "闪充刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "比亚迪弗迪电池",
         "battery_capacity_kwh": 130.15,
         "cltc_pure_electric_range_km": 960,
         "cltc_combined_range_km": 960,
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,33 +74,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配/尊荣型选装 17.3英寸2.5K后排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "13.2英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "选装后车高增至1990mm，包含智能机库（含车顶摄像头）、DJI AIR 3S定制车载无人机、定制手柄及价值968元一年DJI Care随心换服务。"
+          "details": "选装后车高增至1990mm，包含智能机库（含车顶摄像头）、DJI AIR 3S定制车载无人机、定制手柄及价值968元一年DJI Care随心换服务。",
+          "availability": "可选"
         },
         {
           "name": "吸顶屏套装",
           "price_rmb": 16000,
-          "details": "包含17.3英寸后座舱娱乐屏*1、高清流媒体内后视镜*1，尊荣型选装原价16000元（限时选装价10000元），旗舰型标配。"
+          "details": "包含17.3英寸后座舱娱乐屏*1、高清流媒体内后视镜*1，尊荣型选装原价16000元（限时选装价10000元），旗舰型标配。",
+          "promo_price_rmb": 10000,
+          "promo_note": "限时选装价10000元",
+          "availability": "可选"
         },
         {
           "name": "专属外观车漆 / 双色车身（霜云墨/翠华墨等）",
           "price_rmb": 12000,
-          "details": "腾势官网下订页显示部分高端/双色车漆原价12000元（尊荣型限时选装价7000元），全系共提供6款外观色。"
+          "details": "腾势官网下订页显示部分高端/双色车漆原价12000元（尊荣型限时选装价7000元），全系共提供6款外观色。",
+          "promo_price_rmb": 7000,
+          "promo_note": "限时选装价7000元",
+          "availability": "可选"
         },
         {
           "name": "智能迎宾电动踏板",
           "price_rmb": 10000,
-          "details": "官方选装价值10000元，闪充版/尊荣型上市权益期内支持限时免费选装。"
+          "details": "官方选装价值10000元，闪充版/尊荣型上市权益期内支持限时免费选装。",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂与明黄色大卡钳",
           "price_rmb": null,
-          "details": "全系提供3款20/21英寸轮毂选择（高配/旗舰型标配21英寸轮毂与黄色卡钳），低配单独选装价官网未公开。"
+          "details": "全系提供3款20/21英寸轮毂选择（高配/旗舰型标配21英寸轮毂与黄色卡钳），低配单独选装价官网未公开。",
+          "availability": "可选"
         }
       ]
     },
@@ -115,7 +137,7 @@
         "height_mm": 1820,
         "wheelbase_mm": 3075,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3110,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -131,7 +153,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "闪充刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "比亚迪弗迪电池",
         "battery_capacity_kwh": 130.15,
         "cltc_pure_electric_range_km": 960,
         "cltc_combined_range_km": 960,
@@ -139,10 +161,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -166,33 +189,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配/尊荣型选装 17.3英寸2.5K后排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "13.2英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "选装后车高增至1990mm，包含智能机库（含车顶摄像头）、DJI AIR 3S定制车载无人机、定制手柄及价值968元一年DJI Care随心换服务。"
+          "details": "选装后车高增至1990mm，包含智能机库（含车顶摄像头）、DJI AIR 3S定制车载无人机、定制手柄及价值968元一年DJI Care随心换服务。",
+          "availability": "可选"
         },
         {
           "name": "吸顶屏套装",
           "price_rmb": 16000,
-          "details": "包含17.3英寸后座舱娱乐屏*1、高清流媒体内后视镜*1，尊荣型选装原价16000元（限时选装价10000元），旗舰型标配。"
+          "details": "包含17.3英寸后座舱娱乐屏*1、高清流媒体内后视镜*1，尊荣型选装原价16000元（限时选装价10000元），旗舰型标配。",
+          "promo_price_rmb": 10000,
+          "promo_note": "限时选装价10000元",
+          "availability": "标配"
         },
         {
           "name": "专属外观车漆 / 双色车身（霜云墨/翠华墨等）",
           "price_rmb": 12000,
-          "details": "腾势官网下订页显示部分高端/双色车漆原价12000元（尊荣型限时选装价7000元），全系共提供6款外观色。"
+          "details": "腾势官网下订页显示部分高端/双色车漆原价12000元（尊荣型限时选装价7000元），全系共提供6款外观色。",
+          "promo_price_rmb": 7000,
+          "promo_note": "限时选装价7000元",
+          "availability": "可选"
         },
         {
           "name": "智能迎宾电动踏板",
           "price_rmb": 10000,
-          "details": "官方选装价值10000元，闪充版/尊荣型上市权益期内支持限时免费选装。"
+          "details": "官方选装价值10000元，闪充版/尊荣型上市权益期内支持限时免费选装。",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂与明黄色大卡钳",
           "price_rmb": null,
-          "details": "全系提供3款20/21英寸轮毂选择（高配/旗舰型标配21英寸轮毂与黄色卡钳），低配单独选装价官网未公开。"
+          "details": "全系提供3款20/21英寸轮毂选择（高配/旗舰型标配21英寸轮毂与黄色卡钳），低配单独选装价官网未公开。",
+          "availability": "标配"
         }
       ]
     },
@@ -208,7 +252,7 @@
         "height_mm": 1820,
         "wheelbase_mm": 3075,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3110,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -224,7 +268,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "闪充刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "比亚迪弗迪电池",
         "battery_capacity_kwh": 75.26,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1550,
@@ -232,10 +276,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -259,33 +304,54 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配/尊荣型选装 17.3英寸2.5K后排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "13.2英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "选装后车高增至1990mm，包含智能机库（含车顶摄像头）、DJI AIR 3S定制车载无人机、定制手柄及价值968元一年DJI Care随心换服务。"
+          "details": "选装后车高增至1990mm，包含智能机库（含车顶摄像头）、DJI AIR 3S定制车载无人机、定制手柄及价值968元一年DJI Care随心换服务。",
+          "availability": "可选"
         },
         {
           "name": "吸顶屏套装",
           "price_rmb": 16000,
-          "details": "包含17.3英寸后座舱娱乐屏*1、高清流媒体内后视镜*1，尊荣型选装原价16000元（限时选装价10000元），旗舰型标配。"
+          "details": "包含17.3英寸后座舱娱乐屏*1、高清流媒体内后视镜*1，尊荣型选装原价16000元（限时选装价10000元），旗舰型标配。",
+          "promo_price_rmb": 10000,
+          "promo_note": "限时选装价10000元",
+          "availability": "可选"
         },
         {
           "name": "专属外观车漆 / 双色车身（霜云墨/翠华墨等）",
           "price_rmb": 12000,
-          "details": "腾势官网下订页显示部分高端/双色车漆原价12000元（尊荣型限时选装价7000元），全系共提供6款外观色。"
+          "details": "腾势官网下订页显示部分高端/双色车漆原价12000元（尊荣型限时选装价7000元），全系共提供6款外观色。",
+          "promo_price_rmb": 7000,
+          "promo_note": "限时选装价7000元",
+          "availability": "可选"
         },
         {
           "name": "智能迎宾电动踏板",
           "price_rmb": 10000,
-          "details": "官方选装价值10000元，闪充版/尊荣型上市权益期内支持限时免费选装。"
+          "details": "官方选装价值10000元，闪充版/尊荣型上市权益期内支持限时免费选装。",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂与明黄色大卡钳",
           "price_rmb": null,
-          "details": "全系提供3款20/21英寸轮毂选择（高配/旗舰型标配21英寸轮毂与黄色卡钳），低配单独选装价官网未公开。"
+          "details": "全系提供3款20/21英寸轮毂选择（高配/旗舰型标配21英寸轮毂与黄色卡钳），低配单独选装价官网未公开。",
+          "availability": "可选"
         }
       ]
     },
@@ -301,7 +367,7 @@
         "height_mm": 1820,
         "wheelbase_mm": 3075,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3110,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -317,7 +383,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "闪充刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "比亚迪弗迪电池",
         "battery_capacity_kwh": 75.26,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1550,
@@ -325,10 +391,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-70% 5min / 10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -352,36 +419,88 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "高配标配/尊荣型选装 17.3英寸2.5K后排吸顶屏",
+        "power_220v": "标配 220V电源",
+        "instrument_cluster": "13.2英寸全液晶仪表+AR-HUD",
+        "seat_heating_ventilation": "前排及二排加热/通风，三排加热",
+        "seat_massage": "前排及二排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(副驾零重力座椅)",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "灵鸢·比亚迪智能车载无人机系统",
           "price_rmb": 16968,
-          "details": "选装后车高增至1990mm，包含智能机库（含车顶摄像头）、DJI AIR 3S定制车载无人机、定制手柄及价值968元一年DJI Care随心换服务。"
+          "details": "选装后车高增至1990mm，包含智能机库（含车顶摄像头）、DJI AIR 3S定制车载无人机、定制手柄及价值968元一年DJI Care随心换服务。",
+          "availability": "可选"
         },
         {
           "name": "吸顶屏套装",
           "price_rmb": 16000,
-          "details": "包含17.3英寸后座舱娱乐屏*1、高清流媒体内后视镜*1，尊荣型选装原价16000元（限时选装价10000元），旗舰型标配。"
+          "details": "包含17.3英寸后座舱娱乐屏*1、高清流媒体内后视镜*1，尊荣型选装原价16000元（限时选装价10000元），旗舰型标配。",
+          "promo_price_rmb": 10000,
+          "promo_note": "限时选装价10000元",
+          "availability": "标配"
         },
         {
           "name": "专属外观车漆 / 双色车身（霜云墨/翠华墨等）",
           "price_rmb": 12000,
-          "details": "腾势官网下订页显示部分高端/双色车漆原价12000元（尊荣型限时选装价7000元），全系共提供6款外观色。"
+          "details": "腾势官网下订页显示部分高端/双色车漆原价12000元（尊荣型限时选装价7000元），全系共提供6款外观色。",
+          "promo_price_rmb": 7000,
+          "promo_note": "限时选装价7000元",
+          "availability": "可选"
         },
         {
           "name": "智能迎宾电动踏板",
           "price_rmb": 10000,
-          "details": "官方选装价值10000元，闪充版/尊荣型上市权益期内支持限时免费选装。"
+          "details": "官方选装价值10000元，闪充版/尊荣型上市权益期内支持限时免费选装。",
+          "promo_price_rmb": 0,
+          "promo_note": "限时免费选装",
+          "availability": "可选"
         },
         {
           "name": "21英寸轮毂与明黄色大卡钳",
           "price_rmb": null,
-          "details": "全系提供3款20/21英寸轮毂选择（高配/旗舰型标配21英寸轮毂与黄色卡钳），低配单独选装价官网未公开。"
+          "details": "全系提供3款20/21英寸轮毂选择（高配/旗舰型标配21英寸轮毂与黄色卡钳），低配单独选装价官网未公开。",
+          "availability": "标配"
         }
       ]
     }
   ],
-  "image_url": "https://img1.mydrivers.com/img/20250607/7074eef0-9d1c-4c3b-b881-946aa35d6d22.jpg"
+  "image_url": "https://img1.mydrivers.com/img/20250607/7074eef0-9d1c-4c3b-b881-946aa35d6d22.jpg",
+  "promo_highlights": [
+    "上市限时至高约10万元综合权益",
+    "至高4.9万元选装权益（尊荣型1.6万吸顶屏套装限时1万，旗舰型全免费选装）",
+    "至高2万元置换补贴+赠1年免费闪充"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 3110,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "比亚迪弗迪电池"
+  },
+  "references": [
+    {
+      "title": "腾势 腾势N8L（2026款闪充版） 官方配置页 (www.denza.com)",
+      "url": "https://www.denza.com/cn2_0/brand.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "腾势N8L纯电版申报参数信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26393031",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://images.caiwennews.com/images/news/20250927_d4827f40a70c47ac88dae9fa9f91512a.jpeg"
 }

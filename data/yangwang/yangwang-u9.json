@@ -1,7 +1,7 @@
 {
   "brand": "yangwang",
   "brand_name": "仰望",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "仰望U9 / U9 Xtreme",
   "model_slug": "yangwang-u9",
   "category": "百万级纯电超跑",
@@ -26,7 +26,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 145
       },
       "performance": {
         "drive_type": "易四方四电机四驱",
@@ -46,10 +47,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 10min（500kW双枪）",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,48 +75,66 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（单排2座超跑）",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风(2座跑车无二排)",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "极境森林纪念色版",
           "price_rmb": 200000,
-          "details": "整车188万元"
+          "details": "整车188万元",
+          "availability": "可选"
         },
         {
           "name": "“掠影”等个性化定制套装",
           "price_rmb": 120000,
-          "details": "仰望官方高定个性化主题套件，定价120000元起。"
+          "details": "仰望官方高定个性化主题套件，定价120000元起。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维轮毂",
           "price_rmb": 118000,
-          "details": "国内首个量产100%高强度碳纤维轮毂，较传统轮毂减重25%、耐疲劳性提升20%，官方选装价118000元。"
+          "details": "国内首个量产100%高强度碳纤维轮毂，较传统轮毂减重25%、耐疲劳性提升20%，官方选装价118000元。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维天鹅颈大尾翼",
           "price_rmb": 100000,
-          "details": "最大可提供280kg下压力，选装后替代原车电动尾翼，官方选装价100000元。"
+          "details": "最大可提供280kg下压力，选装后替代原车电动尾翼，官方选装价100000元。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维桶椅",
           "price_rmb": 58000,
-          "details": "100%碳纤维骨架+麂皮包裹，较传统座椅减重52.3%，官方选装价58000元。"
+          "details": "100%碳纤维骨架+麂皮包裹，较传统座椅减重52.3%，官方选装价58000元。",
+          "availability": "可选"
         },
         {
           "name": "增强型碳纤维前铲",
           "price_rmb": 43000,
-          "details": "提升50kg下压力且风阻零损失，保留8°接近角，官方选装价43000元。"
+          "details": "提升50kg下压力且风阻零损失，保留8°接近角，官方选装价43000元。",
+          "availability": "可选"
         },
         {
           "name": "蓝宝石按键套件",
           "price_rmb": 28000,
-          "details": "覆盖主副驾车窗控制区、方向盘及中控区，采用纯度99.99%以上高硬度蓝宝石材质，官方选装价28000元。"
+          "details": "覆盖主副驾车窗控制区、方向盘及中控区，采用纯度99.99%以上高硬度蓝宝石材质，官方选装价28000元。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 锻造轮毂样式 / 卡钳配色 / 内饰色",
           "price_rmb": 0,
-          "details": "官网下订页提供4款车漆（赤霞丹朱/阿盖尔紫/月曜银/极境森林）、黑银/铜色21英寸锻造轮毂、红/银/紫卡钳配色及3款内饰色免费选配；前后碳陶打孔通风盘式制动器与云辇-X为全系标配；副驾10.25英寸娱乐屏选装价官网未公开。"
+          "details": "官网下订页提供4款车漆（赤霞丹朱/阿盖尔紫/月曜银/极境森林）、黑银/铜色21英寸锻造轮毂、红/银/紫卡钳配色及3款内饰色免费选配；前后碳陶打孔通风盘式制动器与云辇-X为全系标配；副驾10.25英寸娱乐屏选装价官网未公开。",
+          "availability": "标配"
         }
       ]
     },
@@ -134,7 +154,8 @@
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
-        "drag_coefficient_cd": null
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": 145
       },
       "performance": {
         "drive_type": "易四方四电机四驱",
@@ -154,10 +175,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -181,46 +203,77 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（单排2座超跑）",
+        "power_220v": "无",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热/通风(2座跑车无二排)",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "“掠影”等个性化定制套装",
           "price_rmb": 120000,
-          "details": "仰望官方高定个性化主题套件，定价120000元起。"
+          "details": "仰望官方高定个性化主题套件，定价120000元起。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维轮毂",
           "price_rmb": 118000,
-          "details": "国内首个量产100%高强度碳纤维轮毂，较传统轮毂减重25%、耐疲劳性提升20%，官方选装价118000元。"
+          "details": "国内首个量产100%高强度碳纤维轮毂，较传统轮毂减重25%、耐疲劳性提升20%，官方选装价118000元。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维天鹅颈大尾翼",
           "price_rmb": 100000,
-          "details": "最大可提供280kg下压力，选装后替代原车电动尾翼，官方选装价100000元。"
+          "details": "最大可提供280kg下压力，选装后替代原车电动尾翼，官方选装价100000元。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维桶椅",
           "price_rmb": 58000,
-          "details": "100%碳纤维骨架+麂皮包裹，较传统座椅减重52.3%，官方选装价58000元。"
+          "details": "100%碳纤维骨架+麂皮包裹，较传统座椅减重52.3%，官方选装价58000元。",
+          "availability": "可选"
         },
         {
           "name": "增强型碳纤维前铲",
           "price_rmb": 43000,
-          "details": "提升50kg下压力且风阻零损失，保留8°接近角，官方选装价43000元。"
+          "details": "提升50kg下压力且风阻零损失，保留8°接近角，官方选装价43000元。",
+          "availability": "可选"
         },
         {
           "name": "蓝宝石按键套件",
           "price_rmb": 28000,
-          "details": "覆盖主副驾车窗控制区、方向盘及中控区，采用纯度99.99%以上高硬度蓝宝石材质，官方选装价28000元。"
+          "details": "覆盖主副驾车窗控制区、方向盘及中控区，采用纯度99.99%以上高硬度蓝宝石材质，官方选装价28000元。",
+          "availability": "可选"
         },
         {
           "name": "外观车漆 / 锻造轮毂样式 / 卡钳配色 / 内饰色",
           "price_rmb": 0,
-          "details": "官网下订页提供4款车漆（赤霞丹朱/阿盖尔紫/月曜银/极境森林）、黑银/铜色21英寸锻造轮毂、红/银/紫卡钳配色及3款内饰色免费选配；前后碳陶打孔通风盘式制动器与云辇-X为全系标配；副驾10.25英寸娱乐屏选装价官网未公开。"
+          "details": "官网下订页提供4款车漆（赤霞丹朱/阿盖尔紫/月曜银/极境森林）、黑银/铜色21英寸锻造轮毂、红/银/紫卡钳配色及3款内饰色免费选配；前后碳陶打孔通风盘式制动器与云辇-X为全系标配；副驾10.25英寸娱乐屏选装价官网未公开。",
+          "availability": "标配"
         }
       ]
     }
   ],
-  "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/04/07/17/034dc1f4a43f419c9c34938cda2a66ce.png!jpg"
+  "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/04/07/17/034dc1f4a43f419c9c34938cda2a66ce.png!jpg",
+  "promo_highlights": [
+    "6年或15万公里整车包修期及首任非营运车主三电终身保修"
+  ],
+  "references": [
+    {
+      "title": "仰望 仰望U9 / U9 Xtreme 官方配置页 (www.yangwangauto.com)",
+      "url": "https://www.yangwangauto.com/car-u9-detail",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

@@ -1,0 +1,144 @@
+{
+  "brand": "bmw",
+  "brand_name": "宝马新能源",
+  "model": "新世代BMW iX3",
+  "model_slug": "bmw-ix3-neue-klasse",
+  "origin_type": "合资/外资",
+  "category": "中型纯电SUV",
+  "release_date": "2026-11-25",
+  "data_as_of": "2026-11-27",
+  "image_url": "https://img4.wtsimg.com/flashnews/images/images/20261125/crop-3x2-111441247478-63ca6000.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "全国统一价26.99万-33.99万元，月付2888元起",
+    "全系标配800V架构+Momenta R7全场景NOA"
+  ],
+  "source_urls": [
+    "https://www.bmw.com.cn/zh/all-models/bmw-i/ix3/2026/specsheet.html",
+    "https://auto.news18a.com/news/storys_317680.html"
+  ],
+  "references": [
+    {
+      "title": "宝马中国 新世代BMW iX3配置表",
+      "url": "https://www.bmw.com.cn/zh/all-models/bmw-i/ix3/2026/specsheet.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "网通社 新世代BMW iX3上市交付",
+      "url": "https://auto.news18a.com/news/storys_317680.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "bmw-ix3-2026-30l",
+      "sku_name": "2026款 新世代iX3 30L",
+      "price_rmb": 269900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4885,
+        "width_mm": 1895,
+        "height_mm": 1635,
+        "wheelbase_mm": 3005,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 195,
+        "motor_torque_nm": 500,
+        "zero_to_100_s": 6.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 77.0,
+        "cltc_pure_electric_range_km": 630,
+        "fast_charge_time": "约22min(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "未知",
+        "cdc": "未知",
+        "rear_wheel_steering": "未知"
+      },
+      "adas": {
+        "chip": "Heart of Joy超级大脑",
+        "lidar": "无(纯视觉)",
+        "system": "宝马×Momenta R7全场景NOA"
+      },
+      "cockpit": {
+        "instrument_cluster": "视平线全景显示+3D HUD",
+        "screens": "17.9英寸向心中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "bmw-ix3-2026-50l-xdrive",
+      "sku_name": "2026款 新世代iX3 50L xDrive",
+      "price_rmb": 339900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4885,
+        "width_mm": 1895,
+        "height_mm": 1635,
+        "wheelbase_mm": 3005,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 345,
+        "motor_torque_nm": 645,
+        "zero_to_100_s": 4.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 113.4,
+        "cltc_pure_electric_range_km": 919,
+        "fast_charge_time": "约21min(10-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "未知",
+        "cdc": "未知",
+        "rear_wheel_steering": "未知"
+      },
+      "adas": {
+        "chip": "Heart of Joy超级大脑",
+        "lidar": "无(纯视觉)",
+        "system": "宝马×Momenta R7全场景NOA"
+      },
+      "cockpit": {
+        "instrument_cluster": "视平线全景显示+3D HUD",
+        "screens": "17.9英寸向心中控屏",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

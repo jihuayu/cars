@@ -1,0 +1,188 @@
+{
+  "brand": "mercedes",
+  "brand_name": "奔驰新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 4,
+  "sku_count": 7,
+  "models": [
+    {
+      "brand": "mercedes",
+      "brand_name": "奔驰新能源",
+      "origin_type": "合资/外资",
+      "model": "奔驰纯电CLA",
+      "model_slug": "mercedes-cla-ev",
+      "sub_brand": null,
+      "category": "紧凑型纯电轿车",
+      "release_date": "2026-11-10",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 229000,
+      "price_max_rmb": 249000,
+      "best_zero_to_100_s": 7.6,
+      "max_cltc_ev_km": 866,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/mercedes/mercedes-cla-ev.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/8084.html"
+      ]
+    },
+    {
+      "brand": "mercedes",
+      "brand_name": "奔驰新能源",
+      "origin_type": "合资/外资",
+      "model": "奔驰EQE SUV",
+      "model_slug": "mercedes-eqe-suv",
+      "sub_brand": null,
+      "category": "中大型纯电SUV",
+      "release_date": "2025-11-20",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 510000,
+      "price_max_rmb": 630600,
+      "best_zero_to_100_s": 5.1,
+      "max_cltc_ev_km": 609,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/mercedes/mercedes-eqe-suv.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6975.html"
+      ]
+    },
+    {
+      "brand": "mercedes",
+      "brand_name": "奔驰新能源",
+      "origin_type": "合资/外资",
+      "model": "奔驰EQE",
+      "model_slug": "mercedes-eqe",
+      "sub_brand": null,
+      "category": "中大型纯电轿车",
+      "release_date": "2025-11-26",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 0,
+      "price_min_rmb": 496000,
+      "price_max_rmb": 627000,
+      "best_zero_to_100_s": 4.9,
+      "max_cltc_ev_km": 681,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": true,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/mercedes/mercedes-eqe.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6640.html",
+        "https://price.pcauto.com.cn/s50257/config.html"
+      ]
+    },
+    {
+      "brand": "mercedes",
+      "brand_name": "奔驰新能源",
+      "origin_type": "合资/外资",
+      "model": "奔驰EQS",
+      "model_slug": "mercedes-eqs",
+      "sub_brand": null,
+      "category": "大型纯电轿车",
+      "release_date": "2025-09-17",
+      "image_url": null,
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 1,
+      "option_count": 0,
+      "price_min_rmb": 881000,
+      "price_max_rmb": 881000,
+      "best_zero_to_100_s": 5.1,
+      "max_cltc_ev_km": 840,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/mercedes/mercedes-eqs.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/5382.html"
+      ]
+    }
+  ]
+}

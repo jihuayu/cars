@@ -1,7 +1,7 @@
 {
   "brand": "xiaomi",
   "brand_name": "小米汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "小米SU7 Ultra",
   "model_slug": "su7-ultra-2025",
   "category": "高性能纯电四门超跑",
@@ -22,7 +22,7 @@
         "height_mm": 1465,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2375,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 11min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,28 +74,42 @@
         "hud": "56英寸HUD",
         "audio": "25扬声器+杜比全景声",
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（支持生态拓展接口外接平板）",
+        "power_220v": "无",
+        "instrument_cluster": "7.1英寸全液晶仪表+56英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "竞速套装",
           "price_rmb": 100000,
-          "details": "赛道级底盘与制动套件"
+          "details": "赛道级底盘与制动套件",
+          "availability": "可选"
         },
         {
           "name": "碳纤维双风道前舱盖",
           "price_rmb": 42000,
-          "details": "碳纤维开孔机盖"
+          "details": "碳纤维开孔机盖",
+          "availability": "可选"
         },
         {
           "name": "碳纤维车顶 / 外饰 / 内饰 / 方向盘",
           "price_rmb": "25000 / 18000 / 9000 / 6000",
-          "details": "碳纤维轻量化套件"
+          "details": "碳纤维轻量化套件",
+          "availability": "可选"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 2000,
-          "details": "智能冷暖箱"
+          "details": "智能冷暖箱",
+          "availability": "可选"
         }
       ]
     },
@@ -110,7 +125,7 @@
         "height_mm": 1465,
         "wheelbase_mm": 3000,
         "seats": 2,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2375,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -134,10 +149,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-80% 11min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.5,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "三元锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -161,31 +177,75 @@
         "hud": "56英寸HUD",
         "audio": "25扬声器",
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持（支持生态拓展接口外接平板）",
+        "power_220v": "无",
+        "instrument_cluster": "7.1英寸全液晶仪表+56英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热",
+        "seat_massage": "前排按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "竞速套装",
           "price_rmb": 100000,
-          "details": "赛道级底盘与制动套件"
+          "details": "赛道级底盘与制动套件",
+          "availability": "可选"
         },
         {
           "name": "碳纤维双风道前舱盖",
           "price_rmb": 42000,
-          "details": "碳纤维开孔机盖"
+          "details": "碳纤维开孔机盖",
+          "availability": "可选"
         },
         {
           "name": "碳纤维车顶 / 外饰 / 内饰 / 方向盘",
           "price_rmb": "25000 / 18000 / 9000 / 6000",
-          "details": "碳纤维轻量化套件"
+          "details": "碳纤维轻量化套件",
+          "availability": "可选"
         },
         {
           "name": "车载冰箱",
           "price_rmb": 2000,
-          "details": "智能冷暖箱"
+          "details": "智能冷暖箱",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "promo_highlights": [
+    "至高价值49000元限时权益（免费赠碳纤维内饰部件+5年免费保养）、HAD智驾终身免费",
+    "限时5年0息金融方案"
+  ],
+  "miit_filing": {
+    "miit_batch": "第414批",
+    "product_model_code": null,
+    "curb_weight_kg": 2375,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "宁德时代"
+  },
+  "references": [
+    {
+      "title": "小米汽车 小米SU7 Ultra 官方配置页 (www.xiaomiev.com)",
+      "url": "https://www.xiaomiev.com/car-config?active=500010402",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小米SU7 Ultra工信部申报参数 - 网通社",
+      "url": "https://auto.news18a.com/news/storys_317990.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

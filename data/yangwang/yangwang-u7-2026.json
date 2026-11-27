@@ -1,7 +1,7 @@
 {
   "brand": "yangwang",
   "brand_name": "仰望",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "仰望U7（2026款）",
   "model_slug": "yangwang-u7-2026",
   "category": "百万级旗舰行政轿车",
@@ -22,7 +22,7 @@
         "height_mm": 1515,
         "wheelbase_mm": 3200,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3223,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +38,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "广西东盟弗迪电池/长沙弗迪电池",
         "battery_capacity_kwh": 52.4,
         "cltc_pure_electric_range_km": 300,
         "cltc_combined_range_km": 1100,
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -73,28 +74,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 后排多媒体屏（四座旗舰版配双12.8英寸悬浮屏）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "23.6英寸全液晶仪表+70英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排热石按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性化定制套装（含“破晓”等高定主题）",
           "price_rmb": 120000,
-          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。"
+          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维套件",
           "price_rmb": 50000,
-          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。"
+          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（21英寸锻造轮毂 / 20英寸饼状锻造轮毂）",
           "price_rmb": null,
-          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。"
+          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜 / 外观车漆与内饰色",
           "price_rmb": null,
-          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。"
+          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。",
+          "availability": "可选"
         }
       ]
     },
@@ -110,7 +125,7 @@
         "height_mm": 1515,
         "wheelbase_mm": 3200,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3223,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -126,7 +141,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "广西东盟弗迪电池/长沙弗迪电池",
         "battery_capacity_kwh": 52.4,
         "cltc_pure_electric_range_km": 300,
         "cltc_combined_range_km": 1100,
@@ -134,10 +149,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -161,28 +177,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 后排多媒体屏（四座旗舰版配双12.8英寸悬浮屏）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "23.6英寸全液晶仪表+70英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排热石按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性化定制套装（含“破晓”等高定主题）",
           "price_rmb": 120000,
-          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。"
+          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维套件",
           "price_rmb": 50000,
-          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。"
+          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（21英寸锻造轮毂 / 20英寸饼状锻造轮毂）",
           "price_rmb": null,
-          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。"
+          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜 / 外观车漆与内饰色",
           "price_rmb": null,
-          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。"
+          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。",
+          "availability": "可选"
         }
       ]
     },
@@ -198,7 +228,7 @@
         "height_mm": 1517,
         "wheelbase_mm": 3160,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3223,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -214,7 +244,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "广西东盟弗迪电池/长沙弗迪电池",
         "battery_capacity_kwh": 150.01,
         "cltc_pure_electric_range_km": 1006,
         "cltc_combined_range_km": 1006,
@@ -222,10 +252,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 24min(640kW)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -249,28 +280,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 后排多媒体屏（四座旗舰版配双12.8英寸悬浮屏）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "23.6英寸全液晶仪表+70英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排热石按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性化定制套装（含“破晓”等高定主题）",
           "price_rmb": 120000,
-          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。"
+          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维套件",
           "price_rmb": 50000,
-          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。"
+          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（21英寸锻造轮毂 / 20英寸饼状锻造轮毂）",
           "price_rmb": null,
-          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。"
+          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜 / 外观车漆与内饰色",
           "price_rmb": null,
-          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。"
+          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。",
+          "availability": "可选"
         }
       ]
     },
@@ -286,7 +331,7 @@
         "height_mm": 1517,
         "wheelbase_mm": 3160,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3223,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -302,7 +347,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "广西东盟弗迪电池/长沙弗迪电池",
         "battery_capacity_kwh": 150.01,
         "cltc_pure_electric_range_km": 1006,
         "cltc_combined_range_km": 1006,
@@ -310,10 +355,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "10%-97% 24min(640kW)",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -337,28 +383,42 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 后排多媒体屏（四座旗舰版配双12.8英寸悬浮屏）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "23.6英寸全液晶仪表+70英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排热石按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性化定制套装（含“破晓”等高定主题）",
           "price_rmb": 120000,
-          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。"
+          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维套件",
           "price_rmb": 50000,
-          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。"
+          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（21英寸锻造轮毂 / 20英寸饼状锻造轮毂）",
           "price_rmb": null,
-          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。"
+          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜 / 外观车漆与内饰色",
           "price_rmb": null,
-          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。"
+          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。",
+          "availability": "可选"
         }
       ]
     },
@@ -374,7 +434,7 @@
         "height_mm": 1517,
         "wheelbase_mm": 3160,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 3223,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -390,7 +450,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "广西东盟弗迪电池/长沙弗迪电池",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 860,
         "cltc_combined_range_km": 860,
@@ -398,10 +458,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "闪充5-9min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6.0,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂",
@@ -425,31 +486,74 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "标配 后排多媒体屏（四座旗舰版配双12.8英寸悬浮屏）",
+        "power_220v": "标配 车内220V/230V电源",
+        "instrument_cluster": "23.6英寸全液晶仪表+70英寸AR-HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风",
+        "seat_massage": "前排/二排热石按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "电动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "个性化定制套装（含“破晓”等高定主题）",
           "price_rmb": 120000,
-          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。"
+          "details": "包含手工苏绣头枕、专属前面饰板与车外投影等高定配置，官方选装价120000元起。",
+          "availability": "可选"
         },
         {
           "name": "碳纤维套件",
           "price_rmb": 50000,
-          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。"
+          "details": "包含碳纤维车身包围（前包围、后包围、侧面包围）、碳纤维内饰板、高性能轮胎，官方选装价50000元。",
+          "availability": "可选"
         },
         {
           "name": "轮毂规格（21英寸锻造轮毂 / 20英寸饼状锻造轮毂）",
           "price_rmb": null,
-          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。"
+          "details": "官网配置表提供21英寸锻造铝合金轮毂（275/40 R21）与20英寸饼状锻造铝合金轮毂（275/45 R20）及悬浮轮心盖可选，单项差价官网未公开。",
+          "availability": "可选"
         },
         {
           "name": "电子外后视镜 / 外观车漆与内饰色",
           "price_rmb": null,
-          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。"
+          "details": "提供6款外观色（月曜银/曜石黑/萤石白/阿盖尔紫/星河蓝/琥珀橙）与4款内饰色（云锦红/珠缎白/旭光橙/云杉棕）；前/后碳陶打孔通风盘式制动器与云辇-Z/云辇-A+按版型配置，其余单项选装价官网未公开。",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://www.yangwangauto.com/material/yangwang_cn/images/u7-202511/u720251118/yangwangu7buchongsucai-1117/U7-%E9%A6%96%E5%B1%8F%E9%A1%B5%E9%9D%A2-001-3840x2160.jpg"
+  "image_url": "https://www.yangwangauto.com/material/yangwang_cn/images/u7-202511/u720251118/yangwangu7buchongsucai-1117/U7-%E9%A6%96%E5%B1%8F%E9%A1%B5%E9%9D%A2-001-3840x2160.jpg",
+  "promo_highlights": [
+    "自交付起1年内比亚迪闪充充电桩免费充电（限非营运车主）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第390批",
+    "product_model_code": "QCJ7200BTHEV1",
+    "curb_weight_kg": 3223,
+    "gross_weight_kg": 3598,
+    "approach_departure_deg": null,
+    "battery_supplier": "广西东盟弗迪电池/长沙弗迪电池"
+  },
+  "references": [
+    {
+      "title": "仰望 仰望U7（2026款） 官方配置页 (www.yangwangauto.com)",
+      "url": "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第390批：仰望U7申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/18389836",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

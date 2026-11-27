@@ -1,7 +1,7 @@
 {
   "brand": "xiaopeng",
   "brand_name": "小鹏汽车",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "2026款小鹏P7+",
   "model_slug": "p7-plus-2026",
   "category": "中大型家用轿跑",
@@ -22,7 +22,7 @@
         "height_mm": 1512,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1967-2084",
         "trunk_volume_l": "708-2204",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +38,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "亿纬动力",
         "battery_capacity_kwh": 49.2,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1550,
@@ -49,7 +49,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": 45,
-        "wltc_fuel_consumption_l_100km": 5.3
+        "wltc_fuel_consumption_l_100km": 5.3,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -73,43 +74,60 @@
         "hud": "全场景HUD",
         "audio": "20扬声器7.1.4 Xopera音响",
         "fridge": null,
-        "seat_features": "云感舒适座椅"
+        "seat_features": "云感舒适座椅",
+        "rear_screen": "高配标配 8英寸后排娱乐屏（旗舰版标配）",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+29英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风(高配)",
+        "seat_massage": "前排/二排(高配)按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配)/无(入门)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配(高配)/无(入门)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂+米其林胎",
           "price_rmb": 6000,
-          "details": "255/45 R20+卡钳罩"
+          "details": "255/45 R20+卡钳罩",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅（旗舰版可选）",
           "price_rmb": 6000,
-          "details": "副驾零重力座椅"
+          "details": "副驾零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "黑武士套装",
           "price_rmb": 10000,
-          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰"
+          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰",
+          "availability": "可选"
         },
         {
           "name": "星镜蓝外观色",
           "price_rmb": 6000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "晨雾蓝座舱主题",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -125,7 +143,7 @@
         "height_mm": 1512,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1967-2084",
         "trunk_volume_l": "708-2204",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -141,7 +159,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "亿纬动力",
         "battery_capacity_kwh": 49.2,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1550,
@@ -152,7 +170,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": 45,
-        "wltc_fuel_consumption_l_100km": 5.3
+        "wltc_fuel_consumption_l_100km": 5.3,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -176,43 +195,60 @@
         "hud": "全场景HUD",
         "audio": "20扬声器7.1.4 Xopera音响",
         "fridge": null,
-        "seat_features": "云感舒适座椅"
+        "seat_features": "云感舒适座椅",
+        "rear_screen": "高配标配 8英寸后排娱乐屏（旗舰版标配）",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+29英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风(高配)",
+        "seat_massage": "前排/二排(高配)按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配)/无(入门)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配(高配)/无(入门)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂+米其林胎",
           "price_rmb": 6000,
-          "details": "255/45 R20+卡钳罩"
+          "details": "255/45 R20+卡钳罩",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅（旗舰版可选）",
           "price_rmb": 6000,
-          "details": "副驾零重力座椅"
+          "details": "副驾零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "黑武士套装",
           "price_rmb": 10000,
-          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰"
+          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰",
+          "availability": "可选"
         },
         {
           "name": "星镜蓝外观色",
           "price_rmb": 6000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "晨雾蓝座舱主题",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -228,7 +264,7 @@
         "height_mm": 1512,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1967-2084",
         "trunk_volume_l": "725-2221",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -244,7 +280,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "亿纬动力",
         "battery_capacity_kwh": 61.7,
         "cltc_pure_electric_range_km": 615,
         "cltc_combined_range_km": 615,
@@ -255,7 +291,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -279,43 +316,60 @@
         "hud": "全场景HUD",
         "audio": "20扬声器7.1.4 Xopera音响",
         "fridge": null,
-        "seat_features": "云感舒适座椅"
+        "seat_features": "云感舒适座椅",
+        "rear_screen": "高配标配 8英寸后排娱乐屏（旗舰版标配）",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+29英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风(高配)",
+        "seat_massage": "前排/二排(高配)按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配)/无(入门)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配(高配)/无(入门)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂+米其林胎",
           "price_rmb": 6000,
-          "details": "255/45 R20+卡钳罩"
+          "details": "255/45 R20+卡钳罩",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅（旗舰版可选）",
           "price_rmb": 6000,
-          "details": "副驾零重力座椅"
+          "details": "副驾零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "黑武士套装",
           "price_rmb": 10000,
-          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰"
+          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰",
+          "availability": "可选"
         },
         {
           "name": "星镜蓝外观色",
           "price_rmb": 6000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "晨雾蓝座舱主题",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     },
@@ -331,7 +385,7 @@
         "height_mm": 1512,
         "wheelbase_mm": 3000,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": "1967-2084",
         "trunk_volume_l": "725-2221",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -347,7 +401,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "亿纬动力",
         "battery_capacity_kwh": 74.9,
         "cltc_pure_electric_range_km": 725,
         "cltc_combined_range_km": 725,
@@ -358,7 +412,8 @@
         "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前双叉臂独立悬架",
@@ -382,46 +437,92 @@
         "hud": "全场景HUD",
         "audio": "20扬声器7.1.4 Xopera音响",
         "fridge": null,
-        "seat_features": "云感舒适座椅"
+        "seat_features": "云感舒适座椅",
+        "rear_screen": "高配标配 8英寸后排娱乐屏（旗舰版标配）",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表+29英寸HUD",
+        "seat_heating_ventilation": "前排加热/通风，二排加热/通风(高配)",
+        "seat_massage": "前排/二排(高配)按摩(是否含座垫/臀部未知)",
+        "zero_gravity_seat": "标配(高配)/无(入门)",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配(高配)/无(入门)",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "Ultra SE智能升级包",
           "price_rmb": 12000,
-          "details": "2颗图灵AI芯片+第二代VLA+OMS"
+          "details": "2颗图灵AI芯片+第二代VLA+OMS",
+          "availability": "可选"
         },
         {
           "name": "Ultra智能升级包",
           "price_rmb": 20000,
-          "details": "3颗图灵AI芯片+小P管家VLM+面容ID"
+          "details": "3颗图灵AI芯片+小P管家VLM+面容ID",
+          "availability": "可选"
         },
         {
           "name": "20英寸运动轮毂+米其林胎",
           "price_rmb": 6000,
-          "details": "255/45 R20+卡钳罩"
+          "details": "255/45 R20+卡钳罩",
+          "availability": "可选"
         },
         {
           "name": "副驾零重力座椅（旗舰版可选）",
           "price_rmb": 6000,
-          "details": "副驾零重力座椅"
+          "details": "副驾零重力座椅",
+          "availability": "可选"
         },
         {
           "name": "黑武士套装",
           "price_rmb": 10000,
-          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰"
+          "details": "极夜黑车漆+20英寸轮毂+红卡钳罩+熔岩灰内饰",
+          "availability": "可选"
         },
         {
           "name": "星镜蓝外观色",
           "price_rmb": 6000,
-          "details": "付费车漆"
+          "details": "付费车漆",
+          "availability": "可选"
         },
         {
           "name": "晨雾蓝座舱主题",
           "price_rmb": 3000,
-          "details": "付费内饰主题"
+          "details": "付费内饰主题",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png"
+  "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
+  "promo_highlights": [
+    "全系享8000元购车补贴、图灵AI智驾终身免费权益"
+  ],
+  "miit_filing": {
+    "miit_batch": "第391批",
+    "product_model_code": "NHQ7000BEVKC",
+    "curb_weight_kg": "1967-2084",
+    "gross_weight_kg": 2500,
+    "approach_departure_deg": null,
+    "battery_supplier": "亿纬动力"
+  },
+  "references": [
+    {
+      "title": "小鹏汽车 2026款小鹏P7+ 官方配置页 (www.xiaopeng.com)",
+      "url": "https://www.xiaopeng.com/p7_plus_2026/configuration.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第391批：新款小鹏P7+申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/18817835",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": null
 }

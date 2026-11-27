@@ -1,7 +1,7 @@
 {
   "brand": "geely-galaxy",
   "brand_name": "吉利银河",
-  "data_as_of": "2026-11-26",
+  "data_as_of": "2026-11-27",
   "model": "吉利星愿（2026/2027款）",
   "model_slug": "xingyuan-2026",
   "category": "小型纯电两厢车",
@@ -22,7 +22,7 @@
         "height_mm": 1570,
         "wheelbase_mm": 2650,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1285,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +38,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源/湘潭闪聚电池",
         "battery_capacity_kwh": 30.12,
         "cltc_pure_electric_range_km": 310,
         "cltc_combined_range_km": 310,
@@ -46,10 +46,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 21min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -73,18 +74,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热，无通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双色车身涂装/黑色悬浮车顶",
           "price_rmb": null,
-          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）",
+          "availability": "可选"
         },
         {
           "name": "L2级智能辅助驾驶选装",
           "price_rmb": null,
-          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置",
+          "availability": "可选"
         }
       ]
     },
@@ -100,7 +113,7 @@
         "height_mm": 1570,
         "wheelbase_mm": 2650,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1285,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -116,7 +129,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源/湘潭闪聚电池",
         "battery_capacity_kwh": 40.16,
         "cltc_pure_electric_range_km": 410,
         "cltc_combined_range_km": 410,
@@ -124,10 +137,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 21min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -151,18 +165,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热，无通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双色车身涂装/黑色悬浮车顶",
           "price_rmb": null,
-          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）",
+          "availability": "可选"
         },
         {
           "name": "L2级智能辅助驾驶选装",
           "price_rmb": null,
-          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置",
+          "availability": "可选"
         }
       ]
     },
@@ -178,7 +204,7 @@
         "height_mm": 1570,
         "wheelbase_mm": 2650,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1285,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -194,7 +220,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源/湘潭闪聚电池",
         "battery_capacity_kwh": 40.16,
         "cltc_pure_electric_range_km": 410,
         "cltc_combined_range_km": 410,
@@ -202,10 +228,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 21min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -229,18 +256,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热，无通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双色车身涂装/黑色悬浮车顶",
           "price_rmb": null,
-          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）",
+          "availability": "可选"
         },
         {
           "name": "L2级智能辅助驾驶选装",
           "price_rmb": null,
-          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置",
+          "availability": "可选"
         }
       ]
     },
@@ -256,7 +295,7 @@
         "height_mm": 1570,
         "wheelbase_mm": 2650,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1285,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -272,7 +311,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源/湘潭闪聚电池",
         "battery_capacity_kwh": 47.14,
         "cltc_pure_electric_range_km": 480,
         "cltc_combined_range_km": 480,
@@ -280,10 +319,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -307,18 +347,30 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热，无通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双色车身涂装/黑色悬浮车顶",
           "price_rmb": null,
-          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）",
+          "availability": "可选"
         },
         {
           "name": "L2级智能辅助驾驶选装",
           "price_rmb": null,
-          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置",
+          "availability": "可选"
         }
       ]
     },
@@ -334,7 +386,7 @@
         "height_mm": 1570,
         "wheelbase_mm": 2650,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1285,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -350,7 +402,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "江苏时代新能源/湘潭闪聚电池",
         "battery_capacity_kwh": 47.14,
         "cltc_pure_electric_range_km": 480,
         "cltc_combined_range_km": 480,
@@ -358,10 +410,11 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 19min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 3.3,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
-        "wltc_fuel_consumption_l_100km": null
+        "wltc_fuel_consumption_l_100km": null,
+        "battery_chemistry": "磷酸铁锂"
       },
       "chassis": {
         "front_suspension": "前麦弗逊",
@@ -385,21 +438,63 @@
         "hud": null,
         "audio": null,
         "fridge": null,
-        "seat_features": null
+        "seat_features": null,
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "seat_heating_ventilation": "前排加热，无通风，二排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
       },
       "options": [
         {
           "name": "双色车身涂装/黑色悬浮车顶",
           "price_rmb": null,
-          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）"
+          "details": "提供紫/黑双色车身及黑色悬浮车顶外观配色方案（按版型配备或选装）",
+          "availability": "可选"
         },
         {
           "name": "L2级智能辅助驾驶选装",
           "price_rmb": null,
-          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置"
+          "details": "高配/顶配版型可选装L2级智能辅助驾驶及相关主动安全配置",
+          "availability": "可选"
         }
       ]
     }
   ],
-  "image_url": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/E22H/2026/1106/kv.pc1.jpg"
+  "image_url": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/E22H/2026/1106/kv.pc1.jpg",
+  "promo_highlights": [
+    "2026款限时权益价6.18万元起",
+    "3000元超级置换补贴（部分活动至高8000元）+18期0息"
+  ],
+  "miit_filing": {
+    "miit_batch": "第389批",
+    "product_model_code": "MR7001BEV112",
+    "curb_weight_kg": 1285,
+    "gross_weight_kg": 1660,
+    "approach_departure_deg": null,
+    "battery_supplier": "江苏时代新能源/湘潭闪聚电池"
+  },
+  "references": [
+    {
+      "title": "吉利银河 吉利星愿（2026/2027款） 官方配置页 (galaxy.geely.com)",
+      "url": "https://galaxy.geely.com/xingyuan/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "工信部第389批：吉利星愿申报信息",
+      "url": "https://chejiahao.m.autohome.com.cn/info/17958843",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "origin_type": "国产",
+  "interior_image_url": "https://img8.bitautoimg.com/usercenter/smallVideo/2024/09/04/w750_yichecar_adfd339e220b438193147aeca3363f06.jpg.webp"
 }
