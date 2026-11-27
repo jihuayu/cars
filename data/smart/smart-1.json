@@ -8,18 +8,26 @@
   "release_date": "2026-08-06",
   "data_as_of": "2026-11-27",
   "image_url": "https://q3.itc.cn/q_70/images03/20260807/a5e2abff6f754b569dfa838b8fbe55b9.jpeg",
-  "interior_image_url": null,
+  "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SMART_1_INTERIOR.jpg",
   "promo_highlights": [
     "2027款800V+6C超充，限时权益价14.99万-16.99万"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/6369.html"
+    "https://car.autohome.com.cn/config/series/6369.html",
+    "https://commons.wikimedia.org/wiki/Category:Smart_Hashtag_1"
   ],
   "references": [
     {
       "title": "smart精灵#1参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/6369.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Category:Smart Hashtag 1 (SMART 1 INTERIOR.jpg) - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Smart_Hashtag_1",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -37,7 +45,7 @@
         "wheelbase_mm": 2750,
         "ground_clearance_mm": 181,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 1800
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -51,7 +59,8 @@
         "battery_capacity_kwh": 61.52,
         "cltc_pure_electric_range_km": 535,
         "fast_charge_time": "12分钟(10-80%,6C)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "吉曜通行"
       },
       "chassis": {
         "air_suspension": "无",
@@ -72,7 +81,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -97,7 +106,7 @@
         "wheelbase_mm": 2750,
         "ground_clearance_mm": 181,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 1800
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -111,7 +120,8 @@
         "battery_capacity_kwh": 61.52,
         "cltc_pure_electric_range_km": 535,
         "fast_charge_time": "12分钟(10-80%,6C)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "吉曜通行"
       },
       "chassis": {
         "air_suspension": "无",
@@ -132,7 +142,7 @@
         "seat_massage": "SPA24种按摩",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },

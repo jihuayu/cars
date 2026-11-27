@@ -8,14 +8,15 @@
   "release_date": "2026-09-22",
   "data_as_of": "2026-11-27",
   "image_url": "https://img.dongfeng-nissan.com.cn/large-file/technology/page2/array/2d.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nissan_Primera_EV_interior.jpg",
   "promo_highlights": [
     "2026款限时权益价10.99万-14.69万元",
     "510Max激光雷达版限时12.99万"
   ],
   "source_urls": [
     "https://www.dongfeng-nissan.com.cn/car/n7",
-    "https://car.autohome.com.cn/config/series/7935.html"
+    "https://car.autohome.com.cn/config/series/7935.html",
+    "https://commons.wikimedia.org/wiki/File:Nissan_Primera_EV_interior.jpg"
   ],
   "references": [
     {
@@ -29,6 +30,13 @@
       "title": "日产N7参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/7935.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:Nissan Primera EV interior.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Nissan_Primera_EV_interior.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -60,7 +68,8 @@
         "battery_capacity_kwh": 56.0,
         "cltc_pure_electric_range_km": 525,
         "fast_charge_time": "14分钟(30-80%,3C)",
-        "v2l_power_kw": 6.6
+        "v2l_power_kw": 6.6,
+        "battery_supplier": "欣旺达"
       },
       "chassis": {
         "air_suspension": "无",
@@ -99,7 +108,7 @@
         "wheelbase_mm": 2915,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 1950
       },
       "performance": {
         "drive_type": "前置前驱",
@@ -113,7 +122,8 @@
         "battery_capacity_kwh": 71.0,
         "cltc_pure_electric_range_km": 625,
         "fast_charge_time": "14分钟(30-80%,3C)",
-        "v2l_power_kw": 6.6
+        "v2l_power_kw": 6.6,
+        "battery_supplier": "欣旺达"
       },
       "chassis": {
         "air_suspension": "无",

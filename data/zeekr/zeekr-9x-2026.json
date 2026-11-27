@@ -7,7 +7,9 @@
   "category": "全尺寸超豪华电混旗舰SUV",
   "release_date": "2025-09-29",
   "source_urls": [
-    "https://m.zeekrlife.com/zeekr9x"
+    "https://m.zeekrlife.com/zeekr9x",
+    "https://www.moomoo.com/hans/news/post/56702748/zeekr-files-for-9x-hybrid-suv-pre-sales-to-begin",
+    "https://auto.sina.cn/2026-07-15/detail-inihwrra4788607.d.html?vt=4"
   ],
   "skus": [
     {
@@ -494,8 +496,15 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极氪9X五座版内饰官图首发 - 新浪汽车",
+      "url": "https://auto.sina.cn/2026-07-15/detail-inihwrra4788607.d.html?vt=4",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://k.sinaimg.cn/n/sinakd/sni/450/w800h450/20260715/d129-21d6256c0b954146693d4dbd24ba7162.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
 }

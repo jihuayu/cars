@@ -8,14 +8,15 @@
   "release_date": "2023-12-15",
   "data_as_of": "2026-11-27",
   "image_url": "https://up-lexus-test.oss-cn-beijing.aliyuncs.com/news/7e26ca5ce01a4bc1a8caf5955c0d474f.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_interior_of_RZ_450e_PROTOTYPE.jpg",
   "promo_highlights": [
     "终端优惠最高12万元，300e参考价23.59万起",
     "6年/15万公里整车质保"
   ],
   "source_urls": [
     "https://www.lexus.com.cn/node/5709",
-    "https://car.autohome.com.cn/config/series/6525.html"
+    "https://car.autohome.com.cn/config/series/6525.html",
+    "https://commons.wikimedia.org/wiki/File:The_interior_of_RZ_450e_PROTOTYPE.jpg"
   ],
   "references": [
     {
@@ -29,6 +30,13 @@
       "title": "雷克萨斯RZ参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/6525.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:The interior of RZ 450e PROTOTYPE.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:The_interior_of_RZ_450e_PROTOTYPE.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -80,9 +88,9 @@
         "seat_heating_ventilation": "前排加热/通风",
         "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [

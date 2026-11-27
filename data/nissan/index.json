@@ -16,7 +16,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2023-07-20",
       "image_url": "https://ino.auto.itc.cn/c_zoom,w_480,h_320/q_mini/transparent-logo/6800/9ff76828b428fd4577dc574df394e67f.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nissan_Ariya%2C_BlueGray_interior%2C_2022.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -47,7 +47,8 @@
       "has_miit": false,
       "file": "data/nissan/nissan-ariya.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6714.html"
+        "https://car.autohome.com.cn/config/series/6714.html",
+        "https://commons.wikimedia.org/wiki/File:Nissan_Ariya,_BlueGray_interior,_2022.jpg"
       ]
     },
     {
@@ -60,7 +61,7 @@
       "category": "中大型纯电轿车",
       "release_date": "2026-09-22",
       "image_url": "https://img.dongfeng-nissan.com.cn/large-file/technology/page2/array/2d.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nissan_Primera_EV_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -92,7 +93,8 @@
       "file": "data/nissan/nissan-n7.json",
       "source_urls": [
         "https://www.dongfeng-nissan.com.cn/car/n7",
-        "https://car.autohome.com.cn/config/series/7935.html"
+        "https://car.autohome.com.cn/config/series/7935.html",
+        "https://commons.wikimedia.org/wiki/File:Nissan_Primera_EV_interior.jpg"
       ]
     }
   ]

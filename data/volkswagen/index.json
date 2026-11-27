@@ -29,7 +29,7 @@
       "price_max_rmb": 149900,
       "best_zero_to_100_s": 7.5,
       "max_cltc_ev_km": 630,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 145,
       "max_v2l_kw": 3.3,
       "has_air_suspension": false,
       "has_cdc": false,
@@ -60,7 +60,7 @@
       "category": "紧凑型纯电两厢车",
       "release_date": "2025-09-22",
       "image_url": "https://k.sinaimg.cn/n/default/f8781c75/20260807/qiche_010.jpeg/w700d1q75cms.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Volkswagen_ID.3_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -91,7 +91,8 @@
       "has_miit": false,
       "file": "data/volkswagen/vw-id3.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6265.html"
+        "https://car.autohome.com.cn/config/series/6265.html",
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_ID.3_interior.jpg"
       ]
     },
     {
@@ -104,7 +105,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2025-08-26",
       "image_url": "https://global-img.bitauto.com/usercenter/yhzx/20260623/498/218269949826426./w1260_m0_q100_yichecar_11af07d7d33ff2ebfc92fdb04755e32c.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/The_interior_of_Volkswagen_ID.4.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -127,7 +128,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -135,7 +136,9 @@
       "has_miit": false,
       "file": "data/volkswagen/vw-id4-crozz.json",
       "source_urls": [
-        "https://www.bitauto.my/zh/wiki/%E5%A4%A7%E4%BC%97ID.4%20CROZZ/"
+        "https://www.bitauto.my/zh/wiki/%E5%A4%A7%E4%BC%97ID.4%20CROZZ/",
+        "https://car.autohome.com.cn/config/series/5785.html",
+        "https://commons.wikimedia.org/wiki/File:The_interior_of_Volkswagen_ID.4.jpg"
       ]
     },
     {
@@ -147,7 +150,7 @@
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2025-05-16",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/2023_SAIC-Volkswagen_ID.4_X.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -171,7 +174,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -180,7 +183,8 @@
       "file": "data/volkswagen/vw-id4-x.json",
       "source_urls": [
         "https://m.svw-volkswagen.com/id4x",
-        "https://car.autohome.com.cn/config/series/5511.html"
+        "https://car.autohome.com.cn/config/series/5511.html",
+        "https://commons.wikimedia.org/wiki/File:2023_SAIC-Volkswagen_ID.4_X.jpg"
       ]
     },
     {
@@ -193,7 +197,7 @@
       "category": "中型纯电掀背轿车",
       "release_date": "2023-12-15",
       "image_url": "https://n.sinaimg.cn/auto/0/w2048h1152/20231215/384c-f581e89843999af73918ca4d24f58638.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2024_VW_ID.7%2C_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -224,7 +228,8 @@
       "has_miit": false,
       "file": "data/volkswagen/vw-id7-vizzion.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7208.html"
+        "https://car.autohome.com.cn/config/series/7208.html",
+        "https://commons.wikimedia.org/wiki/File:2024_VW_ID.7,_interior.jpg"
       ]
     }
   ]

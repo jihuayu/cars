@@ -16,7 +16,7 @@
       "category": "小型纯电SUV",
       "release_date": "2026-08-06",
       "image_url": "https://q3.itc.cn/q_70/images03/20260807/a5e2abff6f754b569dfa838b8fbe55b9.jpeg",
-      "interior_image_url": null,
+      "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SMART_1_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -47,7 +47,8 @@
       "has_miit": false,
       "file": "data/smart/smart-1.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6369.html"
+        "https://car.autohome.com.cn/config/series/6369.html",
+        "https://commons.wikimedia.org/wiki/Category:Smart_Hashtag_1"
       ]
     },
     {
@@ -60,7 +61,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2025-07-11",
       "image_url": "https://m1.auto.itc.cn/c_fill,w_600,h_400/30139420.JPG",
-      "interior_image_url": null,
+      "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SMART_3_CHINA_VERSION_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -91,7 +92,8 @@
       "has_miit": false,
       "file": "data/smart/smart-3.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7044.html"
+        "https://car.autohome.com.cn/config/series/7044.html",
+        "https://commons.wikimedia.org/wiki/Category:Smart_Hashtag_3"
       ]
     },
     {
@@ -129,7 +131,7 @@
       "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -138,7 +140,8 @@
       "file": "data/smart/smart-5.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/spec/78924.html",
-        "https://car.autohome.com.cn/config/spec/75056.html"
+        "https://car.autohome.com.cn/config/spec/75056.html",
+        "https://car.autohome.com.cn/config/series/7684.html"
       ]
     }
   ]

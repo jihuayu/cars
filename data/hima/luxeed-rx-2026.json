@@ -1,0 +1,727 @@
+{
+  "brand": "hima",
+  "brand_name": "鸿蒙智行",
+  "data_as_of": "2026-11-27",
+  "sub_brand": "智界 LUXEED",
+  "model": "智界RX（2026款）",
+  "model_slug": "luxeed-rx-2026",
+  "category": "中大型纯电轿跑SUV",
+  "release_date": "2026-09-28",
+  "origin_type": "国产",
+  "source_urls": [
+    "https://hima.auto/zhijie/rx/",
+    "https://car.autohome.com.cn/config/series/8684.html",
+    "https://hima.auto/dam/hima-site/cn/zhijie/service/pdf/261013/%E6%99%BA%E7%95%8CRX%E7%BA%AF%E7%94%B5%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+    "https://auto.ifeng.com/c/8vOcjqpJEJ0",
+    "https://auto.ifeng.com/c/8tqv39fsEPq",
+    "https://4g.stockstar.com/detail/IG2026092900005772",
+    "https://auto.ifeng.com/c/8y2OrdzqIfr",
+    "http://auto.cnfol.com/cheshidongtai/20261009/32391317.shtml",
+    "https://db.m.auto.sohu.com/model_7476/a/1038044233_120048818"
+  ],
+  "image_url": "https://hima.auto/dam/hima-site/cn/zhijie/rx/images/design/zhijie-rx-colour-1.jpg",
+  "interior_image_url": "https://hima.auto/dam/hima-site/cn/zhijie/rx/images/entertainment/zhijie-rx-inside-colour-1.jpg",
+  "promo_highlights": [
+    "2026年9月28日正式上市，指导价25.98万-38.98万元，首销期（至2026年11月2日）下定享至高价值40500元购车权益",
+    "权益包含：极光绿/星玫粉外观选配半价（4000元）、Ultra系21000元ADS高阶包补贴（Max系6000元增强版补贴）、4000元辅助驾驶无忧服务、ADS增强版免费试用1个月、1500元交付大礼包、鸿蒙智行老车主增换购10000元补贴、0首付起5年低息金融"
+  ],
+  "miit_filing": {
+    "miit_batch": "第410批（新增81kWh磷酸铁锂版；100kWh三元锂版于2026年6月公示）",
+    "product_model_code": "SQR6500BEVEHX / SQR6500BEVEHX1 / SQR6500BEVEHX2 / SQR6500BEVEHX5",
+    "curb_weight_kg": "2250-2400",
+    "gross_weight_kg": "2690-2840",
+    "approach_departure_deg": "14°/18°-20°",
+    "battery_supplier": "宁德时代(江苏时代)/中创新航/国轩高科"
+  },
+  "references": [
+    {
+      "title": "智界RX 官方产品页 - 鸿蒙智行官网",
+      "url": "https://hima.auto/zhijie/rx/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界RX 纯电版使用说明书（整车参数/驱动电机总成参数/轮胎规格）- 鸿蒙智行官网",
+      "url": "https://hima.auto/dam/hima-site/cn/zhijie/service/pdf/261013/%E6%99%BA%E7%95%8CRX%E7%BA%AF%E7%94%B5%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+      "type": "official_manual",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界RX 参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/8684.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "【网通社快报】鸿蒙智行智界RX 新版本完成工信部第410批申报 - 凤凰网汽车",
+      "url": "https://auto.ifeng.com/c/8vOcjqpJEJ0",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "【网通社快报】智界RX新车申报信息公布：双电机四驱版极速251km/h - 凤凰网汽车",
+      "url": "https://auto.ifeng.com/c/8tqv39fsEPq",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界RX购车手册首推Ultra四驱版（含40500元权益明细）- 证券之星/汽车之家",
+      "url": "https://4g.stockstar.com/detail/IG2026092900005772",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "推荐Max 2026款智界RX购车指南（含轮毂/车漆选装差异）- 凤凰网汽车/车质网",
+      "url": "https://auto.ifeng.com/c/8y2OrdzqIfr",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "搭载L3级架构和800V高压平台 智界RX上市25.98万元起售 - 中金在线/中国经济网",
+      "url": "http://auto.cnfol.com/cheshidongtai/20261009/32391317.shtml",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界RX 81度/100度电池供应商与配置解析 - 搜狐汽车/36氪",
+      "url": "https://db.m.auto.sohu.com/model_7476/a/1038044233_120048818",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "hima-luxeed-rx-2026-max",
+      "sku_name": "Max",
+      "price_rmb": 259800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5020,
+        "width_mm": 2007,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": 2285,
+        "trunk_volume_l": 622,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "148-155"
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 277,
+        "motor_torque_nm": 323,
+        "zero_to_100_s": 5.6,
+        "top_speed_kmh": 251
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "华为巨鲸（中创新航/国轩高科）",
+        "battery_capacity_kwh": 81.0,
+        "cltc_pure_electric_range_km": 672,
+        "cltc_combined_range_km": 672,
+        "energy_consumption_kwh_100km": 13.5,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 6.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销四球头全铝双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "华为途灵平台（单阀连续可变阻尼减振器，无空悬）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "255/50 R20"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "共光路舱内激光雷达",
+        "system": "华为乾崑ADS 5增强版",
+        "subscription_or_buyout": "高阶功能包买断36000元（首销期Ultra系享21000元补贴，Max系享6000元增强版补贴）"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "8.88英寸全液晶仪表 + 16.1英寸3K四向随动中控屏 + 8.88英寸悦动副驾屏",
+        "hud": "26英寸超高清HUD",
+        "audio": "HUAWEI SOUND 华为悦彰 21扬声器（2080W，7.1.4全景声）",
+        "fridge": "选装/部分版本配备 7.7L智能恒冷冰箱",
+        "seat_features": "智能环抱座椅（98压力传感器+27气袋+主动侧翼支撑），16点按摩（背部+臀部全覆盖）",
+        "rear_screen": "不支持",
+        "power_220v": "无（车内配备12V电源及最高66W Type-C接口，支持6kW车外V2L放电）",
+        "instrument_cluster": "8.88英寸全液晶仪表 + 26英寸超高清HUD",
+        "seat_heating_ventilation": "前排加热/通风，后排加热",
+        "seat_massage": "前排智能环抱座椅16点按摩（明确含背部及臀部全覆盖）",
+        "zero_gravity_seat": "选装（Max长续航及以上标配主驾零重力）",
+        "steering_wheel_electric": "电动调节+记忆（高配）/手动调节（低配）",
+        "steering_wheel_heating": "全系标配（3挡调节）",
+        "streaming_interior_mirror": "支持（高配标配/部分版本选装）",
+        "streaming_exterior_mirrors": "选装 双目电子外后视镜"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS 5增强版高阶功能包",
+          "price_rmb": null,
+          "details": "首销期赠送6000元补贴及1个月免费试用",
+          "availability": "可选"
+        },
+        {
+          "name": "付费外观车漆（极光绿/星玫粉）",
+          "price_rmb": 8000,
+          "details": "暖云白/曜石黑/钛空银免费；首销期极光绿/星玫粉半价（减4000元）",
+          "availability": "可选"
+        },
+        {
+          "name": "闪蝶蓝纳米仿生变色车漆",
+          "price_rmb": 10000,
+          "details": "5C2B高阶蓝紫变色纳米涂装工艺",
+          "availability": "可选"
+        },
+        {
+          "name": "20英寸双五辐星光轮毂（星玫粉）/ 21英寸双五辐驭风轮毂",
+          "price_rmb": null,
+          "details": "标配20英寸双五辐星光轮毂（255/50 R20），可选装21英寸前255/后275鸳鸯胎",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-rx-2026-max-lr",
+      "sku_name": "Max 长续航版",
+      "price_rmb": 289800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5020,
+        "width_mm": 2007,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": 2250,
+        "trunk_volume_l": 622,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "148-155"
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 277,
+        "motor_torque_nm": 323,
+        "zero_to_100_s": 5.6,
+        "top_speed_kmh": 251
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "华为巨鲸（宁德时代/中创新航）",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 822,
+        "cltc_combined_range_km": 822,
+        "energy_consumption_kwh_100km": 13.4,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 6.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销四球头全铝双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "华为途灵平台（单阀连续可变阻尼减振器，无空悬）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "255/50 R20"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "共光路舱内激光雷达",
+        "system": "华为乾崑ADS 5增强版",
+        "subscription_or_buyout": "高阶功能包买断36000元（首销期Ultra系享21000元补贴，Max系享6000元增强版补贴）"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "8.88英寸全液晶仪表 + 16.1英寸3K四向随动中控屏 + 8.88英寸悦动副驾屏",
+        "hud": "26英寸超高清HUD",
+        "audio": "HUAWEI SOUND 华为悦彰 21扬声器（2080W，7.1.4全景声）",
+        "fridge": "选装/部分版本配备 7.7L智能恒冷冰箱",
+        "seat_features": "智能环抱座椅（98压力传感器+27气袋+主动侧翼支撑），16点按摩（背部+臀部全覆盖）",
+        "rear_screen": "不支持",
+        "power_220v": "无（车内配备12V电源及最高66W Type-C接口，支持6kW车外V2L放电）",
+        "instrument_cluster": "8.88英寸全液晶仪表 + 26英寸超高清HUD",
+        "seat_heating_ventilation": "前排加热/通风，后排加热",
+        "seat_massage": "前排智能环抱座椅16点按摩（明确含背部及臀部全覆盖）",
+        "zero_gravity_seat": "主驾标配零重力座椅（Max长续航及以上标配，副驾/部分版本选装）",
+        "steering_wheel_electric": "电动调节+记忆（高配）/手动调节（低配）",
+        "steering_wheel_heating": "全系标配（3挡调节）",
+        "streaming_interior_mirror": "支持（高配标配/部分版本选装）",
+        "streaming_exterior_mirrors": "选装 双目电子外后视镜"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS 5增强版高阶功能包",
+          "price_rmb": null,
+          "details": "首销期赠送6000元补贴及1个月免费试用",
+          "availability": "可选"
+        },
+        {
+          "name": "付费外观车漆（极光绿/星玫粉）",
+          "price_rmb": 8000,
+          "details": "暖云白/曜石黑/钛空银免费；首销期极光绿/星玫粉半价（减4000元）",
+          "availability": "可选"
+        },
+        {
+          "name": "闪蝶蓝纳米仿生变色车漆",
+          "price_rmb": 10000,
+          "details": "5C2B高阶蓝紫变色纳米涂装工艺",
+          "availability": "可选"
+        },
+        {
+          "name": "20英寸双五辐星光轮毂（星玫粉）/ 21英寸双五辐驭风轮毂",
+          "price_rmb": null,
+          "details": "标配20英寸双五辐星光轮毂（255/50 R20），可选装21英寸前255/后275鸳鸯胎",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-rx-2026-ultra",
+      "sku_name": "Ultra",
+      "price_rmb": 319800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5020,
+        "width_mm": 2007,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": 2285,
+        "trunk_volume_l": 622,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "148-155"
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 277,
+        "motor_torque_nm": 323,
+        "zero_to_100_s": 5.6,
+        "top_speed_kmh": 251
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "磷酸铁锂",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "华为巨鲸（中创新航/国轩高科）",
+        "battery_capacity_kwh": 81.0,
+        "cltc_pure_electric_range_km": 702,
+        "cltc_combined_range_km": 702,
+        "energy_consumption_kwh_100km": 12.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 6.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销四球头全铝双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "华为途灵平台（双腔空气悬架100mm可调+双阀CDC）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "255/50 R20"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "四激光雷达矩阵（1颗896线双光路图像级+3颗高精度固态激光雷达，38传感器，L3级全链路冗余架构）",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶功能包买断36000元（首销期Ultra系享21000元补贴，Max系享6000元增强版补贴）"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "8.88英寸全液晶仪表 + 16.1英寸3K四向随动中控屏 + 8.88英寸悦动副驾屏",
+        "hud": "26英寸超高清HUD",
+        "audio": "HUAWEI SOUND 华为悦彰 21扬声器（2080W，7.1.4全景声）",
+        "fridge": "选装/部分版本配备 7.7L智能恒冷冰箱",
+        "seat_features": "智能环抱座椅（98压力传感器+27气袋+主动侧翼支撑），16点按摩（背部+臀部全覆盖）",
+        "rear_screen": "不支持",
+        "power_220v": "无（车内配备12V电源及最高66W Type-C接口，支持6kW车外V2L放电）",
+        "instrument_cluster": "8.88英寸全液晶仪表 + 26英寸超高清HUD",
+        "seat_heating_ventilation": "前排加热/通风，后排加热",
+        "seat_massage": "前排智能环抱座椅16点按摩（明确含背部及臀部全覆盖）",
+        "zero_gravity_seat": "主驾标配零重力座椅（Max长续航及以上标配，副驾/部分版本选装）",
+        "steering_wheel_electric": "电动调节+记忆（高配）/手动调节（低配）",
+        "steering_wheel_heating": "全系标配（3挡调节）",
+        "streaming_interior_mirror": "支持（高配标配/部分版本选装）",
+        "streaming_exterior_mirrors": "选装 双目电子外后视镜"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS 5高阶功能包",
+          "price_rmb": 36000,
+          "details": "首销期Ultra系享21000元补贴",
+          "availability": "可选"
+        },
+        {
+          "name": "付费外观车漆（极光绿/星玫粉）",
+          "price_rmb": 8000,
+          "details": "首销期享半价优惠（减4000元）",
+          "availability": "可选"
+        },
+        {
+          "name": "闪蝶蓝纳米仿生变色车漆",
+          "price_rmb": 10000,
+          "details": "5C2B高阶蓝紫变色纳米涂装工艺",
+          "availability": "可选"
+        },
+        {
+          "name": "21英寸双五辐驭风轮毂",
+          "price_rmb": null,
+          "details": "Ultra/Ultra长续航标配20英寸，可选21英寸鸳鸯胎",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-rx-2026-ultra-lr",
+      "sku_name": "Ultra 长续航版",
+      "price_rmb": 349800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5020,
+        "width_mm": 2007,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": 2250,
+        "trunk_volume_l": 622,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "148-155"
+      },
+      "performance": {
+        "drive_type": "单电机后驱",
+        "motor_power_kw": 277,
+        "motor_torque_nm": 323,
+        "zero_to_100_s": 5.6,
+        "top_speed_kmh": 251
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "华为巨鲸（宁德时代/中创新航）",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 852,
+        "cltc_combined_range_km": 852,
+        "energy_consumption_kwh_100km": 12.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 6.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销四球头全铝双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "华为途灵平台（双腔空气悬架100mm可调+双阀CDC）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "255/50 R20"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "四激光雷达矩阵（1颗896线双光路图像级+3颗高精度固态激光雷达，38传感器，L3级全链路冗余架构）",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶功能包买断36000元（首销期Ultra系享21000元补贴，Max系享6000元增强版补贴）"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "8.88英寸全液晶仪表 + 16.1英寸3K四向随动中控屏 + 8.88英寸悦动副驾屏",
+        "hud": "26英寸超高清HUD",
+        "audio": "HUAWEI SOUND 华为悦彰 21扬声器（2080W，7.1.4全景声）",
+        "fridge": "选装/部分版本配备 7.7L智能恒冷冰箱",
+        "seat_features": "智能环抱座椅（98压力传感器+27气袋+主动侧翼支撑），16点按摩（背部+臀部全覆盖）",
+        "rear_screen": "不支持",
+        "power_220v": "无（车内配备12V电源及最高66W Type-C接口，支持6kW车外V2L放电）",
+        "instrument_cluster": "8.88英寸全液晶仪表 + 26英寸超高清HUD",
+        "seat_heating_ventilation": "前排加热/通风，后排加热",
+        "seat_massage": "前排智能环抱座椅16点按摩（明确含背部及臀部全覆盖）",
+        "zero_gravity_seat": "主驾标配零重力座椅（Max长续航及以上标配，副驾/部分版本选装）",
+        "steering_wheel_electric": "电动调节+记忆（高配）/手动调节（低配）",
+        "steering_wheel_heating": "全系标配（3挡调节）",
+        "streaming_interior_mirror": "支持（高配标配/部分版本选装）",
+        "streaming_exterior_mirrors": "选装 双目电子外后视镜"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS 5高阶功能包",
+          "price_rmb": 36000,
+          "details": "首销期Ultra系享21000元补贴",
+          "availability": "可选"
+        },
+        {
+          "name": "付费外观车漆（极光绿/星玫粉）",
+          "price_rmb": 8000,
+          "details": "首销期享半价优惠（减4000元）",
+          "availability": "可选"
+        },
+        {
+          "name": "闪蝶蓝纳米仿生变色车漆",
+          "price_rmb": 10000,
+          "details": "5C2B高阶蓝紫变色纳米涂装工艺",
+          "availability": "可选"
+        },
+        {
+          "name": "21英寸双五辐驭风轮毂",
+          "price_rmb": null,
+          "details": "Ultra/Ultra长续航标配20英寸，可选21英寸鸳鸯胎",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-rx-2026-ultra-awd",
+      "sku_name": "Ultra 四驱版",
+      "price_rmb": 369800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5020,
+        "width_mm": 2007,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": 2400,
+        "trunk_volume_l": 622,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "155"
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前160kW异步+后277kW永磁）",
+        "motor_power_kw": 437,
+        "motor_torque_nm": 603,
+        "zero_to_100_s": 3.6,
+        "top_speed_kmh": 251
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "华为巨鲸（宁德时代/中创新航）",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 753,
+        "cltc_combined_range_km": 753,
+        "energy_consumption_kwh_100km": 14.6,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 6.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销四球头全铝双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "华为途灵平台（双腔空气悬架100mm可调+双阀CDC）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "前255/45 R21 后275/45 R21"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "四激光雷达矩阵（1颗896线双光路图像级+3颗高精度固态激光雷达，38传感器，L3级全链路冗余架构）",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶功能包买断36000元（首销期Ultra系享21000元补贴，Max系享6000元增强版补贴）"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "8.88英寸全液晶仪表 + 16.1英寸3K四向随动中控屏 + 8.88英寸悦动副驾屏",
+        "hud": "26英寸超高清HUD",
+        "audio": "HUAWEI SOUND 华为悦彰 21扬声器（2080W，7.1.4全景声）",
+        "fridge": "选装/部分版本配备 7.7L智能恒冷冰箱",
+        "seat_features": "智能环抱座椅（98压力传感器+27气袋+主动侧翼支撑），16点按摩（背部+臀部全覆盖）",
+        "rear_screen": "不支持",
+        "power_220v": "无（车内配备12V电源及最高66W Type-C接口，支持6kW车外V2L放电）",
+        "instrument_cluster": "8.88英寸全液晶仪表 + 26英寸超高清HUD",
+        "seat_heating_ventilation": "前排加热/通风，后排加热",
+        "seat_massage": "前排智能环抱座椅16点按摩（明确含背部及臀部全覆盖）",
+        "zero_gravity_seat": "主驾标配零重力座椅（Max长续航及以上标配，副驾/部分版本选装）",
+        "steering_wheel_electric": "电动调节+记忆（高配）/手动调节（低配）",
+        "steering_wheel_heating": "全系标配（3挡调节）",
+        "streaming_interior_mirror": "支持（高配标配/部分版本选装）",
+        "streaming_exterior_mirrors": "选装 双目电子外后视镜"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS 5高阶功能包",
+          "price_rmb": 36000,
+          "details": "首销期享21000元补贴",
+          "availability": "可选"
+        },
+        {
+          "name": "付费外观车漆（极光绿/星玫粉）",
+          "price_rmb": 8000,
+          "details": "首销期享半价优惠（减4000元）",
+          "availability": "可选"
+        },
+        {
+          "name": "闪蝶蓝纳米仿生变色车漆",
+          "price_rmb": 10000,
+          "details": "5C2B高阶蓝紫变色纳米涂装工艺",
+          "availability": "可选"
+        },
+        {
+          "name": "21英寸双五辐运动轮毂 / 22英寸五辐锋影轮毂",
+          "price_rmb": null,
+          "details": "Ultra四驱标配21英寸驭风轮毂，可选21英寸运动或22英寸锋影轮毂",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "hima-luxeed-rx-2026-ultra-plus",
+      "sku_name": "Ultra+",
+      "price_rmb": 389800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5020,
+        "width_mm": 2007,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "seats": 5,
+        "curb_weight_kg": 2400,
+        "trunk_volume_l": 622,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": null,
+        "ground_clearance_mm": "155"
+      },
+      "performance": {
+        "drive_type": "双电机四驱（前160kW异步+后277kW永磁）",
+        "motor_power_kw": 437,
+        "motor_torque_nm": 603,
+        "zero_to_100_s": 3.6,
+        "top_speed_kmh": 251
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_type": "三元锂",
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "华为巨鲸（宁德时代/中创新航）",
+        "battery_capacity_kwh": 100.0,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "energy_consumption_kwh_100km": 15.7,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 6.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前虚拟主销四球头全铝双叉臂独立悬架",
+        "rear_suspension": "后五连杆独立悬架",
+        "air_suspension": "华为途灵平台（双腔空气悬架100mm可调+双阀CDC）",
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false,
+        "tire_spec": "前255/40 R22 后275/40 R22"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "四激光雷达矩阵（1颗896线双光路图像级+3颗高精度固态激光雷达，38传感器，L3级全链路冗余架构）",
+        "system": "华为乾崑ADS 5",
+        "subscription_or_buyout": "高阶功能包买断36000元（首销期Ultra系享21000元补贴，Max系享6000元增强版补贴）"
+      },
+      "cockpit": {
+        "chip": null,
+        "screens": "8.88英寸全液晶仪表 + 16.1英寸3K四向随动中控屏 + 8.88英寸悦动副驾屏",
+        "hud": "26英寸超高清HUD",
+        "audio": "HUAWEI SOUND 华为悦彰 21扬声器（2080W，7.1.4全景声）",
+        "fridge": "标配 7.7L智能恒冷冰箱（-6~15℃/35~50℃）",
+        "seat_features": "智能环抱座椅（98压力传感器+27气袋+主动侧翼支撑），16点按摩（背部+臀部全覆盖）",
+        "rear_screen": "不支持",
+        "power_220v": "无（车内配备12V电源及最高66W Type-C接口，支持6kW车外V2L放电）",
+        "instrument_cluster": "8.88英寸全液晶仪表 + 26英寸超高清HUD",
+        "seat_heating_ventilation": "前排加热/通风，后排加热",
+        "seat_massage": "前排智能环抱座椅16点按摩（明确含背部及臀部全覆盖）",
+        "zero_gravity_seat": "主驾标配零重力座椅（Max长续航及以上标配，副驾/部分版本选装）",
+        "steering_wheel_electric": "电动调节+记忆（高配）/手动调节（低配）",
+        "steering_wheel_heating": "全系标配（3挡调节）",
+        "streaming_interior_mirror": "支持（高配标配/部分版本选装）",
+        "streaming_exterior_mirrors": "标配 双目电子外后视镜（融合物理+电子双模）"
+      },
+      "options": [
+        {
+          "name": "华为乾崑智驾ADS 5高阶功能包",
+          "price_rmb": 36000,
+          "details": "首销期享21000元补贴",
+          "availability": "可选"
+        },
+        {
+          "name": "付费外观车漆（极光绿/星玫粉）",
+          "price_rmb": 8000,
+          "details": "首销期享半价优惠（减4000元）",
+          "availability": "可选"
+        },
+        {
+          "name": "闪蝶蓝纳米仿生变色车漆",
+          "price_rmb": 10000,
+          "details": "5C2B高阶蓝紫变色纳米涂装工艺",
+          "availability": "可选"
+        },
+        {
+          "name": "飞翼气动外观套件+主动扩散器 / 22英寸锋影轮毂 / 7.7L恒冷冰箱 / 双目电子外后视镜",
+          "price_rmb": 0,
+          "details": "Ultra+顶配专属标配",
+          "availability": "标配"
+        }
+      ]
+    }
+  ]
+}

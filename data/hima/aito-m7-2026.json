@@ -9,7 +9,12 @@
   "release_date": "2025-09-23",
   "source_urls": [
     "https://hima.auto/wenjie/m7-new/configuration/",
-    "https://aito.auto/model/m7-new/"
+    "https://aito.auto/model/m7-new/",
+    "https://chejiahao.m.autohome.com.cn/info/26936552",
+    "https://car.autohome.com.cn/config/spec/74569.html",
+    "https://car.autohome.com.cn/config/spec/74161.html",
+    "https://detail.zol.com.cn/2140/2139152/param.shtml",
+    "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26940212"
   ],
   "skus": [
     {
@@ -24,7 +29,7 @@
         "height_mm": 1780,
         "wheelbase_mm": 3030,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2600,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -33,16 +38,16 @@
       },
       "performance": {
         "drive_type": "四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
+        "motor_power_kw": 392,
+        "motor_torque_nm": 563,
         "zero_to_100_s": 4.7,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台",
         "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 56,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": null,
         "energy_consumption_kwh_100km": null,
@@ -155,7 +160,7 @@
         "top_speed_kmh": null
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台",
         "battery_supplier": null,
         "battery_capacity_kwh": 53.4,
@@ -256,7 +261,7 @@
         "height_mm": 1780,
         "wheelbase_mm": 3030,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2635,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -265,9 +270,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 387,
+        "motor_torque_nm": 597,
+        "zero_to_100_s": 4.7,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -372,7 +377,7 @@
         "height_mm": 1780,
         "wheelbase_mm": 3030,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2600,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -381,13 +386,13 @@
       },
       "performance": {
         "drive_type": "双电机四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
+        "motor_power_kw": 392,
+        "motor_torque_nm": 563,
         "zero_to_100_s": 4.7,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台",
         "battery_supplier": null,
         "battery_capacity_kwh": 53.4,
@@ -509,6 +514,34 @@
       "title": "工信部第412批：问界新M7申报信息",
       "url": "https://chejiahao.m.autohome.com.cn/info/26936552",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "问界M7 2026款增程Pro+四驱版6座参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/74569.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "问界M7 2026款纯电Ultra四驱版5座参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/74161.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "问界M7 2026款增程Pro+四驱版5座参数 - ZOL",
+      "url": "https://detail.zol.com.cn/2140/2139152/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "问界M7申报电池参数信息 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26940212",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

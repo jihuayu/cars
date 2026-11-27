@@ -7,7 +7,10 @@
   "category": "中型纯电家庭跨界MPV",
   "release_date": "2024-10-23",
   "source_urls": [
-    "https://m.zeekrlife.com/config"
+    "https://m.zeekrlife.com/config",
+    "https://car.autohome.com.cn/config/series/7631.html",
+    "https://car.autohome.com.cn/config/spec/67799.html",
+    "https://www.xchuxing.com/article/135966"
   ],
   "skus": [
     {
@@ -22,7 +25,7 @@
         "height_mm": 1755,
         "wheelbase_mm": 3008,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2739,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -39,7 +42,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "第二代金砖磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "衢州极电",
         "battery_capacity_kwh": 76,
         "cltc_pure_electric_range_km": 550,
         "cltc_combined_range_km": 550,
@@ -79,8 +82,8 @@
         "rear_screen": "不支持",
         "power_220v": "标配 车内220V/230V电源",
         "instrument_cluster": "13.02英寸全液晶仪表+AR-HUD",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "seat_heating_ventilation": "前排/后排标配加热、通风",
+        "seat_massage": "前排/后排标配按摩",
         "zero_gravity_seat": "未知",
         "steering_wheel_electric": "电动调节",
         "steering_wheel_heating": "标配",
@@ -125,7 +128,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "麒麟三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代(时代吉利)",
         "battery_capacity_kwh": 102,
         "cltc_pure_electric_range_km": 702,
         "cltc_combined_range_km": 702,
@@ -165,8 +168,8 @@
         "rear_screen": "不支持",
         "power_220v": "标配 车内220V/230V电源",
         "instrument_cluster": "13.02英寸全液晶仪表+AR-HUD",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "seat_heating_ventilation": "前排/后排标配加热、通风",
+        "seat_massage": "前排/后排标配按摩",
         "zero_gravity_seat": "未知",
         "steering_wheel_electric": "电动调节",
         "steering_wheel_heating": "标配",
@@ -195,8 +198,29 @@
       "type": "official",
       "is_third_party": false,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极氪MIX参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7631.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极氪MIX 2025款智驾版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/67799.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "静态体验极氪MIX内饰配置 - 新出行",
+      "url": "https://www.xchuxing.com/article/135966",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://m1.autoimg.cn/newsdfs/g32/M0B/2C/DA/400x400_1_q40_c40_autohomecar__Chtk2WcOMwaAKDQLADiHlsJpG8A915.jpg"
 }

@@ -7,7 +7,9 @@
   "category": "百万级旗舰行政轿车",
   "release_date": "2026-03-05",
   "source_urls": [
-    "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4"
+    "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4",
+    "https://chejiahao.m.autohome.com.cn/info/18389836",
+    "http://db.auto.sina.cn/tags/298605/"
   ],
   "skus": [
     {
@@ -552,8 +554,15 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "仰望U7内饰亮相实拍图 - 新浪汽车",
+      "url": "http://db.auto.sina.cn/tags/298605/",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://n.sinaimg.cn/sinakd10010/10/w1543h867/20241114/2a68-c781451228a6fc494524a862586ce902.jpg"
 }

@@ -8,7 +8,9 @@
   "category": "中大型纯电轿跑",
   "release_date": "2026-03-23",
   "source_urls": [
-    "https://hima.auto/zhijie/s7/configuration/"
+    "https://hima.auto/zhijie/s7/configuration/",
+    "https://db.m.auto.sohu.com/model_7245/config",
+    "https://car.autohome.com.cn/config/spec/70706.html"
   ],
   "skus": [
     {
@@ -21,30 +23,30 @@
         "length_mm": 4971,
         "width_mm": 1963,
         "height_mm": 1474,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
-        "trunk_volume_l": null,
+        "curb_weight_kg": 2010,
+        "trunk_volume_l": 420,
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.203,
         "ground_clearance_mm": "120-123"
       },
       "performance": {
         "drive_type": "单电机后驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 215,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
-        "top_speed_kmh": null
+        "zero_to_100_s": 5.4,
+        "top_speed_kmh": 210
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为DriveONE 800V碳化硅",
         "battery_supplier": "宁德时代",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 82.0,
         "cltc_pure_electric_range_km": 705,
         "cltc_combined_range_km": 705,
-        "energy_consumption_kwh_100km": null,
+        "energy_consumption_kwh_100km": 12.4,
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
@@ -143,30 +145,30 @@
         "length_mm": 4971,
         "width_mm": 1963,
         "height_mm": 1474,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
-        "trunk_volume_l": null,
+        "curb_weight_kg": 2010,
+        "trunk_volume_l": 420,
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.203,
         "ground_clearance_mm": "120-123"
       },
       "performance": {
         "drive_type": "单电机后驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 215,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
-        "top_speed_kmh": null
+        "zero_to_100_s": 5.4,
+        "top_speed_kmh": 210
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为DriveONE 800V碳化硅",
         "battery_supplier": "宁德时代",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 82.0,
         "cltc_pure_electric_range_km": 705,
         "cltc_combined_range_km": 705,
-        "energy_consumption_kwh_100km": null,
+        "energy_consumption_kwh_100km": 12.4,
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
@@ -265,21 +267,21 @@
         "length_mm": 4971,
         "width_mm": 1963,
         "height_mm": 1474,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
-        "trunk_volume_l": null,
+        "curb_weight_kg": 2062,
+        "trunk_volume_l": 420,
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.203,
         "ground_clearance_mm": "120-123"
       },
       "performance": {
         "drive_type": "单电机后驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 215,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
-        "top_speed_kmh": null
+        "zero_to_100_s": 5.4,
+        "top_speed_kmh": 210
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
@@ -288,7 +290,7 @@
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 855,
         "cltc_combined_range_km": 855,
-        "energy_consumption_kwh_100km": null,
+        "energy_consumption_kwh_100km": 12.5,
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
@@ -387,21 +389,21 @@
         "length_mm": 4971,
         "width_mm": 1963,
         "height_mm": 1474,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
-        "trunk_volume_l": null,
+        "curb_weight_kg": 2062,
+        "trunk_volume_l": 420,
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": 0.203,
         "ground_clearance_mm": "120-123"
       },
       "performance": {
         "drive_type": "单电机后驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 215,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
-        "top_speed_kmh": null
+        "zero_to_100_s": 5.4,
+        "top_speed_kmh": 210
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
@@ -410,7 +412,7 @@
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 855,
         "cltc_combined_range_km": 855,
-        "energy_consumption_kwh_100km": null,
+        "energy_consumption_kwh_100km": 12.5,
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
@@ -509,13 +511,13 @@
         "length_mm": 4971,
         "width_mm": 1963,
         "height_mm": 1474,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
-        "trunk_volume_l": null,
+        "curb_weight_kg": 2230,
+        "trunk_volume_l": 420,
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "min_turning_radius_m": 5.67,
+        "drag_coefficient_cd": 0.203,
         "ground_clearance_mm": "120-123"
       },
       "performance": {
@@ -523,7 +525,7 @@
         "motor_power_kw": 365,
         "motor_torque_nm": null,
         "zero_to_100_s": 3.3,
-        "top_speed_kmh": null
+        "top_speed_kmh": 200
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
@@ -532,7 +534,7 @@
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 785,
         "cltc_combined_range_km": 785,
-        "energy_consumption_kwh_100km": null,
+        "energy_consumption_kwh_100km": 13.5,
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
@@ -631,13 +633,13 @@
         "length_mm": 4971,
         "width_mm": 1963,
         "height_mm": 1474,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2950,
         "seats": 5,
-        "curb_weight_kg": null,
-        "trunk_volume_l": null,
+        "curb_weight_kg": 2230,
+        "trunk_volume_l": 420,
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "min_turning_radius_m": 5.67,
+        "drag_coefficient_cd": 0.203,
         "ground_clearance_mm": "120-123"
       },
       "performance": {
@@ -645,7 +647,7 @@
         "motor_power_kw": 365,
         "motor_torque_nm": null,
         "zero_to_100_s": 3.3,
-        "top_speed_kmh": null
+        "top_speed_kmh": 200
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
@@ -654,7 +656,7 @@
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 785,
         "cltc_combined_range_km": 785,
-        "energy_consumption_kwh_100km": null,
+        "energy_consumption_kwh_100km": 13.5,
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
@@ -752,10 +754,10 @@
   "miit_filing": {
     "miit_batch": "第381批",
     "product_model_code": null,
-    "curb_weight_kg": null,
+    "curb_weight_kg": "2010-2230",
     "gross_weight_kg": null,
-    "approach_departure_deg": null,
-    "battery_supplier": null
+    "approach_departure_deg": "13°-14°/14°",
+    "battery_supplier": "宁德时代(江苏时代)"
   },
   "references": [
     {
@@ -769,6 +771,20 @@
       "title": "工信部第381批：智界S7申报新版本 - 21财经",
       "url": "https://m.21jingji.com/article/20240313/herald/6d6405f3fd1ce1b8f438adc1ae3e768b.html",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界S7 参数配置（215kW/365kW/极速/百公里电耗）- 搜狐汽车",
+      "url": "https://db.m.auto.sohu.com/model_7245/config",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界S7 2025款705km Max参数配置表（420L后备厢/0.203Cd/5.7m转弯半径）- 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/70706.html",
+      "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

@@ -8,18 +8,26 @@
   "release_date": "2025-06-10",
   "data_as_of": "2026-11-27",
   "image_url": "https://i2.dd-img.com/content/editor/68484f077bf81.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toyota_bZ5_interior.jpg",
   "promo_highlights": [
     "至高3.8万元8重礼遇，终端参考价11.38万起"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7713.html"
+    "https://car.autohome.com.cn/config/series/7713.html",
+    "https://commons.wikimedia.org/wiki/File:Toyota_bZ5_interior.jpg"
   ],
   "references": [
     {
       "title": "丰田bZ5参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/7713.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:Toyota bZ5 interior.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Toyota_bZ5_interior.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -51,7 +59,8 @@
         "battery_capacity_kwh": 65.28,
         "cltc_pure_electric_range_km": 550,
         "fast_charge_time": "27分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "弗迪"
       },
       "chassis": {
         "air_suspension": "无",
@@ -72,7 +81,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -90,7 +99,7 @@
         "wheelbase_mm": 2880,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2010
       },
       "performance": {
         "drive_type": "前置前驱",
@@ -104,7 +113,8 @@
         "battery_capacity_kwh": 73.98,
         "cltc_pure_electric_range_km": 630,
         "fast_charge_time": "29分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "弗迪"
       },
       "chassis": {
         "air_suspension": "无",
@@ -125,7 +135,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },

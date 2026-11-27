@@ -8,18 +8,26 @@
   "release_date": "2026-05-29",
   "data_as_of": "2026-11-27",
   "image_url": "https://car2.autoimg.cn/cardfs/product/g34/M0A/25/3B/400x400_0_f42_autohomecar__ChtpWGoYaLaANEHSAFOEit3d-fQ601.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Volvo_EX90_Ultra_SPA2_Dawn_%281%29.jpg",
   "promo_highlights": [
     "限时参考尊享价45.99万-52.99万元（官方指导价79.59万-89.49万元）"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7230.html"
+    "https://car.autohome.com.cn/config/series/7230.html",
+    "https://commons.wikimedia.org/wiki/File:Volvo_EX90_Ultra_SPA2_Dawn_(1).jpg"
   ],
   "references": [
     {
       "title": "汽车之家 沃尔沃EX90参数配置表",
       "url": "https://car.autohome.com.cn/config/series/7230.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - Volvo EX90 Interior",
+      "url": "https://commons.wikimedia.org/wiki/File:Volvo_EX90_Ultra_SPA2_Dawn_(1).jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -51,7 +59,8 @@
         "battery_capacity_kwh": 106.0,
         "cltc_pure_electric_range_km": 756,
         "fast_charge_time": "约22min(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(四川时代)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -67,13 +76,13 @@
         "instrument_cluster": "9英寸仪表+13.2英寸HUD",
         "screens": "14.5英寸纵置中控屏(8155)",
         "rear_screen": "无",
-        "power_220v": "未知",
+        "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风，后排加热",
         "seat_massage": "前排按摩",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "标配",
         "steering_wheel_heating": "标配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -104,7 +113,8 @@
         "battery_capacity_kwh": 106.0,
         "cltc_pure_electric_range_km": 737,
         "fast_charge_time": "约22min(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(四川时代)"
       },
       "chassis": {
         "air_suspension": "标配(双腔)",
@@ -120,13 +130,13 @@
         "instrument_cluster": "9英寸仪表+13.2英寸HUD",
         "screens": "14.5英寸纵置中控屏(8155)",
         "rear_screen": "无",
-        "power_220v": "未知",
+        "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风，后排加热",
         "seat_massage": "前排按摩",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "标配",
         "steering_wheel_heating": "标配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

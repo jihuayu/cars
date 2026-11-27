@@ -8,7 +8,9 @@
   "release_date": "2025-04-27",
   "source_urls": [
     "https://www.avatr.com/configuration?car=11",
-    "https://car.autohome.com.cn/config/spec/72862.html"
+    "https://car.autohome.com.cn/config/spec/72862.html",
+    "https://car.autohome.com.cn/config/series/6354.html",
+    "https://car.autohome.com.cn/config/spec/70967.html"
   ],
   "skus": [
     {
@@ -21,9 +23,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2975,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2240,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -33,7 +35,7 @@
       "performance": {
         "drive_type": "单电机后驱",
         "motor_power_kw": 231,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 367,
         "zero_to_100_s": 6.9,
         "top_speed_kmh": null
       },
@@ -138,9 +140,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2975,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2310,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -151,7 +153,7 @@
         "drive_type": "单电机后驱",
         "motor_power_kw": 237,
         "motor_torque_nm": 396,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 6.5,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -255,9 +257,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2975,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -372,9 +374,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2975,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -489,9 +491,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2975,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -606,9 +608,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 2975,
         "seats": 4,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2410,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -731,6 +733,20 @@
     {
       "title": "阿维塔 阿维塔11（2025款改款） 参数配置与申报参考 (car.autohome.com.cn)",
       "url": "https://car.autohome.com.cn/config/spec/72862.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "阿维塔11参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6354.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "阿维塔11 2025款Max增程版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/70967.html",
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"

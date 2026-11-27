@@ -2,8 +2,8 @@
   "data_as_of": "2026-11-27",
   "schema": "./schema.json",
   "total_brands": 40,
-  "total_models": 172,
-  "total_skus": 659,
+  "total_models": 174,
+  "total_skus": 673,
   "brands": [
     {
       "brand": "lixiang",
@@ -73,8 +73,8 @@
       "brand": "hima",
       "brand_name": "鸿蒙智行",
       "origin_type": "国产",
-      "model_count": 13,
-      "sku_count": 73,
+      "model_count": 15,
+      "sku_count": 87,
       "index_file": "data/hima/index.json"
     },
     {

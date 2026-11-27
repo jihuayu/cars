@@ -7,7 +7,9 @@
   "category": "中大型5座纯电SUV",
   "release_date": "2026-05-15",
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/8591.html"
+    "https://car.autohome.com.cn/config/series/8591.html",
+    "https://k.sina.com.cn/article_5911038801_160534b51027019ine.html",
+    "https://db.auto.sina.cn/photo/c106647-3-1.html"
   ],
   "skus": [
     {
@@ -32,14 +34,14 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 340,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 400,
         "zero_to_100_s": 5.7,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 615,
         "cltc_combined_range_km": 615,
@@ -153,14 +155,14 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 340,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 400,
         "zero_to_100_s": 5.7,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 615,
         "cltc_combined_range_km": 615,
@@ -274,14 +276,14 @@
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": 440,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 535,
         "zero_to_100_s": 4.5,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 900,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航",
         "battery_capacity_kwh": 85,
         "cltc_pure_electric_range_km": 570,
         "cltc_combined_range_km": 570,
@@ -400,8 +402,15 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "乐道L80官方图 - 手机新浪汽车",
+      "url": "https://db.auto.sina.cn/photo/c106647-3-1.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://auto3.sinaimg.cn/autoimg/car/45/14/132251445_src.jpg"
 }

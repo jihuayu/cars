@@ -7,8 +7,8 @@
   "category": "中型纯电SUV",
   "release_date": "2026-10-01",
   "data_as_of": "2026-11-27",
-  "image_url": null,
-  "interior_image_url": null,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2025_Tesla_Model_Y_Juniper_Long_Range_RWD.jpg",
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tesla_Model_Y_2025_interior.jpg",
   "promo_highlights": [
     "“特从容”5年0息金融方案（首付3.99万元起，截至2026-12-31）",
     "后驱/长续航版限时尾款立减4,000元",
@@ -17,7 +17,9 @@
   "source_urls": [
     "https://www.tesla.cn/campaign/sales-promo-overview",
     "https://car.autohome.com.cn/config/series/5769.html",
-    "https://youjia.baidu.com/view/articleDetail/10253914547370588633"
+    "https://youjia.baidu.com/view/articleDetail/10253914547370588633",
+    "https://www.tesla.cn/modely",
+    "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_Juniper_Long_Range_RWD.jpg"
   ],
   "references": [
     {
@@ -40,6 +42,20 @@
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "特斯拉中国官网 Model Y 规格参数",
+      "url": "https://www.tesla.cn/modely",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - 2025 Tesla Model Y Juniper",
+      "url": "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_Juniper_Long_Range_RWD.jpg",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "skus": [
@@ -53,9 +69,9 @@
         "width_mm": 1920,
         "height_mm": 1624,
         "wheelbase_mm": 2890,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 138,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 1921
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -69,7 +85,8 @@
         "battery_capacity_kwh": 62.5,
         "cltc_pure_electric_range_km": 593,
         "fast_charge_time": null,
-        "v2l_power_kw": null
+        "v2l_power_kw": 2.2,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "无",
@@ -84,14 +101,14 @@
       "cockpit": {
         "instrument_cluster": "无独立仪表盘",
         "screens": "16英寸中控屏",
-        "rear_screen": "未知",
-        "power_220v": "未知",
+        "rear_screen": "8英寸后排触摸屏",
+        "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风，二排加热",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
+        "steering_wheel_electric": "标配",
         "steering_wheel_heating": "标配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [
@@ -113,9 +130,9 @@
         "width_mm": 1920,
         "height_mm": 1624,
         "wheelbase_mm": 2890,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 138,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 1891
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -129,7 +146,8 @@
         "battery_capacity_kwh": 78.4,
         "cltc_pure_electric_range_km": 821,
         "fast_charge_time": null,
-        "v2l_power_kw": null
+        "v2l_power_kw": 2.2,
+        "battery_supplier": "LG新能源"
       },
       "chassis": {
         "air_suspension": "无",
@@ -144,14 +162,14 @@
       "cockpit": {
         "instrument_cluster": "无独立仪表盘",
         "screens": "16英寸中控屏",
-        "rear_screen": "未知",
-        "power_220v": "未知",
+        "rear_screen": "8英寸后排触摸屏",
+        "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风，二排加热",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
+        "steering_wheel_electric": "标配",
         "steering_wheel_heating": "标配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [
@@ -173,9 +191,9 @@
         "width_mm": 1920,
         "height_mm": 1624,
         "wheelbase_mm": 2890,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 138,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 1992
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -189,7 +207,8 @@
         "battery_capacity_kwh": 78.4,
         "cltc_pure_electric_range_km": 750,
         "fast_charge_time": null,
-        "v2l_power_kw": null
+        "v2l_power_kw": 2.2,
+        "battery_supplier": "LG新能源"
       },
       "chassis": {
         "air_suspension": "无",
@@ -204,14 +223,14 @@
       "cockpit": {
         "instrument_cluster": "无独立仪表盘",
         "screens": "16英寸中控屏",
-        "rear_screen": "未知",
-        "power_220v": "未知",
+        "rear_screen": "8英寸后排触摸屏",
+        "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风，二排加热",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
+        "steering_wheel_electric": "标配",
         "steering_wheel_heating": "标配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [
@@ -233,9 +252,9 @@
         "width_mm": 1920,
         "height_mm": 1624,
         "wheelbase_mm": 2890,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 147,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2027
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -249,7 +268,8 @@
         "battery_capacity_kwh": 78.4,
         "cltc_pure_electric_range_km": 659,
         "fast_charge_time": null,
-        "v2l_power_kw": null
+        "v2l_power_kw": 2.2,
+        "battery_supplier": "LG新能源"
       },
       "chassis": {
         "air_suspension": "无",
@@ -264,14 +284,14 @@
       "cockpit": {
         "instrument_cluster": "无独立仪表盘",
         "screens": "16英寸中控屏",
-        "rear_screen": "未知",
-        "power_220v": "未知",
+        "rear_screen": "8英寸后排触摸屏",
+        "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风，二排加热",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
+        "steering_wheel_electric": "标配",
         "steering_wheel_heating": "标配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

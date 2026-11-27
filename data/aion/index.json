@@ -48,7 +48,9 @@
       "file": "data/aion/aion-rt-2027.json",
       "source_urls": [
         "https://www.aion.com.cn/",
-        "https://car.autohome.com.cn/config/series/7860.html"
+        "https://car.autohome.com.cn/config/series/7860.html",
+        "https://autocatalogarchive.com/wp-content/uploads/2026/10/Aion-RT-2027-CN.pdf",
+        "https://car.autohome.com.cn/config/spec/79765.html"
       ]
     },
     {
@@ -92,7 +94,9 @@
       "has_miit": true,
       "file": "data/aion/aion-ut-2027.json",
       "source_urls": [
-        "https://www.aion.com.cn/vehicle/config/table?cid=NjI%3D"
+        "https://www.aion.com.cn/vehicle/config/table?cid=NjI%3D",
+        "https://chejiahao.m.autohome.com.cn/info/18388135",
+        "https://car.autohome.com.cn/config/spec/71304.html"
       ]
     },
     {
@@ -136,7 +140,9 @@
       "has_miit": false,
       "file": "data/aion/aion-v-2026.json",
       "source_urls": [
-        "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57"
+        "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57",
+        "https://car.autohome.com.cn/config/series/5622.html",
+        "https://k.sina.com.cn/article_7879996689_1d5af351106801f0em.html"
       ]
     }
   ]

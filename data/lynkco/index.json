@@ -105,7 +105,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2026-09-28",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Lynk_%26_Co_Z20_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M02/2C/CA/autohomecar__Chto52qP8HSABjX3AAZAAO0liwU806.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -136,7 +136,9 @@
       "has_miit": true,
       "file": "data/lynkco/lynkco-z20-2027.json",
       "source_urls": [
-        "https://www.lynkco.com.cn/cars/model-config"
+        "https://www.lynkco.com.cn/cars/model-config",
+        "https://auto.ifeng.com/c/8eLRs63m1w5",
+        "https://chejiahao.m.autohome.com.cn/info/26301889"
       ]
     }
   ]

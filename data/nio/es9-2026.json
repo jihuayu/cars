@@ -8,7 +8,10 @@
   "release_date": "2026-05-27",
   "source_urls": [
     "https://www.nio.cn/es9",
-    "https://www.nio.cn/news/20260527001"
+    "https://www.nio.cn/news/20260527001",
+    "https://chejiahao.m.autohome.com.cn/info/24694122",
+    "https://finance.sina.cn/stock/jdts/2026-04-07/detail-inhttaet6931212.d.html?oid=800&vt=4",
+    "https://detail.zol.com.cn/2169/2168672/param.shtml"
   ],
   "skus": [
     {
@@ -83,7 +86,8 @@
         "steering_wheel_electric": "电动调节",
         "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "标配",
-        "streaming_exterior_mirrors": "无"
+        "streaming_exterior_mirrors": "无",
+        "rear_screen": "二排中央专属控制屏"
       },
       "options": [
         {
@@ -166,7 +170,8 @@
         "steering_wheel_electric": "电动调节",
         "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "标配",
-        "streaming_exterior_mirrors": "无"
+        "streaming_exterior_mirrors": "无",
+        "rear_screen": "二排中央专属控制屏"
       },
       "options": [
         {
@@ -249,7 +254,8 @@
         "steering_wheel_electric": "电动调节",
         "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "标配",
-        "streaming_exterior_mirrors": "无"
+        "streaming_exterior_mirrors": "无",
+        "rear_screen": "二排中央专属控制屏"
       },
       "options": [
         {
@@ -332,7 +338,8 @@
         "steering_wheel_electric": "电动调节",
         "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "标配",
-        "streaming_exterior_mirrors": "无"
+        "streaming_exterior_mirrors": "无",
+        "rear_screen": "二排中央专属控制屏"
       },
       "options": [
         {
@@ -377,8 +384,22 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来ES9旗舰SUV内外饰官图发布 - 新浪财经",
+      "url": "https://finance.sina.cn/stock/jdts/2026-04-07/detail-inhttaet6931212.d.html?oid=800&vt=4",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来ES9 2026款102kWh参数 - ZOL",
+      "url": "https://detail.zol.com.cn/2169/2168672/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://k.sinaimg.cn/n/spider20260407/232/w660h372/20260407/245e-8652c6e3d5d9f70c49743e80bedfa614.jpg/w300h300z1l10t10q100dd0.jpg"
 }

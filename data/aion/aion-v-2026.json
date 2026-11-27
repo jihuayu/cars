@@ -7,7 +7,9 @@
   "category": "紧凑型纯电SUV",
   "release_date": "2025-08-27",
   "source_urls": [
-    "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57"
+    "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57",
+    "https://car.autohome.com.cn/config/series/5622.html",
+    "https://k.sina.com.cn/article_7879996689_1d5af351106801f0em.html"
   ],
   "skus": [
     {
@@ -386,6 +388,20 @@
       "url": "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57",
       "type": "official",
       "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "AION V参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/5622.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "2026款AION V霸王龙配置解析 - 新浪汽车",
+      "url": "https://k.sina.com.cn/article_7879996689_1d5af351106801f0em.html",
+      "type": "media",
+      "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
   ],

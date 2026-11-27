@@ -8,13 +8,16 @@
   "release_date": "2025-10-14",
   "data_as_of": "2026-11-27",
   "image_url": "https://q4.itc.cn/images01/20251015/07a6729c3679404d88533250f4e0898e.jpeg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Porsche_XAB_Macan_Turbo_Electric_Black_Extended_Leather_Turbonite_Package_%281%29.jpg",
   "promo_highlights": [
     "2026款下调柏林之声(34800元)及后桥转向(13500元)等选装价格"
   ],
   "source_urls": [
     "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-electric/",
-    "https://db.m.auto.sohu.com/model_7320/a/944080986_430526"
+    "https://db.m.auto.sohu.com/model_7320/a/944080986_430526",
+    "https://car.autohome.com.cn/config/series/7036.html",
+    "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-turbo-electric/",
+    "https://commons.wikimedia.org/wiki/File:Porsche_XAB_Macan_Turbo_Electric_Black_Extended_Leather_Turbonite_Package_(1).jpg"
   ],
   "references": [
     {
@@ -28,6 +31,27 @@
       "title": "搜狐汽车 2026款纯电Macan上市",
       "url": "https://db.m.auto.sohu.com/model_7320/a/944080986_430526",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 保时捷Macan新能源参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7036.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "保时捷中国官网 纯电动Macan",
+      "url": "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-turbo-electric/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - Porsche Macan Electric Interior",
+      "url": "https://commons.wikimedia.org/wiki/File:Porsche_XAB_Macan_Turbo_Electric_Black_Extended_Leather_Turbonite_Package_(1).jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -45,7 +69,7 @@
         "wheelbase_mm": 2893,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2227
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -56,10 +80,11 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 100.0,
         "cltc_pure_electric_range_km": 702,
         "fast_charge_time": "21min(10-80%,>270kW)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "选配",
@@ -75,13 +100,13 @@
         "instrument_cluster": "12.6英寸仪表+HUD",
         "screens": "10.9英寸中控+10.9英寸副驾屏",
         "rear_screen": "无",
-        "power_220v": "未知",
+        "power_220v": "选装(1300元)",
         "seat_heating_ventilation": "前排通风按摩选配(17100元)",
         "seat_massage": "选配(17100元)",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "选装",
+        "steering_wheel_heating": "选装(2500元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [
@@ -111,7 +136,7 @@
         "wheelbase_mm": 2893,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2430
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -122,10 +147,11 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 100.0,
         "cltc_pure_electric_range_km": 683,
         "fast_charge_time": "21min(10-80%,>270kW)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "未知",
@@ -141,13 +167,13 @@
         "instrument_cluster": "12.6英寸仪表+HUD",
         "screens": "10.9英寸中控+10.9英寸副驾屏",
         "rear_screen": "无",
-        "power_220v": "未知",
+        "power_220v": "选装(1300元)",
         "seat_heating_ventilation": "选配(17100元)",
         "seat_massage": "选配",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

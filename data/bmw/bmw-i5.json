@@ -13,12 +13,28 @@
     "终端参考优惠约5.9万-8.84万元（参考价30.90万-36.96万元起）"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7344.html"
+    "https://car.autohome.com.cn/config/series/7344.html",
+    "https://www.bmw.com.cn/zh/all-models/bmw-i/i5/2024/specsheet.html",
+    "https://car.autohome.com.cn/config/spec/64091.html"
   ],
   "references": [
     {
       "title": "汽车之家 宝马i5参数配置表",
       "url": "https://car.autohome.com.cn/config/series/7344.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "宝马中国官网 纯电动BMW i5参数配置表",
+      "url": "https://www.bmw.com.cn/zh/all-models/bmw-i/i5/2024/specsheet.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 宝马i5 eDrive 40L M运动套装参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/64091.html",
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
@@ -46,12 +62,13 @@
         "zero_to_100_s": 6.7
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
         "battery_capacity_kwh": 97.0,
         "cltc_pure_electric_range_km": 713,
         "fast_charge_time": "0.55h(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "未知",
@@ -66,14 +83,14 @@
       "cockpit": {
         "instrument_cluster": "一体式悬浮曲面屏(8155P)",
         "screens": "14.9英寸中控屏",
-        "rear_screen": "未知",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "rear_screen": "选装(31英寸BMW悬浮式巨幕)",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风(后排加热选装或高配)",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选装(2600元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [
@@ -106,12 +123,13 @@
         "zero_to_100_s": 4.2
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
         "battery_capacity_kwh": 97.0,
         "cltc_pure_electric_range_km": 651,
         "fast_charge_time": "0.55h(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "未知",
@@ -126,14 +144,14 @@
       "cockpit": {
         "instrument_cluster": "一体式悬浮曲面屏(8155P)",
         "screens": "14.9英寸中控屏",
-        "rear_screen": "未知",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "rear_screen": "选装(31英寸BMW悬浮式巨幕)",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风(后排加热选装或高配)",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选装(2600元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [

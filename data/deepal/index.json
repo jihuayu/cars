@@ -93,7 +93,8 @@
       "has_miit": false,
       "file": "data/deepal/l07-2026.json",
       "source_urls": [
-        "https://deepal.com.cn/car/configuration?car=L07&source=1&sort=1"
+        "https://deepal.com.cn/car/configuration?car=L07&source=1&sort=1",
+        "https://car.autohome.com.cn/config/spec/74212.html"
       ]
     },
     {
@@ -183,7 +184,8 @@
       "file": "data/deepal/s07-2026.json",
       "source_urls": [
         "https://www.deepal.com.cn/car/parameter",
-        "https://car.autohome.com.cn/config/series/6817.html"
+        "https://car.autohome.com.cn/config/series/6817.html",
+        "https://car.autohome.com.cn/config/spec/77520.html"
       ]
     },
     {
@@ -228,7 +230,9 @@
       "file": "data/deepal/s09-2026.json",
       "source_urls": [
         "https://www.deepal.com.cn/car/parameter",
-        "https://car.autohome.com.cn/config/series/7979.html"
+        "https://car.autohome.com.cn/config/series/7979.html",
+        "https://car.autohome.com.cn/config/spec/74607.html",
+        "https://price.pcauto.com.cn/m134173/config.html"
       ]
     }
   ]

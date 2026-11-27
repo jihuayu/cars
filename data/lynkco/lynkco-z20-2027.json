@@ -7,7 +7,9 @@
   "category": "紧凑型纯电SUV",
   "release_date": "2026-09-28",
   "source_urls": [
-    "https://www.lynkco.com.cn/cars/model-config"
+    "https://www.lynkco.com.cn/cars/model-config",
+    "https://auto.ifeng.com/c/8eLRs63m1w5",
+    "https://chejiahao.m.autohome.com.cn/info/26301889"
   ],
   "skus": [
     {
@@ -458,8 +460,15 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "全新领克20白紫内饰官图 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26301889",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M02/2C/CA/autohomecar__Chto52qP8HSABjX3AAZAAO0liwU806.jpg"
 }

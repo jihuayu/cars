@@ -8,7 +8,10 @@
   "category": "中型纯电轿跑 / 猎装轿跑",
   "release_date": "2026-04-22",
   "source_urls": [
-    "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025"
+    "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025",
+    "https://www.evlook.com/shangjiez7/peizhi",
+    "https://hima.auto/shangjie/z7-z7t/configuration/",
+    "https://www.xchuxing.com/article/168036"
   ],
   "skus": [
     {
@@ -21,7 +24,7 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3000,
         "seats": 5,
         "curb_weight_kg": "2210-2300",
         "trunk_volume_l": null,
@@ -31,16 +34,16 @@
       },
       "performance": {
         "drive_type": null,
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 264,
+        "motor_torque_nm": 460,
+        "zero_to_100_s": 5.47,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "纯电",
         "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 81,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": null,
         "energy_consumption_kwh_100km": null,
@@ -154,7 +157,7 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3000,
         "seats": 5,
         "curb_weight_kg": "2210-2300",
         "trunk_volume_l": null,
@@ -164,16 +167,16 @@
       },
       "performance": {
         "drive_type": null,
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 264,
+        "motor_torque_nm": 460,
+        "zero_to_100_s": 5.47,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "纯电",
         "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 81,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": null,
         "energy_consumption_kwh_100km": null,
@@ -302,6 +305,20 @@
       "title": "尚界Z7配置参数表 - EV视界",
       "url": "https://www.evlook.com/shangjiez7/peizhi",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "尚界Z7｜Z7T官方参数配置表 - 鸿蒙智行官网",
+      "url": "https://hima.auto/shangjie/z7-z7t/configuration/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "静态体验尚界Z7/Z7T - 新出行",
+      "url": "https://www.xchuxing.com/article/168036",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

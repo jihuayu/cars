@@ -7,7 +7,9 @@
   "category": "中大型纯电SUV",
   "release_date": "2025-06-26",
   "source_urls": [
-    "https://www.xiaomiev.com/yu7"
+    "https://www.xiaomiev.com/yu7",
+    "https://chedongxi.com/p/365464.html",
+    "https://car.m.autohome.com.cn/pic/series/7793.html"
   ],
   "skus": [
     {
@@ -587,8 +589,15 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小米YU7外观内饰实拍图 - 汽车之家",
+      "url": "https://car.m.autohome.com.cn/pic/series/7793.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://img2.autoimg.cn/videos/g32/M03/5D/A0/autohomecar__Chtk2WhnhR2AYOpqAAFPDjO3Mag019.jpg"
 }

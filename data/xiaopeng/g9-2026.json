@@ -7,7 +7,11 @@
   "category": "中大型纯电SUV",
   "release_date": "2026-01-08",
   "source_urls": [
-    "https://www.xiaopeng.com/g9_2026/configuration.html"
+    "https://www.xiaopeng.com/g9_2026/configuration.html",
+    "https://chedongxi.com/p/367662.html",
+    "https://car.autohome.com.cn/config/series/6492.html",
+    "https://car.autohome.com.cn/config/spec/76192.html",
+    "https://car.m.autohome.com.cn/pic/series/6492.html"
   ],
   "skus": [
     {
@@ -38,8 +42,8 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_supplier": "中创新航",
+        "battery_capacity_kwh": 79,
         "cltc_pure_electric_range_km": 625,
         "cltc_combined_range_km": 625,
         "energy_consumption_kwh_100km": 13.9,
@@ -146,7 +150,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 725,
         "cltc_combined_range_km": 725,
@@ -254,7 +258,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 680,
         "cltc_combined_range_km": 680,
@@ -361,8 +365,29 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏G9参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6492.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏G9 2026款625 Max参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/76192.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏G9外观内饰实拍图 - 汽车之家",
+      "url": "https://car.m.autohome.com.cn/pic/series/6492.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://m1.autoimg.cn/newsdfs/g34/M05/0C/35/400x400_1_q40_c40_autohomecar__ChtpWGlfQj6AGe_vABmC5BDCLKs963.jpg"
 }

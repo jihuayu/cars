@@ -16,7 +16,7 @@
       "category": "中大型机甲硬派插混越野SUV",
       "release_date": "2025-11-06",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/9D/1C/400x400_1_q40_c40_autohomecar__ChxpWGjVRSCAXYw6AHAwYsb7kw8454.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M02/74/FE/autohomecar__ChtpWGkNxpOAMlPbAAGch1_rIrI20.jpeg",
       "powertrains": [
         "PHEV"
       ],
@@ -47,7 +47,11 @@
       "has_miit": true,
       "file": "data/tank/tank-400-2026.json",
       "source_urls": [
-        "https://www.tanksuv.com/tank400.html"
+        "https://www.tanksuv.com/tank400.html",
+        "https://cj.sina.cn/articles/view/7879923803/1d5ae185b06801o2k4",
+        "https://car.autohome.com.cn/config/series/7213.html",
+        "https://detail.zol.com.cn/2147/2146896/param.shtml",
+        "https://chejiahao.m.autohome.com.cn/info/23758189"
       ]
     },
     {
@@ -60,7 +64,7 @@
       "category": "中大型豪华硬派插混越野SUV",
       "release_date": "2026-10-23",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/CC/83/400x400_1_q40_c40_autohomecar__ChxpWGrR6-6AAGNOAC3jnS7vxnI297.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M08/0A/E3/400x400_0_f42_autohomecar__ChxpVmrZTomAOJPyAADo6CPRa2I693.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -91,7 +95,11 @@
       "has_miit": true,
       "file": "data/tank/tank-500-2027.json",
       "source_urls": [
-        "https://www.tanksuv.com/carparam-500.html"
+        "https://www.tanksuv.com/carparam-500.html",
+        "https://chejiahao.m.autohome.com.cn/info/15047945",
+        "https://car.autohome.com.cn/config/spec/79194.html",
+        "https://detail.zol.com.cn/2182/2181533/param.shtml",
+        "https://chejiahao.m.autohome.com.cn/info/26699556"
       ]
     }
   ]

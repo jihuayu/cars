@@ -8,7 +8,9 @@
   "release_date": "2025-04-23",
   "source_urls": [
     "https://www.deepal.com.cn/car/parameter",
-    "https://car.autohome.com.cn/config/series/7979.html"
+    "https://car.autohome.com.cn/config/series/7979.html",
+    "https://car.autohome.com.cn/config/spec/74607.html",
+    "https://price.pcauto.com.cn/m134173/config.html"
   ],
   "skus": [
     {
@@ -23,7 +25,7 @@
         "height_mm": 1800,
         "wheelbase_mm": 3105,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2510,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -32,7 +34,7 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 231,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 375,
         "zero_to_100_s": 7.9,
         "top_speed_kmh": null
       },
@@ -633,6 +635,20 @@
     {
       "title": "深蓝 深蓝S09（2025/2026款） 参数配置与申报参考 (car.autohome.com.cn)",
       "url": "https://car.autohome.com.cn/config/series/7979.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "深蓝S09 2025款改款后驱Max参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/74607.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "深蓝S09参数配置表 - 太平洋汽车",
+      "url": "https://price.pcauto.com.cn/m134173/config.html",
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"

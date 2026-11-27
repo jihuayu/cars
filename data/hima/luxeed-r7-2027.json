@@ -8,7 +8,12 @@
   "category": "中大型轿跑SUV",
   "release_date": "2026-09-28",
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7730.html"
+    "https://car.autohome.com.cn/config/series/7730.html",
+    "https://hima.auto/zhijie/r7/",
+    "https://chejiahao.m.autohome.com.cn/info/26968259",
+    "https://chejiahao.m.autohome.com.cn/info/26599982",
+    "https://chejiahao.m.autohome.com.cn/info/26809198",
+    "https://chejiahao.m.autohome.com.cn/info/26614459"
   ],
   "skus": [
     {
@@ -24,17 +29,17 @@
         "wheelbase_mm": 2950,
         "seats": 5,
         "curb_weight_kg": "2220-2340",
-        "trunk_volume_l": null,
-        "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "trunk_volume_l": 852,
+        "frunk_volume_l": 106,
+        "min_turning_radius_m": 5.67,
+        "drag_coefficient_cd": 0.217,
         "ground_clearance_mm": "151-161"
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 227,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 5.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -75,7 +80,7 @@
         "screens": "双17.2英寸3.4K蝶羽双联屏",
         "hud": "26英寸HUD",
         "audio": "HUAWEI SOUND 21扬声器",
-        "fridge": null,
+        "fridge": "选装/高配 7L智能恒冷大冰箱",
         "seat_features": "前排双零重力座椅（12点按摩）",
         "rear_screen": "不支持",
         "power_220v": "标配 220V电源",
@@ -158,17 +163,17 @@
         "wheelbase_mm": 2950,
         "seats": 5,
         "curb_weight_kg": "2220-2340",
-        "trunk_volume_l": null,
-        "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "trunk_volume_l": 852,
+        "frunk_volume_l": 106,
+        "min_turning_radius_m": 5.67,
+        "drag_coefficient_cd": 0.217,
         "ground_clearance_mm": "151-161"
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 227,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 5.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -209,7 +214,7 @@
         "screens": "双17.2英寸3.4K蝶羽双联屏",
         "hud": "26英寸HUD",
         "audio": "HUAWEI SOUND 21扬声器",
-        "fridge": null,
+        "fridge": "选装/高配 7L智能恒冷大冰箱",
         "seat_features": "前排双零重力座椅（12点按摩）",
         "rear_screen": "不支持",
         "power_220v": "标配 220V电源",
@@ -292,17 +297,17 @@
         "wheelbase_mm": 2950,
         "seats": 5,
         "curb_weight_kg": "2220-2340",
-        "trunk_volume_l": null,
-        "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "trunk_volume_l": 852,
+        "frunk_volume_l": 106,
+        "min_turning_radius_m": 5.67,
+        "drag_coefficient_cd": 0.217,
         "ground_clearance_mm": "151-161"
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 227,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 5.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -343,7 +348,7 @@
         "screens": "双17.2英寸3.4K蝶羽双联屏",
         "hud": "26英寸HUD",
         "audio": "HUAWEI SOUND 21扬声器",
-        "fridge": null,
+        "fridge": "选装/高配 7L智能恒冷大冰箱",
         "seat_features": "前排双零重力座椅（12点按摩）",
         "rear_screen": "不支持",
         "power_220v": "标配 220V电源",
@@ -426,15 +431,15 @@
         "wheelbase_mm": 2950,
         "seats": 5,
         "curb_weight_kg": "2220-2340",
-        "trunk_volume_l": null,
-        "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "trunk_volume_l": 852,
+        "frunk_volume_l": 106,
+        "min_turning_radius_m": 5.67,
+        "drag_coefficient_cd": 0.217,
         "ground_clearance_mm": "151-161"
       },
       "performance": {
         "drive_type": "双电机四驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 377,
         "motor_torque_nm": null,
         "zero_to_100_s": 4.4,
         "top_speed_kmh": null
@@ -477,7 +482,7 @@
         "screens": "双17.2英寸3.4K蝶羽双联屏",
         "hud": "26英寸HUD",
         "audio": "HUAWEI SOUND 21扬声器",
-        "fridge": null,
+        "fridge": "标配/高配 7L智能恒冷大冰箱",
         "seat_features": "前排双零重力座椅（12点按摩）",
         "rear_screen": "不支持",
         "power_220v": "标配 220V电源",
@@ -562,15 +567,15 @@
         "curb_weight_kg": "2220-2340",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "min_turning_radius_m": 5.67,
+        "drag_coefficient_cd": 0.247,
         "ground_clearance_mm": "151-161"
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 227,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 7.4,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -696,15 +701,15 @@
         "curb_weight_kg": "2220-2340",
         "trunk_volume_l": null,
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
-        "drag_coefficient_cd": null,
+        "min_turning_radius_m": 5.67,
+        "drag_coefficient_cd": 0.247,
         "ground_clearance_mm": "151-161"
       },
       "performance": {
         "drive_type": "双电机四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 382,
+        "motor_torque_nm": 550,
+        "zero_to_100_s": 4.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -841,6 +846,41 @@
       "title": "工信部第409批：新款智界R7申报信息",
       "url": "https://auto.sina.cn/2026-07-12/detail-inihpiqf4669828.d.html",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界R7 官方产品页 - 鸿蒙智行官网",
+      "url": "https://hima.auto/zhijie/r7/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "2026广州车展探馆智界R7焕新款（377kW四驱/4.4s/852L后备厢）- 车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26968259",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新款智界R7焕新上市（227kW后驱/5.9s/377kW四驱）- 车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26599982",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "30万级华为系车型二选一 智界R7增程Ultra参数（382kW/550N·m/4.9s）- 车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26809198",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新款智界R7焕新登场：增程后驱227kW/7.4s与风阻参数 - 车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26614459",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

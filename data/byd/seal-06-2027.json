@@ -8,7 +8,10 @@
   "release_date": "2026-08-11",
   "source_urls": [
     "https://www.bydauto.com.cn/pc/",
-    "https://car.autohome.com.cn/config/spec/78809.html"
+    "https://car.autohome.com.cn/config/spec/78809.html",
+    "https://chejiahao.m.autohome.com.cn/info/19669823",
+    "https://car.autohome.com.cn/config/spec/78669.html",
+    "https://chejiahao.m.autohome.com.cn/info/26179644"
   ],
   "skus": [
     {
@@ -32,7 +35,7 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 175,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 270,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
@@ -40,7 +43,7 @@
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
         "battery_supplier": "弗迪电池",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 25.29,
         "cltc_pure_electric_range_km": 230,
         "cltc_combined_range_km": null,
         "energy_consumption_kwh_100km": null,
@@ -123,7 +126,7 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 175,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 270,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
@@ -131,7 +134,7 @@
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
         "battery_supplier": "弗迪电池",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 25.29,
         "cltc_pure_electric_range_km": 230,
         "cltc_combined_range_km": null,
         "energy_consumption_kwh_100km": null,
@@ -205,7 +208,7 @@
         "height_mm": 1495,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1760,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -214,8 +217,8 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 175,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 270,
+        "zero_to_100_s": 7.5,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -296,7 +299,7 @@
         "height_mm": 1495,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1760,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -305,8 +308,8 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 175,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 270,
+        "zero_to_100_s": 7.5,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -397,7 +400,7 @@
         "drive_type": "后驱",
         "motor_power_kw": 120,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 9.6,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -488,7 +491,7 @@
         "drive_type": "后驱",
         "motor_power_kw": 120,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 9.6,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -569,7 +572,7 @@
         "height_mm": 1495,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1795,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -578,7 +581,7 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 240,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 270,
         "zero_to_100_s": 5.9,
         "top_speed_kmh": null
       },
@@ -660,7 +663,7 @@
         "height_mm": 1495,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1795,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -669,7 +672,7 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 240,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 270,
         "zero_to_100_s": 5.9,
         "top_speed_kmh": null
       },
@@ -773,6 +776,20 @@
       "title": "工信部第393批：比亚迪海豹06申报信息",
       "url": "https://chejiahao.m.autohome.com.cn/info/19669823",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海豹06 2027款DM-i 320KM旗舰型参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/78669.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪2027款海豹06上市配置解析 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26179644",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

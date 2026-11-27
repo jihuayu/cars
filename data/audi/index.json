@@ -16,7 +16,7 @@
       "category": "中大型纯电轿车",
       "release_date": "2026-04-10",
       "image_url": "https://x0.ifengimg.com/res/2026/9AC99BCAB292A220D4CC65C2F3BE72FC4A557D26_size149_w800_h1066.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/AUDI_A6L_e-tron_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -39,7 +39,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -48,7 +48,8 @@
       "file": "data/audi/audi-a6l-etron.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/8105.html",
-        "https://price.pcauto.com.cn/s49391/config.html"
+        "https://price.pcauto.com.cn/s49391/config.html",
+        "https://commons.wikimedia.org/wiki/File:AUDI_A6L_e-tron_INTERIOR.jpg"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "category": "中型纯电旅行车",
       "release_date": "2025-09-16",
       "image_url": "https://k.sinaimg.cn/n/sinakd20250818s/82/w1250h1232/20250818/99e9-c9060d6e241c8761a91756d49b3299f0.jpg/w700d1q75cms.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/AUDI_E5_SPORTBACK_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -74,17 +75,17 @@
       "price_max_rmb": 319900,
       "best_zero_to_100_s": 3.4,
       "max_cltc_ev_km": 773,
-      "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "ground_clearance_mm": 119,
+      "max_v2l_kw": 6.6,
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": true,
       "has_rear_screen": false,
       "has_220v": false,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": true,
@@ -92,7 +93,9 @@
       "has_miit": false,
       "file": "data/audi/audi-e5-sportback.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7925.html"
+        "https://car.autohome.com.cn/config/series/7925.html",
+        "https://www.saic-audi.cn/content/dam/OneWeb/saic_audi/purple_assets/1122/1120-%E5%A5%A5%E8%BF%AAE5%20sportback%E9%85%8D%E7%BD%AE%E8%A1%A8_1920x1080px.pdf",
+        "https://commons.wikimedia.org/wiki/File:AUDI_E5_SPORTBACK_INTERIOR.jpg"
       ]
     },
     {
@@ -104,8 +107,8 @@
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2023-11-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Audi_Q4_e-tron_IAA_2021_1X7A0227.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/AUDI_Q4_e-tron_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -118,7 +121,7 @@
       "price_max_rmb": 332700,
       "best_zero_to_100_s": 6.8,
       "max_cltc_ev_km": 605,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 154,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": false,
@@ -136,7 +139,9 @@
       "has_miit": false,
       "file": "data/audi/audi-q4-etron.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6504.html"
+        "https://car.autohome.com.cn/config/series/6504.html",
+        "https://commons.wikimedia.org/wiki/File:Audi_Q4_e-tron_IAA_2021_1X7A0227.jpg",
+        "https://commons.wikimedia.org/wiki/File:AUDI_Q4_e-tron_INTERIOR.jpg"
       ]
     },
     {
@@ -148,7 +153,7 @@
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2026-04-10",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Audi_Q6L_e-tron_001.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -162,7 +167,7 @@
       "price_max_rmb": 399800,
       "best_zero_to_100_s": 4.5,
       "max_cltc_ev_km": 709,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 142,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": true,
@@ -172,7 +177,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -180,7 +185,8 @@
       "has_miit": false,
       "file": "data/audi/audi-q6l-etron.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7413.html"
+        "https://car.autohome.com.cn/config/series/7413.html",
+        "https://commons.wikimedia.org/wiki/File:Audi_Q6L_e-tron_001.jpg"
       ]
     }
   ]

@@ -7,7 +7,10 @@
   "category": "全尺寸6座插混旗舰SUV",
   "release_date": "2025-09-17",
   "source_urls": [
-    "https://www.galaxy-geely.com/M9"
+    "https://www.galaxy-geely.com/M9",
+    "https://car.autohome.com.cn/config/spec/73548.html",
+    "https://car.autohome.com.cn/config/spec/74263.html",
+    "https://db.auto.sohu.com/model_7673/config"
   ],
   "skus": [
     {
@@ -22,7 +25,7 @@
         "height_mm": 1800,
         "wheelbase_mm": 3030,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2180,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -31,14 +34,14 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 180,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 350,
         "zero_to_100_s": 7.7,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 18.4,
         "cltc_pure_electric_range_km": 100,
         "cltc_combined_range_km": 1325,
@@ -46,7 +49,7 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 20min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
         "wltc_fuel_consumption_l_100km": null,
@@ -130,7 +133,7 @@
         "height_mm": 1800,
         "wheelbase_mm": 3030,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2400,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -139,14 +142,14 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 180,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 350,
         "zero_to_100_s": 7.3,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 41.46,
         "cltc_pure_electric_range_km": 230,
         "cltc_combined_range_km": 1500,
@@ -154,7 +157,7 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
         "wltc_fuel_consumption_l_100km": null,
@@ -238,7 +241,7 @@
         "height_mm": 1800,
         "wheelbase_mm": 3030,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2400,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -247,14 +250,14 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 180,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 350,
         "zero_to_100_s": 7.3,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 41.46,
         "cltc_pure_electric_range_km": 230,
         "cltc_combined_range_km": 1500,
@@ -262,7 +265,7 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
         "wltc_fuel_consumption_l_100km": null,
@@ -346,7 +349,7 @@
         "height_mm": 1800,
         "wheelbase_mm": 3030,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2530,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -355,14 +358,14 @@
       "performance": {
         "drive_type": "三电机四驱",
         "motor_power_kw": 520,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 910,
         "zero_to_100_s": 4.5,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 41.46,
         "cltc_pure_electric_range_km": 210,
         "cltc_combined_range_km": 1500,
@@ -370,7 +373,7 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
         "wltc_fuel_consumption_l_100km": null,
@@ -454,7 +457,7 @@
         "height_mm": 1800,
         "wheelbase_mm": 3030,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2530,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -463,14 +466,14 @@
       "performance": {
         "drive_type": "三电机四驱",
         "motor_power_kw": 520,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 910,
         "zero_to_100_s": 4.5,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 41.46,
         "cltc_pure_electric_range_km": 210,
         "cltc_combined_range_km": 1500,
@@ -478,7 +481,7 @@
         "fast_charge_rate": null,
         "max_charge_power_kw": null,
         "fast_charge_time": "30%-80% 15min",
-        "v2l_power_kw": null,
+        "v2l_power_kw": 6,
         "battery_swap_supported": false,
         "fuel_tank_l": null,
         "wltc_fuel_consumption_l_100km": null,
@@ -563,6 +566,27 @@
       "url": "https://www.galaxy-geely.com/M9",
       "type": "official",
       "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "银河M9 2025款210km四驱领航版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/73548.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "银河M9 2025款230km两驱探索版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/74263.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "吉利银河M9参数配置 - 搜狐汽车",
+      "url": "https://db.auto.sohu.com/model_7673/config",
+      "type": "database",
+      "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
   ],

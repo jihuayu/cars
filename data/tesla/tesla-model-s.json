@@ -7,17 +7,25 @@
   "category": "中大型纯电轿车",
   "release_date": "2025-11-21",
   "data_as_of": "2026-11-27",
-  "image_url": null,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/2023_Tesla_Model_S_Plaid.jpg",
   "interior_image_url": null,
   "promo_highlights": [],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/2357.html"
+    "https://car.autohome.com.cn/config/series/2357.html",
+    "https://commons.wikimedia.org/wiki/File:2023_Tesla_Model_S_Plaid.jpg"
   ],
   "references": [
     {
       "title": "汽车之家 Model S 参数配置表",
       "url": "https://car.autohome.com.cn/config/series/2357.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - 2023 Tesla Model S Plaid",
+      "url": "https://commons.wikimedia.org/wiki/File:2023_Tesla_Model_S_Plaid.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -33,23 +41,24 @@
         "width_mm": null,
         "height_mm": null,
         "wheelbase_mm": null,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 117,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2075
       },
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": null,
         "motor_torque_nm": null,
-        "zero_to_100_s": null
+        "zero_to_100_s": 3.2
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 100.0,
         "cltc_pure_electric_range_km": null,
         "fast_charge_time": null,
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "松下"
       },
       "chassis": {
         "air_suspension": "未知",
@@ -64,14 +73,14 @@
       "cockpit": {
         "instrument_cluster": "未知",
         "screens": "未知",
-        "rear_screen": "未知",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "rear_screen": "9.4英寸后排触摸屏",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风，后排加热",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

@@ -8,7 +8,13 @@
   "release_date": "2025-04-09",
   "source_urls": [
     "https://www.bydauto.com.cn/pc/",
-    "https://car.autohome.com.cn/config/series/7859.html"
+    "https://car.autohome.com.cn/config/series/7859.html",
+    "https://chejiahao.m.autohome.com.cn/info/18813249",
+    "https://car.autohome.com.cn/config/spec/71393.html",
+    "https://car.autohome.com.cn/config/spec/71392.html",
+    "https://db.m.auto.sohu.com/trim_177283",
+    "https://www.evlook.com/hanl/peizhi",
+    "http://www.news.cn/auto/20251122/77a226dbe8c24bb4ae0485d1dfe9c836/c.html"
   ],
   "skus": [
     {
@@ -32,7 +38,7 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 200,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 315,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
@@ -129,7 +135,7 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 200,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 315,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
@@ -226,8 +232,8 @@
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": 400,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 670,
+        "zero_to_100_s": 3.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -314,7 +320,7 @@
         "height_mm": 1505,
         "wheelbase_mm": 2970,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2283,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -323,7 +329,7 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 500,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 420,
         "zero_to_100_s": 5.5,
         "top_speed_kmh": null
       },
@@ -411,7 +417,7 @@
         "height_mm": 1505,
         "wheelbase_mm": 2970,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2283,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -420,7 +426,7 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 500,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 420,
         "zero_to_100_s": 5.5,
         "top_speed_kmh": null
       },
@@ -508,7 +514,7 @@
         "height_mm": 1505,
         "wheelbase_mm": 2970,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2466,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -517,7 +523,7 @@
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": 810,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 860,
         "zero_to_100_s": 2.7,
         "top_speed_kmh": null
       },
@@ -626,6 +632,41 @@
       "title": "工信部第391批：比亚迪汉L/唐L申报解析",
       "url": "https://chejiahao.m.autohome.com.cn/info/18813249",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汉L 2025款EV 四驱激光雷达旗舰型参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/71393.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汉L 2025款EV 701KM激光雷达旗舰型参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/71392.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汉L DM 2025款DM-i 200KM激光雷达旗舰型 - 搜狐汽车",
+      "url": "https://db.m.auto.sohu.com/trim_177283",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汉L参数配置表 - EV视界",
+      "url": "https://www.evlook.com/hanl/peizhi",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪汉L上市信息 - 新华网",
+      "url": "http://www.news.cn/auto/20251122/77a226dbe8c24bb4ae0485d1dfe9c836/c.html",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

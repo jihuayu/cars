@@ -16,7 +16,7 @@
       "category": "中型SUV",
       "release_date": "2026-01-08",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/XPeng_G6_018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2023/04/20/20230420134412299.jpeg",
       "powertrains": [
         "BEV",
         "REEV"
@@ -48,7 +48,10 @@
       "has_miit": true,
       "file": "data/xiaopeng/g6-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/g6_2026/configuration.html"
+        "https://www.xiaopeng.com/g6_2026/configuration.html",
+        "https://www.sohu.com/a/952456476_430526",
+        "https://www.xiaopeng.com/g62025.html",
+        "https://www.xchuxing.com/article/77785"
       ]
     },
     {
@@ -61,7 +64,7 @@
       "category": "中大型SUV",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/231/w660h371/20250826/43f1-5b1f61dff5ecbf8463c94854c402f691.webp",
       "powertrains": [
         "BEV",
         "REEV"
@@ -93,7 +96,12 @@
       "has_miit": true,
       "file": "data/xiaopeng/g7-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/g7_2026/configuration.html"
+        "https://www.xiaopeng.com/g7_2026/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/info/19266162",
+        "https://car.autohome.com.cn/config/series/8014.html",
+        "https://car.autohome.com.cn/config/spec/74686.html",
+        "https://car.autohome.com.cn/config/spec/76139.html",
+        "https://auto.sina.cn/review/2025-08-26/detail-infnifwc6666912.d.html"
       ]
     },
     {
@@ -106,7 +114,7 @@
       "category": "中大型纯电SUV",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/08-07/pic_20260807113423_93692.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g34/M05/0C/35/400x400_1_q40_c40_autohomecar__ChtpWGlfQj6AGe_vABmC5BDCLKs963.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -137,7 +145,11 @@
       "has_miit": true,
       "file": "data/xiaopeng/g9-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/g9_2026/configuration.html"
+        "https://www.xiaopeng.com/g9_2026/configuration.html",
+        "https://chedongxi.com/p/367662.html",
+        "https://car.autohome.com.cn/config/series/6492.html",
+        "https://car.autohome.com.cn/config/spec/76192.html",
+        "https://car.m.autohome.com.cn/pic/series/6492.html"
       ]
     },
     {
@@ -150,7 +162,7 @@
       "category": "全尺寸大六座旗舰SUV",
       "release_date": "2026-05-20",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2026/04/14/9b0c6202604141051315166.png",
       "powertrains": [
         "BEV",
         "REEV"
@@ -183,7 +195,11 @@
       "has_miit": true,
       "file": "data/xiaopeng/gx-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/gx/configuration.html"
+        "https://www.xiaopeng.com/gx/configuration.html",
+        "https://cj.sina.cn/articles/view/7879776542/1d5abd91e068014ivk",
+        "https://car.autohome.com.cn/config/series/8224.html",
+        "https://car.autohome.com.cn/config/spec/76543.html",
+        "https://www.xchuxing.com/article/168682"
       ]
     },
     {
@@ -196,7 +212,7 @@
       "category": "紧凑型纯电掀背轿跑",
       "release_date": "2026-04-02",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g34/M05/5D/9D/400x400_1_q40_c40_autohomecar__ChxpWGoEA3WAJopVADpPHKnO21Y464.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -227,7 +243,9 @@
       "has_miit": true,
       "file": "data/xiaopeng/mona-m03-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/m03_2026/configuration.html"
+        "https://www.xiaopeng.com/m03_2026/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/17435651",
+        "https://car.m.autohome.com.cn/pic/series/6998.html"
       ]
     },
     {
@@ -240,7 +258,7 @@
       "category": "中大型纯电运动轿跑",
       "release_date": "2025-08-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/XPeng_P7_II_MY2025_IMG03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/08/21/c245920250821215817128.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -272,7 +290,9 @@
       "has_miit": true,
       "file": "data/xiaopeng/p7-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/p7n/configuration.html"
+        "https://www.xiaopeng.com/p7n/configuration.html",
+        "https://www.icloudnews.net/a/102878.html",
+        "https://www.xchuxing.com/article/156823"
       ]
     },
     {
@@ -285,7 +305,7 @@
       "category": "中大型家用轿跑",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2026/01/03/8fef0202601031640332143.png",
       "powertrains": [
         "BEV",
         "REEV"
@@ -317,7 +337,9 @@
       "has_miit": true,
       "file": "data/xiaopeng/p7-plus-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/p7_plus_2026/configuration.html"
+        "https://www.xiaopeng.com/p7_plus_2026/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/info/18817835",
+        "https://www.xchuxing.com/article/164506"
       ]
     },
     {
@@ -330,7 +352,7 @@
       "category": "中大型7座MPV",
       "release_date": "2025-11-20",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g27/M05/A2/58/400x400_0_f42_autohomecar__CjIFVWSj-kGALC5tAAfVqTdugks880.png",
       "powertrains": [
         "BEV",
         "REEV"
@@ -362,7 +384,10 @@
       "has_miit": true,
       "file": "data/xiaopeng/x9-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/x9_2026/configuration.html"
+        "https://www.xiaopeng.com/x9_2026/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/info/21402232",
+        "https://car.autohome.com.cn/config/spec/76495.html",
+        "https://chejiahao.m.autohome.com.cn/info/12840870"
       ]
     }
   ]

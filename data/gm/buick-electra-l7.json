@@ -8,14 +8,15 @@
   "release_date": "2026-08-05",
   "data_as_of": "2026-11-27",
   "image_url": "https://static.buick.com.cn/assets/ZWxlY3RyYV9sNw/electra_l7/features/SGM-869/kv_m_3.png?image_process=resize,w_768/quality,Q_85",
-  "interior_image_url": null,
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/08/07/d64c5202508071350049849.jpg",
   "promo_highlights": [
     "纯电版国补预售价16.99万-20.69万",
     "增程版享1000抵8000+至高1.5万置换补贴"
   ],
   "source_urls": [
     "https://www.buick.com.cn/electra_l7",
-    "https://car.autohome.com.cn/config/series/8100.html"
+    "https://car.autohome.com.cn/config/series/8100.html",
+    "https://www.xchuxing.com/article/156495"
   ],
   "references": [
     {
@@ -29,6 +30,13 @@
       "title": "别克至境L7参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/8100.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "搭载高通骁龙8775 芯片别克至境L7 内饰谍照曝光 - 新出行",
+      "url": "https://www.xchuxing.com/article/156495",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -46,7 +54,7 @@
         "wheelbase_mm": 3000,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2140
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -60,7 +68,8 @@
         "battery_capacity_kwh": 40.2,
         "cltc_pure_electric_range_km": 302,
         "fast_charge_time": "3C快充(130kW)",
-        "v2l_power_kw": null
+        "v2l_power_kw": 6.0,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -80,9 +89,9 @@
         "seat_heating_ventilation": "四座加热/通风",
         "seat_massage": "前排按摩",
         "zero_gravity_seat": "副驾双120°零重力",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -99,7 +108,7 @@
         "wheelbase_mm": 3000,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2170
       },
       "performance": {
         "drive_type": "后置后驱",
@@ -113,7 +122,8 @@
         "battery_capacity_kwh": 80.6,
         "cltc_pure_electric_range_km": 702,
         "fast_charge_time": "10分钟补能450km(6C)",
-        "v2l_power_kw": 6.0
+        "v2l_power_kw": 6.0,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -133,9 +143,9 @@
         "seat_heating_ventilation": "四座加热/通风",
         "seat_massage": "标配",
         "zero_gravity_seat": "副驾双120°零重力",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

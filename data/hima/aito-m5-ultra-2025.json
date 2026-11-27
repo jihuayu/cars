@@ -9,7 +9,8 @@
   "release_date": "2025-03-20",
   "source_urls": [
     "https://hima.auto/wenjie/m5-new/configuration/",
-    "https://aito.auto/model/m5-new/configuration/"
+    "https://aito.auto/model/m5-new/configuration/",
+    "https://car.autohome.com.cn/config/spec/72006.html"
   ],
   "skus": [
     {
@@ -33,16 +34,16 @@
       },
       "performance": {
         "drive_type": "单电机后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 200,
+        "motor_torque_nm": 360,
+        "zero_to_100_s": 7.1,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "增程电池",
         "battery_supplier": "宁德时代",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 42,
         "cltc_pure_electric_range_km": 255,
         "cltc_combined_range_km": 1440,
         "energy_consumption_kwh_100km": null,
@@ -143,9 +144,9 @@
       },
       "performance": {
         "drive_type": "单电机后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 200,
+        "motor_torque_nm": 360,
+        "zero_to_100_s": 7.1,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -253,8 +254,8 @@
       },
       "performance": {
         "drive_type": "双电机四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
+        "motor_power_kw": 365,
+        "motor_torque_nm": 675,
         "zero_to_100_s": 4.3,
         "top_speed_kmh": null
       },
@@ -262,7 +263,7 @@
         "voltage_platform_v": null,
         "battery_type": "增程电池",
         "battery_supplier": "宁德时代",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 42,
         "cltc_pure_electric_range_km": 230,
         "cltc_combined_range_km": 1275,
         "energy_consumption_kwh_100km": null,

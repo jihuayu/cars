@@ -255,7 +255,7 @@
       "option_count": 2,
       "price_min_rmb": 219800,
       "price_max_rmb": 269800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 3.94,
       "max_cltc_ev_km": 720,
       "ground_clearance_mm": "188-203",
       "max_v2l_kw": 6.0,
@@ -276,7 +276,8 @@
       "file": "data/leapmotor/d19-2026.json",
       "source_urls": [
         "https://leapmotor.cn/D19.html",
-        "https://car.autohome.com.cn/config/series/8273.html"
+        "https://car.autohome.com.cn/config/series/8273.html",
+        "https://car.autohome.com.cn/config/spec/76832.html"
       ]
     },
     {
@@ -346,7 +347,7 @@
       "option_count": 1,
       "price_min_rmb": 97800,
       "price_max_rmb": 129800,
-      "best_zero_to_100_s": 6.4,
+      "best_zero_to_100_s": 6.2,
       "max_cltc_ev_km": 605,
       "ground_clearance_mm": "127-154",
       "max_v2l_kw": 3.3,
@@ -366,7 +367,10 @@
       "has_miit": true,
       "file": "data/leapmotor/lafa5-2026.json",
       "source_urls": [
-        "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18"
+        "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18",
+        "https://hao.yiche.com/wenzhang/112149377/",
+        "https://car.autohome.com.cn/config/spec/74606.html",
+        "https://auto.sina.cn/2026-07-09/detail-inihcvfi1476955.d.html?vt=4"
       ]
     }
   ]

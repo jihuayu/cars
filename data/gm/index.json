@@ -16,7 +16,7 @@
       "category": "中大型纯电SUV",
       "release_date": "2025-06-19",
       "image_url": "https://www.saicmotor.com/chinese/images/xwzx/xwk/2025/2025/6/20/047123866ED24635AE9A362672C426F4.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/BUICK_ELECTRA_E5_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -48,7 +48,8 @@
       "file": "data/gm/buick-e5.json",
       "source_urls": [
         "https://www.saicmotor.com/m/xwzx/xwk/2025/61959.shtml",
-        "https://car.autohome.com.cn/config/series/7043.html"
+        "https://car.autohome.com.cn/config/series/7043.html",
+        "https://commons.wikimedia.org/wiki/File:BUICK_ELECTRA_E5_INTERIOR.jpg"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "category": "中大型新能源轿车",
       "release_date": "2026-08-05",
       "image_url": "https://static.buick.com.cn/assets/ZWxlY3RyYV9sNw/electra_l7/features/SGM-869/kv_m_3.png?image_process=resize,w_768/quality,Q_85",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/08/07/d64c5202508071350049849.jpg",
       "powertrains": [
         "BEV",
         "REEV"
@@ -87,14 +88,15 @@
       "has_zero_gravity": true,
       "has_seat_massage": true,
       "has_cushion_massage": false,
-      "has_streaming_mirror": false,
+      "has_streaming_mirror": true,
       "has_cms_mirrors": false,
       "has_promo": true,
       "has_miit": false,
       "file": "data/gm/buick-electra-l7.json",
       "source_urls": [
         "https://www.buick.com.cn/electra_l7",
-        "https://car.autohome.com.cn/config/series/8100.html"
+        "https://car.autohome.com.cn/config/series/8100.html",
+        "https://www.xchuxing.com/article/156495"
       ]
     },
     {
@@ -106,8 +108,8 @@
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2026-06-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cadillac_Lyriq-V_001.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/CADILLAC_LYRIQ_CHINA_VERSION_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -132,13 +134,16 @@
       "has_zero_gravity": false,
       "has_seat_massage": true,
       "has_cushion_massage": false,
-      "has_streaming_mirror": false,
+      "has_streaming_mirror": true,
       "has_cms_mirrors": false,
       "has_promo": true,
       "has_miit": false,
       "file": "data/gm/cadillac-iq-lyriq.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6404.html"
+        "https://car.autohome.com.cn/config/series/6404.html",
+        "https://car.autohome.com.cn/config/spec/65853.html",
+        "https://commons.wikimedia.org/wiki/File:Cadillac_Lyriq-V_001.jpg",
+        "https://commons.wikimedia.org/wiki/File:CADILLAC_LYRIQ_CHINA_VERSION_INTERIOR.jpg"
       ]
     },
     {
@@ -176,13 +181,14 @@
       "has_zero_gravity": false,
       "has_seat_massage": false,
       "has_cushion_massage": false,
-      "has_streaming_mirror": false,
+      "has_streaming_mirror": true,
       "has_cms_mirrors": false,
       "has_promo": true,
       "has_miit": false,
       "file": "data/gm/cadillac-iq-optiq.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/spec/67520.html"
+        "https://car.autohome.com.cn/config/spec/67520.html",
+        "https://car.autohome.com.cn/config/spec/67519.html"
       ]
     }
   ]

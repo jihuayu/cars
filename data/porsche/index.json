@@ -16,7 +16,7 @@
       "category": "中型纯电SUV",
       "release_date": "2025-10-14",
       "image_url": "https://q4.itc.cn/images01/20251015/07a6729c3679404d88533250f4e0898e.jpeg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Porsche_XAB_Macan_Turbo_Electric_Black_Extended_Leather_Turbonite_Package_%281%29.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -35,7 +35,7 @@
       "has_cdc": true,
       "has_rws": true,
       "has_rear_screen": false,
-      "has_220v": false,
+      "has_220v": true,
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
@@ -48,7 +48,10 @@
       "file": "data/porsche/porsche-macan-ev.json",
       "source_urls": [
         "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-electric/",
-        "https://db.m.auto.sohu.com/model_7320/a/944080986_430526"
+        "https://db.m.auto.sohu.com/model_7320/a/944080986_430526",
+        "https://car.autohome.com.cn/config/series/7036.html",
+        "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-turbo-electric/",
+        "https://commons.wikimedia.org/wiki/File:Porsche_XAB_Macan_Turbo_Electric_Black_Extended_Leather_Turbonite_Package_(1).jpg"
       ]
     },
     {
@@ -60,7 +63,7 @@
       "sub_brand": null,
       "category": "中大型纯电轿跑",
       "release_date": "2025-10-14",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/2024_Porsche_Taycan_IMG_0046.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -84,7 +87,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -92,7 +95,10 @@
       "has_miit": false,
       "file": "data/porsche/porsche-taycan.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/4867.html"
+        "https://car.autohome.com.cn/config/series/4867.html",
+        "https://car.autohome.com.cn/config/spec/75241.html",
+        "https://newsroom.porsche.com/dam/jcr:d7bcf213-7cd0-4837-a62e-aed696dcdb46/PAG-PM-Taycan-ZH_EmpCo-Discl.pdf",
+        "https://commons.wikimedia.org/wiki/File:2024_Porsche_Taycan_IMG_0046.jpg"
       ]
     }
   ]

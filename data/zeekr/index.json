@@ -16,7 +16,7 @@
       "category": "中大型纯电猎装轿跑",
       "release_date": "2025-10-11",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/2022_Zeekr_001_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/293/w660h433/20251004/2234-d3b5a0513254a824d45d3af25bef48a3.png",
       "powertrains": [
         "BEV"
       ],
@@ -49,7 +49,8 @@
       "file": "data/zeekr/zeekr-001-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/zeekr001",
-        "https://m.zeekrlife.com/config"
+        "https://m.zeekrlife.com/config",
+        "https://auto.sina.cn/newcar/2025-10-04/detail-infstarn4246523.d.html"
       ]
     },
     {
@@ -62,7 +63,7 @@
       "category": "中型纯电轿车 / 猎装车",
       "release_date": "2026-04-10",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Zeekr_007_006_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g30/M04/0E/F7/630x0_q100_autohomecar__ChxknGV4K92AfCV_AAQ7O8OHIe4339.png",
       "powertrains": [
         "BEV"
       ],
@@ -95,7 +96,9 @@
       "file": "data/zeekr/zeekr-007-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/zeekr007",
-        "https://m.zeekrlife.com/zeekr007GT"
+        "https://m.zeekrlife.com/zeekr007GT",
+        "https://car.autohome.com.cn/config/spec/77115.html",
+        "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/14067880"
       ]
     },
     {
@@ -108,7 +111,7 @@
       "category": "中大型豪华纯电MPV",
       "release_date": "2026-05-19",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Zeekr_009_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g33/M0A/78/E9/400x400_1_q40_c40_autohomecar__ChxpVmncspWAMMOgAFZ6-ZDinNo636.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -139,7 +142,8 @@
       "has_miit": false,
       "file": "data/zeekr/zeekr-009-2026.json",
       "source_urls": [
-        "https://m.zeekrlife.com/zeekr009"
+        "https://m.zeekrlife.com/zeekr009",
+        "https://car.m.autohome.com.cn/pic/series/6846.html"
       ]
     },
     {
@@ -152,7 +156,7 @@
       "category": "中型纯电SUV",
       "release_date": "2025-10-28",
       "image_url": "https://zcms.zeekrlife.com/published/assets/e43663416a6ef4d925d682a72c7414fbc36f7f3acc414df83565d9ea49287850/1574.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/355/w660h495/20261126/ae1d-d1154d1a2c9166e3943c285c34b8a2cc.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -184,7 +188,9 @@
       "has_miit": true,
       "file": "data/zeekr/zeekr-7x-2026.json",
       "source_urls": [
-        "https://m.zeekrlife.com/config"
+        "https://m.zeekrlife.com/config",
+        "https://car.autohome.com.cn/config/spec/69100.html",
+        "https://auto.sina.cn/newcar/2026-11-26/detail-inkaatut8771626.d.html?oaid=00036"
       ]
     },
     {
@@ -197,7 +203,7 @@
       "category": "全尺寸超豪华电混旗舰SUV",
       "release_date": "2025-09-29",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%28CHN-Hubei%29_Showcar_Zeekr_9X_No-plate_2025-12-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://k.sinaimg.cn/n/sinakd/sni/450/w800h450/20260715/d129-21d6256c0b954146693d4dbd24ba7162.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
       "powertrains": [
         "PHEV"
       ],
@@ -228,7 +234,9 @@
       "has_miit": true,
       "file": "data/zeekr/zeekr-9x-2026.json",
       "source_urls": [
-        "https://m.zeekrlife.com/zeekr9x"
+        "https://m.zeekrlife.com/zeekr9x",
+        "https://www.moomoo.com/hans/news/post/56702748/zeekr-files-for-9x-hybrid-suv-pre-sales-to-begin",
+        "https://auto.sina.cn/2026-07-15/detail-inihwrra4788607.d.html?vt=4"
       ]
     },
     {
@@ -241,7 +249,7 @@
       "category": "中型纯电家庭跨界MPV",
       "release_date": "2024-10-23",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%28CHN-Shanghai%29_Showcar_Zeekr_Mix_No-plate_2024-12-08_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g32/M0B/2C/DA/400x400_1_q40_c40_autohomecar__Chtk2WcOMwaAKDQLADiHlsJpG8A915.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -265,7 +273,7 @@
       "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": true,
       "has_cms_mirrors": false,
@@ -273,7 +281,10 @@
       "has_miit": false,
       "file": "data/zeekr/zeekr-mix-2025.json",
       "source_urls": [
-        "https://m.zeekrlife.com/config"
+        "https://m.zeekrlife.com/config",
+        "https://car.autohome.com.cn/config/series/7631.html",
+        "https://car.autohome.com.cn/config/spec/67799.html",
+        "https://www.xchuxing.com/article/135966"
       ]
     }
   ]

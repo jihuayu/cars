@@ -3,8 +3,8 @@
   "brand_name": "鸿蒙智行",
   "origin_type": "国产",
   "data_as_of": "2026-11-27",
-  "model_count": 13,
-  "sku_count": 73,
+  "model_count": 15,
+  "sku_count": 87,
   "models": [
     {
       "brand": "hima",
@@ -50,7 +50,8 @@
       "file": "data/hima/aito-m5-ultra-2025.json",
       "source_urls": [
         "https://hima.auto/wenjie/m5-new/configuration/",
-        "https://aito.auto/model/m5-new/configuration/"
+        "https://aito.auto/model/m5-new/configuration/",
+        "https://car.autohome.com.cn/config/spec/72006.html"
       ]
     },
     {
@@ -144,7 +145,12 @@
       "file": "data/hima/aito-m7-2026.json",
       "source_urls": [
         "https://hima.auto/wenjie/m7-new/configuration/",
-        "https://aito.auto/model/m7-new/"
+        "https://aito.auto/model/m7-new/",
+        "https://chejiahao.m.autohome.com.cn/info/26936552",
+        "https://car.autohome.com.cn/config/spec/74569.html",
+        "https://car.autohome.com.cn/config/spec/74161.html",
+        "https://detail.zol.com.cn/2140/2139152/param.shtml",
+        "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26940212"
       ]
     },
     {
@@ -191,7 +197,9 @@
       "file": "data/hima/aito-m8-2027.json",
       "source_urls": [
         "https://aito.auto/model/m8/configuration/",
-        "https://car.autohome.com.cn/config/series/8003.html"
+        "https://car.autohome.com.cn/config/series/8003.html",
+        "https://auto.ifeng.com/c/8wlGlqLjonF",
+        "https://car.autohome.com.cn/config/spec/79653.html"
       ]
     },
     {
@@ -283,7 +291,65 @@
       "has_miit": true,
       "file": "data/hima/luxeed-r7-2027.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7730.html"
+        "https://car.autohome.com.cn/config/series/7730.html",
+        "https://hima.auto/zhijie/r7/",
+        "https://chejiahao.m.autohome.com.cn/info/26968259",
+        "https://chejiahao.m.autohome.com.cn/info/26599982",
+        "https://chejiahao.m.autohome.com.cn/info/26809198",
+        "https://chejiahao.m.autohome.com.cn/info/26614459"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "origin_type": "国产",
+      "model": "智界RX（2026款）",
+      "model_slug": "luxeed-rx-2026",
+      "sub_brand": "智界 LUXEED",
+      "category": "中大型纯电轿跑SUV",
+      "release_date": "2026-09-28",
+      "image_url": "https://hima.auto/dam/hima-site/cn/zhijie/rx/images/design/zhijie-rx-colour-1.jpg",
+      "interior_image_url": "https://hima.auto/dam/hima-site/cn/zhijie/rx/images/entertainment/zhijie-rx-inside-colour-1.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 6,
+      "option_count": 8,
+      "price_min_rmb": 259800,
+      "price_max_rmb": 389800,
+      "best_zero_to_100_s": 3.6,
+      "max_cltc_ev_km": 852,
+      "ground_clearance_mm": "148-155",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/hima/luxeed-rx-2026.json",
+      "source_urls": [
+        "https://hima.auto/zhijie/rx/",
+        "https://car.autohome.com.cn/config/series/8684.html",
+        "https://hima.auto/dam/hima-site/cn/zhijie/service/pdf/261013/%E6%99%BA%E7%95%8CRX%E7%BA%AF%E7%94%B5%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "https://auto.ifeng.com/c/8vOcjqpJEJ0",
+        "https://auto.ifeng.com/c/8tqv39fsEPq",
+        "https://4g.stockstar.com/detail/IG2026092900005772",
+        "https://auto.ifeng.com/c/8y2OrdzqIfr",
+        "http://auto.cnfol.com/cheshidongtai/20261009/32391317.shtml",
+        "https://db.m.auto.sohu.com/model_7476/a/1038044233_120048818"
       ]
     },
     {
@@ -328,7 +394,9 @@
       "has_miit": true,
       "file": "data/hima/luxeed-s7-2026.json",
       "source_urls": [
-        "https://hima.auto/zhijie/s7/configuration/"
+        "https://hima.auto/zhijie/s7/configuration/",
+        "https://db.m.auto.sohu.com/model_7245/config",
+        "https://car.autohome.com.cn/config/spec/70706.html"
       ]
     },
     {
@@ -372,7 +440,9 @@
       "has_miit": true,
       "file": "data/hima/luxeed-v9-2026.json",
       "source_urls": [
-        "https://hima.auto/zhijie/v9/configuration/"
+        "https://hima.auto/zhijie/v9/configuration/",
+        "https://car.autohome.com.cn/config/series/7824.html",
+        "https://cj.sina.cn/articles/view/7879923138/1d5ae15c206801h6f6?froms=ggmp"
       ]
     },
     {
@@ -489,7 +559,7 @@
       "option_count": 9,
       "price_min_rmb": 219800,
       "price_max_rmb": 229800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 5.47,
       "max_cltc_ev_km": null,
       "ground_clearance_mm": null,
       "max_v2l_kw": 6.0,
@@ -509,7 +579,10 @@
       "has_miit": true,
       "file": "data/hima/saic-z7-2026.json",
       "source_urls": [
-        "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025"
+        "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025",
+        "https://www.evlook.com/shangjiez7/peizhi",
+        "https://hima.auto/shangjie/z7-z7t/configuration/",
+        "https://www.xchuxing.com/article/168036"
       ]
     },
     {
@@ -554,7 +627,9 @@
       "has_miit": true,
       "file": "data/hima/stelato-s9-2026.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7630.html"
+        "https://car.autohome.com.cn/config/series/7630.html",
+        "https://m.21jingji.com/article/20240313/herald/6d6405f3fd1ce1b8f438adc1ae3e768b.html",
+        "https://car.autohome.com.cn/config/spec/75166.html"
       ]
     },
     {
@@ -599,7 +674,62 @@
       "has_miit": true,
       "file": "data/hima/stelato-s9t-2026.json",
       "source_urls": [
-        "https://hima.auto/xiangjie/s9t/configuration/"
+        "https://hima.auto/xiangjie/s9t/configuration/",
+        "https://finance.sina.cn/2026-08-22/detail-inipeptt1205303.d.html",
+        "https://car.autohome.com.cn/config/series/8207.html"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "origin_type": "国产",
+      "model": "享界V8（2026款）",
+      "model_slug": "stelato-v8-2026",
+      "sub_brand": "享界 STELATO",
+      "category": "中大型家庭旗舰MPV",
+      "release_date": "2026-11-20",
+      "image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/v8/images/hero/xiangjie-v8-key-vision.jpg",
+      "interior_image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/v8/images/comfortable/xiangjie-v8-interior-design.jpg",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 8,
+      "option_count": 7,
+      "price_min_rmb": 319800,
+      "price_max_rmb": 429800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 830,
+      "ground_clearance_mm": "140",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/hima/stelato-v8-2026.json",
+      "source_urls": [
+        "https://hima.auto/xiangjie/v8/",
+        "https://youjia.baidu.com/view/carTrain/1008735?seriesName=%E4%BA%AB%E7%95%8CV8",
+        "https://hima.auto/dam/hima-site/cn/xiangjie/service/pdf/261120/%E4%BA%AB%E7%95%8CV8%E7%BA%AF%E7%94%B5%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "https://www.sohu.com/a/1103656359_430526",
+        "https://youjia.baidu.com/view/articleDetail/8868279486442109395?sa=pc_ss_article",
+        "https://chejiahao.m.autohome.com.cn/info/26956920",
+        "https://youjia.baidu.com/view/articleDetail/10100115977382996528?sa=%E9%9F%BB%E9%81%94%E5%BF%AB%E9%81%9E%E9%A6%99%E6%B8%AF_auto",
+        "https://www.donews.com/news/detail/8/6781820.html"
       ]
     }
   ]

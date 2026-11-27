@@ -8,7 +8,10 @@
   "release_date": "2026-09-16",
   "source_urls": [
     "https://www.lixiang.com/news/188.html",
-    "https://www.lixiang.com/configuration.html"
+    "https://www.lixiang.com/configuration.html",
+    "https://auto.ifeng.com/c/8ueQFcdLanW",
+    "https://car.autohome.com.cn/config/spec/78523.html",
+    "https://car.autohome.com.cn/config/series/8727.html"
   ],
   "skus": [
     {
@@ -21,7 +24,7 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3168,
         "seats": 6,
         "curb_weight_kg": "2745-2780",
         "trunk_volume_l": null,
@@ -31,9 +34,9 @@
       },
       "performance": {
         "drive_type": "前后双电机智能四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 400,
+        "motor_torque_nm": 660,
+        "zero_to_100_s": 4.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -146,6 +149,20 @@
       "title": "理想i9纯电六座SUV工信部第409批申报",
       "url": "https://auto.ifeng.com/c/8ueQFcdLanW",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想i9 2026款Home参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/78523.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想i9参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/8727.html",
+      "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

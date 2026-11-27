@@ -5,7 +5,7 @@
 ## 数据规模总览
 
 <!-- STATS:START -->
-共收录 **40 大品牌（国产 27 + 合资/外资 13） / 172 款在售主力车型 / 659 个 SKU**（数据更新日期：**2026-11-27**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。
+共收录 **40 大品牌（国产 27 + 合资/外资 13） / 174 款在售主力车型 / 673 个 SKU**（数据更新日期：**2026-11-27**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。
 
 | 厂商目录 | 品牌 | 产地类型 | 车型数 | SKU 数 | 品牌索引 |
 | :--- | :--- | :--- | ---: | ---: | :--- |
@@ -17,7 +17,7 @@
 | `data/firefly/` | 萤火虫 | 国产 | 1 | 6 | [`data/firefly/index.json`](./data/firefly/index.json) |
 | `data/leapmotor/` | 零跑汽车 | 国产 | 8 | 49 | [`data/leapmotor/index.json`](./data/leapmotor/index.json) |
 | `data/immotors/` | 智己汽车 | 国产 | 5 | 23 | [`data/immotors/index.json`](./data/immotors/index.json) |
-| `data/hima/` | 鸿蒙智行 | 国产 | 13 | 73 | [`data/hima/index.json`](./data/hima/index.json) |
+| `data/hima/` | 鸿蒙智行 | 国产 | 15 | 87 | [`data/hima/index.json`](./data/hima/index.json) |
 | `data/xiaomi/` | 小米汽车 | 国产 | 4 | 14 | [`data/xiaomi/index.json`](./data/xiaomi/index.json) |
 | `data/zeekr/` | 极氪 | 国产 | 6 | 28 | [`data/zeekr/index.json`](./data/zeekr/index.json) |
 | `data/lynkco/` | 领克新能源 | 国产 | 3 | 13 | [`data/lynkco/index.json`](./data/lynkco/index.json) |

@@ -8,18 +8,26 @@
   "release_date": "2025-12-31",
   "data_as_of": "2026-11-27",
   "image_url": "https://i2.dd-img.com/content/editor/695cea2b91968.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/2023_FAW-Toyota_bZ3_Vogue_interior.jpg",
   "promo_highlights": [
     "2026款智享家JOY限时9.38万/PRO限时10.38万"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/6903.html"
+    "https://car.autohome.com.cn/config/series/6903.html",
+    "https://commons.wikimedia.org/wiki/File:2023_FAW-Toyota_bZ3_Vogue_interior.jpg"
   ],
   "references": [
     {
       "title": "丰田bZ3参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/6903.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:2023 FAW-Toyota bZ3 Vogue interior.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:2023_FAW-Toyota_bZ3_Vogue_interior.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -51,7 +59,8 @@
         "battery_capacity_kwh": 49.9,
         "cltc_pure_electric_range_km": 510,
         "fast_charge_time": "27分钟(30-80%)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "弗迪"
       },
       "chassis": {
         "air_suspension": "无",
@@ -68,11 +77,11 @@
         "screens": "15.6英寸中控屏",
         "rear_screen": "无",
         "power_220v": "无",
-        "seat_heating_ventilation": "未知",
+        "seat_heating_ventilation": "无",
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "无",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -90,7 +99,7 @@
         "wheelbase_mm": 2880,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 1850
       },
       "performance": {
         "drive_type": "前置前驱",
@@ -104,7 +113,8 @@
         "battery_capacity_kwh": 65.28,
         "cltc_pure_electric_range_km": 600,
         "fast_charge_time": "27分钟(30-80%)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "弗迪"
       },
       "chassis": {
         "air_suspension": "无",
@@ -121,11 +131,11 @@
         "screens": "15.6英寸中控屏",
         "rear_screen": "无",
         "power_220v": "无",
-        "seat_heating_ventilation": "未知",
+        "seat_heating_ventilation": "前排加热",
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },

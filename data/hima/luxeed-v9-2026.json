@@ -8,7 +8,9 @@
   "category": "旗舰大型7座增程MPV",
   "release_date": "2026-05-15",
   "source_urls": [
-    "https://hima.auto/zhijie/v9/configuration/"
+    "https://hima.auto/zhijie/v9/configuration/",
+    "https://car.autohome.com.cn/config/series/7824.html",
+    "https://cj.sina.cn/articles/view/7879923138/1d5ae15c206801h6f6?froms=ggmp"
   ],
   "skus": [
     {
@@ -23,10 +25,10 @@
         "height_mm": 1879,
         "wheelbase_mm": 3250,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2790,
         "trunk_volume_l": "892-2002",
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
+        "min_turning_radius_m": 5.35,
         "drag_coefficient_cd": null
       },
       "performance": {
@@ -138,10 +140,10 @@
         "height_mm": 1879,
         "wheelbase_mm": 3250,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2870,
         "trunk_volume_l": "892-2002",
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
+        "min_turning_radius_m": 5.35,
         "drag_coefficient_cd": null
       },
       "performance": {
@@ -253,10 +255,10 @@
         "height_mm": 1879,
         "wheelbase_mm": 3250,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2940,
         "trunk_volume_l": "892-2002",
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
+        "min_turning_radius_m": 5.35,
         "drag_coefficient_cd": null
       },
       "performance": {
@@ -368,10 +370,10 @@
         "height_mm": 1879,
         "wheelbase_mm": 3250,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2940,
         "trunk_volume_l": "892-2002",
         "frunk_volume_l": null,
-        "min_turning_radius_m": null,
+        "min_turning_radius_m": 5.35,
         "drag_coefficient_cd": null
       },
       "performance": {
@@ -479,8 +481,8 @@
   "miit_filing": {
     "miit_batch": "第409批",
     "product_model_code": null,
-    "curb_weight_kg": null,
-    "gross_weight_kg": null,
+    "curb_weight_kg": "2790-2940",
+    "gross_weight_kg": "3365-3486",
     "approach_departure_deg": null,
     "battery_supplier": "欣旺达"
   },
@@ -496,6 +498,20 @@
       "title": "工信部第409批：智界V9新车公示",
       "url": "https://chejiahao.m.autohome.com.cn/info/25963398",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界V9 参数配置表大全（整备质量与满载质量）- 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7824.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智界V9深度解析（5.35m最小转弯半径）- 新浪财经",
+      "url": "https://cj.sina.cn/articles/view/7879923138/1d5ae15c206801h6f6?froms=ggmp",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

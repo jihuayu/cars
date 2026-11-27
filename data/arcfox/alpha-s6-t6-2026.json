@@ -7,7 +7,10 @@
   "category": "中大型纯电轿车 / SUV",
   "release_date": "2025-04-02",
   "source_urls": [
-    "https://www.arcfox.com.cn/S6/index.html"
+    "https://www.arcfox.com.cn/S6/index.html",
+    "https://car.autohome.com.cn/config/spec/72447.html",
+    "https://car.autohome.com.cn/config/series/8053.html",
+    "https://db.auto.sohu.com/model_7635/config"
   ],
   "skus": [
     {
@@ -22,7 +25,7 @@
         "height_mm": 1599,
         "wheelbase_mm": 2915,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2060,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -32,14 +35,14 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 175,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 360,
         "zero_to_100_s": 8.3,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/北电爱思特",
         "battery_capacity_kwh": 94.5,
         "cltc_pure_electric_range_km": 735,
         "cltc_combined_range_km": 735,
@@ -155,8 +158,8 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 74.5,
         "cltc_pure_electric_range_km": 602,
         "cltc_combined_range_km": 602,
         "energy_consumption_kwh_100km": null,
@@ -254,7 +257,7 @@
         "height_mm": 1683,
         "wheelbase_mm": 2915,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2070,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -264,7 +267,7 @@
       "performance": {
         "drive_type": "前驱",
         "motor_power_kw": 175,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 320,
         "zero_to_100_s": 8.4,
         "top_speed_kmh": null
       },
@@ -370,7 +373,7 @@
         "height_mm": 1683,
         "wheelbase_mm": 2915,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2270,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -487,6 +490,27 @@
       "url": "https://www.arcfox.com.cn/S6/index.html",
       "type": "official",
       "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极狐阿尔法S6 2025款735MAX 175kW参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/72447.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极狐阿尔法S6参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/8053.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "ARCFOX极狐阿尔法T6参数配置 - 搜狐汽车",
+      "url": "https://db.auto.sohu.com/model_7635/config",
+      "type": "database",
+      "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
   ],

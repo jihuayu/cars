@@ -15,8 +15,8 @@
       "sub_brand": null,
       "category": "中型纯电轿车",
       "release_date": "2026-10-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tesla_Model_3_%27Highland%27_%282024%29.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tesla_Model_3_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -30,14 +30,14 @@
       "price_max_rmb": 339500,
       "best_zero_to_100_s": 3.1,
       "max_cltc_ev_km": 830,
-      "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "ground_clearance_mm": 138,
+      "max_v2l_kw": 2.2,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
       "has_seat_massage": false,
@@ -50,7 +50,11 @@
       "source_urls": [
         "https://www.tesla.cn/campaign/sales-promo-overview",
         "https://car.autohome.com.cn/config/series/5346.html",
-        "https://price.pcauto.com.cn/m142641/config.html"
+        "https://price.pcauto.com.cn/m142641/config.html",
+        "https://www.tesla.cn/model3",
+        "https://car.autohome.com.cn/config/spec/79398.html",
+        "https://car.autohome.com.cn/config/spec/71369.html",
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_3_%27Highland%27_(2024).jpg"
       ]
     },
     {
@@ -62,7 +66,7 @@
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2025-11-21",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/2023_Tesla_Model_S_Plaid.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -74,14 +78,14 @@
       "option_count": 0,
       "price_min_rmb": 842900,
       "price_max_rmb": 842900,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 3.2,
       "max_cltc_ev_km": null,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 117,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": false,
@@ -94,7 +98,8 @@
       "has_miit": false,
       "file": "data/tesla/tesla-model-s.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/2357.html"
+        "https://car.autohome.com.cn/config/series/2357.html",
+        "https://commons.wikimedia.org/wiki/File:2023_Tesla_Model_S_Plaid.jpg"
       ]
     },
     {
@@ -106,8 +111,8 @@
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2025-11-21",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/23_Tesla_Model_X_Plaid.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tesla_Model_X_Interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -118,14 +123,14 @@
       "option_count": 0,
       "price_min_rmb": 882900,
       "price_max_rmb": 882900,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 3.9,
       "max_cltc_ev_km": null,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 146,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": false,
@@ -138,7 +143,8 @@
       "has_miit": false,
       "file": "data/tesla/tesla-model-x.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/2664.html"
+        "https://car.autohome.com.cn/config/series/2664.html",
+        "https://commons.wikimedia.org/wiki/File:23_Tesla_Model_X_Plaid.jpg"
       ]
     },
     {
@@ -169,7 +175,7 @@
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": true,
       "has_swap": false,
@@ -183,7 +189,8 @@
       "file": "data/tesla/tesla-model-y-l.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/spec/73654.html",
-        "http://auto.news18a.com/news/storys_267963.html"
+        "http://auto.news18a.com/news/storys_267963.html",
+        "https://car.autohome.com.cn/config/spec/79395.html"
       ]
     },
     {
@@ -195,8 +202,8 @@
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2026-10-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2025_Tesla_Model_Y_Juniper_Long_Range_RWD.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tesla_Model_Y_2025_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -210,14 +217,14 @@
       "price_max_rmb": 369000,
       "best_zero_to_100_s": 3.5,
       "max_cltc_ev_km": 821,
-      "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "ground_clearance_mm": 138,
+      "max_v2l_kw": 2.2,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
       "has_seat_massage": false,
@@ -230,7 +237,9 @@
       "source_urls": [
         "https://www.tesla.cn/campaign/sales-promo-overview",
         "https://car.autohome.com.cn/config/series/5769.html",
-        "https://youjia.baidu.com/view/articleDetail/10253914547370588633"
+        "https://youjia.baidu.com/view/articleDetail/10253914547370588633",
+        "https://www.tesla.cn/modely",
+        "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_Juniper_Long_Range_RWD.jpg"
       ]
     }
   ]

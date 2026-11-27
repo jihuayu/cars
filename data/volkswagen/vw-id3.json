@@ -8,19 +8,27 @@
   "release_date": "2025-09-22",
   "data_as_of": "2026-11-27",
   "image_url": "https://k.sinaimg.cn/n/default/f8781c75/20260807/qiche_010.jpeg/w700d1q75cms.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Volkswagen_ID.3_interior.jpg",
   "promo_highlights": [
     "终端置换起售价低至10.94万元",
     "新购11.89万元起"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/6265.html"
+    "https://car.autohome.com.cn/config/series/6265.html",
+    "https://commons.wikimedia.org/wiki/File:Volkswagen_ID.3_interior.jpg"
   ],
   "references": [
     {
       "title": "大众ID.3参数配置表大全 - 汽车之家",
       "url": "https://car.autohome.com.cn/config/series/6265.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:Volkswagen ID.3 interior.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Volkswagen_ID.3_interior.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -52,7 +60,8 @@
         "battery_capacity_kwh": 53.6,
         "cltc_pure_electric_range_km": 451,
         "fast_charge_time": "0.75小时(0-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -73,7 +82,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "无",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -105,7 +114,8 @@
         "battery_capacity_kwh": 53.6,
         "cltc_pure_electric_range_km": 451,
         "fast_charge_time": "0.75小时(0-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -126,7 +136,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },

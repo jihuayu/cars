@@ -9,7 +9,9 @@
   "release_date": "2026-11-13",
   "source_urls": [
     "https://aito.auto/model/m8/configuration/",
-    "https://car.autohome.com.cn/config/series/8003.html"
+    "https://car.autohome.com.cn/config/series/8003.html",
+    "https://auto.ifeng.com/c/8wlGlqLjonF",
+    "https://car.autohome.com.cn/config/spec/79653.html"
   ],
   "skus": [
     {
@@ -40,7 +42,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 56.0,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": 1435,
@@ -227,7 +229,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 75.4,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": 1435,
@@ -414,7 +416,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 75.4,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": 1435,
@@ -601,7 +603,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 56.0,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": 1435,
@@ -788,7 +790,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 75.4,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": 1435,
@@ -975,7 +977,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 75.4,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": 1435,
@@ -1154,15 +1156,15 @@
       },
       "performance": {
         "drive_type": "四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 100.0,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": null,
@@ -1341,15 +1343,15 @@
       },
       "performance": {
         "drive_type": "四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 120.0,
         "cltc_pure_electric_range_km": 830,
         "cltc_combined_range_km": 830,
@@ -1528,15 +1530,15 @@
       },
       "performance": {
         "drive_type": "四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 100.0,
         "cltc_pure_electric_range_km": null,
         "cltc_combined_range_km": null,
@@ -1715,15 +1717,15 @@
       },
       "performance": {
         "drive_type": "四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "华为巨鲸电池平台3.0",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 120.0,
         "cltc_pure_electric_range_km": 830,
         "cltc_combined_range_km": 830,
@@ -1916,6 +1918,13 @@
       "title": "工信部第409批：问界新M8申报信息",
       "url": "https://auto.ifeng.com/c/8wlGlqLjonF",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "问界M8 2027款纯电后驱Ultra 5座参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/79653.html",
+      "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

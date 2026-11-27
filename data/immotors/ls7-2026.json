@@ -7,7 +7,9 @@
   "category": "中大型纯电SUV",
   "release_date": "2025-06-16",
   "source_urls": [
-    "https://car.autohome.com.cn/price/brand-448-632.html"
+    "https://car.autohome.com.cn/price/brand-448-632.html",
+    "https://car.autohome.com.cn/config/spec/69131.html",
+    "https://www.saicmotor.com/chinese/xwzx/xwk/2025/61929.shtml"
   ],
   "skus": [
     {
@@ -20,7 +22,7 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3060,
         "seats": 5,
         "curb_weight_kg": null,
         "trunk_volume_l": null,
@@ -38,7 +40,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 83,
         "cltc_pure_electric_range_km": 640,
         "cltc_combined_range_km": 640,
@@ -131,9 +133,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3060,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2490,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -149,7 +151,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 875,
         "battery_type": "三元锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 700,
         "cltc_combined_range_km": 700,
@@ -244,6 +246,20 @@
       "url": "https://car.autohome.com.cn/price/brand-448-632.html",
       "type": "database",
       "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智己LS7 2025款焕新版Ultra参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/69131.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "智己LS7焕新版上市官方新闻 - 上汽集团官网",
+      "url": "https://www.saicmotor.com/chinese/xwzx/xwk/2025/61929.shtml",
+      "type": "official",
+      "is_third_party": false,
       "retrieved_at": "2026-11-27"
     }
   ],

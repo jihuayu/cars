@@ -16,7 +16,7 @@
       "category": "中型纯电轿跑SUV",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Nio_EC6_II_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/spider2020621/484/w750h534/20200621/f922-ivffpct1652440.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -48,7 +48,9 @@
       "has_miit": true,
       "file": "data/nio/ec6-2026.json",
       "source_urls": [
-        "https://www.nio.cn/zh_CN/vehicle/configuration/ec6"
+        "https://www.nio.cn/zh_CN/vehicle/configuration/ec6",
+        "https://www.xchuxing.com/article/146985",
+        "https://auto.sina.cn/newcar/zz/2020-06-21/detail-iircuyvi9662330.d.html"
       ]
     },
     {
@@ -61,7 +63,7 @@
       "category": "中型纯电SUV",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/%28CHN-Guangdong%29_Showcar_Nio_ES6_No-plate_2024-05-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/07/04/202507041848085948.png",
       "powertrains": [
         "BEV"
       ],
@@ -93,7 +95,10 @@
       "has_miit": true,
       "file": "data/nio/es6-2026.json",
       "source_urls": [
-        "https://www.nio.cn/zh_CN/vehicle/configuration/es6"
+        "https://www.nio.cn/zh_CN/vehicle/configuration/es6",
+        "https://www.xchuxing.com/article/146985",
+        "https://car.autohome.com.cn/config/spec/76972.html",
+        "https://www.xchuxing.com/article/154188"
       ]
     },
     {
@@ -106,7 +111,7 @@
       "category": "大型纯电SUV（5/6/7座）",
       "release_date": "2025-09-20",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%28CHN-Jiangsu%29_Showcar_Nio_ES8_No-plate_2025-12-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/08/15/d28d6202508151020488923.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -138,7 +143,9 @@
       "file": "data/nio/es8-2026.json",
       "source_urls": [
         "https://www.nio.cn/es8",
-        "https://www.nio.cn/es8-five-seater"
+        "https://www.nio.cn/es8-five-seater",
+        "https://db.m.auto.sohu.com/model_7489/a/906950766_117058",
+        "https://www.xchuxing.com/article/156618"
       ]
     },
     {
@@ -151,7 +158,7 @@
       "category": "全尺寸行政旗舰纯电SUV",
       "release_date": "2026-05-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nio_ES9_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://k.sinaimg.cn/n/spider20260407/232/w660h372/20260407/245e-8652c6e3d5d9f70c49743e80bedfa614.jpg/w300h300z1l10t10q100dd0.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -169,7 +176,7 @@
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": true,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": true,
@@ -183,7 +190,10 @@
       "file": "data/nio/es9-2026.json",
       "source_urls": [
         "https://www.nio.cn/es9",
-        "https://www.nio.cn/news/20260527001"
+        "https://www.nio.cn/news/20260527001",
+        "https://chejiahao.m.autohome.com.cn/info/24694122",
+        "https://finance.sina.cn/stock/jdts/2026-04-07/detail-inhttaet6931212.d.html?oid=800&vt=4",
+        "https://detail.zol.com.cn/2169/2168672/param.shtml"
       ]
     },
     {
@@ -196,7 +206,7 @@
       "category": "中型纯电轿跑",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/NIO_ET5_IMG_8291.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://k.sinaimg.cn/n/sinakd20260505s/371/w750h421/20260505/893e-409ae9f174ac3f5b63662348e0829cb4.jpg/w700d1q75cms.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -227,7 +237,9 @@
       "has_miit": true,
       "file": "data/nio/et5-2026.json",
       "source_urls": [
-        "https://www.nio.cn/vehicle/configuration/et5"
+        "https://www.nio.cn/vehicle/configuration/et5",
+        "https://www.xchuxing.com/article/146985",
+        "https://cj.sina.cn/articles/view/7857141524/1d45277140190267qc?froms=ggmp"
       ]
     },
     {
@@ -240,7 +252,7 @@
       "category": "中型纯电旅行车",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2023_NIO_ET5_Touring_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://img1.bitautoimg.com/autoalbum/files/20260421/551/202604216215676762155133180_13871016_4.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -271,7 +283,10 @@
       "has_miit": true,
       "file": "data/nio/et5t-2026.json",
       "source_urls": [
-        "https://www.nio.cn/et5t"
+        "https://www.nio.cn/et5t",
+        "https://www.xchuxing.com/article/146985",
+        "https://car.autohome.com.cn/config/series/7306.html",
+        "https://photo.yiche.com/sumphoto/weilaiet5touring/"
       ]
     },
     {
@@ -284,7 +299,7 @@
       "category": "全尺寸行政四座旗舰轿车",
       "release_date": "2024-12-21",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nio_ET9_MY2025_IMG01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/299/w660h439/20241223/0e87-4c3504273989217ac2b7eeea57ec48d5.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -315,7 +330,9 @@
       "has_miit": true,
       "file": "data/nio/et9-2026.json",
       "source_urls": [
-        "https://www.nio.cn/vehicle/configuration/et9"
+        "https://www.nio.cn/vehicle/configuration/et9",
+        "https://auto.zol.com.cn/909/9093445.html",
+        "https://auto.sina.cn/review/2024-12-23/detail-ineankci2396849.d.html"
       ]
     }
   ]

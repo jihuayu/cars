@@ -8,13 +8,15 @@
   "release_date": "2023-12-10",
   "data_as_of": "2026-11-27",
   "image_url": "https://car1.dd-img.com/serie/year/a6db5e6dab5ce14edec388c4809f3913.png",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2021_Ford_Mustang_Mach-E_Standard_Range_Interior.jpg",
   "promo_highlights": [
     "2024款终端参考价19.98万起(优惠约4万)"
   ],
   "source_urls": [
     "https://car.autohome.com.cn/config/spec/66122.html",
-    "https://detail.zol.com.cn/1975/1974752/param.shtml"
+    "https://detail.zol.com.cn/1975/1974752/param.shtml",
+    "https://car.autohome.com.cn/config/series/6029.html",
+    "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Mach-E_Standard_Range_Interior.jpg"
   ],
   "references": [
     {
@@ -28,6 +30,20 @@
       "title": "福特电马2024款GT-ZOL",
       "url": "https://detail.zol.com.cn/1975/1974752/param.shtml",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "福特电马参数配置表大全_购车价格 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6029.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:2021 Ford Mustang Mach-E Standard Range Interior.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Mach-E_Standard_Range_Interior.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -59,7 +75,8 @@
         "battery_capacity_kwh": 78.2,
         "cltc_pure_electric_range_km": 609,
         "fast_charge_time": "29分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(四川时代)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -80,7 +97,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -112,7 +129,8 @@
         "battery_capacity_kwh": 80.3,
         "cltc_pure_electric_range_km": 504,
         "fast_charge_time": "27分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "弗迪"
       },
       "chassis": {
         "air_suspension": "无",

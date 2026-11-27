@@ -8,16 +8,24 @@
   "release_date": "2023-12-15",
   "data_as_of": "2026-11-27",
   "image_url": "https://n.sinaimg.cn/auto/0/w2048h1152/20231215/384c-f581e89843999af73918ca4d24f58638.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2024_VW_ID.7%2C_interior.jpg",
   "promo_highlights": [],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7208.html"
+    "https://car.autohome.com.cn/config/series/7208.html",
+    "https://commons.wikimedia.org/wiki/File:2024_VW_ID.7,_interior.jpg"
   ],
   "references": [
     {
       "title": "大众ID.7 VIZZION参数配置表大全 - 汽车之家",
       "url": "https://car.autohome.com.cn/config/series/7208.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:2024 VW ID.7, interior.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:2024_VW_ID.7,_interior.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -49,7 +57,8 @@
         "battery_capacity_kwh": 84.8,
         "cltc_pure_electric_range_km": 642,
         "fast_charge_time": "最高100kW快充",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代一汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -66,11 +75,11 @@
         "screens": "15英寸悬浮中控屏",
         "rear_screen": "无",
         "power_220v": "无",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "seat_heating_ventilation": "前后排加热，前排通风",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -102,7 +111,8 @@
         "battery_capacity_kwh": 84.8,
         "cltc_pure_electric_range_km": 570,
         "fast_charge_time": "最高100kW快充",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代一汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -119,11 +129,11 @@
         "screens": "15英寸悬浮中控屏",
         "rear_screen": "无",
         "power_220v": "无",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "seat_heating_ventilation": "选配前后排加热/前排通风",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "选配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },

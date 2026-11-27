@@ -7,7 +7,11 @@
   "category": "中大型7座豪华MPV",
   "release_date": "2026-04-27",
   "source_urls": [
-    "https://www.denza.com/cn2_0/brand.html"
+    "https://www.denza.com/cn2_0/brand.html",
+    "https://chejiahao.m.autohome.com.cn/info/24835212",
+    "https://detail.zol.com.cn/2164/2163578/param.shtml",
+    "https://m.pcauto.com.cn/auto/pk/choose/m139728.html",
+    "https://db.m.auto.sohu.com/trim_182311"
   ],
   "skus": [
     {
@@ -138,8 +142,8 @@
       "performance": {
         "drive_type": "四驱",
         "motor_power_kw": 245,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 425,
+        "zero_to_100_s": 7.3,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -245,8 +249,8 @@
       "performance": {
         "drive_type": "四驱",
         "motor_power_kw": 245,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 425,
+        "zero_to_100_s": 7.3,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -352,15 +356,15 @@
       "performance": {
         "drive_type": "四驱",
         "motor_power_kw": 245,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 425,
+        "zero_to_100_s": 7.3,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "闪充刀片电池",
         "battery_supplier": "弗迪电池",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 66.5,
         "cltc_pure_electric_range_km": 401,
         "cltc_combined_range_km": 1100,
         "energy_consumption_kwh_100km": null,
@@ -566,7 +570,7 @@
       "performance": {
         "drive_type": "四驱",
         "motor_power_kw": 410,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 445,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
@@ -673,7 +677,7 @@
       "performance": {
         "drive_type": "四驱",
         "motor_power_kw": 410,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 445,
         "zero_to_100_s": null,
         "top_speed_kmh": null
       },
@@ -785,6 +789,27 @@
       "title": "腾势D9 EV工信部申报参数",
       "url": "https://chejiahao.m.autohome.com.cn/info/24835212",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "腾势D9 2026款第二代DM-i 四驱闪充豪华型参数 - ZOL",
+      "url": "https://detail.zol.com.cn/2164/2163578/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "腾势D9 2026款第二代DM-i 四驱闪充旗舰型参配 - 太平洋汽车",
+      "url": "https://m.pcauto.com.cn/auto/pk/choose/m139728.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "腾势D9 EV 2026款第二代EV 闪充尊荣型 - 搜狐汽车",
+      "url": "https://db.m.auto.sohu.com/trim_182311",
+      "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

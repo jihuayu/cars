@@ -140,7 +140,9 @@
       "has_miit": false,
       "file": "data/immotors/ls7-2026.json",
       "source_urls": [
-        "https://car.autohome.com.cn/price/brand-448-632.html"
+        "https://car.autohome.com.cn/price/brand-448-632.html",
+        "https://car.autohome.com.cn/config/spec/69131.html",
+        "https://www.saicmotor.com/chinese/xwzx/xwk/2025/61929.shtml"
       ]
     },
     {

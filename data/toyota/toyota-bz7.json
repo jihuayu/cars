@@ -8,19 +8,27 @@
   "release_date": "2026-03-29",
   "data_as_of": "2026-11-27",
   "image_url": "https://imgcdn.yzwb.net/fcapp_94674328-a977-49bc-961f-6497cc263957_1774788986437?imageMogr2/thumbnail/1080x%3E/strip/ignore-error/1|imageslim",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Toyota_bZ7_interior.jpg",
   "promo_highlights": [
     "限时补贴后14.78万-19.98万元",
     "双腔空悬10年/30万公里质保"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7724.html"
+    "https://car.autohome.com.cn/config/series/7724.html",
+    "https://commons.wikimedia.org/wiki/File:Toyota_bZ7_interior.jpg"
   ],
   "references": [
     {
       "title": "铂智7参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/7724.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:Toyota bZ7 interior.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Toyota_bZ7_interior.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -52,7 +60,8 @@
         "battery_capacity_kwh": 88.13,
         "cltc_pure_electric_range_km": 700,
         "fast_charge_time": "24分钟(30-80%)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "江苏正力"
       },
       "chassis": {
         "air_suspension": "选装双腔空悬(15000元)",
@@ -72,9 +81,9 @@
         "seat_heating_ventilation": "前后排加热/通风",
         "seat_massage": "标配",
         "zero_gravity_seat": "副驾零重力",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [
@@ -118,7 +127,8 @@
         "battery_capacity_kwh": 88.13,
         "cltc_pure_electric_range_km": 710,
         "fast_charge_time": "24分钟(30-80%)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "江苏正力"
       },
       "chassis": {
         "air_suspension": "标配双腔空悬",
@@ -138,9 +148,9 @@
         "seat_heating_ventilation": "前后排加热/通风",
         "seat_massage": "标配",
         "zero_gravity_seat": "副驾零重力",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

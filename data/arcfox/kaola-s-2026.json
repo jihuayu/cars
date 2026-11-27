@@ -7,7 +7,9 @@
   "category": "紧凑型电动侧滑门纯电SUV",
   "release_date": "2026-01-13",
   "source_urls": [
-    "https://www.arcfox.com.cn/"
+    "https://www.arcfox.com.cn/",
+    "https://car.autohome.com.cn/config/series/7797.html",
+    "https://car.autohome.com.cn/config/spec/76263.html"
   ],
   "skus": [
     {
@@ -22,7 +24,7 @@
         "height_mm": 1675,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1780,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -32,15 +34,15 @@
       "performance": {
         "drive_type": "前置前驱",
         "motor_power_kw": 150,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 255,
+        "zero_to_100_s": 7.95,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂",
         "battery_supplier": "宁德时代",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 58.8,
         "cltc_pure_electric_range_km": 520,
         "cltc_combined_range_km": 520,
         "energy_consumption_kwh_100km": null,
@@ -108,7 +110,7 @@
         "height_mm": 1675,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1780,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -118,15 +120,15 @@
       "performance": {
         "drive_type": "前置前驱",
         "motor_power_kw": 150,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 255,
+        "zero_to_100_s": 7.95,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂",
         "battery_supplier": "宁德时代",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 58.8,
         "cltc_pure_electric_range_km": 520,
         "cltc_combined_range_km": 520,
         "energy_consumption_kwh_100km": null,
@@ -194,7 +196,7 @@
         "height_mm": 1675,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1780,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -204,15 +206,15 @@
       "performance": {
         "drive_type": "前置前驱",
         "motor_power_kw": 150,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 255,
+        "zero_to_100_s": 7.95,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "磷酸铁锂",
         "battery_supplier": "宁德时代",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 58.8,
         "cltc_pure_electric_range_km": 520,
         "cltc_combined_range_km": 520,
         "energy_consumption_kwh_100km": null,
@@ -280,6 +282,20 @@
       "url": "https://www.arcfox.com.cn/",
       "type": "official",
       "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极狐考拉S参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7797.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "极狐考拉S 2026款520 AIR参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/76263.html",
+      "type": "database",
+      "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
   ],

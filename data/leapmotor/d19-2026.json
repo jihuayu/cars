@@ -8,7 +8,8 @@
   "release_date": "2026-04-16",
   "source_urls": [
     "https://leapmotor.cn/D19.html",
-    "https://car.autohome.com.cn/config/series/8273.html"
+    "https://car.autohome.com.cn/config/series/8273.html",
+    "https://car.autohome.com.cn/config/spec/76832.html"
   ],
   "skus": [
     {
@@ -21,9 +22,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3110,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2635,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -34,7 +35,7 @@
         "drive_type": "双电机四驱",
         "motor_power_kw": 300,
         "motor_torque_nm": 525,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 6.0,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -113,9 +114,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3110,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2740,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -126,7 +127,7 @@
         "drive_type": "双电机四驱",
         "motor_power_kw": 300,
         "motor_torque_nm": 525,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 6.0,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -205,9 +206,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3110,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2770,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -218,7 +219,7 @@
         "drive_type": "双电机四驱",
         "motor_power_kw": 300,
         "motor_torque_nm": 525,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 6.0,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -297,9 +298,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3110,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2730,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -308,9 +309,9 @@
       },
       "performance": {
         "drive_type": "双电机四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 410,
+        "motor_torque_nm": 625,
+        "zero_to_100_s": 4.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -389,9 +390,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3110,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2730,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -400,9 +401,9 @@
       },
       "performance": {
         "drive_type": "双电机四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 410,
+        "motor_torque_nm": 625,
+        "zero_to_100_s": 4.93,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -481,9 +482,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3110,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2760,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -492,9 +493,9 @@
       },
       "performance": {
         "drive_type": "双电机四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 410,
+        "motor_torque_nm": 625,
+        "zero_to_100_s": 4.93,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -573,9 +574,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3110,
         "seats": 6,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2780,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -584,9 +585,9 @@
       },
       "performance": {
         "drive_type": "三电机四驱（3秒级）",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 540,
+        "motor_torque_nm": 745,
+        "zero_to_100_s": 3.94,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -672,6 +673,13 @@
     {
       "title": "零跑汽车 2026款零跑D19 参数配置与申报参考 (car.autohome.com.cn)",
       "url": "https://car.autohome.com.cn/config/series/8273.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "零跑D19 2026款纯电680三电机性能版六座参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/76832.html",
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"

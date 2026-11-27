@@ -8,7 +8,10 @@
   "release_date": "2025-05-08",
   "source_urls": [
     "https://www.bydauto.com.cn/pc/",
-    "https://car.autohome.com.cn/config/series/6851.html"
+    "https://car.autohome.com.cn/config/series/6851.html",
+    "https://car.autohome.com.cn/config/series/7977.html",
+    "https://detail.zol.com.cn/2122/2121159/param.shtml",
+    "https://www.evlook.com/haishi07ev/peizhi"
   ],
   "skus": [
     {
@@ -33,13 +36,13 @@
         "drive_type": "后驱",
         "motor_power_kw": 170,
         "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "zero_to_100_s": 7.3,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪",
         "battery_capacity_kwh": 71.8,
         "cltc_pure_electric_range_km": 550,
         "cltc_combined_range_km": 550,
@@ -129,14 +132,14 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 230,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 380,
         "zero_to_100_s": 6.7,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪",
         "battery_capacity_kwh": 80.64,
         "cltc_pure_electric_range_km": 610,
         "cltc_combined_range_km": 610,
@@ -226,14 +229,14 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 230,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 380,
         "zero_to_100_s": 6.7,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪",
         "battery_capacity_kwh": 80.64,
         "cltc_pure_electric_range_km": 610,
         "cltc_combined_range_km": 610,
@@ -323,14 +326,14 @@
       "performance": {
         "drive_type": "四驱",
         "motor_power_kw": 390,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 690,
         "zero_to_100_s": 4.2,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
+        "battery_supplier": "弗迪",
         "battery_capacity_kwh": 80.64,
         "cltc_pure_electric_range_km": 550,
         "cltc_combined_range_km": 550,
@@ -411,7 +414,7 @@
         "height_mm": 1750,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2103,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -419,7 +422,7 @@
       },
       "performance": {
         "drive_type": "前驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 200,
         "motor_torque_nm": null,
         "zero_to_100_s": 7.9,
         "top_speed_kmh": null
@@ -427,8 +430,8 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 26.6,
         "cltc_pure_electric_range_km": 150,
         "cltc_combined_range_km": 1320,
         "energy_consumption_kwh_100km": null,
@@ -514,7 +517,7 @@
         "height_mm": 1750,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2103,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -522,7 +525,7 @@
       },
       "performance": {
         "drive_type": "前驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 200,
         "motor_torque_nm": null,
         "zero_to_100_s": 7.9,
         "top_speed_kmh": null
@@ -530,8 +533,8 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 26.6,
         "cltc_pure_electric_range_km": 150,
         "cltc_combined_range_km": 1320,
         "energy_consumption_kwh_100km": null,
@@ -617,7 +620,7 @@
         "height_mm": 1750,
         "wheelbase_mm": 2820,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2270,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -625,7 +628,7 @@
       },
       "performance": {
         "drive_type": "四驱",
-        "motor_power_kw": null,
+        "motor_power_kw": 350,
         "motor_torque_nm": null,
         "zero_to_100_s": 4.7,
         "top_speed_kmh": null
@@ -633,8 +636,8 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "刀片电池",
-        "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 26.6,
         "cltc_pure_electric_range_km": 135,
         "cltc_combined_range_km": null,
         "energy_consumption_kwh_100km": null,
@@ -725,6 +728,27 @@
     {
       "title": "比亚迪 比亚迪海狮07（EV / DM-i） 参数配置与申报参考 (car.autohome.com.cn)",
       "url": "https://car.autohome.com.cn/config/series/6851.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海狮07 DM-i参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7977.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪海狮07 EV 2025款610智驾版参数 - ZOL",
+      "url": "https://detail.zol.com.cn/2122/2121159/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海狮07EV参数配置 - EV视界",
+      "url": "https://www.evlook.com/haishi07ev/peizhi",
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"

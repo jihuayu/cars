@@ -16,7 +16,7 @@
       "category": "百万级旗舰行政轿车",
       "release_date": "2026-03-05",
       "image_url": "https://www.yangwangauto.com/material/yangwang_cn/images/u7-202511/u720251118/yangwangu7buchongsucai-1117/U7-%E9%A6%96%E5%B1%8F%E9%A1%B5%E9%9D%A2-001-3840x2160.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/sinakd10010/10/w1543h867/20241114/2a68-c781451228a6fc494524a862586ce902.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
@@ -48,7 +48,9 @@
       "has_miit": true,
       "file": "data/yangwang/yangwang-u7-2026.json",
       "source_urls": [
-        "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4"
+        "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4",
+        "https://chejiahao.m.autohome.com.cn/info/18389836",
+        "http://db.auto.sina.cn/tags/298605/"
       ]
     },
     {
@@ -61,7 +63,7 @@
       "category": "百万级全尺寸硬派/行政SUV",
       "release_date": "2026-03-05",
       "image_url": "https://img6.donews.com/img/2024/01/19/img_pic_201705641208.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/07/12/d11ba202507120138269487.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -93,7 +95,9 @@
       "file": "data/yangwang/yangwang-u8-2026.json",
       "source_urls": [
         "https://www.yangwangauto.com/car-detail-u8",
-        "https://www.yangwangauto.com/c-u8-l.html"
+        "https://www.yangwangauto.com/c-u8-l.html",
+        "https://chejiahao.m.autohome.com.cn/info/25621918",
+        "https://m.xchuxing.com/article/154438"
       ]
     },
     {
@@ -106,7 +110,7 @@
       "category": "百万级纯电超跑",
       "release_date": "2024-02-25",
       "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/04/07/17/034dc1f4a43f419c9c34938cda2a66ce.png!jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g30/M09/96/E3/630x0_q100_autohomecar__CjIFU2VgsZyAN_76AABe5lLH6xs271.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -137,7 +141,9 @@
       "has_miit": false,
       "file": "data/yangwang/yangwang-u9.json",
       "source_urls": [
-        "https://www.yangwangauto.com/car-u9-detail"
+        "https://www.yangwangauto.com/car-u9-detail",
+        "https://car.autohome.com.cn/config/series/7116.html",
+        "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/13824598"
       ]
     }
   ]

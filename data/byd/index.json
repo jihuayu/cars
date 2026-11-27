@@ -49,7 +49,13 @@
       "file": "data/byd/han-l-2025.json",
       "source_urls": [
         "https://www.bydauto.com.cn/pc/",
-        "https://car.autohome.com.cn/config/series/7859.html"
+        "https://car.autohome.com.cn/config/series/7859.html",
+        "https://chejiahao.m.autohome.com.cn/info/18813249",
+        "https://car.autohome.com.cn/config/spec/71393.html",
+        "https://car.autohome.com.cn/config/spec/71392.html",
+        "https://db.m.auto.sohu.com/trim_177283",
+        "https://www.evlook.com/hanl/peizhi",
+        "http://www.news.cn/auto/20251122/77a226dbe8c24bb4ae0485d1dfe9c836/c.html"
       ]
     },
     {
@@ -95,7 +101,10 @@
       "file": "data/byd/seal-06-2027.json",
       "source_urls": [
         "https://www.bydauto.com.cn/pc/",
-        "https://car.autohome.com.cn/config/spec/78809.html"
+        "https://car.autohome.com.cn/config/spec/78809.html",
+        "https://chejiahao.m.autohome.com.cn/info/19669823",
+        "https://car.autohome.com.cn/config/spec/78669.html",
+        "https://chejiahao.m.autohome.com.cn/info/26179644"
       ]
     },
     {
@@ -141,7 +150,10 @@
       "file": "data/byd/sealion-07-2025.json",
       "source_urls": [
         "https://www.bydauto.com.cn/pc/",
-        "https://car.autohome.com.cn/config/series/6851.html"
+        "https://car.autohome.com.cn/config/series/6851.html",
+        "https://car.autohome.com.cn/config/series/7977.html",
+        "https://detail.zol.com.cn/2122/2121159/param.shtml",
+        "https://www.evlook.com/haishi07ev/peizhi"
       ]
     },
     {

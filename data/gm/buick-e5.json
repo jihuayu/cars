@@ -8,14 +8,15 @@
   "release_date": "2025-06-19",
   "data_as_of": "2026-11-27",
   "image_url": "https://www.saicmotor.com/chinese/images/xwzx/xwk/2025/2025/6/20/047123866ED24635AE9A362672C426F4.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/BUICK_ELECTRA_E5_INTERIOR.jpg",
   "promo_highlights": [
     "2025款官方一口价14.99万-16.99万(终端参考11.99万起)",
     "零自燃1:1赔付+三电终身质保"
   ],
   "source_urls": [
     "https://www.saicmotor.com/m/xwzx/xwk/2025/61959.shtml",
-    "https://car.autohome.com.cn/config/series/7043.html"
+    "https://car.autohome.com.cn/config/series/7043.html",
+    "https://commons.wikimedia.org/wiki/File:BUICK_ELECTRA_E5_INTERIOR.jpg"
   ],
   "references": [
     {
@@ -29,6 +30,13 @@
       "title": "别克E5参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/7043.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:BUICK ELECTRA E5 INTERIOR.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:BUICK_ELECTRA_E5_INTERIOR.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -60,7 +68,8 @@
         "battery_capacity_kwh": 68.4,
         "cltc_pure_electric_range_km": 545,
         "fast_charge_time": "28分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -81,7 +90,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -99,21 +108,22 @@
         "wheelbase_mm": 2954,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2220
       },
       "performance": {
         "drive_type": "前置前驱",
         "motor_power_kw": 180,
         "motor_torque_nm": 330,
-        "zero_to_100_s": null
+        "zero_to_100_s": 7.8
       },
       "battery_and_charging": {
         "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 76.8,
         "cltc_pure_electric_range_km": 620,
         "fast_charge_time": "19分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -134,7 +144,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },

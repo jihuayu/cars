@@ -120,13 +120,13 @@
       "best_zero_to_100_s": 4.5,
       "max_cltc_ev_km": 230,
       "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "max_v2l_kw": 6.0,
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": false,
       "has_rear_screen": true,
       "has_220v": true,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
       "has_seat_massage": true,
@@ -137,7 +137,10 @@
       "has_miit": false,
       "file": "data/geely-galaxy/galaxy-m9-2026.json",
       "source_urls": [
-        "https://www.galaxy-geely.com/M9"
+        "https://www.galaxy-geely.com/M9",
+        "https://car.autohome.com.cn/config/spec/73548.html",
+        "https://car.autohome.com.cn/config/spec/74263.html",
+        "https://db.auto.sohu.com/model_7673/config"
       ]
     },
     {

@@ -8,7 +8,9 @@
   "release_date": "2026-09-02",
   "source_urls": [
     "https://www.lixiang.com/news/186.html",
-    "https://www.lixiang.com/configuration.html"
+    "https://www.lixiang.com/configuration.html",
+    "https://chejiahao.m.autohome.com.cn/info/26420944",
+    "https://car.autohome.com.cn/config/spec/78129.html"
   ],
   "skus": [
     {
@@ -21,9 +23,9 @@
         "length_mm": null,
         "width_mm": null,
         "height_mm": null,
-        "wheelbase_mm": null,
+        "wheelbase_mm": 3300,
         "seats": 7,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2925,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": 5.5,
@@ -31,9 +33,9 @@
       },
       "performance": {
         "drive_type": "前后双电机智能四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 413,
+        "motor_torque_nm": 657,
+        "zero_to_100_s": 4.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -131,6 +133,13 @@
       "title": "工信部第411批公告：理想MEGA申报信息",
       "url": "https://chejiahao.m.autohome.com.cn/info/26420944",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想MEGA 2026款Home参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/78129.html",
+      "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

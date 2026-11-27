@@ -7,7 +7,12 @@
   "category": "中大型SUV",
   "release_date": "2026-01-08",
   "source_urls": [
-    "https://www.xiaopeng.com/g7_2026/configuration.html"
+    "https://www.xiaopeng.com/g7_2026/configuration.html",
+    "https://chejiahao.m.autohome.com.cn/info/19266162",
+    "https://car.autohome.com.cn/config/series/8014.html",
+    "https://car.autohome.com.cn/config/spec/74686.html",
+    "https://car.autohome.com.cn/config/spec/76139.html",
+    "https://auto.sina.cn/review/2025-08-26/detail-infnifwc6666912.d.html"
   ],
   "skus": [
     {
@@ -22,7 +27,7 @@
         "height_mm": 1655,
         "wheelbase_mm": 2890,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2245,
         "trunk_volume_l": "779-2237",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +43,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "湖北亿纬",
         "battery_capacity_kwh": 55.8,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1704,
@@ -131,7 +136,7 @@
         "height_mm": 1655,
         "wheelbase_mm": 2890,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2255,
         "trunk_volume_l": "779-2237",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -147,7 +152,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "湖北亿纬",
         "battery_capacity_kwh": 55.8,
         "cltc_pure_electric_range_km": 430,
         "cltc_combined_range_km": 1704,
@@ -240,7 +245,7 @@
         "height_mm": 1655,
         "wheelbase_mm": 2890,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2085,
         "trunk_volume_l": "819-2277",
         "frunk_volume_l": 42,
         "min_turning_radius_m": null,
@@ -256,7 +261,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂5C超充AI电池",
-        "battery_supplier": null,
+        "battery_supplier": "中创新航",
         "battery_capacity_kwh": null,
         "cltc_pure_electric_range_km": 602,
         "cltc_combined_range_km": 602,
@@ -349,7 +354,7 @@
         "height_mm": 1655,
         "wheelbase_mm": 2890,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2145,
         "trunk_volume_l": "819-2277",
         "frunk_volume_l": 42,
         "min_turning_radius_m": null,
@@ -365,8 +370,8 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂5C超充AI电池",
-        "battery_supplier": null,
-        "battery_capacity_kwh": null,
+        "battery_supplier": "中创新航",
+        "battery_capacity_kwh": 80.8,
         "cltc_pure_electric_range_km": 702,
         "cltc_combined_range_km": 702,
         "energy_consumption_kwh_100km": 13.2,
@@ -473,8 +478,36 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏G7参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/8014.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏G7 2026款增程1704 Max旗舰版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/74686.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏G7 2026款纯电702 Max旗舰版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/76139.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "实拍小鹏G7内饰与空间 - 新浪汽车",
+      "url": "https://auto.sina.cn/review/2025-08-26/detail-infnifwc6666912.d.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://n.sinaimg.cn/auto/transform/231/w660h371/20250826/43f1-5b1f61dff5ecbf8463c94854c402f691.webp"
 }

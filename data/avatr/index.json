@@ -232,7 +232,9 @@
       "file": "data/avatr/avatr-11-2025.json",
       "source_urls": [
         "https://www.avatr.com/configuration?car=11",
-        "https://car.autohome.com.cn/config/spec/72862.html"
+        "https://car.autohome.com.cn/config/spec/72862.html",
+        "https://car.autohome.com.cn/config/series/6354.html",
+        "https://car.autohome.com.cn/config/spec/70967.html"
       ]
     },
     {
@@ -278,7 +280,10 @@
       "has_miit": true,
       "file": "data/avatr/avatr-12-2026.json",
       "source_urls": [
-        "https://www.avatr.com/configuration?car=12"
+        "https://www.avatr.com/configuration?car=12",
+        "https://chejiahao.m.autohome.com.cn/info/20742648",
+        "https://car.autohome.com.cn/config/spec/76220.html",
+        "https://car.autohome.com.cn/config/spec/76907.html"
       ]
     }
   ]

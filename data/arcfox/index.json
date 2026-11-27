@@ -91,7 +91,10 @@
       "has_miit": false,
       "file": "data/arcfox/alpha-s6-t6-2026.json",
       "source_urls": [
-        "https://www.arcfox.com.cn/S6/index.html"
+        "https://www.arcfox.com.cn/S6/index.html",
+        "https://car.autohome.com.cn/config/spec/72447.html",
+        "https://car.autohome.com.cn/config/series/8053.html",
+        "https://db.auto.sohu.com/model_7635/config"
       ]
     },
     {
@@ -161,7 +164,7 @@
       "option_count": 1,
       "price_min_rmb": 99800,
       "price_max_rmb": 119800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 7.95,
       "max_cltc_ev_km": 520,
       "ground_clearance_mm": 145,
       "max_v2l_kw": 3.5,
@@ -181,7 +184,9 @@
       "has_miit": false,
       "file": "data/arcfox/kaola-s-2026.json",
       "source_urls": [
-        "https://www.arcfox.com.cn/"
+        "https://www.arcfox.com.cn/",
+        "https://car.autohome.com.cn/config/series/7797.html",
+        "https://car.autohome.com.cn/config/spec/76263.html"
       ]
     }
   ]

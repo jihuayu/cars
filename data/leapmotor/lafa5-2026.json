@@ -7,7 +7,10 @@
   "category": "紧凑型纯电两厢掀背车",
   "release_date": "2025-11-27",
   "source_urls": [
-    "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18"
+    "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18",
+    "https://hao.yiche.com/wenzhang/112149377/",
+    "https://car.autohome.com.cn/config/spec/74606.html",
+    "https://auto.sina.cn/2026-07-09/detail-inihcvfi1476955.d.html?vt=4"
   ],
   "skus": [
     {
@@ -37,9 +40,9 @@
         "top_speed_kmh": 160
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 56.2,
         "cltc_pure_electric_range_km": 515,
         "cltc_combined_range_km": 515,
@@ -125,9 +128,9 @@
         "top_speed_kmh": 170
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 56.2,
         "cltc_pure_electric_range_km": 515,
         "cltc_combined_range_km": 515,
@@ -213,9 +216,9 @@
         "top_speed_kmh": 170
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 56.2,
         "cltc_pure_electric_range_km": 515,
         "cltc_combined_range_km": 515,
@@ -301,9 +304,9 @@
         "top_speed_kmh": 170
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 67.1,
         "cltc_pure_electric_range_km": 605,
         "cltc_combined_range_km": 605,
@@ -389,9 +392,9 @@
         "top_speed_kmh": 170
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 67.1,
         "cltc_pure_electric_range_km": 605,
         "cltc_combined_range_km": 605,
@@ -477,9 +480,9 @@
         "top_speed_kmh": null
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 56.2,
         "cltc_pure_electric_range_km": 500,
         "cltc_combined_range_km": 500,
@@ -550,7 +553,7 @@
         "height_mm": 1520,
         "wheelbase_mm": 2735,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 1750,
         "trunk_volume_l": "435/1400",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -560,14 +563,14 @@
       "performance": {
         "drive_type": "单电机后置后驱",
         "motor_power_kw": 180,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_torque_nm": 255,
+        "zero_to_100_s": 6.2,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 800,
         "battery_type": "磷酸铁锂",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代",
         "battery_capacity_kwh": 67.1,
         "cltc_pure_electric_range_km": 600,
         "cltc_combined_range_km": 600,
@@ -652,6 +655,20 @@
       "title": "工信部第410批：新款零跑Lafa5申报信息",
       "url": "https://hao.yiche.com/wenzhang/112149377/",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "零跑Lafa5 2026款600 Ultra参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/74606.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "零跑Lafa5参数配置详解 - 新浪汽车",
+      "url": "https://auto.sina.cn/2026-07-09/detail-inihcvfi1476955.d.html?vt=4",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

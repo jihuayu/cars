@@ -8,7 +8,9 @@
   "category": "中大型豪华旅行车",
   "release_date": "2026-03-23",
   "source_urls": [
-    "https://hima.auto/xiangjie/s9t/configuration/"
+    "https://hima.auto/xiangjie/s9t/configuration/",
+    "https://finance.sina.cn/2026-08-22/detail-inipeptt1205303.d.html",
+    "https://car.autohome.com.cn/config/series/8207.html"
   ],
   "skus": [
     {
@@ -23,7 +25,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2354,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -31,9 +33,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 7.32,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -149,7 +151,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2388,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -157,9 +159,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 7.04,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -275,7 +277,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2388,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -283,9 +285,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 7.04,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -401,7 +403,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2302,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -409,9 +411,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 396,
+        "zero_to_100_s": 5.92,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -527,7 +529,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2437,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -536,7 +538,7 @@
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": 385,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 673,
         "zero_to_100_s": 3.95,
         "top_speed_kmh": null
       },
@@ -653,7 +655,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2437,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -662,7 +664,7 @@
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": 385,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 673,
         "zero_to_100_s": 3.95,
         "top_speed_kmh": null
       },
@@ -793,6 +795,13 @@
       "title": "工信部公示：享界S9T申报产品型号与电耗",
       "url": "https://finance.sina.cn/2026-08-22/detail-inipeptt1205303.d.html",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "享界S9T参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/8207.html",
+      "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

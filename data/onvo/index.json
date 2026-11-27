@@ -16,7 +16,7 @@
       "category": "中型纯电SUV",
       "release_date": "2026-06-11",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l60/g1.6/soo/highlights/highlights-carousel-02-desktop.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://auto4.sinaimg.cn/autoimg/car/54/66/132016654_src.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -48,7 +48,9 @@
       "has_miit": true,
       "file": "data/onvo/l60-2026.json",
       "source_urls": [
-        "https://configuration.onvo.cn/index?model_code=L60&scene=office"
+        "https://configuration.onvo.cn/index?model_code=L60&scene=office",
+        "https://chejiahao.m.autohome.com.cn/info/15457606",
+        "https://db.auto.sina.cn/photo/c103761-3-1.html"
       ]
     },
     {
@@ -61,7 +63,7 @@
       "category": "中大型5座纯电SUV",
       "release_date": "2026-05-15",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l80/highlights/highlights-carousel-01-desktop.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://auto3.sinaimg.cn/autoimg/car/45/14/132251445_src.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -92,7 +94,9 @@
       "has_miit": true,
       "file": "data/onvo/l80-2026.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/8591.html"
+        "https://car.autohome.com.cn/config/series/8591.html",
+        "https://k.sina.com.cn/article_5911038801_160534b51027019ine.html",
+        "https://db.auto.sina.cn/photo/c106647-3-1.html"
       ]
     },
     {
@@ -105,7 +109,7 @@
       "category": "大型6/7座纯电SUV",
       "release_date": "2026-04-21",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/07/02/e1b96202507022025251770.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -137,7 +141,9 @@
       "file": "data/onvo/l90-2026.json",
       "source_urls": [
         "https://www.onvo.cn/l90",
-        "https://configuration.onvo.cn/alpsConfigList?carType=L90&scene=office"
+        "https://configuration.onvo.cn/alpsConfigList?carType=L90&scene=office",
+        "https://k.sina.com.cn/article_5911038801_160534b51027019ine.html",
+        "https://www.xchuxing.com/article/154076"
       ]
     }
   ]

@@ -7,19 +7,35 @@
   "category": "紧凑型纯电SUV",
   "release_date": "2023-11-01",
   "data_as_of": "2026-11-27",
-  "image_url": null,
-  "interior_image_url": null,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Audi_Q4_e-tron_IAA_2021_1X7A0227.jpg",
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/AUDI_Q4_e-tron_INTERIOR.jpg",
   "promo_highlights": [
     "终端参考优惠约11.02万-13.95万元（参考价17.97万-22.76万元起）"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/6504.html"
+    "https://car.autohome.com.cn/config/series/6504.html",
+    "https://commons.wikimedia.org/wiki/File:Audi_Q4_e-tron_IAA_2021_1X7A0227.jpg",
+    "https://commons.wikimedia.org/wiki/File:AUDI_Q4_e-tron_INTERIOR.jpg"
   ],
   "references": [
     {
       "title": "汽车之家 奥迪Q4 e-tron参数配置表",
       "url": "https://car.autohome.com.cn/config/series/6504.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - Audi Q4 e-tron",
+      "url": "https://commons.wikimedia.org/wiki/File:Audi_Q4_e-tron_IAA_2021_1X7A0227.jpg",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - Audi Q4 e-tron Interior",
+      "url": "https://commons.wikimedia.org/wiki/File:AUDI_Q4_e-tron_INTERIOR.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -35,7 +51,7 @@
         "width_mm": 1865,
         "height_mm": 1626,
         "wheelbase_mm": 2765,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 154,
         "seats": 5,
         "curb_weight_kg": 2160
       },
@@ -51,7 +67,8 @@
         "battery_capacity_kwh": 84.8,
         "cltc_pure_electric_range_km": 605,
         "fast_charge_time": "0.68h(5-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "一汽动力(宁德时代电芯)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -67,13 +84,13 @@
         "instrument_cluster": "奥迪虚拟座舱",
         "screens": "悬浮中控MMI屏",
         "rear_screen": "无",
-        "power_220v": "未知",
+        "power_220v": "无",
         "seat_heating_ventilation": "无",
         "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无(手动四向调节)",
+        "steering_wheel_heating": "选装(8000元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -88,7 +105,7 @@
         "width_mm": 1865,
         "height_mm": 1626,
         "wheelbase_mm": 2765,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 154,
         "seats": 5,
         "curb_weight_kg": 2255
       },
@@ -104,7 +121,8 @@
         "battery_capacity_kwh": 84.8,
         "cltc_pure_electric_range_km": 560,
         "fast_charge_time": "0.68h(5-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "一汽动力(宁德时代电芯)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -120,13 +138,13 @@
         "instrument_cluster": "奥迪虚拟座舱",
         "screens": "悬浮中控MMI屏",
         "rear_screen": "无",
-        "power_220v": "未知",
+        "power_220v": "无",
         "seat_heating_ventilation": "支持前排加热",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无(手动四向调节)",
+        "steering_wheel_heating": "选装(3000元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

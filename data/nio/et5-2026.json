@@ -7,7 +7,9 @@
   "category": "中型纯电轿跑",
   "release_date": "2026-04-02",
   "source_urls": [
-    "https://www.nio.cn/vehicle/configuration/et5"
+    "https://www.nio.cn/vehicle/configuration/et5",
+    "https://www.xchuxing.com/article/146985",
+    "https://cj.sina.cn/articles/view/7857141524/1d45277140190267qc?froms=ggmp"
   ],
   "skus": [
     {
@@ -38,7 +40,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "标配100kWh（支持换电75/100/150kWh）",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航/卫蓝科技",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 740,
         "cltc_combined_range_km": 740,
@@ -170,7 +172,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "标配100kWh（支持换电75/100/150kWh）",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航/卫蓝科技",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 740,
         "cltc_combined_range_km": 740,
@@ -302,7 +304,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "标配100kWh（支持换电75/100/150kWh）",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航/卫蓝科技",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": "655-740",
         "cltc_combined_range_km": "655-740",
@@ -434,8 +436,15 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来新ET5/ET5T上市内饰图 - 新浪财经",
+      "url": "https://cj.sina.cn/articles/view/7857141524/1d45277140190267qc?froms=ggmp",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://k.sinaimg.cn/n/sinakd20260505s/371/w750h421/20260505/893e-409ae9f174ac3f5b63662348e0829cb4.jpg/w700d1q75cms.jpg"
 }

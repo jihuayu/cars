@@ -7,20 +7,44 @@
   "category": "中大型纯电SUV",
   "release_date": "2026-06-01",
   "data_as_of": "2026-11-27",
-  "image_url": null,
-  "interior_image_url": null,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cadillac_Lyriq-V_001.jpg",
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/CADILLAC_LYRIQ_CHINA_VERSION_INTERIOR.jpg",
   "promo_highlights": [
     "2026款锐歌V上市39.99万，享1.5万元优惠",
     "首任车主三电终身质保"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/6404.html"
+    "https://car.autohome.com.cn/config/series/6404.html",
+    "https://car.autohome.com.cn/config/spec/65853.html",
+    "https://commons.wikimedia.org/wiki/File:Cadillac_Lyriq-V_001.jpg",
+    "https://commons.wikimedia.org/wiki/File:CADILLAC_LYRIQ_CHINA_VERSION_INTERIOR.jpg"
   ],
   "references": [
     {
       "title": "IQ锐歌参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/6404.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "IQ锐歌2024款后驱标准续航豪华版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/65853.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:Cadillac Lyriq-V 001.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Cadillac_Lyriq-V_001.jpg",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:CADILLAC LYRIQ CHINA VERSION INTERIOR.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:CADILLAC_LYRIQ_CHINA_VERSION_INTERIOR.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -52,7 +76,8 @@
         "battery_capacity_kwh": 68.4,
         "cltc_pure_electric_range_km": 502,
         "fast_charge_time": "33分钟(20-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -72,9 +97,9 @@
         "seat_heating_ventilation": "前排加热/通风",
         "seat_massage": "前排按摩",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -105,7 +130,8 @@
         "battery_capacity_kwh": 95.7,
         "cltc_pure_electric_range_km": 600,
         "fast_charge_time": "30分钟(20-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -125,9 +151,9 @@
         "seat_heating_ventilation": "前排加热/通风",
         "seat_massage": "前排按摩",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

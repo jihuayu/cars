@@ -8,18 +8,42 @@
   "release_date": "2023-07-24",
   "data_as_of": "2026-11-27",
   "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M00/CD/62/400x400_0_f42_autohomecar__ChxpVWrSxVuAJe3mAAZMqhV3dAE209.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/BMW_iDrive8_iX.jpg",
   "promo_highlights": [
     "进口车型终端优惠幅度较大（部分门店优惠约25万-35万元）"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/4942.html"
+    "https://car.autohome.com.cn/config/series/4942.html",
+    "https://car.autohome.com.cn/config/spec/63896.html",
+    "https://www.bmw.com.cn/zh/all-models/bmw-i/ix/2020/specsheet.html",
+    "https://commons.wikimedia.org/wiki/File:BMW_iDrive8_iX.jpg"
   ],
   "references": [
     {
       "title": "汽车之家 宝马iX参数配置表",
       "url": "https://car.autohome.com.cn/config/series/4942.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 宝马iX 2023款改款xDrive50参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/63896.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "宝马中国官网 纯电动BMW iX 参数配置",
+      "url": "https://www.bmw.com.cn/zh/all-models/bmw-i/ix/2020/specsheet.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - BMW iDrive8 iX interior",
+      "url": "https://commons.wikimedia.org/wiki/File:BMW_iDrive8_iX.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -35,23 +59,24 @@
         "width_mm": 1967,
         "height_mm": 1698,
         "wheelbase_mm": 3000,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 180,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2558
       },
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": null,
         "motor_torque_nm": null,
-        "zero_to_100_s": null
+        "zero_to_100_s": 4.6
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 111.5,
         "cltc_pure_electric_range_km": 665,
         "fast_charge_time": null,
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代/亿纬锂能/三星SDI"
       },
       "chassis": {
         "air_suspension": "无",
@@ -67,13 +92,13 @@
         "instrument_cluster": "12.3英寸全液晶仪表",
         "screens": "14.9英寸中控屏",
         "rear_screen": "无",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风，后排选装加热",
+        "seat_massage": "前排按摩",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选装(2700元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -88,7 +113,7 @@
         "width_mm": 1967,
         "height_mm": 1698,
         "wheelbase_mm": 3000,
-        "ground_clearance_mm": null,
+        "ground_clearance_mm": 180,
         "seats": 5,
         "curb_weight_kg": null
       },
@@ -99,12 +124,13 @@
         "zero_to_100_s": 3.8
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 111.5,
         "cltc_pure_electric_range_km": 640,
         "fast_charge_time": null,
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代/亿纬锂能/三星SDI"
       },
       "chassis": {
         "air_suspension": "未知",
@@ -120,13 +146,13 @@
         "instrument_cluster": "12.3英寸全液晶仪表",
         "screens": "14.9英寸中控屏",
         "rear_screen": "无",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风，后排选装加热",
+        "seat_massage": "前排按摩",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选装(2700元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

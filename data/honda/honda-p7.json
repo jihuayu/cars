@@ -8,18 +8,26 @@
   "release_date": "2025-04-15",
   "data_as_of": "2026-11-27",
   "image_url": "https://m3.auto.itc.cn/q_mini/carpics/360car/7389/-26709231831031073821742997073983.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HONDA_YE_P7_INTERIOR.jpg",
   "promo_highlights": [
     "终端优惠最高5万元，参考价14.99万起"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7677.html"
+    "https://car.autohome.com.cn/config/series/7677.html",
+    "https://commons.wikimedia.org/wiki/File:HONDA_YE_P7_INTERIOR.jpg"
   ],
   "references": [
     {
       "title": "广汽本田P7参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/7677.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:HONDA YE P7 INTERIOR.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:HONDA_YE_P7_INTERIOR.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -51,7 +59,8 @@
         "battery_capacity_kwh": 89.8,
         "cltc_pure_electric_range_km": 650,
         "fast_charge_time": "36分钟(30-80%)",
-        "v2l_power_kw": 3.5
+        "v2l_power_kw": 3.5,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "无",
@@ -69,10 +78,10 @@
         "rear_screen": "无",
         "power_220v": "无",
         "seat_heating_ventilation": "前后排加热/通风",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "选装"
       },
@@ -111,7 +120,8 @@
         "battery_capacity_kwh": 89.8,
         "cltc_pure_electric_range_km": 620,
         "fast_charge_time": "36分钟(30-80%)",
-        "v2l_power_kw": 3.5
+        "v2l_power_kw": 3.5,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "无",
@@ -131,8 +141,8 @@
         "seat_heating_ventilation": "前后排加热/通风",
         "seat_massage": "标配",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "标配",
         "streaming_exterior_mirrors": "标配"
       },

@@ -8,18 +8,26 @@
   "release_date": "2025-07-11",
   "data_as_of": "2026-11-27",
   "image_url": "https://m1.auto.itc.cn/c_fill,w_600,h_400/30139420.JPG",
-  "interior_image_url": null,
+  "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SMART_3_CHINA_VERSION_INTERIOR.jpg",
   "promo_highlights": [
     "终端优惠1.5万-2.2万元，参考价14.99万起"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7044.html"
+    "https://car.autohome.com.cn/config/series/7044.html",
+    "https://commons.wikimedia.org/wiki/Category:Smart_Hashtag_3"
   ],
   "references": [
     {
       "title": "smart精灵#3参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/7044.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Category:Smart Hashtag 3 (SMART 3 CHINA VERSION INTERIOR.jpg) - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Smart_Hashtag_3",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -51,7 +59,8 @@
         "battery_capacity_kwh": 66.0,
         "cltc_pure_electric_range_km": 555,
         "fast_charge_time": "30分钟(10-80%)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "威睿电动"
       },
       "chassis": {
         "air_suspension": "无",
@@ -72,7 +81,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -104,7 +113,8 @@
         "battery_capacity_kwh": 66.0,
         "cltc_pure_electric_range_km": 520,
         "fast_charge_time": "30分钟(10-80%)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "威睿电动"
       },
       "chassis": {
         "air_suspension": "无",
@@ -125,7 +135,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },

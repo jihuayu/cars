@@ -7,19 +7,35 @@
   "category": "大型纯电轿车",
   "release_date": "2025-09-17",
   "data_as_of": "2026-11-27",
-  "image_url": null,
-  "interior_image_url": null,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mercedes-Benz_EQS_500_4MATIC_Electric_Art_%28V_297%2C_Facelift%29_%E2%80%93_f_11102025.jpg",
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mercedes-Benz_EQS_450%2B_%28ZAA-297123%29_interior.jpg",
   "promo_highlights": [
     "终端参考优惠16万元起，部分地区报价低至45万元起"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/5382.html"
+    "https://car.autohome.com.cn/config/series/5382.html",
+    "https://www.mercedes-benz.com.cn/vehicles/eq/eqs.html",
+    "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQS_500_4MATIC_Electric_Art_(V_297,_Facelift)_%E2%80%93_f_11102025.jpg"
   ],
   "references": [
     {
       "title": "汽车之家 奔驰EQS参数配置表",
       "url": "https://car.autohome.com.cn/config/series/5382.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "梅赛德斯-奔驰中国官网 纯电EQS",
+      "url": "https://www.mercedes-benz.com.cn/vehicles/eq/eqs.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - Mercedes-Benz EQS 500 4MATIC (V297 Facelift)",
+      "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQS_500_4MATIC_Electric_Art_(V_297,_Facelift)_%E2%80%93_f_11102025.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -37,7 +53,7 @@
         "wheelbase_mm": 3210,
         "ground_clearance_mm": null,
         "seats": 5,
-        "curb_weight_kg": null
+        "curb_weight_kg": 2680
       },
       "performance": {
         "drive_type": "双电机四驱",
@@ -46,12 +62,13 @@
         "zero_to_100_s": 5.1
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
         "battery_capacity_kwh": 122.0,
         "cltc_pure_electric_range_km": 840,
         "fast_charge_time": "0.58h(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "标配",
@@ -66,14 +83,14 @@
       "cockpit": {
         "instrument_cluster": "MBUX超联屏仪表",
         "screens": "17.7英寸OLED中控+12.3英寸副驾屏",
-        "rear_screen": "未知",
-        "power_220v": "未知",
+        "rear_screen": "选装(3.83万元)",
+        "power_220v": "无",
         "seat_heating_ventilation": "全车加热，前排通风",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选装",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

@@ -7,7 +7,8 @@
   "category": "中大型插混行政轿车",
   "release_date": "2025-12-10",
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/8259.html"
+    "https://car.autohome.com.cn/config/series/8259.html",
+    "https://www.xchuxing.com/article/159704"
   ],
   "skus": [
     {
@@ -332,8 +333,15 @@
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "实拍岚图泰山/追光L双旗舰亮相 - 新出行",
+      "url": "https://www.xchuxing.com/article/159704",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/09/26/515a1202509262249011245.jpg"
 }

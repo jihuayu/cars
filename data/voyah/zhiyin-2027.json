@@ -7,7 +7,9 @@
   "category": "中型纯电SUV",
   "release_date": "2026-11-13",
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7728.html"
+    "https://car.autohome.com.cn/config/series/7728.html",
+    "https://car.autohome.com.cn/config/spec/79836.html",
+    "https://chejiahao.m.autohome.com.cn/info/26872661"
   ],
   "skus": [
     {
@@ -31,14 +33,14 @@
       "performance": {
         "drive_type": "后驱",
         "motor_power_kw": 230,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 395,
         "zero_to_100_s": 6.8,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/东昱欣晟",
         "battery_capacity_kwh": 81,
         "cltc_pure_electric_range_km": 650,
         "cltc_combined_range_km": 650,
@@ -137,7 +139,7 @@
         "height_mm": 1636,
         "wheelbase_mm": 2925,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2285,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -146,14 +148,14 @@
       "performance": {
         "drive_type": "四驱",
         "motor_power_kw": 405,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 770,
         "zero_to_100_s": 4.3,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_type": null,
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/东昱欣晟",
         "battery_capacity_kwh": 81,
         "cltc_pure_electric_range_km": 600,
         "cltc_combined_range_km": 600,
@@ -367,8 +369,22 @@
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "岚图知音2027款四驱896线乾崑版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/79836.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "2027款岚图知音上市配置与内饰 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26872661",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M03/49/FE/400x400_0_f42_autohomecar__ChxpV2r2x_mAYNtEAAF4Yhwy4EE652.png"
 }

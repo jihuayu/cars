@@ -7,7 +7,10 @@
   "category": "中型纯电SUV",
   "release_date": "2026-04-02",
   "source_urls": [
-    "https://www.nio.cn/zh_CN/vehicle/configuration/es6"
+    "https://www.nio.cn/zh_CN/vehicle/configuration/es6",
+    "https://www.xchuxing.com/article/146985",
+    "https://car.autohome.com.cn/config/spec/76972.html",
+    "https://www.xchuxing.com/article/154188"
   ],
   "skus": [
     {
@@ -22,7 +25,7 @@
         "height_mm": 1703,
         "wheelbase_mm": 2915,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2336,
         "trunk_volume_l": "582-1496",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +41,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "标配100kWh（支持换电75/100/150kWh）",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航/卫蓝科技",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": "630-650",
         "cltc_combined_range_km": "630-650",
@@ -172,7 +175,7 @@
         "height_mm": 1703,
         "wheelbase_mm": 2915,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2336,
         "trunk_volume_l": "582-1496",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -188,7 +191,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "标配100kWh（支持换电75/100/150kWh）",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航/卫蓝科技",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 630,
         "cltc_combined_range_km": 630,
@@ -337,8 +340,22 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来ES6 2026款100kWh参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/76972.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "深度体验全新蔚来ES6内饰实拍 - 新出行",
+      "url": "https://www.xchuxing.com/article/154188",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/07/04/202507041848085948.png"
 }

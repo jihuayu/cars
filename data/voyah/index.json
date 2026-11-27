@@ -16,7 +16,7 @@
       "category": "中大型豪华MPV",
       "release_date": "2025-09-15",
       "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/dreamer-champion/kv_0408_375.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/300/w660h440/20250825/cc7c-da28b2ad94c0d559089c5c7f46c70ce3.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
@@ -50,7 +50,11 @@
       "file": "data/voyah/dreamer-2026.json",
       "source_urls": [
         "https://www.voyah.com.cn/dreamer9.html",
-        "https://car.autohome.com.cn/config/series/6459.html"
+        "https://car.autohome.com.cn/config/series/6459.html",
+        "https://m.voyah.com.cn/userguide/h56c/jssj_page20.html",
+        "https://car.autohome.com.cn/config/spec/77264.html",
+        "https://cj.sina.cn/articles/view/7879849086/1d5acf47e06801kjiu",
+        "https://auto.sina.cn/review/2025-08-25/detail-infnczmn2683407.d.html"
       ]
     },
     {
@@ -63,7 +67,7 @@
       "category": "中大型5座增程SUV",
       "release_date": "2025-07-12",
       "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g28/M06/B0/A5/autohomecar__Chtlx2has8OARyFBAAJKqezyCEQ159.jpg?x_image_process=text/5paw6IO95rqQ6KeG6YeO/fontSize/12",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g27/M01/C2/97/400x400_0_f42_autohomecar__ChxkmWhT-bSAT0CDAC2LzvONm7w996.jpg",
       "powertrains": [
         "REEV"
       ],
@@ -94,7 +98,8 @@
       "has_miit": false,
       "file": "data/voyah/free-plus-2025.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/spec/73126.html"
+        "https://car.autohome.com.cn/config/spec/73126.html",
+        "https://chejiahao.m.autohome.com.cn/info/20726178"
       ]
     },
     {
@@ -107,7 +112,7 @@
       "category": "全尺寸旗舰6座插混SUV",
       "release_date": "2025-11-18",
       "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/titan/375/sc_1.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/11/06/95e6a202511060701201299.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -139,7 +144,10 @@
       "file": "data/voyah/titan-2026.json",
       "source_urls": [
         "https://www.voyah.com.cn/titan.html",
-        "https://car.autohome.com.cn/config/series/8291.html"
+        "https://car.autohome.com.cn/config/series/8291.html",
+        "https://auto.ifeng.com/c/8tr5c4WeQJM",
+        "https://detail.zol.com.cn/2142/2141498/param.shtml",
+        "https://www.xchuxing.com/article/161886"
       ]
     },
     {
@@ -152,7 +160,7 @@
       "category": "中型纯电SUV",
       "release_date": "2026-11-13",
       "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M01/AF/F1/autohomecar__Chto52rpjSCAD8mQAGWhFa0Ik9M961.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M03/49/FE/400x400_0_f42_autohomecar__ChxpV2r2x_mAYNtEAAF4Yhwy4EE652.png",
       "powertrains": [
         "BEV"
       ],
@@ -183,7 +191,9 @@
       "has_miit": false,
       "file": "data/voyah/zhiyin-2027.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7728.html"
+        "https://car.autohome.com.cn/config/series/7728.html",
+        "https://car.autohome.com.cn/config/spec/79836.html",
+        "https://chejiahao.m.autohome.com.cn/info/26872661"
       ]
     },
     {
@@ -196,7 +206,7 @@
       "category": "中大型插混行政轿车",
       "release_date": "2025-12-10",
       "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M03/73/B4/autohomecar__ChtpWGjnFsOAMo4rAAUIRhOAwv0356.png?x_image_process=text/5rG96L2m6Kej5b-n6ZO6/fontSize/12",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/09/26/515a1202509262249011245.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -227,7 +237,8 @@
       "has_miit": false,
       "file": "data/voyah/zhuiguang-l-2026.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/8259.html"
+        "https://car.autohome.com.cn/config/series/8259.html",
+        "https://www.xchuxing.com/article/159704"
       ]
     }
   ]

@@ -14,7 +14,8 @@
   ],
   "source_urls": [
     "https://car.autohome.com.cn/config/spec/73654.html",
-    "http://auto.news18a.com/news/storys_267963.html"
+    "http://auto.news18a.com/news/storys_267963.html",
+    "https://car.autohome.com.cn/config/spec/79395.html"
   ],
   "references": [
     {
@@ -27,6 +28,13 @@
     {
       "title": "网通社 特斯拉Model Y L正式上市",
       "url": "http://auto.news18a.com/news/storys_267963.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 Model Y L 2027款长续航全轮驱动版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/79395.html",
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
@@ -59,7 +67,8 @@
         "battery_capacity_kwh": 82.0,
         "cltc_pure_electric_range_km": 751,
         "fast_charge_time": "最高250kW快充",
-        "v2l_power_kw": 2.2
+        "v2l_power_kw": 2.2,
+        "battery_supplier": "LG新能源"
       },
       "chassis": {
         "air_suspension": "无",
@@ -74,14 +83,14 @@
       "cockpit": {
         "instrument_cluster": "无独立仪表盘",
         "screens": "16英寸中控屏",
-        "rear_screen": "未知",
-        "power_220v": "未知",
+        "rear_screen": "8英寸后排触摸屏",
+        "power_220v": "无",
         "seat_heating_ventilation": "二排独立座椅支持加热/通风",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

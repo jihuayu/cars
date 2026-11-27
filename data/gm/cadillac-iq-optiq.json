@@ -13,12 +13,20 @@
     "首任非营运车主三电终身质保"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/spec/67520.html"
+    "https://car.autohome.com.cn/config/spec/67520.html",
+    "https://car.autohome.com.cn/config/spec/67519.html"
   ],
   "references": [
     {
       "title": "IQ傲歌参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/spec/67520.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "IQ傲歌2024款四驱长续航版参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/67519.html",
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
@@ -51,7 +59,8 @@
         "battery_capacity_kwh": 68.4,
         "cltc_pure_electric_range_km": 536,
         "fast_charge_time": "33分钟(20-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -71,9 +80,9 @@
         "seat_heating_ventilation": "前排加热/通风",
         "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -104,7 +113,8 @@
         "battery_capacity_kwh": 79.7,
         "cltc_pure_electric_range_km": 600,
         "fast_charge_time": "33分钟(20-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代(时代上汽)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -122,11 +132,11 @@
         "rear_screen": "无",
         "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "标配",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

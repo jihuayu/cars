@@ -51,7 +51,8 @@
         "battery_capacity_kwh": 58.37,
         "cltc_pure_electric_range_km": 520,
         "fast_charge_time": "24分钟(30-80%)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "中创新航/江苏正力"
       },
       "chassis": {
         "air_suspension": "无",
@@ -72,7 +73,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "无",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -104,7 +105,8 @@
         "battery_capacity_kwh": 67.92,
         "cltc_pure_electric_range_km": 610,
         "fast_charge_time": "24分钟(30-80%)",
-        "v2l_power_kw": 3.3
+        "v2l_power_kw": 3.3,
+        "battery_supplier": "中创新航/江苏正力"
       },
       "chassis": {
         "air_suspension": "无",
@@ -125,7 +127,7 @@
         "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "无",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_heating": "无",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },

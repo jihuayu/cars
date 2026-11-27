@@ -7,19 +7,27 @@
   "category": "中大型纯电轿跑SUV",
   "release_date": "2025-05-16",
   "data_as_of": "2026-11-27",
-  "image_url": null,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Polestar_4.jpg",
   "interior_image_url": null,
   "promo_highlights": [
     "可叠加国家/地方新能源置换补贴"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/6654.html"
+    "https://car.autohome.com.cn/config/series/6654.html",
+    "https://commons.wikimedia.org/wiki/File:Polestar_4.jpg"
   ],
   "references": [
     {
       "title": "汽车之家 Polestar 4参数配置表",
       "url": "https://car.autohome.com.cn/config/series/6654.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - Polestar 4",
+      "url": "https://commons.wikimedia.org/wiki/File:Polestar_4.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -48,10 +56,11 @@
       "battery_and_charging": {
         "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 100.0,
         "cltc_pure_electric_range_km": 755,
         "fast_charge_time": "0.5h(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": 3.5,
+        "battery_supplier": "宁德时代(时代吉利)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -66,13 +75,13 @@
       "cockpit": {
         "instrument_cluster": "未知",
         "screens": "未知",
-        "rear_screen": "未知",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "rear_screen": "5.7英寸后排控制屏",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热(通风选装)，后排加热",
+        "seat_massage": "前排选装按摩",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "标配(无后窗数字流媒体后视镜)",
         "streaming_exterior_mirrors": "无"
       },
@@ -101,10 +110,11 @@
       "battery_and_charging": {
         "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 100.0,
         "cltc_pure_electric_range_km": 620,
         "fast_charge_time": "0.5h(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": 3.5,
+        "battery_supplier": "宁德时代(时代吉利)"
       },
       "chassis": {
         "air_suspension": "无",
@@ -119,13 +129,13 @@
       "cockpit": {
         "instrument_cluster": "未知",
         "screens": "未知",
-        "rear_screen": "未知",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "rear_screen": "5.7英寸后排控制屏",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热(通风选装)，后排加热",
+        "seat_massage": "前排选装按摩",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "标配(无后窗数字流媒体后视镜)",
         "streaming_exterior_mirrors": "无"
       },

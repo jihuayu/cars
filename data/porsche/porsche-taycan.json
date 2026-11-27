@@ -7,19 +7,43 @@
   "category": "中大型纯电轿跑",
   "release_date": "2025-10-14",
   "data_as_of": "2026-11-27",
-  "image_url": null,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/2024_Porsche_Taycan_IMG_0046.jpg",
   "interior_image_url": null,
   "promo_highlights": [
     "2026款新增杜比全景声支持，多项选装价格下调"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/4867.html"
+    "https://car.autohome.com.cn/config/series/4867.html",
+    "https://car.autohome.com.cn/config/spec/75241.html",
+    "https://newsroom.porsche.com/dam/jcr:d7bcf213-7cd0-4837-a62e-aed696dcdb46/PAG-PM-Taycan-ZH_EmpCo-Discl.pdf",
+    "https://commons.wikimedia.org/wiki/File:2024_Porsche_Taycan_IMG_0046.jpg"
   ],
   "references": [
     {
       "title": "汽车之家 Taycan参数配置表",
       "url": "https://car.autohome.com.cn/config/series/4867.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 保时捷Taycan 2026款参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/75241.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "保时捷新闻中心 新款保时捷Taycan技术资料",
+      "url": "https://newsroom.porsche.com/dam/jcr:d7bcf213-7cd0-4837-a62e-aed696dcdb46/PAG-PM-Taycan-ZH_EmpCo-Discl.pdf",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - 2024 Porsche Taycan",
+      "url": "https://commons.wikimedia.org/wiki/File:2024_Porsche_Taycan_IMG_0046.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -48,7 +72,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 89.0,
         "cltc_pure_electric_range_km": 604,
         "fast_charge_time": "0.3h(10-80%)",
         "v2l_power_kw": null
@@ -67,13 +91,13 @@
         "instrument_cluster": "全液晶仪表",
         "screens": "中控主屏+空调屏",
         "rear_screen": "无",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热(前排通风/后排加热选装)",
+        "seat_massage": "前排选装按摩(7500元)",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
+        "steering_wheel_electric": "标配",
         "steering_wheel_heating": "标配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [
@@ -114,7 +138,7 @@
       "battery_and_charging": {
         "voltage_platform_v": 800,
         "battery_chemistry": "三元锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 105.0,
         "cltc_pure_electric_range_km": 676,
         "fast_charge_time": "0.3h(10-80%)",
         "v2l_power_kw": null
@@ -133,13 +157,13 @@
         "instrument_cluster": "全液晶仪表",
         "screens": "中控主屏+空调屏",
         "rear_screen": "无",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热(前排通风/后排加热选装)",
+        "seat_massage": "前排选装按摩(7500元)",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
+        "steering_wheel_electric": "标配",
         "steering_wheel_heating": "标配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

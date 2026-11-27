@@ -1,8 +1,8 @@
 {
   "data_as_of": "2026-11-27",
   "total_brands": 40,
-  "total_models": 172,
-  "total_skus": 659,
+  "total_models": 174,
+  "total_skus": 673,
   "miit_portals": [
     {
       "title": "工业和信息化部装备工业发展中心 - 道路机动车辆生产企业及产品公告发布（含第398批至第412批）",
@@ -99,8 +99,8 @@
       "brand": "hima",
       "brand_name": "鸿蒙智行",
       "origin_type": "国产",
-      "model_count": 13,
-      "sku_count": 73,
+      "model_count": 15,
+      "sku_count": 87,
       "index_file": "data/hima/index.json"
     },
     {
@@ -464,7 +464,7 @@
       "option_count": 4,
       "price_min_rmb": 369800,
       "price_max_rmb": 369800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 4.9,
       "max_cltc_ev_km": 705,
       "ground_clearance_mm": null,
       "max_v2l_kw": 3.5,
@@ -485,7 +485,10 @@
       "file": "data/lixiang/i9-2026.json",
       "source_urls": [
         "https://www.lixiang.com/news/188.html",
-        "https://www.lixiang.com/configuration.html"
+        "https://www.lixiang.com/configuration.html",
+        "https://auto.ifeng.com/c/8ueQFcdLanW",
+        "https://car.autohome.com.cn/config/spec/78523.html",
+        "https://car.autohome.com.cn/config/series/8727.html"
       ]
     },
     {
@@ -601,7 +604,7 @@
       "option_count": 9,
       "price_min_rmb": 459800,
       "price_max_rmb": 509800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 4.9,
       "max_cltc_ev_km": 420,
       "ground_clearance_mm": null,
       "max_v2l_kw": 3.5,
@@ -623,7 +626,9 @@
       "source_urls": [
         "https://www.lixiang.com/configuration.html",
         "https://www.lixiang.com/L9",
-        "https://www.lixiang.com/news/159.html"
+        "https://www.lixiang.com/news/159.html",
+        "https://www.ithome.com/0/999/914.htm",
+        "https://car.autohome.com.cn/config/spec/77859.html"
       ]
     },
     {
@@ -647,7 +652,7 @@
       "option_count": 2,
       "price_min_rmb": 509800,
       "price_max_rmb": 509800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 4.9,
       "max_cltc_ev_km": 710,
       "ground_clearance_mm": null,
       "max_v2l_kw": 3.5,
@@ -668,7 +673,9 @@
       "file": "data/lixiang/mega-2026.json",
       "source_urls": [
         "https://www.lixiang.com/news/186.html",
-        "https://www.lixiang.com/configuration.html"
+        "https://www.lixiang.com/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/info/26420944",
+        "https://car.autohome.com.cn/config/spec/78129.html"
       ]
     },
     {
@@ -681,7 +688,7 @@
       "category": "中型SUV",
       "release_date": "2026-01-08",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/XPeng_G6_018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2023/04/20/20230420134412299.jpeg",
       "powertrains": [
         "BEV",
         "REEV"
@@ -713,7 +720,10 @@
       "has_miit": true,
       "file": "data/xiaopeng/g6-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/g6_2026/configuration.html"
+        "https://www.xiaopeng.com/g6_2026/configuration.html",
+        "https://www.sohu.com/a/952456476_430526",
+        "https://www.xiaopeng.com/g62025.html",
+        "https://www.xchuxing.com/article/77785"
       ]
     },
     {
@@ -726,7 +736,7 @@
       "category": "中大型SUV",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/231/w660h371/20250826/43f1-5b1f61dff5ecbf8463c94854c402f691.webp",
       "powertrains": [
         "BEV",
         "REEV"
@@ -758,7 +768,12 @@
       "has_miit": true,
       "file": "data/xiaopeng/g7-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/g7_2026/configuration.html"
+        "https://www.xiaopeng.com/g7_2026/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/info/19266162",
+        "https://car.autohome.com.cn/config/series/8014.html",
+        "https://car.autohome.com.cn/config/spec/74686.html",
+        "https://car.autohome.com.cn/config/spec/76139.html",
+        "https://auto.sina.cn/review/2025-08-26/detail-infnifwc6666912.d.html"
       ]
     },
     {
@@ -771,7 +786,7 @@
       "category": "中大型纯电SUV",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/08-07/pic_20260807113423_93692.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g34/M05/0C/35/400x400_1_q40_c40_autohomecar__ChtpWGlfQj6AGe_vABmC5BDCLKs963.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -802,7 +817,11 @@
       "has_miit": true,
       "file": "data/xiaopeng/g9-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/g9_2026/configuration.html"
+        "https://www.xiaopeng.com/g9_2026/configuration.html",
+        "https://chedongxi.com/p/367662.html",
+        "https://car.autohome.com.cn/config/series/6492.html",
+        "https://car.autohome.com.cn/config/spec/76192.html",
+        "https://car.m.autohome.com.cn/pic/series/6492.html"
       ]
     },
     {
@@ -815,7 +834,7 @@
       "category": "全尺寸大六座旗舰SUV",
       "release_date": "2026-05-20",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2026/04/14/9b0c6202604141051315166.png",
       "powertrains": [
         "BEV",
         "REEV"
@@ -848,7 +867,11 @@
       "has_miit": true,
       "file": "data/xiaopeng/gx-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/gx/configuration.html"
+        "https://www.xiaopeng.com/gx/configuration.html",
+        "https://cj.sina.cn/articles/view/7879776542/1d5abd91e068014ivk",
+        "https://car.autohome.com.cn/config/series/8224.html",
+        "https://car.autohome.com.cn/config/spec/76543.html",
+        "https://www.xchuxing.com/article/168682"
       ]
     },
     {
@@ -861,7 +884,7 @@
       "category": "紧凑型纯电掀背轿跑",
       "release_date": "2026-04-02",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g34/M05/5D/9D/400x400_1_q40_c40_autohomecar__ChxpWGoEA3WAJopVADpPHKnO21Y464.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -892,7 +915,9 @@
       "has_miit": true,
       "file": "data/xiaopeng/mona-m03-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/m03_2026/configuration.html"
+        "https://www.xiaopeng.com/m03_2026/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/17435651",
+        "https://car.m.autohome.com.cn/pic/series/6998.html"
       ]
     },
     {
@@ -905,7 +930,7 @@
       "category": "中大型纯电运动轿跑",
       "release_date": "2025-08-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/XPeng_P7_II_MY2025_IMG03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/08/21/c245920250821215817128.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -937,7 +962,9 @@
       "has_miit": true,
       "file": "data/xiaopeng/p7-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/p7n/configuration.html"
+        "https://www.xiaopeng.com/p7n/configuration.html",
+        "https://www.icloudnews.net/a/102878.html",
+        "https://www.xchuxing.com/article/156823"
       ]
     },
     {
@@ -950,7 +977,7 @@
       "category": "中大型家用轿跑",
       "release_date": "2026-01-08",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2026/01/03/8fef0202601031640332143.png",
       "powertrains": [
         "BEV",
         "REEV"
@@ -982,7 +1009,9 @@
       "has_miit": true,
       "file": "data/xiaopeng/p7-plus-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/p7_plus_2026/configuration.html"
+        "https://www.xiaopeng.com/p7_plus_2026/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/info/18817835",
+        "https://www.xchuxing.com/article/164506"
       ]
     },
     {
@@ -995,7 +1024,7 @@
       "category": "中大型7座MPV",
       "release_date": "2025-11-20",
       "image_url": "https://xps01.xiaopeng.com/cms/material/pic/2026/10-08/pic_20261008095240_26082.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g27/M05/A2/58/400x400_0_f42_autohomecar__CjIFVWSj-kGALC5tAAfVqTdugks880.png",
       "powertrains": [
         "BEV",
         "REEV"
@@ -1027,7 +1056,10 @@
       "has_miit": true,
       "file": "data/xiaopeng/x9-2026.json",
       "source_urls": [
-        "https://www.xiaopeng.com/x9_2026/configuration.html"
+        "https://www.xiaopeng.com/x9_2026/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/info/21402232",
+        "https://car.autohome.com.cn/config/spec/76495.html",
+        "https://chejiahao.m.autohome.com.cn/info/12840870"
       ]
     },
     {
@@ -1256,7 +1288,9 @@
       "file": "data/avatr/avatr-11-2025.json",
       "source_urls": [
         "https://www.avatr.com/configuration?car=11",
-        "https://car.autohome.com.cn/config/spec/72862.html"
+        "https://car.autohome.com.cn/config/spec/72862.html",
+        "https://car.autohome.com.cn/config/series/6354.html",
+        "https://car.autohome.com.cn/config/spec/70967.html"
       ]
     },
     {
@@ -1302,7 +1336,10 @@
       "has_miit": true,
       "file": "data/avatr/avatr-12-2026.json",
       "source_urls": [
-        "https://www.avatr.com/configuration?car=12"
+        "https://www.avatr.com/configuration?car=12",
+        "https://chejiahao.m.autohome.com.cn/info/20742648",
+        "https://car.autohome.com.cn/config/spec/76220.html",
+        "https://car.autohome.com.cn/config/spec/76907.html"
       ]
     },
     {
@@ -1315,7 +1352,7 @@
       "category": "中型纯电轿跑SUV",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Nio_EC6_II_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/spider2020621/484/w750h534/20200621/f922-ivffpct1652440.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1347,7 +1384,9 @@
       "has_miit": true,
       "file": "data/nio/ec6-2026.json",
       "source_urls": [
-        "https://www.nio.cn/zh_CN/vehicle/configuration/ec6"
+        "https://www.nio.cn/zh_CN/vehicle/configuration/ec6",
+        "https://www.xchuxing.com/article/146985",
+        "https://auto.sina.cn/newcar/zz/2020-06-21/detail-iircuyvi9662330.d.html"
       ]
     },
     {
@@ -1360,7 +1399,7 @@
       "category": "中型纯电SUV",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/%28CHN-Guangdong%29_Showcar_Nio_ES6_No-plate_2024-05-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/07/04/202507041848085948.png",
       "powertrains": [
         "BEV"
       ],
@@ -1392,7 +1431,10 @@
       "has_miit": true,
       "file": "data/nio/es6-2026.json",
       "source_urls": [
-        "https://www.nio.cn/zh_CN/vehicle/configuration/es6"
+        "https://www.nio.cn/zh_CN/vehicle/configuration/es6",
+        "https://www.xchuxing.com/article/146985",
+        "https://car.autohome.com.cn/config/spec/76972.html",
+        "https://www.xchuxing.com/article/154188"
       ]
     },
     {
@@ -1405,7 +1447,7 @@
       "category": "大型纯电SUV（5/6/7座）",
       "release_date": "2025-09-20",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%28CHN-Jiangsu%29_Showcar_Nio_ES8_No-plate_2025-12-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/08/15/d28d6202508151020488923.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1437,7 +1479,9 @@
       "file": "data/nio/es8-2026.json",
       "source_urls": [
         "https://www.nio.cn/es8",
-        "https://www.nio.cn/es8-five-seater"
+        "https://www.nio.cn/es8-five-seater",
+        "https://db.m.auto.sohu.com/model_7489/a/906950766_117058",
+        "https://www.xchuxing.com/article/156618"
       ]
     },
     {
@@ -1450,7 +1494,7 @@
       "category": "全尺寸行政旗舰纯电SUV",
       "release_date": "2026-05-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nio_ES9_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://k.sinaimg.cn/n/spider20260407/232/w660h372/20260407/245e-8652c6e3d5d9f70c49743e80bedfa614.jpg/w300h300z1l10t10q100dd0.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1468,7 +1512,7 @@
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": true,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": true,
@@ -1482,7 +1526,10 @@
       "file": "data/nio/es9-2026.json",
       "source_urls": [
         "https://www.nio.cn/es9",
-        "https://www.nio.cn/news/20260527001"
+        "https://www.nio.cn/news/20260527001",
+        "https://chejiahao.m.autohome.com.cn/info/24694122",
+        "https://finance.sina.cn/stock/jdts/2026-04-07/detail-inhttaet6931212.d.html?oid=800&vt=4",
+        "https://detail.zol.com.cn/2169/2168672/param.shtml"
       ]
     },
     {
@@ -1495,7 +1542,7 @@
       "category": "中型纯电轿跑",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/NIO_ET5_IMG_8291.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://k.sinaimg.cn/n/sinakd20260505s/371/w750h421/20260505/893e-409ae9f174ac3f5b63662348e0829cb4.jpg/w700d1q75cms.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1526,7 +1573,9 @@
       "has_miit": true,
       "file": "data/nio/et5-2026.json",
       "source_urls": [
-        "https://www.nio.cn/vehicle/configuration/et5"
+        "https://www.nio.cn/vehicle/configuration/et5",
+        "https://www.xchuxing.com/article/146985",
+        "https://cj.sina.cn/articles/view/7857141524/1d45277140190267qc?froms=ggmp"
       ]
     },
     {
@@ -1539,7 +1588,7 @@
       "category": "中型纯电旅行车",
       "release_date": "2026-04-02",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2023_NIO_ET5_Touring_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://img1.bitautoimg.com/autoalbum/files/20260421/551/202604216215676762155133180_13871016_4.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1570,7 +1619,10 @@
       "has_miit": true,
       "file": "data/nio/et5t-2026.json",
       "source_urls": [
-        "https://www.nio.cn/et5t"
+        "https://www.nio.cn/et5t",
+        "https://www.xchuxing.com/article/146985",
+        "https://car.autohome.com.cn/config/series/7306.html",
+        "https://photo.yiche.com/sumphoto/weilaiet5touring/"
       ]
     },
     {
@@ -1583,7 +1635,7 @@
       "category": "全尺寸行政四座旗舰轿车",
       "release_date": "2024-12-21",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nio_ET9_MY2025_IMG01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/299/w660h439/20241223/0e87-4c3504273989217ac2b7eeea57ec48d5.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1614,7 +1666,9 @@
       "has_miit": true,
       "file": "data/nio/et9-2026.json",
       "source_urls": [
-        "https://www.nio.cn/vehicle/configuration/et9"
+        "https://www.nio.cn/vehicle/configuration/et9",
+        "https://auto.zol.com.cn/909/9093445.html",
+        "https://auto.sina.cn/review/2024-12-23/detail-ineankci2396849.d.html"
       ]
     },
     {
@@ -1627,7 +1681,7 @@
       "category": "中型纯电SUV",
       "release_date": "2026-06-11",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l60/g1.6/soo/highlights/highlights-carousel-02-desktop.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://auto4.sinaimg.cn/autoimg/car/54/66/132016654_src.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1659,7 +1713,9 @@
       "has_miit": true,
       "file": "data/onvo/l60-2026.json",
       "source_urls": [
-        "https://configuration.onvo.cn/index?model_code=L60&scene=office"
+        "https://configuration.onvo.cn/index?model_code=L60&scene=office",
+        "https://chejiahao.m.autohome.com.cn/info/15457606",
+        "https://db.auto.sina.cn/photo/c103761-3-1.html"
       ]
     },
     {
@@ -1672,7 +1728,7 @@
       "category": "中大型5座纯电SUV",
       "release_date": "2026-05-15",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l80/highlights/highlights-carousel-01-desktop.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://auto3.sinaimg.cn/autoimg/car/45/14/132251445_src.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1703,7 +1759,9 @@
       "has_miit": true,
       "file": "data/onvo/l80-2026.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/8591.html"
+        "https://car.autohome.com.cn/config/series/8591.html",
+        "https://k.sina.com.cn/article_5911038801_160534b51027019ine.html",
+        "https://db.auto.sina.cn/photo/c106647-3-1.html"
       ]
     },
     {
@@ -1716,7 +1774,7 @@
       "category": "大型6/7座纯电SUV",
       "release_date": "2026-04-21",
       "image_url": "https://cdn-up-public.onvo.cn/www-alps-cn/www/l90/se/blue-gold/homepage/Landinghero-mobile.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/07/02/e1b96202507022025251770.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -1748,7 +1806,9 @@
       "file": "data/onvo/l90-2026.json",
       "source_urls": [
         "https://www.onvo.cn/l90",
-        "https://configuration.onvo.cn/alpsConfigList?carType=L90&scene=office"
+        "https://configuration.onvo.cn/alpsConfigList?carType=L90&scene=office",
+        "https://k.sina.com.cn/article_5911038801_160534b51027019ine.html",
+        "https://www.xchuxing.com/article/154076"
       ]
     },
     {
@@ -2045,7 +2105,7 @@
       "option_count": 2,
       "price_min_rmb": 219800,
       "price_max_rmb": 269800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 3.94,
       "max_cltc_ev_km": 720,
       "ground_clearance_mm": "188-203",
       "max_v2l_kw": 6.0,
@@ -2066,7 +2126,8 @@
       "file": "data/leapmotor/d19-2026.json",
       "source_urls": [
         "https://leapmotor.cn/D19.html",
-        "https://car.autohome.com.cn/config/series/8273.html"
+        "https://car.autohome.com.cn/config/series/8273.html",
+        "https://car.autohome.com.cn/config/spec/76832.html"
       ]
     },
     {
@@ -2136,7 +2197,7 @@
       "option_count": 1,
       "price_min_rmb": 97800,
       "price_max_rmb": 129800,
-      "best_zero_to_100_s": 6.4,
+      "best_zero_to_100_s": 6.2,
       "max_cltc_ev_km": 605,
       "ground_clearance_mm": "127-154",
       "max_v2l_kw": 3.3,
@@ -2156,7 +2217,10 @@
       "has_miit": true,
       "file": "data/leapmotor/lafa5-2026.json",
       "source_urls": [
-        "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18"
+        "https://www.leapmotor.cn/parameter-pk-web.html?platform=web&carTypeId=18",
+        "https://hao.yiche.com/wenzhang/112149377/",
+        "https://car.autohome.com.cn/config/spec/74606.html",
+        "https://auto.sina.cn/2026-07-09/detail-inihcvfi1476955.d.html?vt=4"
       ]
     },
     {
@@ -2293,7 +2357,9 @@
       "has_miit": false,
       "file": "data/immotors/ls7-2026.json",
       "source_urls": [
-        "https://car.autohome.com.cn/price/brand-448-632.html"
+        "https://car.autohome.com.cn/price/brand-448-632.html",
+        "https://car.autohome.com.cn/config/spec/69131.html",
+        "https://www.saicmotor.com/chinese/xwzx/xwk/2025/61929.shtml"
       ]
     },
     {
@@ -2431,7 +2497,8 @@
       "file": "data/hima/aito-m5-ultra-2025.json",
       "source_urls": [
         "https://hima.auto/wenjie/m5-new/configuration/",
-        "https://aito.auto/model/m5-new/configuration/"
+        "https://aito.auto/model/m5-new/configuration/",
+        "https://car.autohome.com.cn/config/spec/72006.html"
       ]
     },
     {
@@ -2525,7 +2592,12 @@
       "file": "data/hima/aito-m7-2026.json",
       "source_urls": [
         "https://hima.auto/wenjie/m7-new/configuration/",
-        "https://aito.auto/model/m7-new/"
+        "https://aito.auto/model/m7-new/",
+        "https://chejiahao.m.autohome.com.cn/info/26936552",
+        "https://car.autohome.com.cn/config/spec/74569.html",
+        "https://car.autohome.com.cn/config/spec/74161.html",
+        "https://detail.zol.com.cn/2140/2139152/param.shtml",
+        "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26940212"
       ]
     },
     {
@@ -2572,7 +2644,9 @@
       "file": "data/hima/aito-m8-2027.json",
       "source_urls": [
         "https://aito.auto/model/m8/configuration/",
-        "https://car.autohome.com.cn/config/series/8003.html"
+        "https://car.autohome.com.cn/config/series/8003.html",
+        "https://auto.ifeng.com/c/8wlGlqLjonF",
+        "https://car.autohome.com.cn/config/spec/79653.html"
       ]
     },
     {
@@ -2664,7 +2738,65 @@
       "has_miit": true,
       "file": "data/hima/luxeed-r7-2027.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7730.html"
+        "https://car.autohome.com.cn/config/series/7730.html",
+        "https://hima.auto/zhijie/r7/",
+        "https://chejiahao.m.autohome.com.cn/info/26968259",
+        "https://chejiahao.m.autohome.com.cn/info/26599982",
+        "https://chejiahao.m.autohome.com.cn/info/26809198",
+        "https://chejiahao.m.autohome.com.cn/info/26614459"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "origin_type": "国产",
+      "model": "智界RX（2026款）",
+      "model_slug": "luxeed-rx-2026",
+      "sub_brand": "智界 LUXEED",
+      "category": "中大型纯电轿跑SUV",
+      "release_date": "2026-09-28",
+      "image_url": "https://hima.auto/dam/hima-site/cn/zhijie/rx/images/design/zhijie-rx-colour-1.jpg",
+      "interior_image_url": "https://hima.auto/dam/hima-site/cn/zhijie/rx/images/entertainment/zhijie-rx-inside-colour-1.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 6,
+      "option_count": 8,
+      "price_min_rmb": 259800,
+      "price_max_rmb": 389800,
+      "best_zero_to_100_s": 3.6,
+      "max_cltc_ev_km": 852,
+      "ground_clearance_mm": "148-155",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/hima/luxeed-rx-2026.json",
+      "source_urls": [
+        "https://hima.auto/zhijie/rx/",
+        "https://car.autohome.com.cn/config/series/8684.html",
+        "https://hima.auto/dam/hima-site/cn/zhijie/service/pdf/261013/%E6%99%BA%E7%95%8CRX%E7%BA%AF%E7%94%B5%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "https://auto.ifeng.com/c/8vOcjqpJEJ0",
+        "https://auto.ifeng.com/c/8tqv39fsEPq",
+        "https://4g.stockstar.com/detail/IG2026092900005772",
+        "https://auto.ifeng.com/c/8y2OrdzqIfr",
+        "http://auto.cnfol.com/cheshidongtai/20261009/32391317.shtml",
+        "https://db.m.auto.sohu.com/model_7476/a/1038044233_120048818"
       ]
     },
     {
@@ -2709,7 +2841,9 @@
       "has_miit": true,
       "file": "data/hima/luxeed-s7-2026.json",
       "source_urls": [
-        "https://hima.auto/zhijie/s7/configuration/"
+        "https://hima.auto/zhijie/s7/configuration/",
+        "https://db.m.auto.sohu.com/model_7245/config",
+        "https://car.autohome.com.cn/config/spec/70706.html"
       ]
     },
     {
@@ -2753,7 +2887,9 @@
       "has_miit": true,
       "file": "data/hima/luxeed-v9-2026.json",
       "source_urls": [
-        "https://hima.auto/zhijie/v9/configuration/"
+        "https://hima.auto/zhijie/v9/configuration/",
+        "https://car.autohome.com.cn/config/series/7824.html",
+        "https://cj.sina.cn/articles/view/7879923138/1d5ae15c206801h6f6?froms=ggmp"
       ]
     },
     {
@@ -2870,7 +3006,7 @@
       "option_count": 9,
       "price_min_rmb": 219800,
       "price_max_rmb": 229800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 5.47,
       "max_cltc_ev_km": null,
       "ground_clearance_mm": null,
       "max_v2l_kw": 6.0,
@@ -2890,7 +3026,10 @@
       "has_miit": true,
       "file": "data/hima/saic-z7-2026.json",
       "source_urls": [
-        "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025"
+        "https://developer.huawei.com/consumer/cn/blog/topic/03213137309749025",
+        "https://www.evlook.com/shangjiez7/peizhi",
+        "https://hima.auto/shangjie/z7-z7t/configuration/",
+        "https://www.xchuxing.com/article/168036"
       ]
     },
     {
@@ -2935,7 +3074,9 @@
       "has_miit": true,
       "file": "data/hima/stelato-s9-2026.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7630.html"
+        "https://car.autohome.com.cn/config/series/7630.html",
+        "https://m.21jingji.com/article/20240313/herald/6d6405f3fd1ce1b8f438adc1ae3e768b.html",
+        "https://car.autohome.com.cn/config/spec/75166.html"
       ]
     },
     {
@@ -2980,7 +3121,62 @@
       "has_miit": true,
       "file": "data/hima/stelato-s9t-2026.json",
       "source_urls": [
-        "https://hima.auto/xiangjie/s9t/configuration/"
+        "https://hima.auto/xiangjie/s9t/configuration/",
+        "https://finance.sina.cn/2026-08-22/detail-inipeptt1205303.d.html",
+        "https://car.autohome.com.cn/config/series/8207.html"
+      ]
+    },
+    {
+      "brand": "hima",
+      "brand_name": "鸿蒙智行",
+      "origin_type": "国产",
+      "model": "享界V8（2026款）",
+      "model_slug": "stelato-v8-2026",
+      "sub_brand": "享界 STELATO",
+      "category": "中大型家庭旗舰MPV",
+      "release_date": "2026-11-20",
+      "image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/v8/images/hero/xiangjie-v8-key-vision.jpg",
+      "interior_image_url": "https://hima.auto/dam/hima-site/cn/xiangjie/v8/images/comfortable/xiangjie-v8-interior-design.jpg",
+      "powertrains": [
+        "BEV",
+        "REEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 8,
+      "option_count": 7,
+      "price_min_rmb": 319800,
+      "price_max_rmb": 429800,
+      "best_zero_to_100_s": 5.9,
+      "max_cltc_ev_km": 830,
+      "ground_clearance_mm": "140",
+      "max_v2l_kw": 6.0,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/hima/stelato-v8-2026.json",
+      "source_urls": [
+        "https://hima.auto/xiangjie/v8/",
+        "https://youjia.baidu.com/view/carTrain/1008735?seriesName=%E4%BA%AB%E7%95%8CV8",
+        "https://hima.auto/dam/hima-site/cn/xiangjie/service/pdf/261120/%E4%BA%AB%E7%95%8CV8%E7%BA%AF%E7%94%B5%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "https://www.sohu.com/a/1103656359_430526",
+        "https://youjia.baidu.com/view/articleDetail/8868279486442109395?sa=pc_ss_article",
+        "https://chejiahao.m.autohome.com.cn/info/26956920",
+        "https://youjia.baidu.com/view/articleDetail/10100115977382996528?sa=%E9%9F%BB%E9%81%94%E5%BF%AB%E9%81%9E%E9%A6%99%E6%B8%AF_auto",
+        "https://www.donews.com/news/detail/8/6781820.html"
       ]
     },
     {
@@ -2993,7 +3189,7 @@
       "category": "中大型/全尺寸增程SUV",
       "release_date": "2026-09-07",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/n70_20260907/pc/n90.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M0A/89/A8/400x400_0_f42_autohomecar__ChxpWGrllsmAHIusAAJHaTnCxfI008.jpg",
       "powertrains": [
         "REEV"
       ],
@@ -3026,7 +3222,9 @@
       "file": "data/xiaomi/skynomad-n70-n90-2026.json",
       "source_urls": [
         "https://www.xiaomiev.com/skynomad/car-config",
-        "https://www.xiaomiev.com/skynomad/n70"
+        "https://www.xiaomiev.com/skynomad/n70",
+        "https://db.m.auto.sohu.com/model_7311/a/1048992075_121124485",
+        "https://chejiahao.m.autohome.com.cn/info/26778158"
       ]
     },
     {
@@ -3039,7 +3237,7 @@
       "category": "中大型纯电轿跑",
       "release_date": "2026-03-19",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/su7_20260319/pc/0-1_1.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M00/03/BE/400x400_0_f42_autohomecar__ChxpV2leMFyAJONgACcFyzLAuBU490.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -3072,7 +3270,9 @@
       "file": "data/xiaomi/su7-2026.json",
       "source_urls": [
         "https://www.xiaomiev.com/car-config",
-        "https://www.xiaomiev.com/su7"
+        "https://www.xiaomiev.com/su7",
+        "http://auto.cyol.com/gb/articles/2023-12/14/content_6zgmWqh7zy.html",
+        "https://chejiahao.m.autohome.com.cn/info/24686778"
       ]
     },
     {
@@ -3085,7 +3285,7 @@
       "category": "高性能纯电四门超跑",
       "release_date": "2025-02-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g30/M02/66/53/400x400_1_q40_c40_autohomecar__CjIFU2f2G-2AZtAeACC2kghyD5Q397.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -3116,7 +3316,9 @@
       "has_miit": true,
       "file": "data/xiaomi/su7-ultra-2025.json",
       "source_urls": [
-        "https://www.xiaomiev.com/car-config?active=500010402"
+        "https://www.xiaomiev.com/car-config?active=500010402",
+        "https://auto.news18a.com/news/storys_317990.html",
+        "https://car.m.autohome.com.cn/pic/series/7915.html"
       ]
     },
     {
@@ -3129,7 +3331,7 @@
       "category": "中大型纯电SUV",
       "release_date": "2025-06-26",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/yu7_20260521/pc/1.jpg?x-fds-process=image/resize,f_webp,q_100",
-      "interior_image_url": null,
+      "interior_image_url": "https://img2.autoimg.cn/videos/g32/M03/5D/A0/autohomecar__Chtk2WhnhR2AYOpqAAFPDjO3Mag019.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -3161,7 +3363,9 @@
       "has_miit": true,
       "file": "data/xiaomi/yu7-2026.json",
       "source_urls": [
-        "https://www.xiaomiev.com/yu7"
+        "https://www.xiaomiev.com/yu7",
+        "https://chedongxi.com/p/365464.html",
+        "https://car.m.autohome.com.cn/pic/series/7793.html"
       ]
     },
     {
@@ -3174,7 +3378,7 @@
       "category": "中大型纯电猎装轿跑",
       "release_date": "2025-10-11",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/2022_Zeekr_001_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/293/w660h433/20251004/2234-d3b5a0513254a824d45d3af25bef48a3.png",
       "powertrains": [
         "BEV"
       ],
@@ -3207,7 +3411,8 @@
       "file": "data/zeekr/zeekr-001-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/zeekr001",
-        "https://m.zeekrlife.com/config"
+        "https://m.zeekrlife.com/config",
+        "https://auto.sina.cn/newcar/2025-10-04/detail-infstarn4246523.d.html"
       ]
     },
     {
@@ -3220,7 +3425,7 @@
       "category": "中型纯电轿车 / 猎装车",
       "release_date": "2026-04-10",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Zeekr_007_006_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g30/M04/0E/F7/630x0_q100_autohomecar__ChxknGV4K92AfCV_AAQ7O8OHIe4339.png",
       "powertrains": [
         "BEV"
       ],
@@ -3253,7 +3458,9 @@
       "file": "data/zeekr/zeekr-007-2026.json",
       "source_urls": [
         "https://m.zeekrlife.com/zeekr007",
-        "https://m.zeekrlife.com/zeekr007GT"
+        "https://m.zeekrlife.com/zeekr007GT",
+        "https://car.autohome.com.cn/config/spec/77115.html",
+        "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/14067880"
       ]
     },
     {
@@ -3266,7 +3473,7 @@
       "category": "中大型豪华纯电MPV",
       "release_date": "2026-05-19",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Zeekr_009_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g33/M0A/78/E9/400x400_1_q40_c40_autohomecar__ChxpVmncspWAMMOgAFZ6-ZDinNo636.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -3297,7 +3504,8 @@
       "has_miit": false,
       "file": "data/zeekr/zeekr-009-2026.json",
       "source_urls": [
-        "https://m.zeekrlife.com/zeekr009"
+        "https://m.zeekrlife.com/zeekr009",
+        "https://car.m.autohome.com.cn/pic/series/6846.html"
       ]
     },
     {
@@ -3310,7 +3518,7 @@
       "category": "中型纯电SUV",
       "release_date": "2025-10-28",
       "image_url": "https://zcms.zeekrlife.com/published/assets/e43663416a6ef4d925d682a72c7414fbc36f7f3acc414df83565d9ea49287850/1574.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/355/w660h495/20261126/ae1d-d1154d1a2c9166e3943c285c34b8a2cc.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -3342,7 +3550,9 @@
       "has_miit": true,
       "file": "data/zeekr/zeekr-7x-2026.json",
       "source_urls": [
-        "https://m.zeekrlife.com/config"
+        "https://m.zeekrlife.com/config",
+        "https://car.autohome.com.cn/config/spec/69100.html",
+        "https://auto.sina.cn/newcar/2026-11-26/detail-inkaatut8771626.d.html?oaid=00036"
       ]
     },
     {
@@ -3355,7 +3565,7 @@
       "category": "全尺寸超豪华电混旗舰SUV",
       "release_date": "2025-09-29",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%28CHN-Hubei%29_Showcar_Zeekr_9X_No-plate_2025-12-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://k.sinaimg.cn/n/sinakd/sni/450/w800h450/20260715/d129-21d6256c0b954146693d4dbd24ba7162.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
       "powertrains": [
         "PHEV"
       ],
@@ -3386,7 +3596,9 @@
       "has_miit": true,
       "file": "data/zeekr/zeekr-9x-2026.json",
       "source_urls": [
-        "https://m.zeekrlife.com/zeekr9x"
+        "https://m.zeekrlife.com/zeekr9x",
+        "https://www.moomoo.com/hans/news/post/56702748/zeekr-files-for-9x-hybrid-suv-pre-sales-to-begin",
+        "https://auto.sina.cn/2026-07-15/detail-inihwrra4788607.d.html?vt=4"
       ]
     },
     {
@@ -3399,7 +3611,7 @@
       "category": "中型纯电家庭跨界MPV",
       "release_date": "2024-10-23",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%28CHN-Shanghai%29_Showcar_Zeekr_Mix_No-plate_2024-12-08_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g32/M0B/2C/DA/400x400_1_q40_c40_autohomecar__Chtk2WcOMwaAKDQLADiHlsJpG8A915.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -3423,7 +3635,7 @@
       "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": true,
       "has_cms_mirrors": false,
@@ -3431,7 +3643,10 @@
       "has_miit": false,
       "file": "data/zeekr/zeekr-mix-2025.json",
       "source_urls": [
-        "https://m.zeekrlife.com/config"
+        "https://m.zeekrlife.com/config",
+        "https://car.autohome.com.cn/config/series/7631.html",
+        "https://car.autohome.com.cn/config/spec/67799.html",
+        "https://www.xchuxing.com/article/135966"
       ]
     },
     {
@@ -3533,7 +3748,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2026-09-28",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Lynk_%26_Co_Z20_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M02/2C/CA/autohomecar__Chto52qP8HSABjX3AAZAAO0liwU806.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -3564,7 +3779,9 @@
       "has_miit": true,
       "file": "data/lynkco/lynkco-z20-2027.json",
       "source_urls": [
-        "https://www.lynkco.com.cn/cars/model-config"
+        "https://www.lynkco.com.cn/cars/model-config",
+        "https://auto.ifeng.com/c/8eLRs63m1w5",
+        "https://chejiahao.m.autohome.com.cn/info/26301889"
       ]
     },
     {
@@ -3610,7 +3827,13 @@
       "file": "data/byd/han-l-2025.json",
       "source_urls": [
         "https://www.bydauto.com.cn/pc/",
-        "https://car.autohome.com.cn/config/series/7859.html"
+        "https://car.autohome.com.cn/config/series/7859.html",
+        "https://chejiahao.m.autohome.com.cn/info/18813249",
+        "https://car.autohome.com.cn/config/spec/71393.html",
+        "https://car.autohome.com.cn/config/spec/71392.html",
+        "https://db.m.auto.sohu.com/trim_177283",
+        "https://www.evlook.com/hanl/peizhi",
+        "http://www.news.cn/auto/20251122/77a226dbe8c24bb4ae0485d1dfe9c836/c.html"
       ]
     },
     {
@@ -3656,7 +3879,10 @@
       "file": "data/byd/seal-06-2027.json",
       "source_urls": [
         "https://www.bydauto.com.cn/pc/",
-        "https://car.autohome.com.cn/config/spec/78809.html"
+        "https://car.autohome.com.cn/config/spec/78809.html",
+        "https://chejiahao.m.autohome.com.cn/info/19669823",
+        "https://car.autohome.com.cn/config/spec/78669.html",
+        "https://chejiahao.m.autohome.com.cn/info/26179644"
       ]
     },
     {
@@ -3702,7 +3928,10 @@
       "file": "data/byd/sealion-07-2025.json",
       "source_urls": [
         "https://www.bydauto.com.cn/pc/",
-        "https://car.autohome.com.cn/config/series/6851.html"
+        "https://car.autohome.com.cn/config/series/6851.html",
+        "https://car.autohome.com.cn/config/series/7977.html",
+        "https://detail.zol.com.cn/2122/2121159/param.shtml",
+        "https://www.evlook.com/haishi07ev/peizhi"
       ]
     },
     {
@@ -3863,7 +4092,7 @@
       "option_count": 4,
       "price_min_rmb": 309800,
       "price_max_rmb": 469800,
-      "best_zero_to_100_s": 8.5,
+      "best_zero_to_100_s": 7.3,
       "max_cltc_ev_km": 800,
       "ground_clearance_mm": null,
       "max_v2l_kw": 6.0,
@@ -3883,7 +4112,11 @@
       "has_miit": true,
       "file": "data/denza/denza-d9-2026.json",
       "source_urls": [
-        "https://www.denza.com/cn2_0/brand.html"
+        "https://www.denza.com/cn2_0/brand.html",
+        "https://chejiahao.m.autohome.com.cn/info/24835212",
+        "https://detail.zol.com.cn/2164/2163578/param.shtml",
+        "https://m.pcauto.com.cn/auto/pk/choose/m139728.html",
+        "https://db.m.auto.sohu.com/trim_182311"
       ]
     },
     {
@@ -4207,7 +4440,7 @@
       "category": "百万级旗舰行政轿车",
       "release_date": "2026-03-05",
       "image_url": "https://www.yangwangauto.com/material/yangwang_cn/images/u7-202511/u720251118/yangwangu7buchongsucai-1117/U7-%E9%A6%96%E5%B1%8F%E9%A1%B5%E9%9D%A2-001-3840x2160.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/sinakd10010/10/w1543h867/20241114/2a68-c781451228a6fc494524a862586ce902.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
@@ -4239,7 +4472,9 @@
       "has_miit": true,
       "file": "data/yangwang/yangwang-u7-2026.json",
       "source_urls": [
-        "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4"
+        "https://www.yangwangauto.com/car-detail-u7?carModel=0_type1_type2_type3_type4",
+        "https://chejiahao.m.autohome.com.cn/info/18389836",
+        "http://db.auto.sina.cn/tags/298605/"
       ]
     },
     {
@@ -4252,7 +4487,7 @@
       "category": "百万级全尺寸硬派/行政SUV",
       "release_date": "2026-03-05",
       "image_url": "https://img6.donews.com/img/2024/01/19/img_pic_201705641208.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/07/12/d11ba202507120138269487.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -4284,7 +4519,9 @@
       "file": "data/yangwang/yangwang-u8-2026.json",
       "source_urls": [
         "https://www.yangwangauto.com/car-detail-u8",
-        "https://www.yangwangauto.com/c-u8-l.html"
+        "https://www.yangwangauto.com/c-u8-l.html",
+        "https://chejiahao.m.autohome.com.cn/info/25621918",
+        "https://m.xchuxing.com/article/154438"
       ]
     },
     {
@@ -4297,7 +4534,7 @@
       "category": "百万级纯电超跑",
       "release_date": "2024-02-25",
       "image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/04/07/17/034dc1f4a43f419c9c34938cda2a66ce.png!jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g30/M09/96/E3/630x0_q100_autohomecar__CjIFU2VgsZyAN_76AABe5lLH6xs271.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -4328,7 +4565,9 @@
       "has_miit": false,
       "file": "data/yangwang/yangwang-u9.json",
       "source_urls": [
-        "https://www.yangwangauto.com/car-u9-detail"
+        "https://www.yangwangauto.com/car-u9-detail",
+        "https://car.autohome.com.cn/config/series/7116.html",
+        "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/13824598"
       ]
     },
     {
@@ -4341,7 +4580,7 @@
       "category": "中大型豪华MPV",
       "release_date": "2025-09-15",
       "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/dreamer-champion/kv_0408_375.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://n.sinaimg.cn/auto/transform/300/w660h440/20250825/cc7c-da28b2ad94c0d559089c5c7f46c70ce3.jpg",
       "powertrains": [
         "BEV",
         "PHEV"
@@ -4375,7 +4614,11 @@
       "file": "data/voyah/dreamer-2026.json",
       "source_urls": [
         "https://www.voyah.com.cn/dreamer9.html",
-        "https://car.autohome.com.cn/config/series/6459.html"
+        "https://car.autohome.com.cn/config/series/6459.html",
+        "https://m.voyah.com.cn/userguide/h56c/jssj_page20.html",
+        "https://car.autohome.com.cn/config/spec/77264.html",
+        "https://cj.sina.cn/articles/view/7879849086/1d5acf47e06801kjiu",
+        "https://auto.sina.cn/review/2025-08-25/detail-infnczmn2683407.d.html"
       ]
     },
     {
@@ -4388,7 +4631,7 @@
       "category": "中大型5座增程SUV",
       "release_date": "2025-07-12",
       "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g28/M06/B0/A5/autohomecar__Chtlx2has8OARyFBAAJKqezyCEQ159.jpg?x_image_process=text/5paw6IO95rqQ6KeG6YeO/fontSize/12",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g27/M01/C2/97/400x400_0_f42_autohomecar__ChxkmWhT-bSAT0CDAC2LzvONm7w996.jpg",
       "powertrains": [
         "REEV"
       ],
@@ -4419,7 +4662,8 @@
       "has_miit": false,
       "file": "data/voyah/free-plus-2025.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/spec/73126.html"
+        "https://car.autohome.com.cn/config/spec/73126.html",
+        "https://chejiahao.m.autohome.com.cn/info/20726178"
       ]
     },
     {
@@ -4432,7 +4676,7 @@
       "category": "全尺寸旗舰6座插混SUV",
       "release_date": "2025-11-18",
       "image_url": "https://www.voyah.com.cn/voyah-resources/images/car/titan/375/sc_1.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/11/06/95e6a202511060701201299.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -4464,7 +4708,10 @@
       "file": "data/voyah/titan-2026.json",
       "source_urls": [
         "https://www.voyah.com.cn/titan.html",
-        "https://car.autohome.com.cn/config/series/8291.html"
+        "https://car.autohome.com.cn/config/series/8291.html",
+        "https://auto.ifeng.com/c/8tr5c4WeQJM",
+        "https://detail.zol.com.cn/2142/2141498/param.shtml",
+        "https://www.xchuxing.com/article/161886"
       ]
     },
     {
@@ -4477,7 +4724,7 @@
       "category": "中型纯电SUV",
       "release_date": "2026-11-13",
       "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M01/AF/F1/autohomecar__Chto52rpjSCAD8mQAGWhFa0Ik9M961.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M03/49/FE/400x400_0_f42_autohomecar__ChxpV2r2x_mAYNtEAAF4Yhwy4EE652.png",
       "powertrains": [
         "BEV"
       ],
@@ -4508,7 +4755,9 @@
       "has_miit": false,
       "file": "data/voyah/zhiyin-2027.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7728.html"
+        "https://car.autohome.com.cn/config/series/7728.html",
+        "https://car.autohome.com.cn/config/spec/79836.html",
+        "https://chejiahao.m.autohome.com.cn/info/26872661"
       ]
     },
     {
@@ -4521,7 +4770,7 @@
       "category": "中大型插混行政轿车",
       "release_date": "2025-12-10",
       "image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M03/73/B4/autohomecar__ChtpWGjnFsOAMo4rAAUIRhOAwv0356.png?x_image_process=text/5rG96L2m6Kej5b-n6ZO6/fontSize/12",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/09/26/515a1202509262249011245.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -4552,7 +4801,8 @@
       "has_miit": false,
       "file": "data/voyah/zhuiguang-l-2026.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/8259.html"
+        "https://car.autohome.com.cn/config/series/8259.html",
+        "https://www.xchuxing.com/article/159704"
       ]
     },
     {
@@ -4642,7 +4892,8 @@
       "has_miit": false,
       "file": "data/deepal/l07-2026.json",
       "source_urls": [
-        "https://deepal.com.cn/car/configuration?car=L07&source=1&sort=1"
+        "https://deepal.com.cn/car/configuration?car=L07&source=1&sort=1",
+        "https://car.autohome.com.cn/config/spec/74212.html"
       ]
     },
     {
@@ -4732,7 +4983,8 @@
       "file": "data/deepal/s07-2026.json",
       "source_urls": [
         "https://www.deepal.com.cn/car/parameter",
-        "https://car.autohome.com.cn/config/series/6817.html"
+        "https://car.autohome.com.cn/config/series/6817.html",
+        "https://car.autohome.com.cn/config/spec/77520.html"
       ]
     },
     {
@@ -4777,7 +5029,9 @@
       "file": "data/deepal/s09-2026.json",
       "source_urls": [
         "https://www.deepal.com.cn/car/parameter",
-        "https://car.autohome.com.cn/config/series/7979.html"
+        "https://car.autohome.com.cn/config/series/7979.html",
+        "https://car.autohome.com.cn/config/spec/74607.html",
+        "https://price.pcauto.com.cn/m134173/config.html"
       ]
     },
     {
@@ -4894,13 +5148,13 @@
       "best_zero_to_100_s": 4.5,
       "max_cltc_ev_km": 230,
       "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "max_v2l_kw": 6.0,
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": false,
       "has_rear_screen": true,
       "has_220v": true,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
       "has_seat_massage": true,
@@ -4911,7 +5165,10 @@
       "has_miit": false,
       "file": "data/geely-galaxy/galaxy-m9-2026.json",
       "source_urls": [
-        "https://www.galaxy-geely.com/M9"
+        "https://www.galaxy-geely.com/M9",
+        "https://car.autohome.com.cn/config/spec/73548.html",
+        "https://car.autohome.com.cn/config/spec/74263.html",
+        "https://db.auto.sohu.com/model_7673/config"
       ]
     },
     {
@@ -5502,7 +5759,9 @@
       "file": "data/aion/aion-rt-2027.json",
       "source_urls": [
         "https://www.aion.com.cn/",
-        "https://car.autohome.com.cn/config/series/7860.html"
+        "https://car.autohome.com.cn/config/series/7860.html",
+        "https://autocatalogarchive.com/wp-content/uploads/2026/10/Aion-RT-2027-CN.pdf",
+        "https://car.autohome.com.cn/config/spec/79765.html"
       ]
     },
     {
@@ -5546,7 +5805,9 @@
       "has_miit": true,
       "file": "data/aion/aion-ut-2027.json",
       "source_urls": [
-        "https://www.aion.com.cn/vehicle/config/table?cid=NjI%3D"
+        "https://www.aion.com.cn/vehicle/config/table?cid=NjI%3D",
+        "https://chejiahao.m.autohome.com.cn/info/18388135",
+        "https://car.autohome.com.cn/config/spec/71304.html"
       ]
     },
     {
@@ -5590,7 +5851,9 @@
       "has_miit": false,
       "file": "data/aion/aion-v-2026.json",
       "source_urls": [
-        "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57"
+        "https://www.aion.com.cn/vehicles/aion_car_introduce?cid=57",
+        "https://car.autohome.com.cn/config/series/5622.html",
+        "https://k.sina.com.cn/article_7879996689_1d5af351106801f0em.html"
       ]
     },
     {
@@ -5678,7 +5941,10 @@
       "has_miit": false,
       "file": "data/arcfox/alpha-s6-t6-2026.json",
       "source_urls": [
-        "https://www.arcfox.com.cn/S6/index.html"
+        "https://www.arcfox.com.cn/S6/index.html",
+        "https://car.autohome.com.cn/config/spec/72447.html",
+        "https://car.autohome.com.cn/config/series/8053.html",
+        "https://db.auto.sohu.com/model_7635/config"
       ]
     },
     {
@@ -5748,7 +6014,7 @@
       "option_count": 1,
       "price_min_rmb": 99800,
       "price_max_rmb": 119800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 7.95,
       "max_cltc_ev_km": 520,
       "ground_clearance_mm": 145,
       "max_v2l_kw": 3.5,
@@ -5768,7 +6034,9 @@
       "has_miit": false,
       "file": "data/arcfox/kaola-s-2026.json",
       "source_urls": [
-        "https://www.arcfox.com.cn/"
+        "https://www.arcfox.com.cn/",
+        "https://car.autohome.com.cn/config/series/7797.html",
+        "https://car.autohome.com.cn/config/spec/76263.html"
       ]
     },
     {
@@ -5781,7 +6049,7 @@
       "category": "中大型豪华插混MPV",
       "release_date": "2026-09-23",
       "image_url": "https://m1.autoimg.cn/newsdfs/g33/M04/08/8D/400x400_1_q40_c40_autohomecar__ChxpVmqhEgaAEFg4AG7dF8NhK8A899.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/02/21/1ba8f20250221201116378.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -5813,7 +6081,9 @@
       "file": "data/wey/gaoshan-2026.json",
       "source_urls": [
         "https://www.wey.com/gaoshan.html",
-        "https://www.wey.com/gaoshan-intelligence.html"
+        "https://www.wey.com/gaoshan-intelligence.html",
+        "https://auto.ifeng.com/c/8vOgooqoHr3",
+        "https://www.xchuxing.com/article/147086"
       ]
     },
     {
@@ -5826,7 +6096,7 @@
       "category": "中大型6座插混SUV",
       "release_date": "2025-12-22",
       "image_url": "https://m1.autoimg.cn/newsdfs/g33/M09/C7/34/400x400_1_q40_c40_autohomecar__ChxpVWrqoLaAUsXPAA6Zk-JWiCQ104.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://q7.itc.cn/images01/20261008/0d029c77600f44618aa691d890014b84.png",
       "powertrains": [
         "PHEV"
       ],
@@ -5858,7 +6128,11 @@
       "file": "data/wey/lanshan-2026.json",
       "source_urls": [
         "https://www.wey.com/lanshan.html",
-        "https://www.wey.com/lanshanConfiguration.html"
+        "https://www.wey.com/lanshanConfiguration.html",
+        "https://db.auto.sohu.com/model_6975/config",
+        "https://car.autohome.com.cn/config/spec/75880.html",
+        "https://db.m.auto.sohu.com/trim_180702",
+        "https://db.m.auto.sohu.com/model_7884/a/1085092222_121772343"
       ]
     },
     {
@@ -5871,7 +6145,7 @@
       "category": "中大型机甲硬派插混越野SUV",
       "release_date": "2025-11-06",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/9D/1C/400x400_1_q40_c40_autohomecar__ChxpWGjVRSCAXYw6AHAwYsb7kw8454.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://cjh2.autoimg.cn/chejiahaodfs/g34/M02/74/FE/autohomecar__ChtpWGkNxpOAMlPbAAGch1_rIrI20.jpeg",
       "powertrains": [
         "PHEV"
       ],
@@ -5902,7 +6176,11 @@
       "has_miit": true,
       "file": "data/tank/tank-400-2026.json",
       "source_urls": [
-        "https://www.tanksuv.com/tank400.html"
+        "https://www.tanksuv.com/tank400.html",
+        "https://cj.sina.cn/articles/view/7879923803/1d5ae185b06801o2k4",
+        "https://car.autohome.com.cn/config/series/7213.html",
+        "https://detail.zol.com.cn/2147/2146896/param.shtml",
+        "https://chejiahao.m.autohome.com.cn/info/23758189"
       ]
     },
     {
@@ -5915,7 +6193,7 @@
       "category": "中大型豪华硬派插混越野SUV",
       "release_date": "2026-10-23",
       "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/CC/83/400x400_1_q40_c40_autohomecar__ChxpWGrR6-6AAGNOAC3jnS7vxnI297.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M08/0A/E3/400x400_0_f42_autohomecar__ChxpVmrZTomAOJPyAADo6CPRa2I693.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -5946,7 +6224,11 @@
       "has_miit": true,
       "file": "data/tank/tank-500-2027.json",
       "source_urls": [
-        "https://www.tanksuv.com/carparam-500.html"
+        "https://www.tanksuv.com/carparam-500.html",
+        "https://chejiahao.m.autohome.com.cn/info/15047945",
+        "https://car.autohome.com.cn/config/spec/79194.html",
+        "https://detail.zol.com.cn/2182/2181533/param.shtml",
+        "https://chejiahao.m.autohome.com.cn/info/26699556"
       ]
     },
     {
@@ -5958,8 +6240,8 @@
       "sub_brand": null,
       "category": "中型纯电轿车",
       "release_date": "2026-10-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tesla_Model_3_%27Highland%27_%282024%29.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tesla_Model_3_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -5973,14 +6255,14 @@
       "price_max_rmb": 339500,
       "best_zero_to_100_s": 3.1,
       "max_cltc_ev_km": 830,
-      "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "ground_clearance_mm": 138,
+      "max_v2l_kw": 2.2,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
       "has_seat_massage": false,
@@ -5993,7 +6275,11 @@
       "source_urls": [
         "https://www.tesla.cn/campaign/sales-promo-overview",
         "https://car.autohome.com.cn/config/series/5346.html",
-        "https://price.pcauto.com.cn/m142641/config.html"
+        "https://price.pcauto.com.cn/m142641/config.html",
+        "https://www.tesla.cn/model3",
+        "https://car.autohome.com.cn/config/spec/79398.html",
+        "https://car.autohome.com.cn/config/spec/71369.html",
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_3_%27Highland%27_(2024).jpg"
       ]
     },
     {
@@ -6005,7 +6291,7 @@
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2025-11-21",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/2023_Tesla_Model_S_Plaid.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -6017,14 +6303,14 @@
       "option_count": 0,
       "price_min_rmb": 842900,
       "price_max_rmb": 842900,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 3.2,
       "max_cltc_ev_km": null,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 117,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": false,
@@ -6037,7 +6323,8 @@
       "has_miit": false,
       "file": "data/tesla/tesla-model-s.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/2357.html"
+        "https://car.autohome.com.cn/config/series/2357.html",
+        "https://commons.wikimedia.org/wiki/File:2023_Tesla_Model_S_Plaid.jpg"
       ]
     },
     {
@@ -6049,8 +6336,8 @@
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2025-11-21",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/23_Tesla_Model_X_Plaid.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tesla_Model_X_Interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6061,14 +6348,14 @@
       "option_count": 0,
       "price_min_rmb": 882900,
       "price_max_rmb": 882900,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 3.9,
       "max_cltc_ev_km": null,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 146,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": false,
@@ -6081,7 +6368,8 @@
       "has_miit": false,
       "file": "data/tesla/tesla-model-x.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/2664.html"
+        "https://car.autohome.com.cn/config/series/2664.html",
+        "https://commons.wikimedia.org/wiki/File:23_Tesla_Model_X_Plaid.jpg"
       ]
     },
     {
@@ -6112,7 +6400,7 @@
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": true,
       "has_swap": false,
@@ -6126,7 +6414,8 @@
       "file": "data/tesla/tesla-model-y-l.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/spec/73654.html",
-        "http://auto.news18a.com/news/storys_267963.html"
+        "http://auto.news18a.com/news/storys_267963.html",
+        "https://car.autohome.com.cn/config/spec/79395.html"
       ]
     },
     {
@@ -6138,8 +6427,8 @@
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2026-10-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2025_Tesla_Model_Y_Juniper_Long_Range_RWD.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tesla_Model_Y_2025_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6153,14 +6442,14 @@
       "price_max_rmb": 369000,
       "best_zero_to_100_s": 3.5,
       "max_cltc_ev_km": 821,
-      "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "ground_clearance_mm": 138,
+      "max_v2l_kw": 2.2,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
       "has_seat_massage": false,
@@ -6173,7 +6462,9 @@
       "source_urls": [
         "https://www.tesla.cn/campaign/sales-promo-overview",
         "https://car.autohome.com.cn/config/series/5769.html",
-        "https://youjia.baidu.com/view/articleDetail/10253914547370588633"
+        "https://youjia.baidu.com/view/articleDetail/10253914547370588633",
+        "https://www.tesla.cn/modely",
+        "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_Juniper_Long_Range_RWD.jpg"
       ]
     },
     {
@@ -6185,8 +6476,8 @@
       "sub_brand": null,
       "category": "中型纯电轿车",
       "release_date": "2026-02-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/BMW_i3_%28G28%29_China.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/BMW_G20_LCI_Sensatec_Perforated_Cognac_%282%29.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6197,7 +6488,7 @@
       "option_count": 1,
       "price_min_rmb": 278000,
       "price_max_rmb": 338000,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 5.6,
       "max_cltc_ev_km": 625,
       "ground_clearance_mm": null,
       "max_v2l_kw": null,
@@ -6217,7 +6508,10 @@
       "has_miit": false,
       "file": "data/bmw/bmw-i3.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6544.html"
+        "https://car.autohome.com.cn/config/series/6544.html",
+        "https://car.autohome.com.cn/config/spec/73900.html",
+        "https://car.autohome.com.cn/config/spec/73901.html",
+        "https://commons.wikimedia.org/wiki/File:BMW_i3_(G28)_China.jpg"
       ]
     },
     {
@@ -6248,7 +6542,7 @@
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": false,
@@ -6261,7 +6555,9 @@
       "has_miit": false,
       "file": "data/bmw/bmw-i5.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7344.html"
+        "https://car.autohome.com.cn/config/series/7344.html",
+        "https://www.bmw.com.cn/zh/all-models/bmw-i/i5/2024/specsheet.html",
+        "https://car.autohome.com.cn/config/spec/64091.html"
       ]
     },
     {
@@ -6274,7 +6570,7 @@
       "category": "中大型纯电SUV",
       "release_date": "2023-07-24",
       "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M00/CD/62/400x400_0_f42_autohomecar__ChxpVWrSxVuAJe3mAAZMqhV3dAE209.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/BMW_iDrive8_iX.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6287,7 +6583,7 @@
       "price_max_rmb": 1009900,
       "best_zero_to_100_s": 3.8,
       "max_cltc_ev_km": 665,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 180,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": false,
@@ -6297,7 +6593,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -6305,7 +6601,10 @@
       "has_miit": false,
       "file": "data/bmw/bmw-ix.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/4942.html"
+        "https://car.autohome.com.cn/config/series/4942.html",
+        "https://car.autohome.com.cn/config/spec/63896.html",
+        "https://www.bmw.com.cn/zh/all-models/bmw-i/ix/2020/specsheet.html",
+        "https://commons.wikimedia.org/wiki/File:BMW_iDrive8_iX.jpg"
       ]
     },
     {
@@ -6318,7 +6617,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2026-05-29",
       "image_url": "https://img5.bitautoimg.com/usercenter/autoalbum/files/20260703/953/w300_yichecar_202607033409307109995339647.png.webp",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/BMW_U11_BEV_iX1_xDrive30_M_Sport_Sensatec_Mocha_%284%29.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6350,7 +6649,9 @@
       "file": "data/bmw/bmw-ix1.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/7223.html",
-        "https://car.m.yiche.com/baomaix1-9962/"
+        "https://car.m.yiche.com/baomaix1-9962/",
+        "https://car.autohome.com.cn/config/spec/77990.html",
+        "https://commons.wikimedia.org/wiki/File:BMW_U11_BEV_iX1_xDrive30_M_Sport_Sensatec_Mocha_(4).jpg"
       ]
     },
     {
@@ -6378,16 +6679,16 @@
       "best_zero_to_100_s": 4.9,
       "max_cltc_ev_km": 919,
       "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "max_v2l_kw": 3.5,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
       "has_rear_screen": false,
       "has_220v": false,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -6396,7 +6697,8 @@
       "file": "data/bmw/bmw-ix3-neue-klasse.json",
       "source_urls": [
         "https://www.bmw.com.cn/zh/all-models/bmw-i/ix3/2026/specsheet.html",
-        "https://auto.news18a.com/news/storys_317680.html"
+        "https://auto.news18a.com/news/storys_317680.html",
+        "https://car.autohome.com.cn/config/series/5758.html"
       ]
     },
     {
@@ -6408,7 +6710,7 @@
       "sub_brand": null,
       "category": "紧凑型纯电轿车",
       "release_date": "2026-11-10",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Mercedes-Benz_CLA_250%2B_Coup%C3%A9_%28C174%2C_2025%29_%2854837710776%29.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -6421,7 +6723,7 @@
       "option_count": 0,
       "price_min_rmb": 229000,
       "price_max_rmb": 249000,
-      "best_zero_to_100_s": 7.6,
+      "best_zero_to_100_s": 6.9,
       "max_cltc_ev_km": 866,
       "ground_clearance_mm": null,
       "max_v2l_kw": null,
@@ -6433,7 +6735,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -6441,7 +6743,10 @@
       "has_miit": false,
       "file": "data/mercedes/mercedes-cla-ev.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/8084.html"
+        "https://car.autohome.com.cn/config/series/8084.html",
+        "https://car.autohome.com.cn/config/spec/79798.html",
+        "https://car.autohome.com.cn/config/spec/79801.html",
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_CLA_250%2B_Coup%C3%A9_(C174,_2025)_(54837710776).jpg"
       ]
     },
     {
@@ -6453,8 +6758,8 @@
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2025-11-20",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mercedes-Benz_X294_IMG_8672.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/MERCEDES-BENZ_EQE_SUV_CHINA_VERSION_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6485,7 +6790,10 @@
       "has_miit": false,
       "file": "data/mercedes/mercedes-eqe-suv.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6975.html"
+        "https://car.autohome.com.cn/config/series/6975.html",
+        "https://car.autohome.com.cn/config/spec/75756.html",
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_X294_IMG_8672.jpg",
+        "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_EQE_SUV_CHINA_VERSION_INTERIOR.jpg"
       ]
     },
     {
@@ -6497,7 +6805,7 @@
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2025-11-26",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_EQE_43_%28V295%29_1X7A5782.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -6530,7 +6838,10 @@
       "file": "data/mercedes/mercedes-eqe.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/6640.html",
-        "https://price.pcauto.com.cn/s50257/config.html"
+        "https://price.pcauto.com.cn/s50257/config.html",
+        "https://car.autohome.com.cn/config/spec/75857.html",
+        "https://car.autohome.com.cn/config/spec/75858.html",
+        "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_EQE_43_(V295)_1X7A5782.jpg"
       ]
     },
     {
@@ -6542,8 +6853,8 @@
       "sub_brand": null,
       "category": "大型纯电轿车",
       "release_date": "2025-09-17",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mercedes-Benz_EQS_500_4MATIC_Electric_Art_%28V_297%2C_Facelift%29_%E2%80%93_f_11102025.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mercedes-Benz_EQS_450%2B_%28ZAA-297123%29_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6561,7 +6872,7 @@
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": true,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": false,
@@ -6574,7 +6885,9 @@
       "has_miit": false,
       "file": "data/mercedes/mercedes-eqs.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/5382.html"
+        "https://car.autohome.com.cn/config/series/5382.html",
+        "https://www.mercedes-benz.com.cn/vehicles/eq/eqs.html",
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQS_500_4MATIC_Electric_Art_(V_297,_Facelift)_%E2%80%93_f_11102025.jpg"
       ]
     },
     {
@@ -6587,7 +6900,7 @@
       "category": "中大型纯电轿车",
       "release_date": "2026-04-10",
       "image_url": "https://x0.ifengimg.com/res/2026/9AC99BCAB292A220D4CC65C2F3BE72FC4A557D26_size149_w800_h1066.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/AUDI_A6L_e-tron_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6610,7 +6923,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -6619,7 +6932,8 @@
       "file": "data/audi/audi-a6l-etron.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/8105.html",
-        "https://price.pcauto.com.cn/s49391/config.html"
+        "https://price.pcauto.com.cn/s49391/config.html",
+        "https://commons.wikimedia.org/wiki/File:AUDI_A6L_e-tron_INTERIOR.jpg"
       ]
     },
     {
@@ -6632,7 +6946,7 @@
       "category": "中型纯电旅行车",
       "release_date": "2025-09-16",
       "image_url": "https://k.sinaimg.cn/n/sinakd20250818s/82/w1250h1232/20250818/99e9-c9060d6e241c8761a91756d49b3299f0.jpg/w700d1q75cms.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/AUDI_E5_SPORTBACK_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6645,17 +6959,17 @@
       "price_max_rmb": 319900,
       "best_zero_to_100_s": 3.4,
       "max_cltc_ev_km": 773,
-      "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "ground_clearance_mm": 119,
+      "max_v2l_kw": 6.6,
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": true,
       "has_rear_screen": false,
       "has_220v": false,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": true,
@@ -6663,7 +6977,9 @@
       "has_miit": false,
       "file": "data/audi/audi-e5-sportback.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7925.html"
+        "https://car.autohome.com.cn/config/series/7925.html",
+        "https://www.saic-audi.cn/content/dam/OneWeb/saic_audi/purple_assets/1122/1120-%E5%A5%A5%E8%BF%AAE5%20sportback%E9%85%8D%E7%BD%AE%E8%A1%A8_1920x1080px.pdf",
+        "https://commons.wikimedia.org/wiki/File:AUDI_E5_SPORTBACK_INTERIOR.jpg"
       ]
     },
     {
@@ -6675,8 +6991,8 @@
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2023-11-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Audi_Q4_e-tron_IAA_2021_1X7A0227.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/AUDI_Q4_e-tron_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6689,7 +7005,7 @@
       "price_max_rmb": 332700,
       "best_zero_to_100_s": 6.8,
       "max_cltc_ev_km": 605,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 154,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": false,
@@ -6707,7 +7023,9 @@
       "has_miit": false,
       "file": "data/audi/audi-q4-etron.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6504.html"
+        "https://car.autohome.com.cn/config/series/6504.html",
+        "https://commons.wikimedia.org/wiki/File:Audi_Q4_e-tron_IAA_2021_1X7A0227.jpg",
+        "https://commons.wikimedia.org/wiki/File:AUDI_Q4_e-tron_INTERIOR.jpg"
       ]
     },
     {
@@ -6719,7 +7037,7 @@
       "sub_brand": null,
       "category": "中型纯电SUV",
       "release_date": "2026-04-10",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Audi_Q6L_e-tron_001.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -6733,7 +7051,7 @@
       "price_max_rmb": 399800,
       "best_zero_to_100_s": 4.5,
       "max_cltc_ev_km": 709,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 142,
       "max_v2l_kw": null,
       "has_air_suspension": false,
       "has_cdc": true,
@@ -6743,7 +7061,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -6751,7 +7069,8 @@
       "has_miit": false,
       "file": "data/audi/audi-q6l-etron.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7413.html"
+        "https://car.autohome.com.cn/config/series/7413.html",
+        "https://commons.wikimedia.org/wiki/File:Audi_Q6L_e-tron_001.jpg"
       ]
     },
     {
@@ -6764,7 +7083,7 @@
       "category": "中型纯电SUV",
       "release_date": "2025-10-14",
       "image_url": "https://q4.itc.cn/images01/20251015/07a6729c3679404d88533250f4e0898e.jpeg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Porsche_XAB_Macan_Turbo_Electric_Black_Extended_Leather_Turbonite_Package_%281%29.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6783,7 +7102,7 @@
       "has_cdc": true,
       "has_rws": true,
       "has_rear_screen": false,
-      "has_220v": false,
+      "has_220v": true,
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
@@ -6796,7 +7115,10 @@
       "file": "data/porsche/porsche-macan-ev.json",
       "source_urls": [
         "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-electric/",
-        "https://db.m.auto.sohu.com/model_7320/a/944080986_430526"
+        "https://db.m.auto.sohu.com/model_7320/a/944080986_430526",
+        "https://car.autohome.com.cn/config/series/7036.html",
+        "https://www.porsche.cn/china/zh/models/macan/macan-electric-models/macan-turbo-electric/",
+        "https://commons.wikimedia.org/wiki/File:Porsche_XAB_Macan_Turbo_Electric_Black_Extended_Leather_Turbonite_Package_(1).jpg"
       ]
     },
     {
@@ -6808,7 +7130,7 @@
       "sub_brand": null,
       "category": "中大型纯电轿跑",
       "release_date": "2025-10-14",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/2024_Porsche_Taycan_IMG_0046.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -6832,7 +7154,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -6840,7 +7162,10 @@
       "has_miit": false,
       "file": "data/porsche/porsche-taycan.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/4867.html"
+        "https://car.autohome.com.cn/config/series/4867.html",
+        "https://car.autohome.com.cn/config/spec/75241.html",
+        "https://newsroom.porsche.com/dam/jcr:d7bcf213-7cd0-4837-a62e-aed696dcdb46/PAG-PM-Taycan-ZH_EmpCo-Discl.pdf",
+        "https://commons.wikimedia.org/wiki/File:2024_Porsche_Taycan_IMG_0046.jpg"
       ]
     },
     {
@@ -6852,7 +7177,7 @@
       "sub_brand": null,
       "category": "中大型纯电轿跑SUV",
       "release_date": "2025-05-16",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Polestar_4.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -6867,16 +7192,16 @@
       "best_zero_to_100_s": 3.8,
       "max_cltc_ev_km": 755,
       "ground_clearance_mm": null,
-      "max_v2l_kw": null,
+      "max_v2l_kw": 3.5,
       "has_air_suspension": false,
       "has_cdc": false,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
-      "has_v2l": false,
+      "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": true,
       "has_cms_mirrors": false,
@@ -6884,7 +7209,8 @@
       "has_miit": false,
       "file": "data/volvo/polestar-4.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6654.html"
+        "https://car.autohome.com.cn/config/series/6654.html",
+        "https://commons.wikimedia.org/wiki/File:Polestar_4.jpg"
       ]
     },
     {
@@ -6896,8 +7222,8 @@
       "sub_brand": null,
       "category": "中大型纯电MPV",
       "release_date": "2026-04-24",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Volvo_EM90_003.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/VOLVO_EM90_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6915,12 +7241,12 @@
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": false,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -6929,7 +7255,9 @@
       "file": "data/volvo/volvo-em90.json",
       "source_urls": [
         "https://www.volvocars.com.cn/zh-cn/l/specifications/em90-electric/",
-        "https://car.autohome.com.cn/config/series/7365.html"
+        "https://car.autohome.com.cn/config/series/7365.html",
+        "https://commons.wikimedia.org/wiki/File:Volvo_EM90_003.jpg",
+        "https://commons.wikimedia.org/wiki/File:VOLVO_EM90_INTERIOR.jpg"
       ]
     },
     {
@@ -6941,8 +7269,8 @@
       "sub_brand": null,
       "category": "小型纯电SUV",
       "release_date": "2026-03-20",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Volvo_EX30_Auto_Zuerich_2023_1X7A0949.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Volvo_EX30_Ultra_SEA_Mist_%2813%29.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -6973,7 +7301,9 @@
       "has_miit": false,
       "file": "data/volvo/volvo-ex30.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7275.html"
+        "https://car.autohome.com.cn/config/series/7275.html",
+        "https://commons.wikimedia.org/wiki/File:Volvo_EX30_Auto_Zuerich_2023_1X7A0949.jpg",
+        "https://commons.wikimedia.org/wiki/File:Volvo_EX30_Ultra_SEA_Mist_(13).jpg"
       ]
     },
     {
@@ -6986,7 +7316,7 @@
       "category": "中大型纯电SUV",
       "release_date": "2026-05-29",
       "image_url": "https://car2.autoimg.cn/cardfs/product/g34/M0A/25/3B/400x400_0_f42_autohomecar__ChtpWGoYaLaANEHSAFOEit3d-fQ601.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Volvo_EX90_Ultra_SPA2_Dawn_%281%29.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7017,7 +7347,8 @@
       "has_miit": false,
       "file": "data/volvo/volvo-ex90.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7230.html"
+        "https://car.autohome.com.cn/config/series/7230.html",
+        "https://commons.wikimedia.org/wiki/File:Volvo_EX90_Ultra_SPA2_Dawn_(1).jpg"
       ]
     },
     {
@@ -7043,7 +7374,7 @@
       "price_max_rmb": 149900,
       "best_zero_to_100_s": 7.5,
       "max_cltc_ev_km": 630,
-      "ground_clearance_mm": null,
+      "ground_clearance_mm": 145,
       "max_v2l_kw": 3.3,
       "has_air_suspension": false,
       "has_cdc": false,
@@ -7074,7 +7405,7 @@
       "category": "紧凑型纯电两厢车",
       "release_date": "2025-09-22",
       "image_url": "https://k.sinaimg.cn/n/default/f8781c75/20260807/qiche_010.jpeg/w700d1q75cms.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Volkswagen_ID.3_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7105,7 +7436,8 @@
       "has_miit": false,
       "file": "data/volkswagen/vw-id3.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6265.html"
+        "https://car.autohome.com.cn/config/series/6265.html",
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_ID.3_interior.jpg"
       ]
     },
     {
@@ -7118,7 +7450,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2025-08-26",
       "image_url": "https://global-img.bitauto.com/usercenter/yhzx/20260623/498/218269949826426./w1260_m0_q100_yichecar_11af07d7d33ff2ebfc92fdb04755e32c.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/The_interior_of_Volkswagen_ID.4.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7141,7 +7473,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -7149,7 +7481,9 @@
       "has_miit": false,
       "file": "data/volkswagen/vw-id4-crozz.json",
       "source_urls": [
-        "https://www.bitauto.my/zh/wiki/%E5%A4%A7%E4%BC%97ID.4%20CROZZ/"
+        "https://www.bitauto.my/zh/wiki/%E5%A4%A7%E4%BC%97ID.4%20CROZZ/",
+        "https://car.autohome.com.cn/config/series/5785.html",
+        "https://commons.wikimedia.org/wiki/File:The_interior_of_Volkswagen_ID.4.jpg"
       ]
     },
     {
@@ -7161,7 +7495,7 @@
       "sub_brand": null,
       "category": "紧凑型纯电SUV",
       "release_date": "2025-05-16",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/2023_SAIC-Volkswagen_ID.4_X.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -7185,7 +7519,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -7194,7 +7528,8 @@
       "file": "data/volkswagen/vw-id4-x.json",
       "source_urls": [
         "https://m.svw-volkswagen.com/id4x",
-        "https://car.autohome.com.cn/config/series/5511.html"
+        "https://car.autohome.com.cn/config/series/5511.html",
+        "https://commons.wikimedia.org/wiki/File:2023_SAIC-Volkswagen_ID.4_X.jpg"
       ]
     },
     {
@@ -7207,7 +7542,7 @@
       "category": "中型纯电掀背轿车",
       "release_date": "2023-12-15",
       "image_url": "https://n.sinaimg.cn/auto/0/w2048h1152/20231215/384c-f581e89843999af73918ca4d24f58638.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2024_VW_ID.7%2C_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7238,7 +7573,8 @@
       "has_miit": false,
       "file": "data/volkswagen/vw-id7-vizzion.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7208.html"
+        "https://car.autohome.com.cn/config/series/7208.html",
+        "https://commons.wikimedia.org/wiki/File:2024_VW_ID.7,_interior.jpg"
       ]
     },
     {
@@ -7251,7 +7587,7 @@
       "category": "中型纯电轿车",
       "release_date": "2025-12-31",
       "image_url": "https://i2.dd-img.com/content/editor/695cea2b91968.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/2023_FAW-Toyota_bZ3_Vogue_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7282,7 +7618,8 @@
       "has_miit": false,
       "file": "data/toyota/toyota-bz3.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6903.html"
+        "https://car.autohome.com.cn/config/series/6903.html",
+        "https://commons.wikimedia.org/wiki/File:2023_FAW-Toyota_bZ3_Vogue_interior.jpg"
       ]
     },
     {
@@ -7339,7 +7676,7 @@
       "category": "中型纯电SUV",
       "release_date": "2025-06-10",
       "image_url": "https://i2.dd-img.com/content/editor/68484f077bf81.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toyota_bZ5_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7370,7 +7707,8 @@
       "has_miit": false,
       "file": "data/toyota/toyota-bz5.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7713.html"
+        "https://car.autohome.com.cn/config/series/7713.html",
+        "https://commons.wikimedia.org/wiki/File:Toyota_bZ5_interior.jpg"
       ]
     },
     {
@@ -7383,7 +7721,7 @@
       "category": "中大型纯电轿车",
       "release_date": "2026-03-29",
       "image_url": "https://imgcdn.yzwb.net/fcapp_94674328-a977-49bc-961f-6497cc263957_1774788986437?imageMogr2/thumbnail/1080x%3E/strip/ignore-error/1|imageslim",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Toyota_bZ7_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7414,7 +7752,8 @@
       "has_miit": false,
       "file": "data/toyota/toyota-bz7.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7724.html"
+        "https://car.autohome.com.cn/config/series/7724.html",
+        "https://commons.wikimedia.org/wiki/File:Toyota_bZ7_interior.jpg"
       ]
     },
     {
@@ -7427,7 +7766,7 @@
       "category": "中型纯电SUV",
       "release_date": "2025-04-15",
       "image_url": "https://m3.auto.itc.cn/q_mini/carpics/360car/7389/-26709231831031073821742997073983.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HONDA_YE_P7_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7458,7 +7797,8 @@
       "has_miit": false,
       "file": "data/honda/honda-p7.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7677.html"
+        "https://car.autohome.com.cn/config/series/7677.html",
+        "https://commons.wikimedia.org/wiki/File:HONDA_YE_P7_INTERIOR.jpg"
       ]
     },
     {
@@ -7516,7 +7856,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2023-07-20",
       "image_url": "https://ino.auto.itc.cn/c_zoom,w_480,h_320/q_mini/transparent-logo/6800/9ff76828b428fd4577dc574df394e67f.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nissan_Ariya%2C_BlueGray_interior%2C_2022.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7547,7 +7887,8 @@
       "has_miit": false,
       "file": "data/nissan/nissan-ariya.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6714.html"
+        "https://car.autohome.com.cn/config/series/6714.html",
+        "https://commons.wikimedia.org/wiki/File:Nissan_Ariya,_BlueGray_interior,_2022.jpg"
       ]
     },
     {
@@ -7560,7 +7901,7 @@
       "category": "中大型纯电轿车",
       "release_date": "2026-09-22",
       "image_url": "https://img.dongfeng-nissan.com.cn/large-file/technology/page2/array/2d.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nissan_Primera_EV_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7592,7 +7933,8 @@
       "file": "data/nissan/nissan-n7.json",
       "source_urls": [
         "https://www.dongfeng-nissan.com.cn/car/n7",
-        "https://car.autohome.com.cn/config/series/7935.html"
+        "https://car.autohome.com.cn/config/series/7935.html",
+        "https://commons.wikimedia.org/wiki/File:Nissan_Primera_EV_interior.jpg"
       ]
     },
     {
@@ -7605,7 +7947,7 @@
       "category": "中大型纯电SUV",
       "release_date": "2025-06-19",
       "image_url": "https://www.saicmotor.com/chinese/images/xwzx/xwk/2025/2025/6/20/047123866ED24635AE9A362672C426F4.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/BUICK_ELECTRA_E5_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7637,7 +7979,8 @@
       "file": "data/gm/buick-e5.json",
       "source_urls": [
         "https://www.saicmotor.com/m/xwzx/xwk/2025/61959.shtml",
-        "https://car.autohome.com.cn/config/series/7043.html"
+        "https://car.autohome.com.cn/config/series/7043.html",
+        "https://commons.wikimedia.org/wiki/File:BUICK_ELECTRA_E5_INTERIOR.jpg"
       ]
     },
     {
@@ -7650,7 +7993,7 @@
       "category": "中大型新能源轿车",
       "release_date": "2026-08-05",
       "image_url": "https://static.buick.com.cn/assets/ZWxlY3RyYV9sNw/electra_l7/features/SGM-869/kv_m_3.png?image_process=resize,w_768/quality,Q_85",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/08/07/d64c5202508071350049849.jpg",
       "powertrains": [
         "BEV",
         "REEV"
@@ -7676,14 +8019,15 @@
       "has_zero_gravity": true,
       "has_seat_massage": true,
       "has_cushion_massage": false,
-      "has_streaming_mirror": false,
+      "has_streaming_mirror": true,
       "has_cms_mirrors": false,
       "has_promo": true,
       "has_miit": false,
       "file": "data/gm/buick-electra-l7.json",
       "source_urls": [
         "https://www.buick.com.cn/electra_l7",
-        "https://car.autohome.com.cn/config/series/8100.html"
+        "https://car.autohome.com.cn/config/series/8100.html",
+        "https://www.xchuxing.com/article/156495"
       ]
     },
     {
@@ -7695,8 +8039,8 @@
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2026-06-01",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cadillac_Lyriq-V_001.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/CADILLAC_LYRIQ_CHINA_VERSION_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7721,13 +8065,16 @@
       "has_zero_gravity": false,
       "has_seat_massage": true,
       "has_cushion_massage": false,
-      "has_streaming_mirror": false,
+      "has_streaming_mirror": true,
       "has_cms_mirrors": false,
       "has_promo": true,
       "has_miit": false,
       "file": "data/gm/cadillac-iq-lyriq.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6404.html"
+        "https://car.autohome.com.cn/config/series/6404.html",
+        "https://car.autohome.com.cn/config/spec/65853.html",
+        "https://commons.wikimedia.org/wiki/File:Cadillac_Lyriq-V_001.jpg",
+        "https://commons.wikimedia.org/wiki/File:CADILLAC_LYRIQ_CHINA_VERSION_INTERIOR.jpg"
       ]
     },
     {
@@ -7765,13 +8112,14 @@
       "has_zero_gravity": false,
       "has_seat_massage": false,
       "has_cushion_massage": false,
-      "has_streaming_mirror": false,
+      "has_streaming_mirror": true,
       "has_cms_mirrors": false,
       "has_promo": true,
       "has_miit": false,
       "file": "data/gm/cadillac-iq-optiq.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/spec/67520.html"
+        "https://car.autohome.com.cn/config/spec/67520.html",
+        "https://car.autohome.com.cn/config/spec/67519.html"
       ]
     },
     {
@@ -7784,7 +8132,7 @@
       "category": "小型纯电SUV",
       "release_date": "2026-08-06",
       "image_url": "https://q3.itc.cn/q_70/images03/20260807/a5e2abff6f754b569dfa838b8fbe55b9.jpeg",
-      "interior_image_url": null,
+      "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SMART_1_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7815,7 +8163,8 @@
       "has_miit": false,
       "file": "data/smart/smart-1.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6369.html"
+        "https://car.autohome.com.cn/config/series/6369.html",
+        "https://commons.wikimedia.org/wiki/Category:Smart_Hashtag_1"
       ]
     },
     {
@@ -7828,7 +8177,7 @@
       "category": "紧凑型纯电SUV",
       "release_date": "2025-07-11",
       "image_url": "https://m1.auto.itc.cn/c_fill,w_600,h_400/30139420.JPG",
-      "interior_image_url": null,
+      "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SMART_3_CHINA_VERSION_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7859,7 +8208,8 @@
       "has_miit": false,
       "file": "data/smart/smart-3.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7044.html"
+        "https://car.autohome.com.cn/config/series/7044.html",
+        "https://commons.wikimedia.org/wiki/Category:Smart_Hashtag_3"
       ]
     },
     {
@@ -7897,7 +8247,7 @@
       "has_v2l": true,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -7906,7 +8256,8 @@
       "file": "data/smart/smart-5.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/spec/78924.html",
-        "https://car.autohome.com.cn/config/spec/75056.html"
+        "https://car.autohome.com.cn/config/spec/75056.html",
+        "https://car.autohome.com.cn/config/series/7684.html"
       ]
     },
     {
@@ -7919,7 +8270,7 @@
       "category": "中型纯电SUV",
       "release_date": "2023-12-10",
       "image_url": "https://car1.dd-img.com/serie/year/a6db5e6dab5ce14edec388c4809f3913.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2021_Ford_Mustang_Mach-E_Standard_Range_Interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7952,7 +8303,9 @@
       "file": "data/joint-other/ford-mustang-mach-e.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/spec/66122.html",
-        "https://detail.zol.com.cn/1975/1974752/param.shtml"
+        "https://detail.zol.com.cn/1975/1974752/param.shtml",
+        "https://car.autohome.com.cn/config/series/6029.html",
+        "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Mach-E_Standard_Range_Interior.jpg"
       ]
     },
     {
@@ -7965,7 +8318,7 @@
       "category": "中型豪华纯电SUV",
       "release_date": "2023-12-15",
       "image_url": "https://up-lexus-test.oss-cn-beijing.aliyuncs.com/news/7e26ca5ce01a4bc1a8caf5955c0d474f.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_interior_of_RZ_450e_PROTOTYPE.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -7997,7 +8350,8 @@
       "file": "data/joint-other/lexus-rz.json",
       "source_urls": [
         "https://www.lexus.com.cn/node/5709",
-        "https://car.autohome.com.cn/config/series/6525.html"
+        "https://car.autohome.com.cn/config/series/6525.html",
+        "https://commons.wikimedia.org/wiki/File:The_interior_of_RZ_450e_PROTOTYPE.jpg"
       ]
     },
     {
@@ -8088,7 +8442,8 @@
       "file": "data/joint-other/mazda-ez60.json",
       "source_urls": [
         "https://www.changan-mazda.com.cn/headlines/detail/?id=789",
-        "https://car.autohome.com.cn/config/spec/79343.html"
+        "https://car.autohome.com.cn/config/spec/79343.html",
+        "https://car.autohome.com.cn/config/series/7717.html"
       ]
     }
   ]

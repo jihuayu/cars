@@ -15,7 +15,7 @@
       "sub_brand": null,
       "category": "紧凑型纯电轿车",
       "release_date": "2026-11-10",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Mercedes-Benz_CLA_250%2B_Coup%C3%A9_%28C174%2C_2025%29_%2854837710776%29.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -28,7 +28,7 @@
       "option_count": 0,
       "price_min_rmb": 229000,
       "price_max_rmb": 249000,
-      "best_zero_to_100_s": 7.6,
+      "best_zero_to_100_s": 6.9,
       "max_cltc_ev_km": 866,
       "ground_clearance_mm": null,
       "max_v2l_kw": null,
@@ -40,7 +40,7 @@
       "has_v2l": false,
       "has_swap": false,
       "has_zero_gravity": false,
-      "has_seat_massage": false,
+      "has_seat_massage": true,
       "has_cushion_massage": false,
       "has_streaming_mirror": false,
       "has_cms_mirrors": false,
@@ -48,7 +48,10 @@
       "has_miit": false,
       "file": "data/mercedes/mercedes-cla-ev.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/8084.html"
+        "https://car.autohome.com.cn/config/series/8084.html",
+        "https://car.autohome.com.cn/config/spec/79798.html",
+        "https://car.autohome.com.cn/config/spec/79801.html",
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_CLA_250%2B_Coup%C3%A9_(C174,_2025)_(54837710776).jpg"
       ]
     },
     {
@@ -60,8 +63,8 @@
       "sub_brand": null,
       "category": "中大型纯电SUV",
       "release_date": "2025-11-20",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mercedes-Benz_X294_IMG_8672.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/MERCEDES-BENZ_EQE_SUV_CHINA_VERSION_INTERIOR.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -92,7 +95,10 @@
       "has_miit": false,
       "file": "data/mercedes/mercedes-eqe-suv.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6975.html"
+        "https://car.autohome.com.cn/config/series/6975.html",
+        "https://car.autohome.com.cn/config/spec/75756.html",
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_X294_IMG_8672.jpg",
+        "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_EQE_SUV_CHINA_VERSION_INTERIOR.jpg"
       ]
     },
     {
@@ -104,7 +110,7 @@
       "sub_brand": null,
       "category": "中大型纯电轿车",
       "release_date": "2025-11-26",
-      "image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_EQE_43_%28V295%29_1X7A5782.jpg",
       "interior_image_url": null,
       "powertrains": [
         "BEV"
@@ -137,7 +143,10 @@
       "file": "data/mercedes/mercedes-eqe.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/series/6640.html",
-        "https://price.pcauto.com.cn/s50257/config.html"
+        "https://price.pcauto.com.cn/s50257/config.html",
+        "https://car.autohome.com.cn/config/spec/75857.html",
+        "https://car.autohome.com.cn/config/spec/75858.html",
+        "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_EQE_43_(V295)_1X7A5782.jpg"
       ]
     },
     {
@@ -149,8 +158,8 @@
       "sub_brand": null,
       "category": "大型纯电轿车",
       "release_date": "2025-09-17",
-      "image_url": null,
-      "interior_image_url": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mercedes-Benz_EQS_500_4MATIC_Electric_Art_%28V_297%2C_Facelift%29_%E2%80%93_f_11102025.jpg",
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mercedes-Benz_EQS_450%2B_%28ZAA-297123%29_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -168,7 +177,7 @@
       "has_air_suspension": true,
       "has_cdc": true,
       "has_rws": true,
-      "has_rear_screen": false,
+      "has_rear_screen": true,
       "has_220v": false,
       "has_v2l": false,
       "has_swap": false,
@@ -181,7 +190,9 @@
       "has_miit": false,
       "file": "data/mercedes/mercedes-eqs.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/5382.html"
+        "https://car.autohome.com.cn/config/series/5382.html",
+        "https://www.mercedes-benz.com.cn/vehicles/eq/eqs.html",
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQS_500_4MATIC_Electric_Art_(V_297,_Facelift)_%E2%80%93_f_11102025.jpg"
       ]
     }
   ]

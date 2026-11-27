@@ -16,7 +16,7 @@
       "category": "中型纯电SUV",
       "release_date": "2023-12-10",
       "image_url": "https://car1.dd-img.com/serie/year/a6db5e6dab5ce14edec388c4809f3913.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2021_Ford_Mustang_Mach-E_Standard_Range_Interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -49,7 +49,9 @@
       "file": "data/joint-other/ford-mustang-mach-e.json",
       "source_urls": [
         "https://car.autohome.com.cn/config/spec/66122.html",
-        "https://detail.zol.com.cn/1975/1974752/param.shtml"
+        "https://detail.zol.com.cn/1975/1974752/param.shtml",
+        "https://car.autohome.com.cn/config/series/6029.html",
+        "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Mach-E_Standard_Range_Interior.jpg"
       ]
     },
     {
@@ -62,7 +64,7 @@
       "category": "中型豪华纯电SUV",
       "release_date": "2023-12-15",
       "image_url": "https://up-lexus-test.oss-cn-beijing.aliyuncs.com/news/7e26ca5ce01a4bc1a8caf5955c0d474f.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_interior_of_RZ_450e_PROTOTYPE.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -94,7 +96,8 @@
       "file": "data/joint-other/lexus-rz.json",
       "source_urls": [
         "https://www.lexus.com.cn/node/5709",
-        "https://car.autohome.com.cn/config/series/6525.html"
+        "https://car.autohome.com.cn/config/series/6525.html",
+        "https://commons.wikimedia.org/wiki/File:The_interior_of_RZ_450e_PROTOTYPE.jpg"
       ]
     },
     {
@@ -185,7 +188,8 @@
       "file": "data/joint-other/mazda-ez60.json",
       "source_urls": [
         "https://www.changan-mazda.com.cn/headlines/detail/?id=789",
-        "https://car.autohome.com.cn/config/spec/79343.html"
+        "https://car.autohome.com.cn/config/spec/79343.html",
+        "https://car.autohome.com.cn/config/series/7717.html"
       ]
     }
   ]

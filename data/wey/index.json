@@ -16,7 +16,7 @@
       "category": "中大型豪华插混MPV",
       "release_date": "2026-09-23",
       "image_url": "https://m1.autoimg.cn/newsdfs/g33/M04/08/8D/400x400_1_q40_c40_autohomecar__ChxpVmqhEgaAEFg4AG7dF8NhK8A899.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://s3.xchuxing.com/xchuxing/article/2025/02/21/1ba8f20250221201116378.jpg",
       "powertrains": [
         "PHEV"
       ],
@@ -48,7 +48,9 @@
       "file": "data/wey/gaoshan-2026.json",
       "source_urls": [
         "https://www.wey.com/gaoshan.html",
-        "https://www.wey.com/gaoshan-intelligence.html"
+        "https://www.wey.com/gaoshan-intelligence.html",
+        "https://auto.ifeng.com/c/8vOgooqoHr3",
+        "https://www.xchuxing.com/article/147086"
       ]
     },
     {
@@ -61,7 +63,7 @@
       "category": "中大型6座插混SUV",
       "release_date": "2025-12-22",
       "image_url": "https://m1.autoimg.cn/newsdfs/g33/M09/C7/34/400x400_1_q40_c40_autohomecar__ChxpVWrqoLaAUsXPAA6Zk-JWiCQ104.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://q7.itc.cn/images01/20261008/0d029c77600f44618aa691d890014b84.png",
       "powertrains": [
         "PHEV"
       ],
@@ -93,7 +95,11 @@
       "file": "data/wey/lanshan-2026.json",
       "source_urls": [
         "https://www.wey.com/lanshan.html",
-        "https://www.wey.com/lanshanConfiguration.html"
+        "https://www.wey.com/lanshanConfiguration.html",
+        "https://db.auto.sohu.com/model_6975/config",
+        "https://car.autohome.com.cn/config/spec/75880.html",
+        "https://db.m.auto.sohu.com/trim_180702",
+        "https://db.m.auto.sohu.com/model_7884/a/1085092222_121772343"
       ]
     }
   ]

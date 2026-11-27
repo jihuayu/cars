@@ -28,7 +28,7 @@
       "option_count": 4,
       "price_min_rmb": 309800,
       "price_max_rmb": 469800,
-      "best_zero_to_100_s": 8.5,
+      "best_zero_to_100_s": 7.3,
       "max_cltc_ev_km": 800,
       "ground_clearance_mm": null,
       "max_v2l_kw": 6.0,
@@ -48,7 +48,11 @@
       "has_miit": true,
       "file": "data/denza/denza-d9-2026.json",
       "source_urls": [
-        "https://www.denza.com/cn2_0/brand.html"
+        "https://www.denza.com/cn2_0/brand.html",
+        "https://chejiahao.m.autohome.com.cn/info/24835212",
+        "https://detail.zol.com.cn/2164/2163578/param.shtml",
+        "https://m.pcauto.com.cn/auto/pk/choose/m139728.html",
+        "https://db.m.auto.sohu.com/trim_182311"
       ]
     },
     {

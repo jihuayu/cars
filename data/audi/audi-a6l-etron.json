@@ -8,13 +8,14 @@
   "release_date": "2026-04-10",
   "data_as_of": "2026-11-27",
   "image_url": "https://x0.ifengimg.com/res/2026/9AC99BCAB292A220D4CC65C2F3BE72FC4A557D26_size149_w800_h1066.jpg",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/AUDI_A6L_e-tron_INTERIOR.jpg",
   "promo_highlights": [
     "PPE原生纯电平台+全域800V，30.98万元起"
   ],
   "source_urls": [
     "https://car.autohome.com.cn/config/series/8105.html",
-    "https://price.pcauto.com.cn/s49391/config.html"
+    "https://price.pcauto.com.cn/s49391/config.html",
+    "https://commons.wikimedia.org/wiki/File:AUDI_A6L_e-tron_INTERIOR.jpg"
   ],
   "references": [
     {
@@ -28,6 +29,13 @@
       "title": "太平洋汽车 2026款奥迪A6L e-tron参配",
       "url": "https://price.pcauto.com.cn/s49391/config.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - AUDI A6L e-tron Interior",
+      "url": "https://commons.wikimedia.org/wiki/File:AUDI_A6L_e-tron_INTERIOR.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -59,7 +67,8 @@
         "battery_capacity_kwh": 107.0,
         "cltc_pure_electric_range_km": 815,
         "fast_charge_time": "20.7min(10-80%,270kW)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "无",
@@ -75,13 +84,13 @@
         "instrument_cluster": "双连屏仪表",
         "screens": "双连屏+副驾屏",
         "rear_screen": "无",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风，后排选装加热",
+        "seat_massage": "前排按摩",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选装(1000元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -112,7 +121,8 @@
         "battery_capacity_kwh": 107.0,
         "cltc_pure_electric_range_km": 721,
         "fast_charge_time": "20.7min(10-80%,270kW)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "宁德时代"
       },
       "chassis": {
         "air_suspension": "标配",
@@ -128,13 +138,13 @@
         "instrument_cluster": "双连屏仪表",
         "screens": "双连屏+副驾屏",
         "rear_screen": "无",
-        "power_220v": "未知",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排加热/通风，后排选装加热",
+        "seat_massage": "前排按摩",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "选装(1000元)",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

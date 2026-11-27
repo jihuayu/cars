@@ -16,7 +16,7 @@
       "category": "中大型/全尺寸增程SUV",
       "release_date": "2026-09-07",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/n70_20260907/pc/n90.png",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M0A/89/A8/400x400_0_f42_autohomecar__ChxpWGrllsmAHIusAAJHaTnCxfI008.jpg",
       "powertrains": [
         "REEV"
       ],
@@ -49,7 +49,9 @@
       "file": "data/xiaomi/skynomad-n70-n90-2026.json",
       "source_urls": [
         "https://www.xiaomiev.com/skynomad/car-config",
-        "https://www.xiaomiev.com/skynomad/n70"
+        "https://www.xiaomiev.com/skynomad/n70",
+        "https://db.m.auto.sohu.com/model_7311/a/1048992075_121124485",
+        "https://chejiahao.m.autohome.com.cn/info/26778158"
       ]
     },
     {
@@ -62,7 +64,7 @@
       "category": "中大型纯电轿跑",
       "release_date": "2026-03-19",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/su7_20260319/pc/0-1_1.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M00/03/BE/400x400_0_f42_autohomecar__ChxpV2leMFyAJONgACcFyzLAuBU490.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -95,7 +97,9 @@
       "file": "data/xiaomi/su7-2026.json",
       "source_urls": [
         "https://www.xiaomiev.com/car-config",
-        "https://www.xiaomiev.com/su7"
+        "https://www.xiaomiev.com/su7",
+        "http://auto.cyol.com/gb/articles/2023-12/14/content_6zgmWqh7zy.html",
+        "https://chejiahao.m.autohome.com.cn/info/24686778"
       ]
     },
     {
@@ -108,7 +112,7 @@
       "category": "高性能纯电四门超跑",
       "release_date": "2025-02-27",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "interior_image_url": null,
+      "interior_image_url": "https://m1.autoimg.cn/newsdfs/g30/M02/66/53/400x400_1_q40_c40_autohomecar__CjIFU2f2G-2AZtAeACC2kghyD5Q397.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -139,7 +143,9 @@
       "has_miit": true,
       "file": "data/xiaomi/su7-ultra-2025.json",
       "source_urls": [
-        "https://www.xiaomiev.com/car-config?active=500010402"
+        "https://www.xiaomiev.com/car-config?active=500010402",
+        "https://auto.news18a.com/news/storys_317990.html",
+        "https://car.m.autohome.com.cn/pic/series/7915.html"
       ]
     },
     {
@@ -152,7 +158,7 @@
       "category": "中大型纯电SUV",
       "release_date": "2025-06-26",
       "image_url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/yu7_20260521/pc/1.jpg?x-fds-process=image/resize,f_webp,q_100",
-      "interior_image_url": null,
+      "interior_image_url": "https://img2.autoimg.cn/videos/g32/M03/5D/A0/autohomecar__Chtk2WhnhR2AYOpqAAFPDjO3Mag019.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -184,7 +190,9 @@
       "has_miit": true,
       "file": "data/xiaomi/yu7-2026.json",
       "source_urls": [
-        "https://www.xiaomiev.com/yu7"
+        "https://www.xiaomiev.com/yu7",
+        "https://chedongxi.com/p/365464.html",
+        "https://car.m.autohome.com.cn/pic/series/7793.html"
       ]
     }
   ]

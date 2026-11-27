@@ -8,18 +8,26 @@
   "release_date": "2023-07-20",
   "data_as_of": "2026-11-27",
   "image_url": "https://ino.auto.itc.cn/c_zoom,w_480,h_320/q_mini/transparent-logo/6800/9ff76828b428fd4577dc574df394e67f.png",
-  "interior_image_url": null,
+  "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nissan_Ariya%2C_BlueGray_interior%2C_2022.jpg",
   "promo_highlights": [
     "终端优惠最高5.5万元，参考价14.49万起"
   ],
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/6714.html"
+    "https://car.autohome.com.cn/config/series/6714.html",
+    "https://commons.wikimedia.org/wiki/File:Nissan_Ariya,_BlueGray_interior,_2022.jpg"
   ],
   "references": [
     {
       "title": "ARIYA艾睿雅参数配置-汽车之家",
       "url": "https://car.autohome.com.cn/config/series/6714.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "File:Nissan Ariya, BlueGray interior, 2022.jpg - Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Nissan_Ariya,_BlueGray_interior,_2022.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -51,7 +59,8 @@
         "battery_capacity_kwh": 90.0,
         "cltc_pure_electric_range_km": 623,
         "fast_charge_time": "30分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "东风汽车"
       },
       "chassis": {
         "air_suspension": "无",
@@ -71,8 +80,8 @@
         "seat_heating_ventilation": "前排加热",
         "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
@@ -104,7 +113,8 @@
         "battery_capacity_kwh": 90.0,
         "cltc_pure_electric_range_km": 533,
         "fast_charge_time": "30分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "东风汽车"
       },
       "chassis": {
         "air_suspension": "无",
@@ -124,8 +134,8 @@
         "seat_heating_ventilation": "前后排加热",
         "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
         "streaming_interior_mirror": "标配",
         "streaming_exterior_mirrors": "无"
       },

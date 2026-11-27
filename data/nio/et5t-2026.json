@@ -7,7 +7,10 @@
   "category": "中型纯电旅行车",
   "release_date": "2026-04-02",
   "source_urls": [
-    "https://www.nio.cn/et5t"
+    "https://www.nio.cn/et5t",
+    "https://www.xchuxing.com/article/146985",
+    "https://car.autohome.com.cn/config/series/7306.html",
+    "https://photo.yiche.com/sumphoto/weilaiet5touring/"
   ],
   "skus": [
     {
@@ -22,7 +25,7 @@
         "height_mm": 1499,
         "wheelbase_mm": 2888,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2245,
         "trunk_volume_l": "最大1687",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -38,7 +41,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "标配100kWh（支持换电75/100/150kWh）",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航/卫蓝科技",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 710,
         "cltc_combined_range_km": 710,
@@ -136,7 +139,7 @@
         "height_mm": 1499,
         "wheelbase_mm": 2888,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2245,
         "trunk_volume_l": "最大1687",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -152,7 +155,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "标配100kWh（支持换电75/100/150kWh）",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航/卫蓝科技",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 710,
         "cltc_combined_range_km": 710,
@@ -250,7 +253,7 @@
         "height_mm": 1499,
         "wheelbase_mm": 2888,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2245,
         "trunk_volume_l": "最大1687",
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -266,7 +269,7 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_type": "标配100kWh（支持换电75/100/150kWh）",
-        "battery_supplier": null,
+        "battery_supplier": "宁德时代/中创新航/卫蓝科技",
         "battery_capacity_kwh": 100,
         "cltc_pure_electric_range_km": 710,
         "cltc_combined_range_km": 710,
@@ -380,8 +383,22 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来ET5T参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7306.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "蔚来ET5T实拍图片大全 - 易车",
+      "url": "https://photo.yiche.com/sumphoto/weilaiet5touring/",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://img1.bitautoimg.com/autoalbum/files/20260421/551/202604216215676762155133180_13871016_4.jpg"
 }

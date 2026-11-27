@@ -7,7 +7,10 @@
   "category": "中大型7座MPV",
   "release_date": "2025-11-20",
   "source_urls": [
-    "https://www.xiaopeng.com/x9_2026/configuration.html"
+    "https://www.xiaopeng.com/x9_2026/configuration.html",
+    "https://chejiahao.m.autohome.com.cn/info/21402232",
+    "https://car.autohome.com.cn/config/spec/76495.html",
+    "https://chejiahao.m.autohome.com.cn/info/12840870"
   ],
   "skus": [
     {
@@ -379,8 +382,8 @@
       },
       "performance": {
         "drive_type": "单电机",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
+        "motor_power_kw": 235,
+        "motor_torque_nm": 450,
         "zero_to_100_s": null,
         "top_speed_kmh": 200
       },
@@ -388,7 +391,7 @@
         "voltage_platform_v": 800,
         "battery_type": "5C超充AI电池",
         "battery_supplier": "中创新航",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 94.8,
         "cltc_pure_electric_range_km": 665,
         "cltc_combined_range_km": 665,
         "energy_consumption_kwh_100km": null,
@@ -966,8 +969,22 @@
       "type": "miit",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏X9 2026款纯电665 Max参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/76495.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "小鹏X9内饰实拍曝光 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/12840870",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
     }
   ],
   "origin_type": "国产",
-  "interior_image_url": null
+  "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g27/M05/A2/58/400x400_0_f42_autohomecar__CjIFVWSj-kGALC5tAAfVqTdugks880.png"
 }

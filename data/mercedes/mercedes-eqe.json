@@ -7,14 +7,17 @@
   "category": "中大型纯电轿车",
   "release_date": "2025-11-26",
   "data_as_of": "2026-11-27",
-  "image_url": null,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_EQE_43_%28V295%29_1X7A5782.jpg",
   "interior_image_url": null,
   "promo_highlights": [
     "终端参考优惠最高约23.9万元（参考价23.90万-38.70万元起）"
   ],
   "source_urls": [
     "https://car.autohome.com.cn/config/series/6640.html",
-    "https://price.pcauto.com.cn/s50257/config.html"
+    "https://price.pcauto.com.cn/s50257/config.html",
+    "https://car.autohome.com.cn/config/spec/75857.html",
+    "https://car.autohome.com.cn/config/spec/75858.html",
+    "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_EQE_43_(V295)_1X7A5782.jpg"
   ],
   "references": [
     {
@@ -28,6 +31,27 @@
       "title": "太平洋汽车 2026款奔驰EQE参配",
       "url": "https://price.pcauto.com.cn/s50257/config.html",
       "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 奔驰EQE 2026款500 4MATIC豪华版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/75857.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 奔驰EQE 2026款500 4MATIC旗舰版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/75858.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "Wikimedia Commons - Mercedes-Benz EQE (V295)",
+      "url": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_EQE_43_(V295)_1X7A5782.jpg",
+      "type": "media",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }
@@ -54,12 +78,13 @@
         "zero_to_100_s": 4.9
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
         "battery_capacity_kwh": 96.1,
         "cltc_pure_electric_range_km": 681,
         "fast_charge_time": "0.62h(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "北京奔驰(孚能科技电芯)"
       },
       "chassis": {
         "air_suspension": "未知",
@@ -75,13 +100,13 @@
         "instrument_cluster": "12.3英寸全液晶仪表",
         "screens": "12.8英寸OLED中控屏",
         "rear_screen": "无",
-        "power_220v": "未知",
+        "power_220v": "无",
         "seat_heating_ventilation": "前排加热标配，通风选配",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "标配",
         "steering_wheel_heating": "选配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -107,12 +132,13 @@
         "zero_to_100_s": 4.9
       },
       "battery_and_charging": {
-        "voltage_platform_v": null,
+        "voltage_platform_v": 400,
         "battery_chemistry": "三元锂",
         "battery_capacity_kwh": 96.1,
         "cltc_pure_electric_range_km": 681,
         "fast_charge_time": "0.62h(10-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "北京奔驰(孚能科技电芯)"
       },
       "chassis": {
         "air_suspension": "未知",
@@ -128,13 +154,13 @@
         "instrument_cluster": "MBUX超联屏+HUD",
         "screens": "1.41米MBUX超联屏",
         "rear_screen": "无",
-        "power_220v": "未知",
+        "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风",
-        "seat_massage": "未知",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
         "steering_wheel_electric": "标配",
         "steering_wheel_heating": "选配",
-        "streaming_interior_mirror": "未知",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []

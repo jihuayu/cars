@@ -8,7 +8,9 @@
   "category": "中大型行政豪华轿车",
   "release_date": "2026-03-23",
   "source_urls": [
-    "https://car.autohome.com.cn/config/series/7630.html"
+    "https://car.autohome.com.cn/config/series/7630.html",
+    "https://m.21jingji.com/article/20240313/herald/6d6405f3fd1ce1b8f438adc1ae3e768b.html",
+    "https://car.autohome.com.cn/config/spec/75166.html"
   ],
   "skus": [
     {
@@ -23,7 +25,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2357,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -31,9 +33,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 7.16,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -137,7 +139,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2375,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -145,9 +147,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 7.35,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -251,7 +253,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2375,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -259,9 +261,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 320,
+        "zero_to_100_s": 7.35,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -365,7 +367,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2298,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -373,9 +375,9 @@
       },
       "performance": {
         "drive_type": "后驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 227,
+        "motor_torque_nm": 396,
+        "zero_to_100_s": 6.0,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -479,7 +481,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2414,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -488,7 +490,7 @@
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": 385,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 673,
         "zero_to_100_s": 3.92,
         "top_speed_kmh": null
       },
@@ -593,7 +595,7 @@
         "height_mm": 1492,
         "wheelbase_mm": 3050,
         "seats": 5,
-        "curb_weight_kg": null,
+        "curb_weight_kg": 2414,
         "trunk_volume_l": null,
         "frunk_volume_l": null,
         "min_turning_radius_m": null,
@@ -602,7 +604,7 @@
       "performance": {
         "drive_type": "双电机四驱",
         "motor_power_kw": 385,
-        "motor_torque_nm": null,
+        "motor_torque_nm": 673,
         "zero_to_100_s": 3.92,
         "top_speed_kmh": null
       },
@@ -721,6 +723,13 @@
       "title": "工信部第381批：享界S9申报信息 - 21财经",
       "url": "https://m.21jingji.com/article/20240313/herald/6d6405f3fd1ce1b8f438adc1ae3e768b.html",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "享界S9 2026款纯电Ultra四驱100kWh参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/75166.html",
+      "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

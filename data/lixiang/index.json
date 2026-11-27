@@ -117,7 +117,7 @@
       "option_count": 4,
       "price_min_rmb": 369800,
       "price_max_rmb": 369800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 4.9,
       "max_cltc_ev_km": 705,
       "ground_clearance_mm": null,
       "max_v2l_kw": 3.5,
@@ -138,7 +138,10 @@
       "file": "data/lixiang/i9-2026.json",
       "source_urls": [
         "https://www.lixiang.com/news/188.html",
-        "https://www.lixiang.com/configuration.html"
+        "https://www.lixiang.com/configuration.html",
+        "https://auto.ifeng.com/c/8ueQFcdLanW",
+        "https://car.autohome.com.cn/config/spec/78523.html",
+        "https://car.autohome.com.cn/config/series/8727.html"
       ]
     },
     {
@@ -254,7 +257,7 @@
       "option_count": 9,
       "price_min_rmb": 459800,
       "price_max_rmb": 509800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 4.9,
       "max_cltc_ev_km": 420,
       "ground_clearance_mm": null,
       "max_v2l_kw": 3.5,
@@ -276,7 +279,9 @@
       "source_urls": [
         "https://www.lixiang.com/configuration.html",
         "https://www.lixiang.com/L9",
-        "https://www.lixiang.com/news/159.html"
+        "https://www.lixiang.com/news/159.html",
+        "https://www.ithome.com/0/999/914.htm",
+        "https://car.autohome.com.cn/config/spec/77859.html"
       ]
     },
     {
@@ -300,7 +305,7 @@
       "option_count": 2,
       "price_min_rmb": 509800,
       "price_max_rmb": 509800,
-      "best_zero_to_100_s": null,
+      "best_zero_to_100_s": 4.9,
       "max_cltc_ev_km": 710,
       "ground_clearance_mm": null,
       "max_v2l_kw": 3.5,
@@ -321,7 +326,9 @@
       "file": "data/lixiang/mega-2026.json",
       "source_urls": [
         "https://www.lixiang.com/news/186.html",
-        "https://www.lixiang.com/configuration.html"
+        "https://www.lixiang.com/configuration.html",
+        "https://chejiahao.m.autohome.com.cn/info/26420944",
+        "https://car.autohome.com.cn/config/spec/78129.html"
       ]
     }
   ]

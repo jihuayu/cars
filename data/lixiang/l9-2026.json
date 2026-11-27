@@ -9,7 +9,9 @@
   "source_urls": [
     "https://www.lixiang.com/configuration.html",
     "https://www.lixiang.com/L9",
-    "https://www.lixiang.com/news/159.html"
+    "https://www.lixiang.com/news/159.html",
+    "https://www.ithome.com/0/999/914.htm",
+    "https://car.autohome.com.cn/config/spec/77859.html"
   ],
   "skus": [
     {
@@ -32,9 +34,9 @@
       },
       "performance": {
         "drive_type": "前后双电机智能四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 420,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 4.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -146,9 +148,9 @@
       },
       "performance": {
         "drive_type": "前后双电机智能四驱",
-        "motor_power_kw": null,
-        "motor_torque_nm": null,
-        "zero_to_100_s": null,
+        "motor_power_kw": 420,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 4.9,
         "top_speed_kmh": null
       },
       "battery_and_charging": {
@@ -292,6 +294,13 @@
       "title": "理想L9 Livis工信部第411批申报参数 - IT之家",
       "url": "https://www.ithome.com/0/999/914.htm",
       "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "理想L9 2026款Ultra参数配置表 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/spec/77859.html",
+      "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
     }

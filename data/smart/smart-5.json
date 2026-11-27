@@ -14,7 +14,8 @@
   ],
   "source_urls": [
     "https://car.autohome.com.cn/config/spec/78924.html",
-    "https://car.autohome.com.cn/config/spec/75056.html"
+    "https://car.autohome.com.cn/config/spec/75056.html",
+    "https://car.autohome.com.cn/config/series/7684.html"
   ],
   "references": [
     {
@@ -27,6 +28,13 @@
     {
       "title": "smart精灵#5 120Pro参数-汽车之家",
       "url": "https://car.autohome.com.cn/config/spec/75056.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "smart精灵#5参数配置表大全_购车价格 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7684.html",
       "type": "database",
       "is_third_party": true,
       "retrieved_at": "2026-11-27"
@@ -56,10 +64,11 @@
       "battery_and_charging": {
         "voltage_platform_v": null,
         "battery_chemistry": "磷酸铁锂",
-        "battery_capacity_kwh": null,
+        "battery_capacity_kwh": 20.0,
         "cltc_pure_electric_range_km": 120,
         "fast_charge_time": "20分钟(30-80%)",
-        "v2l_power_kw": null
+        "v2l_power_kw": null,
+        "battery_supplier": "蜂巢能源"
       },
       "chassis": {
         "air_suspension": "无",
@@ -76,12 +85,12 @@
         "screens": "中控大屏",
         "rear_screen": "无",
         "power_220v": "无",
-        "seat_heating_ventilation": "未知",
-        "seat_massage": "未知",
+        "seat_heating_ventilation": "前排加热",
+        "seat_massage": "无",
         "zero_gravity_seat": "无",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": []
@@ -112,7 +121,8 @@
         "battery_capacity_kwh": 100.0,
         "cltc_pure_electric_range_km": 660,
         "fast_charge_time": "15分钟(10-80%,4C)",
-        "v2l_power_kw": 3.0
+        "v2l_power_kw": 3.0,
+        "battery_supplier": "宁德时代(时代吉利)"
       },
       "chassis": {
         "air_suspension": "标配空气悬架",
@@ -130,11 +140,11 @@
         "rear_screen": "无",
         "power_220v": "无",
         "seat_heating_ventilation": "前排加热/通风",
-        "seat_massage": "未知",
+        "seat_massage": "前排按摩",
         "zero_gravity_seat": "未知",
-        "steering_wheel_electric": "未知",
-        "steering_wheel_heating": "未知",
-        "streaming_interior_mirror": "未知",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
         "streaming_exterior_mirrors": "无"
       },
       "options": [

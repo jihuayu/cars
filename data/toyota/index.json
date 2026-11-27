@@ -16,7 +16,7 @@
       "category": "中型纯电轿车",
       "release_date": "2025-12-31",
       "image_url": "https://i2.dd-img.com/content/editor/695cea2b91968.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/2023_FAW-Toyota_bZ3_Vogue_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -47,7 +47,8 @@
       "has_miit": false,
       "file": "data/toyota/toyota-bz3.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/6903.html"
+        "https://car.autohome.com.cn/config/series/6903.html",
+        "https://commons.wikimedia.org/wiki/File:2023_FAW-Toyota_bZ3_Vogue_interior.jpg"
       ]
     },
     {
@@ -104,7 +105,7 @@
       "category": "中型纯电SUV",
       "release_date": "2025-06-10",
       "image_url": "https://i2.dd-img.com/content/editor/68484f077bf81.jpg",
-      "interior_image_url": null,
+      "interior_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toyota_bZ5_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -135,7 +136,8 @@
       "has_miit": false,
       "file": "data/toyota/toyota-bz5.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7713.html"
+        "https://car.autohome.com.cn/config/series/7713.html",
+        "https://commons.wikimedia.org/wiki/File:Toyota_bZ5_interior.jpg"
       ]
     },
     {
@@ -148,7 +150,7 @@
       "category": "中大型纯电轿车",
       "release_date": "2026-03-29",
       "image_url": "https://imgcdn.yzwb.net/fcapp_94674328-a977-49bc-961f-6497cc263957_1774788986437?imageMogr2/thumbnail/1080x%3E/strip/ignore-error/1|imageslim",
-      "interior_image_url": null,
+      "interior_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Toyota_bZ7_interior.jpg",
       "powertrains": [
         "BEV"
       ],
@@ -179,7 +181,8 @@
       "has_miit": false,
       "file": "data/toyota/toyota-bz7.json",
       "source_urls": [
-        "https://car.autohome.com.cn/config/series/7724.html"
+        "https://car.autohome.com.cn/config/series/7724.html",
+        "https://commons.wikimedia.org/wiki/File:Toyota_bZ7_interior.jpg"
       ]
     }
   ]
