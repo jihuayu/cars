@@ -423,7 +423,44 @@
       z-index: 2;
     }
     table.spec-table thead th { background: var(--surface-2); color: var(--text); font-weight: 700; }
-    .diff-row td { background: rgba(59, 130, 246, 0.08); }
+    .diff-row td:first-child { color: #e2e8f0; }
+    .diff-row td:first-child::before {
+      content: "";
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #f59e0b;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    td.diff-cell { font-weight: 600; }
+    td.diff-outlier { background: rgba(245, 158, 11, 0.16); color: #fde68a; box-shadow: inset 3px 0 0 #f59e0b; }
+    td.diff-v1 { background: rgba(245, 158, 11, 0.14); color: #fde68a; box-shadow: inset 3px 0 0 #f59e0b; }
+    td.diff-v2 { background: rgba(59, 130, 246, 0.15); color: #bfdbfe; box-shadow: inset 3px 0 0 #3b82f6; }
+    td.diff-v3 { background: rgba(16, 185, 129, 0.14); color: #a7f3d0; box-shadow: inset 3px 0 0 #10b981; }
+    td.diff-v4 { background: rgba(168, 85, 247, 0.15); color: #e9d5ff; box-shadow: inset 3px 0 0 #a855f7; }
+    td.diff-v5 { background: rgba(244, 63, 94, 0.14); color: #fecdd3; box-shadow: inset 3px 0 0 #f43f5e; }
+    .diff-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 8px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .diff-legend { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+    .diff-legend-item { display: inline-flex; align-items: center; gap: 5px; }
+    .diff-swatch {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+    }
+    .diff-swatch.outlier { background: rgba(245, 158, 11, 0.28); border-left: 3px solid #f59e0b; }
+    .diff-swatch.multi { background: linear-gradient(90deg, rgba(245,158,11,0.35) 33%, rgba(59,130,246,0.38) 33% 66%, rgba(16,185,129,0.35) 66%); border: 1px solid rgba(255,255,255,0.18); }
     .avail-std { color: #34d399; font-weight: 600; }
     .avail-opt { color: #93c5fd; }
     .avail-no { color: #64748b; }
@@ -826,6 +863,52 @@
       });
     }
 
+    function computeRowDiffClasses(values) {
+      const n = values.length;
+      if (n <= 1) return { hasDiff: false, cellClasses: values.map(() => '') };
+      const norm = values.map(v => String(v ?? '').trim().replace(/\s+/g, ' '));
+      const freq = new Map();
+      for (const v of norm) freq.set(v, (freq.get(v) || 0) + 1);
+      if (freq.size <= 1) return { hasDiff: false, cellClasses: norm.map(() => '') };
+
+      let maxCount = 0;
+      for (const c of freq.values()) if (c > maxCount) maxCount = c;
+      const topVals = [...freq.entries()].filter(([, c]) => c === maxCount).map(([k]) => k);
+      const hasUniqueMajority = maxCount >= 2 && topVals.length === 1;
+      const palette = ['diff-v1', 'diff-v2', 'diff-v3', 'diff-v4', 'diff-v5'];
+
+      if (hasUniqueMajority) {
+        const baseline = topVals[0];
+        const diffVals = [...freq.keys()].filter(k => k !== baseline);
+        if (diffVals.length === 1) {
+          return {
+            hasDiff: true,
+            cellClasses: norm.map(v => (v === baseline ? '' : 'diff-cell diff-outlier')),
+          };
+        }
+        const colorMap = new Map();
+        diffVals.forEach((k, idx) => colorMap.set(k, `diff-cell ${palette[idx % palette.length]}`));
+        return {
+          hasDiff: true,
+          cellClasses: norm.map(v => (v === baseline ? '' : colorMap.get(v))),
+        };
+      }
+
+      // Every SKU differs, or tied groups with no single majority -> highlight every SKU cell by its distinct value
+      const colorMap = new Map();
+      let idx = 0;
+      for (const v of norm) {
+        if (!colorMap.has(v)) {
+          colorMap.set(v, `diff-cell ${palette[idx % palette.length]}`);
+          idx++;
+        }
+      }
+      return {
+        hasDiff: true,
+        cellClasses: norm.map(v => colorMap.get(v)),
+      };
+    }
+
     function specRowsForSkus(skus) {
       return [
         ['官方指导价', s => fmtPrice(s.price_rmb)],
@@ -969,7 +1052,11 @@
             }).join('')}
           </tr>
         </thead>`;
-      const tbody = `<tbody>${rows.map(([label, fn]) => `<tr><td>${label}</td>${data.skus.map(s => `<td>${escapeHtml(fn(s))}</td>`).join('')}</tr>`).join('')}</tbody>`;
+      const tbody = `<tbody>${rows.map(([label, fn]) => {
+        const vals = data.skus.map(s => fn(s));
+        const diff = computeRowDiffClasses(vals);
+        return `<tr class="${diff.hasDiff ? 'diff-row' : ''}" data-has-diff="${diff.hasDiff ? '1' : '0'}"><td>${label}</td>${vals.map((v, i) => `<td class="${diff.cellClasses[i]}">${escapeHtml(v)}</td>`).join('')}</tr>`;
+      }).join('')}</tbody>`;
 
       const uniqueOpts = collectUniqueOptions(data.skus);
       const hasSkuDiff = data.skus.length > 1 && uniqueOpts.some(o => new Set(data.skus.map(s => o.bySku[s.sku_id] || '不支持')).size > 1);
@@ -983,17 +1070,20 @@
                 </tr>
               </thead>
               <tbody>
-                ${uniqueOpts.map(o => `
-                  <tr>
+                ${uniqueOpts.map(o => {
+                  const avs = data.skus.map(s => o.bySku[s.sku_id] || '不支持');
+                  const diff = computeRowDiffClasses(avs);
+                  return `<tr class="${diff.hasDiff ? 'diff-row' : ''}">
                     <td>${escapeHtml(o.name)}</td>
-                    ${data.skus.map(s => {
-                      const av = o.bySku[s.sku_id] || '不支持';
-                      const cls = av === '标配' ? 'avail-std' : (av === '不支持' ? 'avail-no' : 'avail-opt');
+                    ${data.skus.map((s, i) => {
+                      const av = avs[i];
+                      const baseCls = av === '标配' ? 'avail-std' : (av === '不支持' ? 'avail-no' : 'avail-opt');
+                      const cellCls = [baseCls, diff.cellClasses[i]].filter(Boolean).join(' ');
                       const priceHint = (av !== '标配' && av !== '不支持' && typeof o.price_rmb === 'number') ? ` (¥${o.price_rmb.toLocaleString()})` : '';
-                      return `<td class="${cls}">${escapeHtml(av + priceHint)}</td>`;
+                      return `<td class="${cellCls}">${escapeHtml(av + priceHint)}</td>`;
                     }).join('')}
-                  </tr>
-                `).join('')}
+                  </tr>`;
+                }).join('')}
               </tbody>
             </table>
           </div>`
@@ -1060,7 +1150,17 @@
         ${miitHtml}
 
         <div class="section-heading">SKU 逐项核心参数（含底盘高度、三电、舒适与流媒体后视镜） <span class="count">${data.skus.length} 款</span></div>
-        <div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>
+        ${data.skus.length > 1 ? `
+          <div class="diff-toolbar">
+            <div class="diff-legend">
+              <span class="diff-legend-item"><span class="diff-swatch outlier"></span> 仅个别 SKU 不同时：高亮该差异 SKU</span>
+              <span class="diff-legend-item"><span class="diff-swatch multi"></span> 多个或全部 SKU 不同时：按不同值分色高亮</span>
+            </div>
+            <label style="display:inline-flex;align-items:center;gap:6px;cursor:pointer;color:var(--text);">
+              <input type="checkbox" id="detailDiffOnlyToggle" /> 仅看差异项
+            </label>
+          </div>` : ''}
+        <div class="sku-table-wrap"><table class="spec-table" id="detailSpecTable">${thead}${tbody}</table></div>
 
         <div class="section-heading">官方选装项目、分 SKU 支持与限时价格明细 <span class="count">${uniqueOpts.length} 项</span></div>
         ${optMatrixHtml}
@@ -1076,6 +1176,16 @@
           document.getElementById('modalPhotoBox').innerHTML = tab.dataset.view === 'ext' ? extPhotoHtml : intPhotoHtml;
         });
       });
+
+      const detailDiffToggle = document.getElementById('detailDiffOnlyToggle');
+      if (detailDiffToggle) {
+        detailDiffToggle.addEventListener('change', () => {
+          const only = detailDiffToggle.checked;
+          document.querySelectorAll('#detailSpecTable tbody tr').forEach(tr => {
+            tr.style.display = (only && tr.dataset.hasDiff !== '1') ? 'none' : '';
+          });
+        });
+      }
 
       body.querySelectorAll('button[data-sku-idx]').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -1130,12 +1240,20 @@
         <tbody>
           ${rows.map(([label, fn]) => {
             const vals = skus.map(s => fn(s));
-            const isDiff = new Set(vals).size > 1;
-            if (diffOnly && !isDiff) return '';
-            return `<tr class="${isDiff ? 'diff-row' : ''}"><td>${label}</td>${vals.map(v => `<td>${escapeHtml(v)}</td>`).join('')}</tr>`;
+            const diff = computeRowDiffClasses(vals);
+            if (diffOnly && !diff.hasDiff) return '';
+            return `<tr class="${diff.hasDiff ? 'diff-row' : ''}"><td>${label}</td>${vals.map((v, i) => `<td class="${diff.cellClasses[i]}">${escapeHtml(v)}</td>`).join('')}</tr>`;
           }).join('')}
         </tbody>`;
-      document.getElementById('compareBody').innerHTML = `<div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>`;
+      const legendHtml = items.length > 1
+        ? `<div class="diff-toolbar">
+            <div class="diff-legend">
+              <span class="diff-legend-item"><span class="diff-swatch outlier"></span> 仅个别 SKU 不同时：高亮该差异 SKU</span>
+              <span class="diff-legend-item"><span class="diff-swatch multi"></span> 多个或全部 SKU 不同时：按不同值分色高亮</span>
+            </div>
+          </div>`
+        : '';
+      document.getElementById('compareBody').innerHTML = `${legendHtml}<div class="sku-table-wrap"><table class="spec-table">${thead}${tbody}</table></div>`;
     }
 
     function openSourcesModal() {
