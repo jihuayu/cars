@@ -1,0 +1,250 @@
+{
+  "brand": "kia-hyundai",
+  "brand_name": "起亚 / 现代新能源",
+  "origin_type": "合资/外资",
+  "model": "起亚EV5",
+  "model_slug": "kia-ev5",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2024-11-15",
+  "image_url": "https://n.sinaimg.cn/www/213/w2048h1365/20231025/0f40-5a0feeaaf1e491ad906984d6af075a80.jpg",
+  "interior_image_url": "https://n.sinaimg.cn/www/213/w2048h1365/20231025/a11b-b42d38c5bbdb41c6ea9a7f4b741afe5c.jpg",
+  "promo_highlights": [
+    "2025款提供530km/720km前驱及580km/630km四驱多版本，官方指导价14.98-25.58万元",
+    "5年免费无限全数据流量（起亚官网配置表注明）",
+    "全系标配高效热泵空调及67L大容量前备厢"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "起亚中国官网 EV5 参数配置",
+      "url": "https://www.kia.cn/vehicles/ev5/specs/153/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "起亚中国官网 EV5 官方宣传折页 PDF",
+      "url": "https://img.kia.cn/content/pdf/20240307/EV5.pdf",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 起亚EV5 参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7352.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 起亚EV5 2025款 580 Land AWD GT-Line 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/70714.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "ZOL中关村在线 起亚EV5 2025款 530 Light 参数配置",
+      "url": "https://detail.zol.com.cn/2114/2113959/param.shtml",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "kia-ev5-2025-530-light",
+      "sku_name": "2025款 530 Light",
+      "price_rmb": 149800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4615,
+        "width_mm": 1875,
+        "height_mm": 1715,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1870
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 64.2,
+        "cltc_pure_electric_range_km": 530,
+        "fast_charge_time": "最快27分钟(30%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "定速巡航(CC)+前后泊车距离警告+倒车影像"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸炫彩液晶仪表盘",
+        "screens": "12.3英寸多媒体触控屏+5英寸空调触控屏(ccNC)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "电子防眩目内后视镜(ECM w/ETCS)",
+          "price_rmb": 2000,
+          "promo_price_rmb": null,
+          "details": "官网可选装自动防眩目内后视镜含ETC功能"
+        },
+        {
+          "name": "隐藏式电动门把手",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "起亚官网配置表标注可选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "kia-ev5-2025-720-land",
+      "sku_name": "2025款 720 Land",
+      "price_rmb": 184800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4615,
+        "width_mm": 1875,
+        "height_mm": 1715,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2030
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 88.1,
+        "cltc_pure_electric_range_km": 720,
+        "fast_charge_time": "最快27分钟(30%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助(全速自适应巡航/车道保持)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸炫彩液晶仪表盘",
+        "screens": "12.3英寸多媒体触控屏+5英寸空调触控屏(ccNC)",
+        "rear_screen": "无",
+        "power_220v": "后备厢220V V2L电源输出+车外充电口外放电",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "电子防眩目内后视镜",
+          "price_rmb": 2000,
+          "promo_price_rmb": null,
+          "details": "选装自动防眩目内后视镜"
+        }
+      ]
+    },
+    {
+      "sku_id": "kia-ev5-2025-580-land-awd-gtline",
+      "sku_name": "2025款 580 Land AWD GT-Line",
+      "price_rmb": 231800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4615,
+        "width_mm": 1875,
+        "height_mm": 1715,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 233,
+        "motor_torque_nm": 480,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 88.1,
+        "cltc_pure_electric_range_km": 580,
+        "fast_charge_time": "最快27分钟(30%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2+级智驾辅助(含HDA2高速领航/遥控智能泊车)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸炫彩液晶仪表盘",
+        "screens": "12.3英寸多媒体触控屏+5英寸空调触控屏(ccNC)",
+        "rear_screen": "无",
+        "power_220v": "标配220V/230V电源",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "自动防眩目内后视镜",
+          "price_rmb": 2000,
+          "promo_price_rmb": null,
+          "details": "选装自动防眩目内后视镜"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.kia.cn/vehicles/ev5/specs/153/",
+    "https://img.kia.cn/content/pdf/20240307/EV5.pdf",
+    "https://car.autohome.com.cn/config/series/7352.html",
+    "https://car.autohome.com.cn/config/spec/70714.html",
+    "https://detail.zol.com.cn/2114/2113959/param.shtml"
+  ],
+  "data_as_of": "2026-11-27"
+}

@@ -1,0 +1,337 @@
+{
+  "brand": "geely-galaxy",
+  "brand_name": "吉利银河",
+  "origin_type": "国产",
+  "model": "吉利银河L7 EM-i（2025款）",
+  "model_slug": "galaxy-l7-emi-2025",
+  "category": "紧凑型插混SUV",
+  "release_date": "2025-02-14",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g31/M04/70/26/400x400_1_q40_c40_autohomecar__ChtlyGXlaGWAYkt7ACUC-AKOoDA092.jpg",
+  "interior_image_url": "https://x0.ifengimg.com/ucms/2023_17/A50D0E856DBBEE189CDCFEDBC5A61C325239143A_size191_w1264_h843.jpg",
+  "promo_highlights": [
+    "官方指导价11.58-13.58万元（EM-i系列），全系搭载雷神EM-i超级电混与高通骁龙8155+Flyme Auto座舱",
+    "首任非营运车主享三电终身质保、整车6年或15万公里质保（非首任4年或10万公里）"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": 1810,
+    "gross_weight_kg": 2230,
+    "approach_departure_deg": "18/23",
+    "battery_supplier": "宁德时代"
+  },
+  "references": [
+    {
+      "title": "吉利银河官方网站",
+      "url": "https://www.galaxy-geely.com/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "银河L7参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7158.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "吉利银河L6/L7 EM-i工信部申报信息 - 搜狐汽车/IT之家",
+      "url": "https://db.m.auto.sohu.com/model_7163/a/816900432_114760",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "吉利银河L7 EM-i试驾体验 - 搜狐汽车",
+      "url": "https://www.sohu.com/a/885241271_383324",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.galaxy-geely.com/",
+    "https://car.autohome.com.cn/config/series/7158.html",
+    "https://db.m.auto.sohu.com/model_7163/a/816900432_114760",
+    "https://www.sohu.com/a/885241271_383324"
+  ],
+  "skus": [
+    {
+      "sku_id": "geely-l7-emi-2025-115-yuanhang",
+      "sku_name": "2025款 EM-i 115km 远航版",
+      "price_rmb": 115800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4710,
+        "width_mm": 1905,
+        "height_mm": 1685,
+        "wheelbase_mm": 2785,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1810,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 18.4,
+        "cltc_pure_electric_range_km": 115,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 14.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20分钟(30%-80%)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 4.9
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/55 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "定速巡航+540度全景影像",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙 8155（16GB+128GB）",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "13.2英寸竖屏中控屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主驾电动调节，二排靠背调节，可开启全景天窗",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "内置行车记录仪",
+          "price_rmb": 598,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "原厂内置行车记录仪"
+        }
+      ]
+    },
+    {
+      "sku_id": "geely-l7-emi-2025-115-tansuo",
+      "sku_name": "2025款 EM-i 115km 探索版",
+      "price_rmb": 125800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4710,
+        "width_mm": 1905,
+        "height_mm": 1685,
+        "wheelbase_mm": 2785,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1810,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 18.4,
+        "cltc_pure_electric_range_km": 115,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 14.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20分钟(30%-80%)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 4.9
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R19"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶（全速自适应巡航+车道居中保持+主动刹车+540度全景影像）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙 8155（16GB+128GB）",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "13.2英寸中控屏 + 16.2英寸副驾娱乐屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，二排靠背调节，50W无线充电",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "双色车身黑色运动套件",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含黑色车顶、行李架、外后视镜、窗框、后扰流板、鲨鱼鳍"
+        },
+        {
+          "name": "内置行车记录仪",
+          "price_rmb": 598,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "原厂内置行车记录仪"
+        }
+      ]
+    },
+    {
+      "sku_id": "geely-l7-emi-2025-115-tansuo-plus",
+      "sku_name": "2025款 EM-i 115km 探索+版",
+      "price_rmb": 135800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4710,
+        "width_mm": 1905,
+        "height_mm": 1685,
+        "wheelbase_mm": 2785,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1810,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "磷酸铁锂电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 18.4,
+        "cltc_pure_electric_range_km": 115,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 14.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "20分钟(30%-80%)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 4.9
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R19"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶（全速自适应巡航+车道居中保持+主动刹车+540度全景影像）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "高通骁龙 8155（16GB+128GB）",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "13.2英寸中控屏 + 16.2英寸副驾娱乐屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "25.6英寸AR-HUD增强现实抬头显示",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节+记忆，主驾4向腰托，副驾腿托调节（女王座椅），前排加热/通风/按摩，50W无线充电",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "前排标配按摩",
+        "zero_gravity_seat": "无（副驾配备腿托女王座椅）",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "双色车身黑色运动套件",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含黑色车顶、行李架、外后视镜、窗框、后扰流板、鲨鱼鳍"
+        },
+        {
+          "name": "内置行车记录仪",
+          "price_rmb": 598,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "原厂内置行车记录仪"
+        }
+      ]
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

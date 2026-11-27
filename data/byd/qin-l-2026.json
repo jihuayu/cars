@@ -1,0 +1,379 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "origin_type": "国产",
+  "model": "比亚迪秦L（DM-i / EV）",
+  "model_slug": "qin-l-2026",
+  "category": "中型轿车",
+  "release_date": "2026-01-08",
+  "image_url": "https://m3.auto.itc.cn/c_zoom,w_1200,q_mini/30279414.JPG",
+  "interior_image_url": "https://x0.ifengimg.com/res/2024/57D9E01488F4FF44478F60C68EA48EB52581FAC2_size53_w640_h427.jpg",
+  "promo_highlights": [
+    "2026款秦L DM-i限时补贴后起售价低至8.98万元（含3,000元限时充电补贴红包+4,000元限时超级置换补贴）",
+    "提供7年低息（首付3.98万元起前3年免息）或3年0息金融政策",
+    "2025款秦L EV终端参考优惠约1.2万元，首任非营运车主享三电终身质保"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1660-1800",
+    "gross_weight_kg": "2035-2225",
+    "approach_departure_deg": "13/14-16",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪汽车官方网站",
+      "url": "https://www.byd.com/cn",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "秦L参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7578.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪王朝网2026款秦L DM-i限时优惠政策 - 财联社",
+      "url": "https://www.cls.cn/detail/2334994",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.byd.com/cn",
+    "https://car.autohome.com.cn/config/series/7578.html",
+    "https://www.cls.cn/detail/2334994"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-qinl-2026-dmi-128-lingxian",
+      "sku_name": "2026款 DM-i 128KM 领先型",
+      "price_rmb": 106800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4830,
+        "width_mm": 1900,
+        "height_mm": 1495,
+        "wheelbase_mm": 2790,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1775,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.6,
+        "drag_coefficient_cd": 0.26
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 260,
+        "zero_to_100_s": 7.5,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 15.87,
+        "cltc_pure_electric_range_km": 128,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 13.2,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 23,
+        "fast_charge_time": "25分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 65,
+        "wltc_fuel_consumption_l_100km": 3.98
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "225/55 R17"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主驾电动调节",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-qinl-2026-dmi-210-yunnian",
+      "sku_name": "2026款 DM-i 210KM 云辇型",
+      "price_rmb": 126800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4830,
+        "width_mm": 1900,
+        "height_mm": 1495,
+        "wheelbase_mm": 2790,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1775,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.6,
+        "drag_coefficient_cd": 0.26
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": 270,
+        "zero_to_100_s": 7.5,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 25.28,
+        "cltc_pure_electric_range_km": 210,
+        "cltc_combined_range_km": 2110,
+        "energy_consumption_kwh_100km": 14.7,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 48,
+        "fast_charge_time": null,
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 65,
+        "wltc_fuel_consumption_l_100km": 3.98
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "云辇-C智能阻尼车身控制系统（悬架软硬调节）",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "225/50 R18"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "标配HUD抬头显示",
+        "audio": "8扬声器",
+        "fridge": "标配车载冰箱",
+        "seat_features": "仿皮座椅，主副驾电动调节，主驾记忆，前排加热/通风，50W无线充电",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "TBC高速爆胎稳行功能",
+          "price_rmb": 3000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "包含TBC高速爆胎稳行控制系统"
+        }
+      ]
+    },
+    {
+      "sku_id": "byd-qinl-2025-ev-470-lingxian",
+      "sku_name": "2025款 EV 470KM 领先型",
+      "price_rmb": 119800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4720,
+        "width_mm": 1880,
+        "height_mm": 1495,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1670,
+        "trunk_volume_l": 460,
+        "frunk_volume_l": 65,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 110,
+        "motor_torque_nm": 220,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 46.08,
+        "cltc_pure_electric_range_km": 470,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 10.8,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 84,
+        "fast_charge_time": "24分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "双球节麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "225/55 R17"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸LCD触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主驾电动调节，热泵空调",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-qinl-2025-ev-545-yunnian",
+      "sku_name": "2025款 EV 545KM 云辇型",
+      "price_rmb": 139800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4720,
+        "width_mm": 1880,
+        "height_mm": 1495,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1800,
+        "trunk_volume_l": 460,
+        "frunk_volume_l": 65,
+        "min_turning_radius_m": 5.4,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 56.64,
+        "cltc_pure_electric_range_km": 545,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 11.5,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 103,
+        "fast_charge_time": "24分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "双球节麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "云辇-C智能阻尼车身控制系统（悬架软硬调节）",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "225/50 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸LCD触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "12英寸HUD抬头显示",
+        "audio": "8扬声器",
+        "fridge": "标配车载冰箱",
+        "seat_features": "仿皮座椅，主副驾电动调节，主驾记忆，前排加热/通风，50W无线充电",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

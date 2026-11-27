@@ -1,0 +1,260 @@
+{
+  "brand": "wuling",
+  "brand_name": "五菱 / 宝骏",
+  "origin_type": "国产",
+  "model": "五菱宏光MINIEV（四门版/2026款）",
+  "model_slug": "wuling-hongguang-miniev-2026",
+  "category": "微型纯电两厢车",
+  "release_date": "2026-03-27",
+  "image_url": "https://m3.auto.itc.cn/c_zoom,w_1200,q_mini/30195481.JPG",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款第五代四门版官方指导价4.48万-5.48万元，终端置换后低至3.78万元起",
+    "全系标配神炼磷酸铁锂电池与直流快充（30%-80%约35分钟）",
+    "整车质保三年或12万公里"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "上汽通用五菱官网 - 宏光MINIEV 四门版参数配置",
+      "url": "https://www.sgmw.com.cn/carDetail?id=273",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 宏光MINIEV 2026款第五代参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/5714.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 宏光MINIEV 2026款第五代205km进阶款参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/76733.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.sgmw.com.cn/carDetail?id=273",
+    "https://car.autohome.com.cn/config/series/5714.html",
+    "https://car.autohome.com.cn/config/spec/76733.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "wuling-miniev-2026-205-jinjie",
+      "sku_name": "2026款 第五代 205km 进阶款",
+      "price_rmb": 44800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3268,
+        "width_mm": 1520,
+        "height_mm": 1575,
+        "wheelbase_mm": 2190,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": 790
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 30,
+        "motor_torque_nm": 85,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 16.2,
+        "cltc_pure_electric_range_km": 205,
+        "fast_charge_time": "35分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "基础倒车影像/后驻车雷达（无L2）"
+      },
+      "cockpit": {
+        "instrument_cluster": "7英寸彩色液晶组合仪表",
+        "screens": "7英寸液晶仪表（中控屏未知）",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wuling-miniev-2026-205-zhenxiang",
+      "sku_name": "2026款 第五代 205km 臻享款",
+      "price_rmb": 49800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3268,
+        "width_mm": 1520,
+        "height_mm": 1575,
+        "wheelbase_mm": 2190,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": 790
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 30,
+        "motor_torque_nm": 85,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 16.2,
+        "cltc_pure_electric_range_km": 205,
+        "fast_charge_time": "35分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "基础倒车影像/电子驻车（无L2）"
+      },
+      "cockpit": {
+        "instrument_cluster": "7英寸彩色液晶组合仪表",
+        "screens": "悬浮式中控屏+7英寸液晶仪表",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wuling-miniev-2026-301-jinjie",
+      "sku_name": "2026款 第五代 301km 进阶款",
+      "price_rmb": 49800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3268,
+        "width_mm": 1520,
+        "height_mm": 1575,
+        "wheelbase_mm": 2190,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 30,
+        "motor_torque_nm": 85,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 25.1,
+        "cltc_pure_electric_range_km": 301,
+        "fast_charge_time": "35分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "基础倒车影像/后驻车雷达（无L2）"
+      },
+      "cockpit": {
+        "instrument_cluster": "7英寸彩色液晶组合仪表",
+        "screens": "7英寸液晶仪表（中控屏未知）",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wuling-miniev-2026-301-zhenxiang",
+      "sku_name": "2026款 第五代 301km 臻享款",
+      "price_rmb": 54800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3268,
+        "width_mm": 1520,
+        "height_mm": 1575,
+        "wheelbase_mm": 2190,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 30,
+        "motor_torque_nm": 85,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 25.1,
+        "cltc_pure_electric_range_km": 301,
+        "fast_charge_time": "35分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "基础倒车影像/电子驻车（无L2）"
+      },
+      "cockpit": {
+        "instrument_cluster": "7英寸彩色液晶组合仪表",
+        "screens": "悬浮式中控屏+7英寸液晶仪表",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

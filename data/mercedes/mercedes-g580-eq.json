@@ -1,0 +1,108 @@
+{
+  "brand": "mercedes",
+  "brand_name": "奔驰新能源",
+  "origin_type": "合资/外资",
+  "model": "奔驰纯电G级（G 580）",
+  "model_slug": "mercedes-g580-eq",
+  "category": "中大型纯电硬派越野SUV",
+  "release_date": "2024-11-15",
+  "image_url": "https://auto123channel.com/wp-content/uploads/2024/04/2025-mercedes-g580-with-eq-technology.jpg",
+  "interior_image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2024/04/pre-media_24c0076_025-scaled.webp",
+  "promo_highlights": [
+    "中国大陆在售2025款纯电G 580首发特别版，官方建议零售价217.00万元",
+    "四台独立控制轮边电机配2挡电动低速越野挡，标配G-TURN原地掉头、G-STEERING转向及850mm涉水深度",
+    "整车质保3年不限公里，三电系统质保8年或16万公里，电池组质保10年或25万公里"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "梅赛德斯-奔驰中国官网 纯电G级越野车(G 580)",
+      "url": "https://www.mercedes-benz.com.cn/vehicles/suv/g-580.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 奔驰G级新能源 2025款 G580 首发特别版 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/67883.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "易车 奔驰纯电G级 G580 首发特别版 报价与参数",
+      "url": "https://car.m.yiche.com/benchieqg/m176683/",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "mercedes-g580-eq-2025-edition-one",
+      "sku_name": "2025款 G 580 首发特别版",
+      "price_rmb": 2170000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4728,
+        "width_mm": 1984,
+        "height_mm": 1992,
+        "wheelbase_mm": 2890,
+        "ground_clearance_mm": 257,
+        "seats": 5,
+        "curb_weight_kg": 3090
+      },
+      "performance": {
+        "drive_type": "四电机四驱(2挡电动低速越野挡)",
+        "motor_power_kw": 432,
+        "motor_torque_nm": 1164,
+        "zero_to_100_s": 4.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 122.0,
+        "cltc_pure_electric_range_km": 571,
+        "fast_charge_time": "37分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无（非承载式梯形车架+前双叉臂/后刚性电驱车轴）",
+        "cdc": "标配自适应可调减振悬架",
+        "rear_wheel_steering": "无（支持G-TURN原地掉头与G-STEERING）"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "奔驰智能驾驶辅助系统(L2级)+实时越野路面影像"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸全液晶数字仪表盘",
+        "screens": "12.3英寸中控屏(MBUX)+Burmester柏林之声3D环绕音响",
+        "rear_screen": "可选装后排双11.6英寸娱乐屏",
+        "power_220v": "无（配备行李厢12V电源接口）",
+        "seat_heating_ventilation": "前后排座椅加热/通风",
+        "seat_massage": "前排座椅按摩(含主动侧翼支撑)",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配(电动上下+前后调节+记忆)",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "ETC车载装置",
+          "price_rmb": 3000,
+          "promo_price_rmb": null,
+          "details": "汽车之家配置表标注可选装ETC装置"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.mercedes-benz.com.cn/vehicles/suv/g-580.html",
+    "https://car.autohome.com.cn/config/spec/67883.html",
+    "https://car.m.yiche.com/benchieqg/m176683/"
+  ],
+  "data_as_of": "2026-11-27"
+}

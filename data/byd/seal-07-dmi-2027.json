@@ -1,0 +1,387 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "origin_type": "国产",
+  "model": "比亚迪海豹07 DM-i（2026款 / 2027款）",
+  "model_slug": "seal-07-dmi-2027",
+  "category": "中大型插混轿车",
+  "release_date": "2026-11-05",
+  "image_url": "https://m3.auto.itc.cn/c_zoom,w_1200,q_mini/30321532.JPG",
+  "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M02/1F/C8/400x400_0_f42_autohomecar__ChxpV2rbRWKAN2lWAAQ56ShKjzo705.jpg",
+  "promo_highlights": [
+    "越享金融礼：最低0首付至高5年超长贷，或首付50%起24期0息",
+    "智享置换礼：厂家置换补贴至高6,000元",
+    "越享充电礼：具备安装条件的客户自交车之日起2年内享免费7kW充电桩及安装服务"
+  ],
+  "miit_filing": {
+    "miit_batch": "第410批",
+    "product_model_code": null,
+    "curb_weight_kg": "1850-2010",
+    "gross_weight_kg": "2300-2460",
+    "approach_departure_deg": "13/15",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪2026款海豹07 DM-i官方页面 - BYD",
+      "url": "https://www.byd.com/cn/ocean-home/models/haibao/haibao-07-dm-i",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海豹07参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7822.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海豹07内饰官图解析 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26718787",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海豹07 DM-i 2026年11月购车权益 - 汽车之家经销商",
+      "url": "https://dealer.autohome.com.cn/2101292/news_1588282556.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.byd.com/cn/ocean-home/models/haibao/haibao-07-dm-i",
+    "https://car.autohome.com.cn/config/series/7822.html",
+    "https://chejiahao.m.autohome.com.cn/info/26718787",
+    "https://dealer.autohome.com.cn/2101292/news_1588282556.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-seal07-2027-dmi-330-zunxiang",
+      "sku_name": "2027款 DM-i 1.5T 330KM 尊享型",
+      "price_rmb": 139900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5080,
+        "width_mm": 1960,
+        "height_mm": 1495,
+        "wheelbase_mm": 2960,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1960,
+        "trunk_volume_l": 595,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.5,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 260,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 38.0,
+        "cltc_pure_electric_range_km": 330,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 14.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 50,
+        "wltc_fuel_consumption_l_100km": 3.77
+      },
+      "chassis": {
+        "front_suspension": "双叉臂式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "245/50 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "定速巡航+540度全景影像+爆胎稳行系统",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "16扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，前排双层隔音玻璃",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-seal07-2027-dmi-330-zungui",
+      "sku_name": "2027款 DM-i 1.5T 330KM 尊贵型",
+      "price_rmb": 149900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5080,
+        "width_mm": 1960,
+        "height_mm": 1495,
+        "wheelbase_mm": 2960,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1960,
+        "trunk_volume_l": 595,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.5,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 260,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 38.0,
+        "cltc_pure_electric_range_km": 330,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 14.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 50,
+        "wltc_fuel_consumption_l_100km": 3.77
+      },
+      "chassis": {
+        "front_suspension": "双叉臂式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "245/45 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N（可选装 Orin-X）",
+        "compute_tops": "84（可选254）",
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（标配高快领航；可选装DiPilot 300支持城市领航）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "16扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，主驾记忆，前排加热/通风，主动氛围灯",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含英伟达Orin-X（254 TOPS）、1颗激光雷达及城市领航辅助功能"
+        }
+      ]
+    },
+    {
+      "sku_id": "byd-seal07-2026-dmi-135-haohua",
+      "sku_name": "2026款 DM-i 1.5L 135km 豪华型",
+      "price_rmb": 149800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4995,
+        "width_mm": 1900,
+        "height_mm": 1495,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1850,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.6,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 260,
+        "zero_to_100_s": 8.0,
+        "top_speed_kmh": 185
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 17.6,
+        "cltc_pure_electric_range_km": 135,
+        "cltc_combined_range_km": 1585,
+        "energy_consumption_kwh_100km": 13.5,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 40,
+        "fast_charge_time": null,
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 50,
+        "wltc_fuel_consumption_l_100km": 4.15
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "225/50 R18"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，前排双层隔音玻璃",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-seal07-2026-dmi-230-qijian",
+      "sku_name": "2026款 DM-i 1.5T 230km 旗舰型",
+      "price_rmb": 186800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4995,
+        "width_mm": 1900,
+        "height_mm": 1495,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2010,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.6,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 315,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 29.46,
+        "cltc_pure_electric_range_km": 230,
+        "cltc_combined_range_km": 1585,
+        "energy_consumption_kwh_100km": 15.3,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 69,
+        "fast_charge_time": null,
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 50,
+        "wltc_fuel_consumption_l_100km": 4.49
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "云辇-C智能阻尼车身控制系统（悬架软硬调节）",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "225/50 R18"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-X",
+        "compute_tops": 254,
+        "lidar": "1颗激光雷达",
+        "system": "DiPilot 300（天神之眼B激光版，支持高速+城市领航及下车泊入AVP）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "标配HUD抬头显示",
+        "audio": "12扬声器 Dynaudio丹拿",
+        "fridge": "标配车载冰箱",
+        "seat_features": "仿皮座椅，主副驾电动调节+4向腰托，主驾记忆，前后排加热/通风，50W无线充电",
+        "seat_heating_ventilation": "前后排均标配加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

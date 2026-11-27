@@ -1,0 +1,274 @@
+{
+  "brand": "hongqi",
+  "brand_name": "红旗新能源",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "红旗EH7",
+  "model_slug": "hongqi-eh7",
+  "category": "中大型纯电轿车",
+  "release_date": "2025-04-25",
+  "image_url": "http://auto2.sinaimg.cn/autoimg/car/06/55/131985506_src.jpeg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考优惠最高28,300元（具体以当地经销商为准）",
+    "首任非营运车主整车及三电终身质保（责任免除条款以官方为准）"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "汽车之家 红旗EH7参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7245.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 红旗EH7 2025款600智选版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/72812.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 红旗EH7 2025款690智选版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/72813.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 红旗EH7 2025款760四驱智选版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/72816.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7245.html",
+    "https://car.autohome.com.cn/config/spec/72812.html",
+    "https://car.autohome.com.cn/config/spec/72813.html",
+    "https://car.autohome.com.cn/config/spec/72816.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "hongqi-eh7-2025-600-zhixuan",
+      "sku_name": "2025款 600 智选版",
+      "price_rmb": 208800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4980,
+        "width_mm": 1915,
+        "height_mm": 1490,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": 120,
+        "seats": 5,
+        "curb_weight_kg": 2233,
+        "trunk_volume_l": 400,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 253,
+        "motor_torque_nm": 450,
+        "zero_to_100_s": 7.8,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 75.0,
+        "cltc_pure_electric_range_km": 600,
+        "cltc_combined_range_km": 600,
+        "max_charge_power_kw": 190,
+        "fast_charge_time": "10%-80% 25min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（L2+，10摄像头+12超声波+1毫米波雷达）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "曲面液晶仪表",
+        "screens": "异形双联中控屏",
+        "hud": "未知",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hongqi-eh7-2025-690-zhixuan",
+      "sku_name": "2025款 690 智选版",
+      "price_rmb": 218800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4980,
+        "width_mm": 1915,
+        "height_mm": 1490,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": 120,
+        "seats": 5,
+        "curb_weight_kg": 2240,
+        "trunk_volume_l": 400,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 253,
+        "motor_torque_nm": 450,
+        "zero_to_100_s": 6.2,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 85.0,
+        "cltc_pure_electric_range_km": 690,
+        "cltc_combined_range_km": 690,
+        "max_charge_power_kw": 280,
+        "fast_charge_time": "10%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（L2+）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "曲面液晶仪表",
+        "screens": "异形双联中控屏",
+        "hud": "未知",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hongqi-eh7-2025-760-awd-zhixuan",
+      "sku_name": "2025款 760 四驱智选版",
+      "price_rmb": 288800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4980,
+        "width_mm": 1915,
+        "height_mm": 1490,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": 120,
+        "seats": 5,
+        "curb_weight_kg": 2374,
+        "trunk_volume_l": 400,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 455,
+        "motor_torque_nm": 756,
+        "zero_to_100_s": 3.5,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 111.0,
+        "cltc_pure_electric_range_km": 760,
+        "cltc_combined_range_km": 760,
+        "max_charge_power_kw": 365,
+        "fast_charge_time": "10%-80% 20min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（无图视觉方案）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "曲面液晶仪表",
+        "screens": "异形双联中控屏",
+        "hud": "未知",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

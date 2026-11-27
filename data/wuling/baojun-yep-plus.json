@@ -1,0 +1,260 @@
+{
+  "brand": "wuling",
+  "brand_name": "五菱 / 宝骏",
+  "origin_type": "国产",
+  "model": "宝骏悦也Plus",
+  "model_slug": "baojun-yep-plus",
+  "category": "小型纯电SUV",
+  "release_date": "2025-05-27",
+  "image_url": "https://img.evlook.com/evlook/upload/series/43d1855ba5174a899ccf02ad705e0008.png",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款官方指导价7.68万-10.58万元（含301km/401km/501km五门五座版），终端优惠约1.30万-1.50万元",
+    "全系标配360°全景影像、透明底盘、6.6kW交流慢充及220V对外放电",
+    "智尊版搭载卓驭灵眸智驾系统（双目纯视觉无图城市记忆领航），整车质保四年或15万公里"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "上汽通用五菱官网 - 宝骏悦也Plus参数配置",
+      "url": "https://www.wuling.com/carDetail?id=292",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 宝骏悦也Plus 2026款参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7574.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "EV视界 - 宝骏悦也Plus 2026款参数配置",
+      "url": "https://www.evlook.com/baojunyueyeplus/peizhi",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.wuling.com/carDetail?id=292",
+    "https://car.autohome.com.cn/config/series/7574.html",
+    "https://www.evlook.com/baojunyueyeplus/peizhi"
+  ],
+  "skus": [
+    {
+      "sku_id": "baojun-yep-plus-2026-301-flagship",
+      "sku_name": "2026款 301km 旗舰版",
+      "price_rmb": 76800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3996,
+        "width_mm": 1760,
+        "height_mm": 1726,
+        "wheelbase_mm": 2560,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1255
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 75,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 31.9,
+        "cltc_pure_electric_range_km": 301,
+        "fast_charge_time": "35分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "360°全景影像+透明底盘"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "10.1英寸悬浮中控屏（Ling OS）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baojun-yep-plus-2026-401-flagship",
+      "sku_name": "2026款 401km 旗舰版",
+      "price_rmb": 87800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3996,
+        "width_mm": 1760,
+        "height_mm": 1726,
+        "wheelbase_mm": 2560,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1325
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 75,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 41.9,
+        "cltc_pure_electric_range_km": 401,
+        "fast_charge_time": "35分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "360°全景影像+透明底盘"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "10.1英寸悬浮中控屏（Ling OS）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baojun-yep-plus-2026-501-flagship",
+      "sku_name": "2026款 501km 旗舰版",
+      "price_rmb": 95800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3996,
+        "width_mm": 1760,
+        "height_mm": 1726,
+        "wheelbase_mm": 2560,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1410
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 75,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 54.0,
+        "cltc_pure_electric_range_km": 501,
+        "fast_charge_time": "30分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "360°全景影像+透明底盘"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "10.1英寸悬浮中控屏（Ling OS）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baojun-yep-plus-2026-501-zhizun",
+      "sku_name": "2026款 501km 智尊版",
+      "price_rmb": 105800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3996,
+        "width_mm": 1760,
+        "height_mm": 1726,
+        "wheelbase_mm": 2560,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1410
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 75,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 54.0,
+        "cltc_pure_electric_range_km": 501,
+        "fast_charge_time": "30分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "卓驭成行平台",
+        "lidar": "无",
+        "system": "灵眸智驾（双目纯视觉，支持高速领航/记忆领航/智能泊车）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "10.1英寸悬浮中控屏（Ling OS）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

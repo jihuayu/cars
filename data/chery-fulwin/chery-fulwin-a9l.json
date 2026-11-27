@@ -1,0 +1,260 @@
+{
+  "brand": "chery-fulwin",
+  "brand_name": "奇瑞风云 / 捷途山海",
+  "origin_type": "国产",
+  "model": "奇瑞风云A9L",
+  "model_slug": "chery-fulwin-a9l",
+  "category": "中大型插混轿车",
+  "release_date": "2025-07-08",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M00/42/5B/400x400_1_q40_c40_autohomecar__ChtpWGp-q2GAKjBRAB-tp2mmK4Q658.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "限时红包价13.99万-19.79万元（指导价立减10,000元）",
+    "全系标配鲲鹏超能电混CDM 6.0、33.68kWh犀牛电池、前双叉臂+后五连杆悬架、9安全气囊及高通8255芯片",
+    "260 MAX及以上标配激光雷达与猎鹰700城市NOA，ULTRA版搭载CDC电磁悬架+预瞄及伯牙之音23扬音响"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "奇瑞风云官网 - 风云A9L车型页",
+      "url": "https://fulwin.chery.cn/vehicles/a9l/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "奇瑞风云官网 - 风云A9L配置表",
+      "url": "https://fulwin.chery.cn/vehicles/a9l/config/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 风云A9L 260超长续航豪华版参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/72247.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://fulwin.chery.cn/vehicles/a9l/",
+    "https://fulwin.chery.cn/vehicles/a9l/config/",
+    "https://car.autohome.com.cn/config/spec/72247.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "chery-fulwin-a9l-260-pro",
+      "sku_name": "260 PRO",
+      "price_rmb": 149900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5018,
+        "width_mm": 1965,
+        "height_mm": 1500,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2085
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 7.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 33.68,
+        "cltc_pure_electric_range_km": 260,
+        "fast_charge_time": "15分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级基础辅助驾驶（含130km/h AEB/LCC Plus）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（高通8255芯片）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "chery-fulwin-a9l-260-max",
+      "sku_name": "260 MAX",
+      "price_rmb": 166900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5018,
+        "width_mm": 1965,
+        "height_mm": 1500,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2085
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 7.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 33.68,
+        "cltc_pure_electric_range_km": 260,
+        "fast_charge_time": "15分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "猎鹰700驾驶辅助（支持城市NOA/高速NOA）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（高通8255芯片）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "chery-fulwin-a9l-260-ultra",
+      "sku_name": "260 ULTRA",
+      "price_rmb": 184900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5018,
+        "width_mm": 1965,
+        "height_mm": 1500,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2085
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 7.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 33.68,
+        "cltc_pure_electric_range_km": 260,
+        "fast_charge_time": "15分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "标配（CDC电磁悬架+预瞄）",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "猎鹰700驾驶辅助（支持城市NOA/高速NOA）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（高通8255芯片）+伯牙之音23扬",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前后排座椅加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "chery-fulwin-a9l-ultra-awd",
+      "sku_name": "ULTRA 四驱版",
+      "price_rmb": 207900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5018,
+        "width_mm": 1965,
+        "height_mm": 1500,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2230
+      },
+      "performance": {
+        "drive_type": "双电机四驱（雪豹四驱）",
+        "motor_power_kw": 355,
+        "motor_torque_nm": 634,
+        "zero_to_100_s": 4.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 33.68,
+        "cltc_pure_electric_range_km": 200,
+        "fast_charge_time": "15分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "标配（CDC电磁悬架+预瞄）",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "猎鹰700驾驶辅助（支持城市NOA/高速NOA）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（高通8255芯片）+伯牙之音23扬",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前后排座椅加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

@@ -1,0 +1,268 @@
+{
+  "brand": "gwm-haval-ora",
+  "brand_name": "哈弗新能源 / 欧拉",
+  "origin_type": "国产",
+  "model": "哈弗猛龙（Hi4）",
+  "model_slug": "haval-raptor-hi4",
+  "category": "紧凑型插混方盒子SUV",
+  "release_date": "2025-08-19",
+  "image_url": "http://m1.auto.itc.cn/c_zoom,w_600,h_400/focus/model/7184/3.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款终端优惠高达3.50万元，参考价13.88万-17.38万元",
+    "全系标配1.5T Hi4双电机智能四驱（2挡DHT）与221mm空载最小离地间隙，顶配CLTC纯电续航200km、零百加速5.9s",
+    "整车质保六年或15万公里，首任非营运车主三电终身质保"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "汽车之家 - 哈弗猛龙新能源2026款Hi4 200 Ultra参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/72252.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 哈弗猛龙新能源2026款Hi4 150 Pro参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/74045.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "易车 - 哈弗猛龙PHEV 2026款全系报价",
+      "url": "https://car.m.yiche.com/hafub26/",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "中关村在线 - 哈弗猛龙新能源2026款Hi4 105 Pro参数配置",
+      "url": "https://detail.zol.com.cn/2139/2138754/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/spec/72252.html",
+    "https://car.autohome.com.cn/config/spec/74045.html",
+    "https://car.m.yiche.com/hafub26/",
+    "https://detail.zol.com.cn/2139/2138754/param.shtml"
+  ],
+  "skus": [
+    {
+      "sku_id": "haval-raptor-2026-hi4-105-pro",
+      "sku_name": "2026款 Hi4 105 Pro",
+      "price_rmb": 173800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4800,
+        "width_mm": 1950,
+        "height_mm": 1843,
+        "wheelbase_mm": 2738,
+        "ground_clearance_mm": 221,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（Hi4）",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 510,
+        "zero_to_100_s": 6.1
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 105,
+        "fast_charge_time": "28分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（Coffee OS）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "haval-raptor-2026-hi4-150-pro",
+      "sku_name": "2026款 Hi4 150 Pro 磷酸铁锂",
+      "price_rmb": 183800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4800,
+        "width_mm": 1950,
+        "height_mm": 1843,
+        "wheelbase_mm": 2738,
+        "ground_clearance_mm": 221,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（Hi4）",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 510,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 27.54,
+        "cltc_pure_electric_range_km": 150,
+        "fast_charge_time": "28分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（Coffee OS）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "haval-raptor-2026-hi4-200-ultra",
+      "sku_name": "2026款 Hi4 200 Ultra 三元锂",
+      "price_rmb": 199800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4800,
+        "width_mm": 1950,
+        "height_mm": 1843,
+        "wheelbase_mm": 2738,
+        "ground_clearance_mm": 221,
+        "seats": 5,
+        "curb_weight_kg": 2135
+      },
+      "performance": {
+        "drive_type": "双电机四驱（Hi4）",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 510,
+        "zero_to_100_s": 5.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 35.43,
+        "cltc_pure_electric_range_km": 200,
+        "fast_charge_time": "28分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级智能辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（Coffee OS）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "haval-raptor-2026-hi4-200-ultra-linghang",
+      "sku_name": "2026款 Hi4 200 Ultra 领航版",
+      "price_rmb": 208800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4800,
+        "width_mm": 1950,
+        "height_mm": 1843,
+        "wheelbase_mm": 2738,
+        "ground_clearance_mm": 221,
+        "seats": 5,
+        "curb_weight_kg": 2135
+      },
+      "performance": {
+        "drive_type": "双电机四驱（Hi4）",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 510,
+        "zero_to_100_s": 5.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 35.43,
+        "cltc_pure_electric_range_km": 200,
+        "fast_charge_time": "28分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "高快领航辅助驾驶（领航版）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（Coffee OS）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

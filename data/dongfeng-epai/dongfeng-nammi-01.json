@@ -1,0 +1,340 @@
+{
+  "brand": "dongfeng-epai",
+  "brand_name": "东风奕派 / 纳米 / 猛士",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "东风纳米01",
+  "model_slug": "dongfeng-nammi-01",
+  "category": "小型纯电两厢车",
+  "release_date": "2026-07-10",
+  "image_url": "https://www.xinhuanet.com/auto/20260712/e9392dde131d4015990867e0315b1ce8/20260712e9392dde131d4015990867e0315b1ce8_202607101608271124rId7image2.png",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款纳米01智趣版5.98万-7.98万元上市，享六重限时购车权益",
+    "0首付5年贷款2年0息 / 2年5万0息金融方案",
+    "五项终身免费品质保障（含首任非营运车主三电终身质保）及充电礼、流量礼"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "新华网 东风奕派纳米01智趣版上市5.98万元起",
+      "url": "https://www.xinhuanet.com/auto/20260712/e9392dde131d4015990867e0315b1ce8/c.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 纳米01参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7364.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新浪汽车 纳米01纯电动汽车2026款解析",
+      "url": "https://auto.sina.cn/2026-07-10/detail-inihhrai8485954.d.html?vt=4",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.xinhuanet.com/auto/20260712/e9392dde131d4015990867e0315b1ce8/c.html",
+    "https://car.autohome.com.cn/config/series/7364.html",
+    "https://auto.sina.cn/2026-07-10/detail-inihhrai8485954.d.html?vt=4"
+  ],
+  "skus": [
+    {
+      "sku_id": "dongfeng-nammi-01-2026-305-fly",
+      "sku_name": "2026款 智趣版 305 Fly",
+      "price_rmb": 59800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4030,
+        "width_mm": 1810,
+        "height_mm": 1570,
+        "wheelbase_mm": 2660,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 70,
+        "motor_torque_nm": 160,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 140
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 305,
+        "cltc_combined_range_km": 305,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后扭力梁式非独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "基础驾驶辅助+540°环视"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "8.88英寸液晶组合仪表",
+        "screens": "15.6英寸2.5K超清护眼中控屏（天元OS 2.0）",
+        "hud": "无",
+        "audio": "漫步者8扬声器音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "dongfeng-nammi-01-2026-430-pro",
+      "sku_name": "2026款 智趣版 430 Pro",
+      "price_rmb": 79800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4030,
+        "width_mm": 1810,
+        "height_mm": 1570,
+        "wheelbase_mm": 2660,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 70,
+        "motor_torque_nm": 160,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 140
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 42.3,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 430,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后扭力梁式非独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级智能驾驶辅助+全自动/遥控泊车"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "8.88英寸液晶组合仪表",
+        "screens": "15.6英寸2.5K超清护眼中控屏（天元OS 2.0）",
+        "hud": "无",
+        "audio": "漫步者8扬声器音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "主驾座椅加热/通风/记忆",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "dongfeng-nammi-01-2026-cross-ultra",
+      "sku_name": "2026款 Cross Ultra",
+      "price_rmb": 88800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4030,
+        "width_mm": 1810,
+        "height_mm": 1570,
+        "wheelbase_mm": 2660,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 70,
+        "motor_torque_nm": 160,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 140
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 42.3,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 430,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后扭力梁式非独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级智能驾驶辅助+全自动/遥控泊车"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "8.88英寸液晶组合仪表",
+        "screens": "15.6英寸2.5K超清中控屏",
+        "hud": "无",
+        "audio": "漫步者8扬声器音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "主驾座椅加热/通风/记忆",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "dongfeng-nammi-01-2026-430-ultra",
+      "sku_name": "2026款 挚爱款 430 Ultra",
+      "price_rmb": 92800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4030,
+        "width_mm": 1810,
+        "height_mm": 1570,
+        "wheelbase_mm": 2660,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 70,
+        "motor_torque_nm": 160,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 140
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 42.3,
+        "cltc_pure_electric_range_km": 430,
+        "cltc_combined_range_km": 430,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后扭力梁式非独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级智能驾驶辅助+全自动/遥控泊车"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "液晶仪表",
+        "screens": "12.8英寸悬浮中控屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "主驾座椅加热/通风/记忆",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

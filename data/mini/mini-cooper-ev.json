@@ -1,0 +1,185 @@
+{
+  "brand": "mini",
+  "brand_name": "电动MINI",
+  "origin_type": "合资/外资",
+  "model": "电动MINI Cooper",
+  "model_slug": "mini-cooper-ev",
+  "category": "小型纯电两厢车",
+  "release_date": "2025-12-16",
+  "image_url": "https://q9.itc.cn/q_70/images03/20251218/737f233434ff4513bbdc4135a218fdeb.jpeg",
+  "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/07/20/19/75cd9ddde2bd49a8b37f0197a5112fe1.jpg!jpg",
+  "promo_highlights": [
+    "即日起至2026-11-30预订享153,800元起限时礼遇价（2026款官方指导价20.98-23.98万元）",
+    "艺术家/赛车手/特别版享10,000元升级补贴及至高8,000元选装包抵扣金",
+    "双11专属下订礼1,500元充电墙盒/充电卡补贴，BMW/MINI忠诚客户享3,000元老友礼及限时1.88%年利率金融方案"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1605-1640",
+    "gross_weight_kg": 2055,
+    "approach_departure_deg": "14/29",
+    "battery_supplier": "蜂巢能源（三元锂）/ 联合电子电机 HC0001N0",
+    "reference_title": "汽车之家 电动MINI COOPER 2026款参数配置表（光束汽车）",
+    "reference_url": "https://car.autohome.com.cn/config/spec/76005.html"
+  },
+  "references": [
+    {
+      "title": "MINI中国官网 电动MINI COOPER 车型及限时礼遇页",
+      "url": "https://www.minichina.com.cn/zh_CN/home/range/all-electric-mini-cooper.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 电动MINI COOPER 2026款 466km COOPER E 经典派 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/76005.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 电动MINI COOPER 2026款 463km COOPER SE 艺术家 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/76006.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 电动MINI COOPER 2026款 463km COOPER SE 酷不列颠特别版 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/77641.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "mini-cooper-ev-2026-e-classic",
+      "sku_name": "2026款 466km COOPER E 经典派",
+      "price_rmb": 209800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3858,
+        "width_mm": 1756,
+        "height_mm": 1458,
+        "wheelbase_mm": 2526,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": 1605
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 135,
+        "motor_torque_nm": 290,
+        "zero_to_100_s": 8.1
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 51.5,
+        "cltc_pure_electric_range_km": 466,
+        "fast_charge_time": "30分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级基础驾驶辅助（全速自适应巡航/主动刹车）"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "9.4英寸圆形OLED中控屏(MINI OS 9 / 5G网络)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "全车无钥匙进入+UWB数字钥匙+NFC卡片钥匙",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "2026款经典派新增选装项"
+        }
+      ]
+    },
+    {
+      "sku_id": "mini-cooper-ev-2026-se-artist",
+      "sku_name": "2026款 463km COOPER SE 艺术家",
+      "price_rmb": 239800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3858,
+        "width_mm": 1756,
+        "height_mm": 1458,
+        "wheelbase_mm": 2526,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": 1640
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": 7.1
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 51.5,
+        "cltc_pure_electric_range_km": 463,
+        "fast_charge_time": "30分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助+自动泊车"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "9.4英寸圆形OLED中控屏(MINI OS 9 / 5G网络)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热",
+        "seat_massage": "主驾座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "MINI个性选装包",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "预订艺术家版享至高8,000元选装包抵扣金及10,000元升级补贴"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.minichina.com.cn/zh_CN/home/range/all-electric-mini-cooper.html",
+    "https://car.autohome.com.cn/config/spec/76005.html",
+    "https://car.autohome.com.cn/config/spec/76006.html",
+    "https://car.autohome.com.cn/config/spec/77641.html"
+  ],
+  "data_as_of": "2026-11-27"
+}

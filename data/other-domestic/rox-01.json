@@ -1,0 +1,381 @@
+{
+  "brand": "other-domestic",
+  "brand_name": "极石 / 江淮钇为 / 北京越野",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "极石01（ROX 01）",
+  "model_slug": "rox-01",
+  "category": "中大型增程SUV",
+  "release_date": "2024-08-16",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g32/M09/62/AD/400x400_1_q40_c40_autohomecar__Chtk2Wbnjb6AYgzrABSESw1pnpk862.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "提供标准续航版（29.99万起）与长续航版（34.99万起），6座/7座布局可选",
+    "全系标配全铝双叉臂+H臂多连杆底盘+DCC连续主动可变阻尼减振器、车内外220V 4.4kW对外放电",
+    "五年或10万公里整车质保，支持选装尾门餐厨系统及户外露营套装"
+  ],
+  "miit_filing": {
+    "miit_batch": "第372批",
+    "product_model_code": null,
+    "curb_weight_kg": "2545-2660",
+    "gross_weight_kg": 3189,
+    "approach_departure_deg": "22.2/25.1",
+    "battery_supplier": "宁德时代（江苏时代）"
+  },
+  "references": [
+    {
+      "title": "极石汽车官网 极石01配置参数",
+      "url": "https://www.roxmotor.com/rox01/configuration/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 极石01参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7302.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "DoNews 极石01工信部第372批申报信息",
+      "url": "https://www.donews.com/news/detail/7/3554010.html",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.roxmotor.com/rox01/configuration/",
+    "https://car.autohome.com.cn/config/series/7302.html",
+    "https://www.donews.com/news/detail/7/3554010.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "rox-01-2024-7seat-std",
+      "sku_name": "2024款 全能7座标准续航版",
+      "price_rmb": 299900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5050,
+        "width_mm": 1980,
+        "height_mm": 1869,
+        "wheelbase_mm": 3010,
+        "ground_clearance_mm": 255,
+        "seats": 7,
+        "curb_weight_kg": 2545,
+        "trunk_volume_l": "535-2202",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 350,
+        "motor_torque_nm": 740,
+        "zero_to_100_s": 5.5,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 44.5,
+        "cltc_pure_electric_range_km": 215,
+        "cltc_combined_range_km": 1275,
+        "max_charge_power_kw": 100,
+        "fast_charge_time": "20%-80% 24min",
+        "v2l_power_kw": 4.4,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 70,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝合金双叉臂式独立悬架",
+        "rear_suspension": "全铝合金H臂型多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无（高阶版可选3颗禾赛激光雷达）",
+        "system": "L2+标准智驾（可选高阶NOA）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "12.3英寸多功能仪表屏",
+        "screens": "15.7英寸3K中控屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "15.6英寸后排高清吸顶娱乐屏",
+        "power_220v": "标配（车内外各1个220V接口）",
+        "seat_heating_ventilation": "前排通风/加热，二排加热",
+        "seat_massage": "前排+二排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "9英寸窄边框流媒体内后视镜",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "高阶智驾包",
+          "price_rmb": null,
+          "details": "双NVIDIA Orin-X (508 TOPS) + 3颗禾赛激光雷达（1颗128线+2颗纯固态侧向）",
+          "availability": "可选"
+        },
+        {
+          "name": "20英寸倍耐力全地形胎/钨钢踏板/尾门厨房",
+          "price_rmb": null,
+          "details": "官方户外露营及越野选装件",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "rox-01-2024-6seat-std",
+      "sku_name": "2024款 尊享6座标准续航版",
+      "price_rmb": 309900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5050,
+        "width_mm": 1980,
+        "height_mm": 1869,
+        "wheelbase_mm": 3010,
+        "ground_clearance_mm": 255,
+        "seats": 6,
+        "curb_weight_kg": 2625,
+        "trunk_volume_l": "548-1404",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 350,
+        "motor_torque_nm": 740,
+        "zero_to_100_s": 5.5,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 44.5,
+        "cltc_pure_electric_range_km": 215,
+        "cltc_combined_range_km": 1275,
+        "max_charge_power_kw": 100,
+        "fast_charge_time": "20%-80% 24min",
+        "v2l_power_kw": 4.4,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 70,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "全铝合金双叉臂式独立悬架",
+        "rear_suspension": "全铝合金H臂型多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无（高阶版可选3颗禾赛激光雷达）",
+        "system": "L2+标准智驾（可选高阶NOA）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "12.3英寸多功能仪表屏",
+        "screens": "15.7英寸3K中控屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "15.6英寸后排高清吸顶娱乐屏",
+        "power_220v": "标配（车内外各1个220V接口）",
+        "seat_heating_ventilation": "前排通风/加热，二排航空座椅加热/通风",
+        "seat_massage": "前排+二排座椅按摩",
+        "zero_gravity_seat": "二排超豪华航空座椅",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "9英寸窄边框流媒体内后视镜",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "高阶智驾包",
+          "price_rmb": null,
+          "details": "双NVIDIA Orin-X (508 TOPS) + 3颗禾赛激光雷达",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "rox-01-2024-7seat-lr",
+      "sku_name": "2024款 全能7座长续航版",
+      "price_rmb": 349900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5050,
+        "width_mm": 1980,
+        "height_mm": 1869,
+        "wheelbase_mm": 3010,
+        "ground_clearance_mm": 255,
+        "seats": 7,
+        "curb_weight_kg": 2580,
+        "trunk_volume_l": "535-2202",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 350,
+        "motor_torque_nm": 740,
+        "zero_to_100_s": 5.5,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 58.4,
+        "cltc_pure_electric_range_km": 306,
+        "cltc_combined_range_km": 1362,
+        "max_charge_power_kw": 100,
+        "fast_charge_time": "20%-80% 24min",
+        "v2l_power_kw": 4.4,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 70,
+        "wltc_fuel_consumption_l_100km": 7.95
+      },
+      "chassis": {
+        "front_suspension": "全铝合金双叉臂式独立悬架",
+        "rear_suspension": "全铝合金H臂型多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无（高阶版可选3颗禾赛激光雷达）",
+        "system": "L2+标准智驾（可选高阶NOA）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "12.3英寸多功能仪表屏",
+        "screens": "15.7英寸3K中控屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "15.6英寸后排高清吸顶娱乐屏",
+        "power_220v": "标配（车内外各1个220V接口）",
+        "seat_heating_ventilation": "前排通风/加热，二排加热",
+        "seat_massage": "前排+二排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "9英寸窄边框流媒体内后视镜",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "高阶智驾包",
+          "price_rmb": null,
+          "details": "双NVIDIA Orin-X (508 TOPS) + 3颗禾赛激光雷达",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "rox-01-2024-6seat-lr",
+      "sku_name": "2024款 尊享6座长续航版",
+      "price_rmb": 359900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5050,
+        "width_mm": 1980,
+        "height_mm": 1869,
+        "wheelbase_mm": 3010,
+        "ground_clearance_mm": 255,
+        "seats": 6,
+        "curb_weight_kg": 2660,
+        "trunk_volume_l": "548-1404",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 350,
+        "motor_torque_nm": 740,
+        "zero_to_100_s": 5.5,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 58.4,
+        "cltc_pure_electric_range_km": 306,
+        "cltc_combined_range_km": 1362,
+        "max_charge_power_kw": 100,
+        "fast_charge_time": "20%-80% 24min",
+        "v2l_power_kw": 4.4,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 70,
+        "wltc_fuel_consumption_l_100km": 7.95
+      },
+      "chassis": {
+        "front_suspension": "全铝合金双叉臂式独立悬架",
+        "rear_suspension": "全铝合金H臂型多连杆独立悬架",
+        "air_suspension": false,
+        "cdc": true,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无（高阶版可选3颗禾赛激光雷达）",
+        "system": "L2+标准智驾（可选高阶NOA）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "12.3英寸多功能仪表屏",
+        "screens": "15.7英寸3K中控屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "15.6英寸后排高清吸顶娱乐屏",
+        "power_220v": "标配（车内外各1个220V接口）",
+        "seat_heating_ventilation": "前排通风/加热，二排航空座椅加热/通风",
+        "seat_massage": "前排+二排座椅按摩",
+        "zero_gravity_seat": "二排超豪华航空座椅",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "9英寸窄边框流媒体内后视镜",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "高阶智驾包",
+          "price_rmb": null,
+          "details": "双NVIDIA Orin-X (508 TOPS) + 3颗禾赛激光雷达",
+          "availability": "可选"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "origin_type": "国产",
+  "model": "比亚迪海狮05（2026款 DM-i / EV）",
+  "model_slug": "sealion-05-2026",
+  "category": "紧凑型SUV",
+  "release_date": "2026-04-20",
+  "image_url": "https://m3.auto.itc.cn/q_mini/carpics/360car/7594/5856026368243912271762483970910.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款海狮05 DM-i轴距加长至2770mm，CLTC纯电续航220km/305km、综合续航最高2105km，全系标配6kW对外放电",
+    "2026款海狮05 EV全系升级后置后驱+第二代刀片电池9分钟闪充（10%-97%），标配110L前备厢",
+    "首任非营运车主享三电系统终身质保、整车6年或15万公里质保"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1710-1840",
+    "gross_weight_kg": "2150-2295",
+    "approach_departure_deg": "18/23",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪汽车官方网站",
+      "url": "https://www.byd.com/cn",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海狮05 DM-i参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7807.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海狮05 EV参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7982.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "2026款海狮05 DM-i新老款对比解析 - 搜狐汽车",
+      "url": "https://db.m.auto.sohu.com/model_7474/a/1028698806_269032",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.byd.com/cn",
+    "https://car.autohome.com.cn/config/series/7807.html",
+    "https://car.autohome.com.cn/config/series/7982.html",
+    "https://db.m.auto.sohu.com/model_7474/a/1028698806_269032"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-sealion05-2026-dmi-220-zhihang",
+      "sku_name": "2026款 DM-i 220智航版",
+      "price_rmb": 117900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4620,
+        "width_mm": 1860,
+        "height_mm": 1630,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1720,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.25,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": 210,
+        "zero_to_100_s": 8.4,
+        "top_speed_kmh": 175
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 26.628,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 2020,
+        "energy_consumption_kwh_100km": 14.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 57,
+        "fast_charge_time": "16分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 65,
+        "wltc_fuel_consumption_l_100km": 4.35
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "四连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/55 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（标配高快领航；可选装DiPilot 300支持城市领航）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，主驾记忆，前排加热/通风，50W无线充电，127色氛围灯",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含1颗激光雷达及城市领航辅助功能"
+        }
+      ]
+    },
+    {
+      "sku_id": "byd-sealion05-2026-dmi-305-zhihang",
+      "sku_name": "2026款 DM-i 305智航版",
+      "price_rmb": 127900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4620,
+        "width_mm": 1860,
+        "height_mm": 1630,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1780,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.25,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": 210,
+        "zero_to_100_s": 8.6,
+        "top_speed_kmh": 175
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 34.275,
+        "cltc_pure_electric_range_km": 305,
+        "cltc_combined_range_km": 2105,
+        "energy_consumption_kwh_100km": 16.0,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 74,
+        "fast_charge_time": "18.5分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 65,
+        "wltc_fuel_consumption_l_100km": 4.4
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "四连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/55 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（标配高快领航；可选装DiPilot 300支持城市领航）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，主驾记忆，前排加热/通风，50W无线充电，127色氛围灯",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含1颗激光雷达及城市领航辅助功能"
+        }
+      ]
+    },
+    {
+      "sku_id": "byd-sealion05-2026-ev-540-zhihang",
+      "sku_name": "2026款 EV 540智航版",
+      "price_rmb": 129900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4620,
+        "width_mm": 1860,
+        "height_mm": 1630,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1710,
+        "trunk_volume_l": 600,
+        "frunk_volume_l": 110,
+        "min_turning_radius_m": 4.7,
+        "drag_coefficient_cd": 0.28
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 230,
+        "zero_to_100_s": 6.6,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "第二代刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 57.545,
+        "cltc_pure_electric_range_km": 540,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 11.8,
+        "fast_charge_rate": "高压闪充",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "9分钟(10%-97%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R18"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（标配高快领航；可选装DiPilot 300支持城市领航）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，主驾记忆，前排加热/通风，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含1颗激光雷达及城市领航辅助功能"
+        }
+      ]
+    },
+    {
+      "sku_id": "byd-sealion05-2026-ev-630-zhihang",
+      "sku_name": "2026款 EV 630智航版",
+      "price_rmb": 145900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4620,
+        "width_mm": 1860,
+        "height_mm": 1630,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1840,
+        "trunk_volume_l": 600,
+        "frunk_volume_l": 110,
+        "min_turning_radius_m": 4.7,
+        "drag_coefficient_cd": 0.28
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 240,
+        "motor_torque_nm": 270,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "第二代刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 68.547,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 12.1,
+        "fast_charge_rate": "高压闪充",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "9分钟(10%-97%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R18"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（标配高快领航；可选装DiPilot 300支持城市领航）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "标配车载冰箱",
+        "seat_features": "仿皮座椅，主副驾电动调节+记忆，副驾腿托调节，前排加热/通风，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含1颗激光雷达及城市领航辅助功能"
+        }
+      ]
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

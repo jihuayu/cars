@@ -1,0 +1,149 @@
+{
+  "brand": "other-domestic",
+  "brand_name": "极石 / 江淮钇为 / 北京越野",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model_count": 3,
+  "sku_count": 11,
+  "models": [
+    {
+      "brand": "other-domestic",
+      "brand_name": "极石 / 江淮钇为 / 北京越野",
+      "origin_type": "国产",
+      "model": "北京越野BJ40增程（BJ40e）",
+      "model_slug": "baic-bj40-reev",
+      "sub_brand": null,
+      "category": "紧凑型增程硬派SUV",
+      "release_date": "2026-05-21",
+      "image_url": "https://www.xinhuanet.com/auto/20260522/f2832e83b23f434daa35035cb0a70885/20260522f2832e83b23f434daa35035cb0a70885_202605221443395556rId4image1.png",
+      "interior_image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "battery_chemistries": [
+        "三元锂",
+        "磷酸铁锂"
+      ],
+      "sku_count": 3,
+      "option_count": 1,
+      "price_min_rmb": 179800,
+      "price_max_rmb": 209800,
+      "best_zero_to_100_s": 5.1,
+      "max_cltc_ev_km": 252,
+      "ground_clearance_mm": 215,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/other-domestic/baic-bj40-reev.json",
+      "source_urls": [
+        "https://www.xinhuanet.com/auto/20260522/f2832e83b23f434daa35035cb0a70885/c.html",
+        "https://car.autohome.com.cn/config/spec/75694.html",
+        "http://www.news.cn/auto/20251114/9da2ce94dc8c4a2bad606dbf27acb225/c.html"
+      ]
+    },
+    {
+      "brand": "other-domestic",
+      "brand_name": "极石 / 江淮钇为 / 北京越野",
+      "origin_type": "国产",
+      "model": "江淮钇为3",
+      "model_slug": "jac-yiwei-3",
+      "sub_brand": null,
+      "category": "小型纯电两厢车",
+      "release_date": "2025-04-24",
+      "image_url": "https://yiwei.jac.com.cn/u/cms/yiwei/202603/06174945u94n.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 4,
+      "option_count": 0,
+      "price_min_rmb": 69900,
+      "price_max_rmb": 106900,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 505,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/other-domestic/jac-yiwei-3.json",
+      "source_urls": [
+        "https://yiwei.jac.com.cn/yw3/",
+        "https://car.autohome.com.cn/config/series/7186.html",
+        "https://www.jac.com.cn/news/20250425/6169.html"
+      ]
+    },
+    {
+      "brand": "other-domestic",
+      "brand_name": "极石 / 江淮钇为 / 北京越野",
+      "origin_type": "国产",
+      "model": "极石01（ROX 01）",
+      "model_slug": "rox-01",
+      "sub_brand": null,
+      "category": "中大型增程SUV",
+      "release_date": "2024-08-16",
+      "image_url": "https://m1.autoimg.cn/newsdfs/g32/M09/62/AD/400x400_1_q40_c40_autohomecar__Chtk2Wbnjb6AYgzrABSESw1pnpk862.jpg",
+      "interior_image_url": null,
+      "powertrains": [
+        "REEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 4,
+      "option_count": 2,
+      "price_min_rmb": 299900,
+      "price_max_rmb": 359900,
+      "best_zero_to_100_s": 5.5,
+      "max_cltc_ev_km": 306,
+      "ground_clearance_mm": 255,
+      "max_v2l_kw": 4.4,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": true,
+      "has_220v": true,
+      "has_v2l": true,
+      "has_swap": false,
+      "has_zero_gravity": true,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": true,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/other-domestic/rox-01.json",
+      "source_urls": [
+        "https://www.roxmotor.com/rox01/configuration/",
+        "https://car.autohome.com.cn/config/series/7302.html",
+        "https://www.donews.com/news/detail/7/3554010.html"
+      ]
+    }
+  ]
+}

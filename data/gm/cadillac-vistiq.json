@@ -1,0 +1,193 @@
+{
+  "brand": "gm",
+  "brand_name": "通用新能源",
+  "origin_type": "合资/外资",
+  "model": "凯迪拉克VISTIQ（凯威德）",
+  "model_slug": "cadillac-vistiq",
+  "category": "大型纯电六座SUV",
+  "release_date": "2026-04-22",
+  "image_url": "https://q0.itc.cn/q_70/images03/20260305/b53fc4c9835e407aa7f8fbdfacd4c64e.jpeg",
+  "interior_image_url": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/CHPlhPbttotiFpw.jpg",
+  "promo_highlights": [
+    "2026年4月22日正式上市，全系2+2+2六座布局，官方指导价46.88-50.88万元",
+    "限时升舱礼遇：不限品牌增换购补贴至高40,000元（基础2万+限时锁单加码2万）",
+    "八大尊享礼遇（总价值至高8万元）：含SUPER CRUISE PRO by Momenta终身使用权+智驾无忧险、3年车损≥30%免费换新车、三电终身质保、0.99%超低息金融及终身免费基础流量"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "2850-2860",
+    "gross_weight_kg": null,
+    "approach_departure_deg": "19/未知",
+    "battery_supplier": "时代上汽（95.7kWh三元锂）",
+    "reference_title": "凤凰网汽车 凯迪拉克VISTIQ（凯威德）工信部申报参数解读",
+    "reference_url": "https://auto.ifeng.com/c/8ov67sLPf67"
+  },
+  "references": [
+    {
+      "title": "通用汽车中国新闻中心 凯迪拉克凯威德(VISTIQ)正式上市官方新闻稿",
+      "url": "https://news.gm.com.cn/zh/home.detail.html/Pages/news/cn/zh/2026/april/0422-cadillac.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 凯迪拉克凯威德 参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/8471.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "上汽集团官网媒体报道 凯迪拉克VISTIQ正式入华详评",
+      "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/64368.shtml",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "车家号 凯迪拉克凯威德Pro/Ultra配置对比解析",
+      "url": "https://chejiahao.m.autohome.com.cn/info/25495525",
+      "type": "third_party_media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "凤凰网汽车 凯迪拉克VISTIQ工信部申报参数",
+      "url": "https://auto.ifeng.com/c/8ov67sLPf67",
+      "type": "third_party_media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "cadillac-vistiq-2026-awd-pro",
+      "sku_name": "2026款 长续航四驱Pro",
+      "price_rmb": 468800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5222,
+        "width_mm": 2026,
+        "height_mm": 1799,
+        "wheelbase_mm": 3094,
+        "ground_clearance_mm": 193,
+        "seats": 6,
+        "curb_weight_kg": 2850
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 443,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 3.75
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 95.7,
+        "cltc_pure_electric_range_km": 601,
+        "fast_charge_time": "10分钟补能127km(峰值190kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配威巴克空气悬架",
+        "cdc": "标配采埃孚CDC电磁减振",
+        "rear_wheel_steering": "无（最小转弯半径5.95m）"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "标配舱内隐藏式激光雷达",
+        "system": "SUPER CRUISE PRO by Momenta 高阶辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "33英寸9K环幕式超视网膜曲面联屏",
+        "screens": "33英寸曲面联屏+8英寸中控下触控屏+15扬声器音响",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "风暴灰外饰车漆",
+          "price_rmb": 8000,
+          "promo_price_rmb": 8000,
+          "details": "全系可选装风暴灰外饰，限时选装价8,000元"
+        }
+      ]
+    },
+    {
+      "sku_id": "cadillac-vistiq-2026-awd-ultra",
+      "sku_name": "2026款 高性能四驱Ultra",
+      "price_rmb": 508800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5222,
+        "width_mm": 2026,
+        "height_mm": 1799,
+        "wheelbase_mm": 3094,
+        "ground_clearance_mm": 193,
+        "seats": 6,
+        "curb_weight_kg": 2860
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 443,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 3.75
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 95.7,
+        "cltc_pure_electric_range_km": 573,
+        "fast_charge_time": "10分钟补能127km(峰值190kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配威巴克空气悬架",
+        "cdc": "标配采埃孚CDC电磁减振",
+        "rear_wheel_steering": "标配采埃孚ARS主动后轮转向(最小转弯半径5.56m)"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "标配舱内隐藏式激光雷达",
+        "system": "SUPER CRUISE PRO by Momenta 高阶辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "33英寸9K环幕式超视网膜曲面联屏",
+        "screens": "33英寸曲面联屏+8英寸中控下触控屏+23扬声器AKG Studio杜比全景声音响",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "Fine Nappa半苯胺真皮座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "风暴灰外饰车漆",
+          "price_rmb": 8000,
+          "promo_price_rmb": 8000,
+          "details": "全系可选装风暴灰外饰，限时选装价8,000元"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://news.gm.com.cn/zh/home.detail.html/Pages/news/cn/zh/2026/april/0422-cadillac.html",
+    "https://car.autohome.com.cn/config/series/8471.html",
+    "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/64368.shtml",
+    "https://chejiahao.m.autohome.com.cn/info/25495525",
+    "https://auto.ifeng.com/c/8ov67sLPf67"
+  ],
+  "data_as_of": "2026-11-27"
+}

@@ -1,0 +1,371 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "origin_type": "国产",
+  "model": "比亚迪元UP（智驾版 / 2027款飞驰版）",
+  "model_slug": "yuan-up-2027",
+  "category": "小型纯电SUV",
+  "release_date": "2026-09-17",
+  "image_url": "https://2sc2.autoimg.cn/escimg/g33/M0B/27/C1/f_m_autohomecar__ChxpVWsCZ9yAdTt-AAizc-o8jpE387.jpg",
+  "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g30/M03/4A/2A/400x400_0_f42_autohomecar__CjIFU2fszjaATgXtABIX_VLHMnQ61.jpeg",
+  "promo_highlights": [
+    "限时超级置换补贴5,000元（2026年11月1日-11月30日开票可享，支持个人或亲友旧车行驶证）",
+    "智享金融礼至高4,600元贴息：最低0首付至高5年超长贷，或5.8万24期0息，或首付50%1年0息0月供",
+    "2027款飞驰版终端参考优惠约5,000元，2025款智驾版终端参考优惠约1.5万元"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1430-1560",
+    "gross_weight_kg": "1805-1935",
+    "approach_departure_deg": "18/23",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪元UP智驾版官方页面 - BYD",
+      "url": "https://www.byd.com/cn/dynasty-home/models/yuan/yuan-up",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "元UP参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7538.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "试驾比亚迪元UP智驾版 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/19756549",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.byd.com/cn/dynasty-home/models/yuan/yuan-up",
+    "https://car.autohome.com.cn/config/series/7538.html",
+    "https://chejiahao.m.autohome.com.cn/info/19756549"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-yuanup-2027-feichi-401-huoli",
+      "sku_name": "2027款 飞驰版 401KM 活力型",
+      "price_rmb": 89800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4310,
+        "width_mm": 1830,
+        "height_mm": 1675,
+        "wheelbase_mm": 2620,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1520,
+        "trunk_volume_l": 1320,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.25,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 70,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 45.12,
+        "cltc_pure_electric_range_km": 401,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 12.2,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "扭力梁式非独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/65 R16"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "DiPilot 100（支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "4扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾手动调节，热泵空调",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-yuanup-2027-feichi-501-zhuoyue",
+      "sku_name": "2027款 飞驰版 501KM 卓越型",
+      "price_rmb": 104800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4310,
+        "width_mm": 1830,
+        "height_mm": 1675,
+        "wheelbase_mm": 2620,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1560,
+        "trunk_volume_l": 1320,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.25,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 70,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 51.13,
+        "cltc_pure_electric_range_km": 501,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 11.4,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "扭力梁式非独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/60 R17"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "DiPilot 100（支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-yuanup-2025-zhijia-401-lingxian",
+      "sku_name": "2025款 智驾版 401KM 领先型",
+      "price_rmb": 109800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4310,
+        "width_mm": 1830,
+        "height_mm": 1675,
+        "wheelbase_mm": 2620,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1540,
+        "trunk_volume_l": 1320,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.25,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 130,
+        "motor_torque_nm": 290,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 45.12,
+        "cltc_pure_electric_range_km": 401,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 12.2,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 65,
+        "fast_charge_time": "30分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "扭力梁式非独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/65 R16"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主驾电动调节，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-yuanup-2025-zhijia-401-chaoyue",
+      "sku_name": "2025款 智驾版 401KM 超越型",
+      "price_rmb": 119800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4310,
+        "width_mm": 1830,
+        "height_mm": 1675,
+        "wheelbase_mm": 2620,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1540,
+        "trunk_volume_l": 1320,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.25,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 130,
+        "motor_torque_nm": 290,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 45.12,
+        "cltc_pure_electric_range_km": 401,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 12.2,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 65,
+        "fast_charge_time": "30分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "扭力梁式非独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/65 R16"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "8英寸HUD抬头显示",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

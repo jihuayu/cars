@@ -1,0 +1,174 @@
+{
+  "brand": "kia-hyundai",
+  "brand_name": "起亚 / 现代新能源",
+  "origin_type": "合资/外资",
+  "model": "现代IONIQ 5 N",
+  "model_slug": "hyundai-ioniq-5-n",
+  "category": "中型纯电高性能SUV",
+  "release_date": "2025-11-17",
+  "image_url": "https://hyundai.com.sg/_nuxt/image/e7520a.png",
+  "interior_image_url": "https://www.topgear.com/sites/default/files/2025/04/3-Hyundai-Ioniq-5-N-review-2025-UK.jpg",
+  "promo_highlights": [
+    "2026款标准版官方指导价41.30万元（2025-11-17上市），2024款标准版指导价38.88万元",
+    "整车质保5年或10万公里，标配E-GMP 800V架构与650Ps NGB模式",
+    "提供N Performance性能套件选装（20英寸BRAID锻造轮毂等赛道硬件）"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "现代N中国官网 IONIQ 5 N 车型页",
+      "url": "https://www.hyundai-n.com.cn/ioniq-5-n.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 IONIQ 5 N 参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7325.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 现代N品牌专题页",
+      "url": "https://topic.autohome.com.cn/act/marketing/2025/1/hyundai-n/",
+      "type": "third_party_media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "hyundai-ioniq-5-n-2026-std",
+      "sku_name": "2026款 标准版",
+      "price_rmb": 413000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4715,
+        "width_mm": 1940,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2232
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 478,
+        "motor_torque_nm": 770,
+        "zero_to_100_s": 3.4
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 83.3,
+        "cltc_pure_electric_range_km": 556,
+        "fast_charge_time": "15分钟(30%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "标配电子控制悬架(ECS)",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Hyundai SmartSense（含HDA2高速公路驾驶辅助/自动变道）"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸彩色LCD液晶仪表盘(含N专属界面)+AR-HUD",
+        "screens": "12.3英寸中控触控屏+BOSE 8扬声器音响",
+        "rear_screen": "无",
+        "power_220v": "标配车内V2L(第二排座椅下部)",
+        "seat_heating_ventilation": "前排N专属运动桶椅加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配(Alcantara方向盘含加热)",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "全景天幕/天窗",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "官网标注天窗为选配"
+        },
+        {
+          "name": "N Performance 性能套件",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "含BRAID 20英寸轻量化锻造轮毂等赛道改装件"
+        }
+      ]
+    },
+    {
+      "sku_id": "hyundai-ioniq-5-n-2024-std",
+      "sku_name": "2024款 标准版",
+      "price_rmb": 388800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4715,
+        "width_mm": 1940,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 478,
+        "motor_torque_nm": 770,
+        "zero_to_100_s": 3.4
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 83.3,
+        "cltc_pure_electric_range_km": 556,
+        "fast_charge_time": "15分钟(30%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "标配电子控制悬架(ECS)",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Hyundai SmartSense（含HDA2高速公路驾驶辅助/自动变道）"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸彩色LCD液晶仪表盘(含N专属界面)+AR-HUD",
+        "screens": "12.3英寸中控触控屏+BOSE 8扬声器音响",
+        "rear_screen": "无",
+        "power_220v": "标配车内V2L(第二排座椅下部)",
+        "seat_heating_ventilation": "前排N专属运动桶椅加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配(Alcantara方向盘含加热)",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "全景天幕/天窗",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "选装配置"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.hyundai-n.com.cn/ioniq-5-n.html",
+    "https://car.autohome.com.cn/config/series/7325.html",
+    "https://topic.autohome.com.cn/act/marketing/2025/1/hyundai-n/"
+  ],
+  "data_as_of": "2026-11-27"
+}

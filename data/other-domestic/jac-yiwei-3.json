@@ -1,0 +1,339 @@
+{
+  "brand": "other-domestic",
+  "brand_name": "极石 / 江淮钇为 / 北京越野",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "江淮钇为3",
+  "model_slug": "jac-yiwei-3",
+  "category": "小型纯电两厢车",
+  "release_date": "2025-04-24",
+  "image_url": "https://yiwei.jac.com.cn/u/cms/yiwei/202603/06174945u94n.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款505km活力版售8.98万元，标配51.5kWh磷酸铁锂电池、自动热泵空调、车载小冰箱与V2L外放电",
+    "首任非营运车主免费享三电终身质保、原厂充电桩、终身基础流量及2年娱乐流量"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "江淮钇为官网 钇为3 2026款/2025款配置表",
+      "url": "https://yiwei.jac.com.cn/yw3/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 钇为3参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7186.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "江淮汽车官网 2025款钇为3全球上市新闻",
+      "url": "https://www.jac.com.cn/news/20250425/6169.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://yiwei.jac.com.cn/yw3/",
+    "https://car.autohome.com.cn/config/series/7186.html",
+    "https://www.jac.com.cn/news/20250425/6169.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "jac-yiwei-3-2025-330-ziyou",
+      "sku_name": "2025款 330km 自由版",
+      "price_rmb": 69900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4025,
+        "width_mm": 1770,
+        "height_mm": 1560,
+        "wheelbase_mm": 2620,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.95,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 60,
+        "motor_torque_nm": 150,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 135
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "蜂窝电池",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 330,
+        "cltc_combined_range_km": 330,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 35min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后扭力梁式非独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "定速巡航+倒车影像"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "6.2英寸液晶仪表",
+        "screens": "悬浮中控智慧大屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "车载小冰箱",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "jac-yiwei-3-2025-405-zunxiang",
+      "sku_name": "2025款 405km 尊享版",
+      "price_rmb": 89900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4025,
+        "width_mm": 1770,
+        "height_mm": 1560,
+        "wheelbase_mm": 2620,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.95,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 70,
+        "motor_torque_nm": 135,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "蜂窝电池",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 405,
+        "cltc_combined_range_km": 405,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后扭力梁式非独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "定速巡航+360°全景影像"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "6.2英寸液晶仪表",
+        "screens": "悬浮中控智慧大屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "车载小冰箱",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "jac-yiwei-3-2026-505-huoli",
+      "sku_name": "2026款 505km 活力版",
+      "price_rmb": 89800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4025,
+        "width_mm": 1770,
+        "height_mm": 1560,
+        "wheelbase_mm": 2620,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.95,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 100,
+        "motor_torque_nm": 175,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "蜂窝电池",
+        "battery_capacity_kwh": 51.5,
+        "cltc_pure_electric_range_km": 505,
+        "cltc_combined_range_km": 505,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后扭力梁式非独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "定速巡航+540°透明底盘"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "6.2英寸液晶仪表",
+        "screens": "悬浮中控智慧大屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "标配车载小冰箱",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "jac-yiwei-3-2025-505-zunxiang-plus",
+      "sku_name": "2025款 505km 尊享+版",
+      "price_rmb": 106900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4025,
+        "width_mm": 1770,
+        "height_mm": 1560,
+        "wheelbase_mm": 2620,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.95,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 100,
+        "motor_torque_nm": 175,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "蜂窝电池",
+        "battery_capacity_kwh": 51.5,
+        "cltc_pure_electric_range_km": 505,
+        "cltc_combined_range_km": 505,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后扭力梁式非独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级驾驶辅助+540°全景影像"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "6.2英寸液晶仪表",
+        "screens": "15.6英寸中控大屏",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "车载小冰箱",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

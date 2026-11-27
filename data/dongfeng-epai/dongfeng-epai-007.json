@@ -1,0 +1,306 @@
+{
+  "brand": "dongfeng-epai",
+  "brand_name": "东风奕派 / 纳米 / 猛士",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "东风奕派eπ007",
+  "model_slug": "dongfeng-epai-007",
+  "category": "中大型纯电掀背轿车",
+  "release_date": "2026-10-30",
+  "image_url": "https://www.yipai.com.cn/assets/private/2027007/007new_kv.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2027款限时补贴价10.99万元起，总价值至高38,800元多重好礼（有效期2026-10-30至2026-11-30）",
+    "5年贷2年0息金融礼，999元享价值3,999元7kW充电桩及安装服务",
+    "675激光版享价值10,000元高阶领航辅助驾驶永久免费",
+    "价值5,000元港湾蓝/霞光紫外饰色限时免费；三电终身质保+电池热失控赔付同款新车"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "东风奕派官网 2027款奕派007车型页",
+      "url": "https://www.yipai.com.cn/model007new",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "东风奕派官网 2027款奕派007参数配置详情",
+      "url": "https://www.yipai.com.cn/configdetails007new",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "东风奕派官网 2027款奕派007购车权益说明",
+      "url": "https://www.yipai.com.cn/equity007new",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 eπ007参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7398.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.yipai.com.cn/model007new",
+    "https://www.yipai.com.cn/configdetails007new",
+    "https://www.yipai.com.cn/equity007new",
+    "https://car.autohome.com.cn/config/series/7398.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "dongfeng-epai-007-2027-550-xunhang",
+      "sku_name": "2027款 纯电 550巡航版",
+      "price_rmb": 115900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1895,
+        "height_mm": 1476,
+        "wheelbase_mm": 2915,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1759,
+        "trunk_volume_l": "490-1267",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.6,
+        "drag_coefficient_cd": 0.209
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 6.8,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "东昱欣晟",
+        "battery_capacity_kwh": 58.4,
+        "cltc_pure_electric_range_km": 550,
+        "cltc_combined_range_km": 550,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "instrument_cluster": "全液晶运动仪表屏",
+        "screens": "悬浮式中控大屏（DeepSeek双AI大模型）",
+        "hud": "未知",
+        "audio": "头枕音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾3档通风/加热",
+        "seat_massage": "主驾8点大区域手感按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "马牌轮胎选装权益",
+          "price_rmb": 3200,
+          "promo_price_rmb": 2000,
+          "details": "限时2000元选装价值3200元马牌轮胎",
+          "availability": "可选"
+        },
+        {
+          "name": "港湾蓝/霞光紫外饰色",
+          "price_rmb": 5000,
+          "promo_price_rmb": 0,
+          "details": "限时免费选装",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "dongfeng-epai-007-2027-675-jiguang",
+      "sku_name": "2027款 纯电 675激光版",
+      "price_rmb": 135900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1915,
+        "height_mm": 1476,
+        "wheelbase_mm": 2915,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1852,
+        "trunk_volume_l": "490-1267",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.6,
+        "drag_coefficient_cd": 0.209
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 5.7,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "东昱欣晟",
+        "battery_capacity_kwh": 73.5,
+        "cltc_pure_electric_range_km": 675,
+        "cltc_combined_range_km": 675,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": "地平线征程J6M",
+        "compute_tops": 128,
+        "lidar": "1颗禾赛激光雷达",
+        "system": "天元T200辅助驾驶（高速NOA+城市NOA+全场景记忆泊车）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "instrument_cluster": "全液晶运动仪表屏",
+        "screens": "悬浮式中控大屏（DeepSeek双AI大模型）",
+        "hud": "未知",
+        "audio": "环绕声场头枕音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾3档通风/加热",
+        "seat_massage": "主驾8点大区域手感按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "马牌轮胎选装权益",
+          "price_rmb": 3200,
+          "promo_price_rmb": 2000,
+          "details": "限时2000元选装价值3200元马牌轮胎",
+          "availability": "可选"
+        },
+        {
+          "name": "港湾蓝/霞光紫外饰色",
+          "price_rmb": 5000,
+          "promo_price_rmb": 0,
+          "details": "限时免费选装",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "dongfeng-epai-007-2026-610-shanxian",
+      "sku_name": "2026款 纯电 610闪现版",
+      "price_rmb": 144900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4880,
+        "width_mm": 1895,
+        "height_mm": 1476,
+        "wheelbase_mm": 2915,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.209
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null,
+        "top_speed_kmh": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "东昱欣晟",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 610,
+        "cltc_combined_range_km": 610,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2+级辅助驾驶"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "instrument_cluster": "全液晶仪表屏",
+        "screens": "悬浮式中控大屏",
+        "hud": "未知",
+        "audio": "头枕音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾通风/加热",
+        "seat_massage": "主驾按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

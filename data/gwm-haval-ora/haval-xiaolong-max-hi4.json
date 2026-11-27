@@ -1,0 +1,260 @@
+{
+  "brand": "gwm-haval-ora",
+  "brand_name": "哈弗新能源 / 欧拉",
+  "origin_type": "国产",
+  "model": "哈弗二代枭龙MAX（Hi4）",
+  "model_slug": "haval-xiaolong-max-hi4",
+  "category": "中型插混SUV",
+  "release_date": "2025-04-16",
+  "image_url": "https://m2.auto.itc.cn/q_mini/carpics/360car/7012/4929505667095659501762486393886.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "限时换新价11.68万-15.48万元起（指导价13.18万-16.98万元）",
+    "全系标配第二代Hi4插电混动智能四驱（系统综合功率238kW/扭矩595N·m，零百6.8s）",
+    "智驾版搭载Coffee Pilot Plus纯视觉高阶智驾（支持城市通勤NOA/高快NOA/智能泊车）及Coffee OS 3座舱"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "中关村在线 - 哈弗枭龙MAX 2025款Hi4 165 Ultra智驾版参数配置",
+      "url": "https://detail.zol.com.cn/2127/2126069/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "搜狐汽车 - 二代哈弗枭龙MAX全系指导价与配置差异",
+      "url": "https://db.auto.sohu.com/model_7012",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新浪汽车 - 标配第二代Hi4实拍二代哈弗枭龙MAX",
+      "url": "https://auto.sina.cn/review/2025-03-12/detail-inepkvpf7672248.d.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://detail.zol.com.cn/2127/2126069/param.shtml",
+    "https://db.auto.sohu.com/model_7012",
+    "https://auto.sina.cn/review/2025-03-12/detail-inepkvpf7672248.d.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "haval-xiaolong-max-2025-110-air",
+      "sku_name": "2025款 Hi4 110 Air",
+      "price_rmb": 131800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1895,
+        "height_mm": 1725,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（第二代Hi4）",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 460,
+        "zero_to_100_s": 6.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 18.74,
+        "cltc_pure_electric_range_km": 110,
+        "fast_charge_time": "28分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级基础辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "14.6英寸中控屏（Coffee OS 3）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热（无通风）",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "haval-xiaolong-max-2025-110-plus-adas",
+      "sku_name": "2025款 Hi4 110 Plus 智驾版",
+      "price_rmb": 152800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1895,
+        "height_mm": 1725,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（第二代Hi4）",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 460,
+        "zero_to_100_s": 6.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 18.74,
+        "cltc_pure_electric_range_km": 110,
+        "fast_charge_time": "28分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Coffee Pilot Plus（纯视觉城市通勤NOA/高快NOA/自动泊车）"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "14.6英寸中控屏（Coffee OS 3）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风、后排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "haval-xiaolong-max-2025-165-plus",
+      "sku_name": "2025款 Hi4 165 Plus 长续航版",
+      "price_rmb": 153800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1895,
+        "height_mm": 1725,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（第二代Hi4）",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 460,
+        "zero_to_100_s": 6.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 27.54,
+        "cltc_pure_electric_range_km": 165,
+        "fast_charge_time": "28分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "14.6英寸中控屏（Coffee OS 3）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风、后排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "haval-xiaolong-max-2025-165-ultra-adas",
+      "sku_name": "2025款 Hi4 165 Ultra 智驾版",
+      "price_rmb": 169800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4780,
+        "width_mm": 1895,
+        "height_mm": 1725,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（第二代Hi4）",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 460,
+        "zero_to_100_s": 6.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 27.54,
+        "cltc_pure_electric_range_km": 165,
+        "fast_charge_time": "28分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "Coffee Pilot Plus（纯视觉城市通勤NOA/高快NOA/自动泊车）"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.3英寸全液晶仪表+HUD抬头显示",
+        "screens": "14.6英寸中控屏（Coffee OS 3）+10扬音响",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排3挡加热/通风、后排加热",
+        "seat_massage": "前排8点座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "自动防眩目内后视镜",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

@@ -1,0 +1,387 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "origin_type": "国产",
+  "model": "比亚迪海鸥（2026款 / 2027款）",
+  "model_slug": "seagull-2027",
+  "category": "小型纯电轿车",
+  "release_date": "2026-10-20",
+  "image_url": "https://img3.autoimg.cn/chejiahaodfs/g33/M0B/B1/27/autohomecar__ChxpVWrPCROAegSyAANQJGHlntE924.jpg",
+  "interior_image_url": "https://img3.autoimg.cn/chejiahaodfs/g34/M07/BC/FF/400x400_0_f42_autohomecar__ChxpWGq08n-AKHHhAAj1QeeDep0142.jpg",
+  "promo_highlights": [
+    "首任非营运车主享三电系统终身质保、整车6年或15万公里质保",
+    "2027款全系升级后置后驱+后多连杆独立悬架及5座布局，420KM版支持第二代刀片电池9分钟闪充（10%-97%）",
+    "2026款在售终端参考优惠约3,000元"
+  ],
+  "miit_filing": {
+    "miit_batch": "第409批",
+    "product_model_code": null,
+    "curb_weight_kg": "1170-1255",
+    "gross_weight_kg": "1545-1630",
+    "approach_departure_deg": "17/22",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪汽车官方网站",
+      "url": "https://www.byd.com/cn",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海鸥参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6762.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "全新一代比亚迪海鸥工信部第409批申报解析 - 新浪汽车",
+      "url": "https://auto.sina.cn/2026-07-11/detail-inihmrez4979878.d.html?vt=4",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪第二代海鸥设计图曝光 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26649196",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.byd.com/cn",
+    "https://car.autohome.com.cn/config/series/6762.html",
+    "https://auto.sina.cn/2026-07-11/detail-inihmrez4979878.d.html?vt=4",
+    "https://chejiahao.m.autohome.com.cn/info/26649196"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-seagull-2027-320-huoli",
+      "sku_name": "2027款 320KM 活力版",
+      "price_rmb": 65900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4205,
+        "width_mm": 1810,
+        "height_mm": 1570,
+        "wheelbase_mm": 2650,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1170,
+        "trunk_volume_l": "380-1380",
+        "frunk_volume_l": 94,
+        "min_turning_radius_m": 4.95,
+        "drag_coefficient_cd": 0.28
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 85,
+        "motor_torque_nm": 130,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 30.1,
+        "cltc_pure_electric_range_km": 320,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 9.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 33,
+        "fast_charge_time": "31分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "205/60 R16"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "定速巡航+360度全景影像",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "12.8英寸触控中控屏（DiLink）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "4扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾手动调节",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-seagull-2027-420-feixiang",
+      "sku_name": "2027款 420KM 飞翔版",
+      "price_rmb": 82900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4205,
+        "width_mm": 1810,
+        "height_mm": 1570,
+        "wheelbase_mm": 2650,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1255,
+        "trunk_volume_l": "380-1380",
+        "frunk_volume_l": 94,
+        "min_turning_radius_m": 4.95,
+        "drag_coefficient_cd": 0.28
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 95,
+        "motor_torque_nm": 130,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "第二代刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 39.2,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 9.9,
+        "fast_charge_rate": "高压闪充",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "9分钟(10%-97%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "205/60 R16"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "定速巡航+360度全景影像",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "12.8英寸触控中控屏（DiLink）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，主驾按摩",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "主驾标配按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-seagull-2027-420-zhiqu",
+      "sku_name": "2027款 420KM 智趣版",
+      "price_rmb": 99900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4205,
+        "width_mm": 1810,
+        "height_mm": 1570,
+        "wheelbase_mm": 2650,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1255,
+        "trunk_volume_l": "380-1380",
+        "frunk_volume_l": 94,
+        "min_turning_radius_m": 4.95,
+        "drag_coefficient_cd": 0.28
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 95,
+        "motor_torque_nm": 130,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "第二代刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 39.2,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 9.9,
+        "fast_charge_rate": "高压闪充",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "9分钟(10%-97%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "205/60 R16"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "DiPilot 300（天神之眼B，支持高速+城市领航及记忆泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "15.6英寸触控中控屏（DiLink）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，主驾按摩",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "主驾标配按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-seagull-2026-405-feixiang",
+      "sku_name": "2026款 405km 飞翔版",
+      "price_rmb": 85900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 3780,
+        "width_mm": 1715,
+        "height_mm": 1540,
+        "wheelbase_mm": 2500,
+        "ground_clearance_mm": null,
+        "seats": 4,
+        "curb_weight_kg": 1240,
+        "trunk_volume_l": 930,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 4.95,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 55,
+        "motor_torque_nm": 135,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 130
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 38.88,
+        "cltc_pure_electric_range_km": 405,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 10.1,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 40,
+        "fast_charge_time": "30分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "扭力梁式非独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "175/55 R16"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（天神之眼C，支持高快领航；可选装DiPilot 300）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸触控中控屏（DiLink）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "4扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主驾电动调节，前排座椅加热",
+        "seat_heating_ventilation": "前排标配加热，无通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含1颗激光雷达及城市领航辅助功能"
+        }
+      ]
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

@@ -1,0 +1,207 @@
+{
+  "brand": "wuling",
+  "brand_name": "五菱 / 宝骏",
+  "origin_type": "国产",
+  "model": "宝骏云海",
+  "model_slug": "baojun-yunhai",
+  "category": "紧凑型新能源SUV",
+  "release_date": "2025-07-01",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g28/M06/81/07/400x400_1_q40_c40_autohomecar__Chtlx2hNd8mAclGYACnlCYE_IMU184.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款终端优惠约1.20万元，参考价9.78万元起",
+    "搭载与卓驭科技联合开发的灵眸智驾系统，全系标配3.3kW对外放电与前麦弗逊+后多连杆独悬",
+    "纯电版支持20分钟直流快充（30%-80%）"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "上汽通用五菱官网 - 宝骏云海参数配置",
+      "url": "https://www.sgmw.com.cn/carDetail?id=267",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 宝骏云海参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7741.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 宝骏云海2026款140km插混标准版参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/73261.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.sgmw.com.cn/carDetail?id=267",
+    "https://car.autohome.com.cn/config/series/7741.html",
+    "https://car.autohome.com.cn/config/spec/73261.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "baojun-yunhai-2026-ev-500-std",
+      "sku_name": "2026款 500km 纯电标准版",
+      "price_rmb": 109800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4541,
+        "width_mm": 1880,
+        "height_mm": 1608,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1675
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 56.7,
+        "cltc_pure_electric_range_km": 500,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "卓驭成行平台",
+        "lidar": "无",
+        "system": "灵眸智驾（L2级）"
+      },
+      "cockpit": {
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸中控大屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baojun-yunhai-2026-ev-500",
+      "sku_name": "2026款 500km 纯电版",
+      "price_rmb": 119800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4541,
+        "width_mm": 1880,
+        "height_mm": 1608,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1675
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 56.7,
+        "cltc_pure_electric_range_km": 500,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "卓驭成行平台",
+        "lidar": "无",
+        "system": "灵眸智驾2.0 Max（支持高速领航/记忆泊车）"
+      },
+      "cockpit": {
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸中控大屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baojun-yunhai-2026-ev-600-std",
+      "sku_name": "2026款 600km 纯电标准版",
+      "price_rmb": 119800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4541,
+        "width_mm": 1880,
+        "height_mm": 1608,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1760
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 69.2,
+        "cltc_pure_electric_range_km": 600,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": 3.3
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "卓驭成行平台",
+        "lidar": "无",
+        "system": "灵眸智驾（L2级）"
+      },
+      "cockpit": {
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸中控大屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

@@ -5,7 +5,7 @@
 ## 数据规模总览
 
 <!-- STATS:START -->
-共收录 **40 大品牌（国产 27 + 合资/外资 13） / 174 款在售主力车型 / 673 个 SKU**（数据更新日期：**2026-11-27**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。
+共收录 **50 大品牌（国产 27 + 合资/外资 13） / 231 款在售主力车型 / 865 个 SKU**（数据更新日期：**2026-11-27**），在线预览见 **[GitHub Pages 车型配置展厅](https://jihuayu.github.io/cars/)**，全量索引见 [`index.json`](./index.json)，数据结构定义见 [`schema.json`](./schema.json)。
 
 | 厂商目录 | 品牌 | 产地类型 | 车型数 | SKU 数 | 品牌索引 |
 | :--- | :--- | :--- | ---: | ---: | :--- |
@@ -21,13 +21,13 @@
 | `data/xiaomi/` | 小米汽车 | 国产 | 4 | 14 | [`data/xiaomi/index.json`](./data/xiaomi/index.json) |
 | `data/zeekr/` | 极氪 | 国产 | 6 | 28 | [`data/zeekr/index.json`](./data/zeekr/index.json) |
 | `data/lynkco/` | 领克新能源 | 国产 | 3 | 13 | [`data/lynkco/index.json`](./data/lynkco/index.json) |
-| `data/byd/` | 比亚迪 | 国产 | 6 | 38 | [`data/byd/index.json`](./data/byd/index.json) |
+| `data/byd/` | 比亚迪 | 国产 | 16 | 76 | [`data/byd/index.json`](./data/byd/index.json) |
 | `data/denza/` | 腾势 | 国产 | 4 | 21 | [`data/denza/index.json`](./data/denza/index.json) |
 | `data/fangchengbao/` | 方程豹 | 国产 | 4 | 17 | [`data/fangchengbao/index.json`](./data/fangchengbao/index.json) |
 | `data/yangwang/` | 仰望 | 国产 | 3 | 10 | [`data/yangwang/index.json`](./data/yangwang/index.json) |
 | `data/voyah/` | 岚图 | 国产 | 5 | 21 | [`data/voyah/index.json`](./data/voyah/index.json) |
 | `data/deepal/` | 深蓝 | 国产 | 5 | 25 | [`data/deepal/index.json`](./data/deepal/index.json) |
-| `data/geely-galaxy/` | 吉利银河 | 国产 | 5 | 24 | [`data/geely-galaxy/index.json`](./data/geely-galaxy/index.json) |
+| `data/geely-galaxy/` | 吉利银河 | 国产 | 8 | 34 | [`data/geely-galaxy/index.json`](./data/geely-galaxy/index.json) |
 | `data/changan-qiyuan/` | 长安启源 | 国产 | 3 | 14 | [`data/changan-qiyuan/index.json`](./data/changan-qiyuan/index.json) |
 | `data/exeed-sterra/` | 星途星纪元 | 国产 | 2 | 9 | [`data/exeed-sterra/index.json`](./data/exeed-sterra/index.json) |
 | `data/icar/` | iCAR | 国产 | 2 | 9 | [`data/icar/index.json`](./data/icar/index.json) |
@@ -36,18 +36,28 @@
 | `data/arcfox/` | 极狐 | 国产 | 4 | 15 | [`data/arcfox/index.json`](./data/arcfox/index.json) |
 | `data/wey/` | 魏牌 | 国产 | 2 | 8 | [`data/wey/index.json`](./data/wey/index.json) |
 | `data/tank/` | 坦克新能源 | 国产 | 2 | 6 | [`data/tank/index.json`](./data/tank/index.json) |
+| `data/wuling/` | 五菱 / 宝骏 | 国产 | 6 | 22 | [`data/wuling/index.json`](./data/wuling/index.json) |
+| `data/chery-fulwin/` | 奇瑞风云 / 捷途山海 | 国产 | 8 | 28 | [`data/chery-fulwin/index.json`](./data/chery-fulwin/index.json) |
+| `data/gwm-haval-ora/` | 哈弗新能源 / 欧拉 | 国产 | 4 | 14 | [`data/gwm-haval-ora/index.json`](./data/gwm-haval-ora/index.json) |
+| `data/hongqi/` | 红旗新能源 | 国产 | 5 | 16 | [`data/hongqi/index.json`](./data/hongqi/index.json) |
+| `data/dongfeng-epai/` | 东风奕派 / 纳米 / 猛士 | 国产 | 5 | 17 | [`data/dongfeng-epai/index.json`](./data/dongfeng-epai/index.json) |
+| `data/saic-roewe-mg/` | 荣威 / MG新能源 | 国产 | 4 | 14 | [`data/saic-roewe-mg/index.json`](./data/saic-roewe-mg/index.json) |
+| `data/other-domestic/` | 极石 / 江淮钇为 / 北京越野 | 国产 | 3 | 11 | [`data/other-domestic/index.json`](./data/other-domestic/index.json) |
 | `data/tesla/` | 特斯拉 | 合资/外资 | 5 | 11 | [`data/tesla/index.json`](./data/tesla/index.json) |
 | `data/bmw/` | 宝马新能源 | 合资/外资 | 5 | 11 | [`data/bmw/index.json`](./data/bmw/index.json) |
-| `data/mercedes/` | 奔驰新能源 | 合资/外资 | 4 | 7 | [`data/mercedes/index.json`](./data/mercedes/index.json) |
+| `data/mercedes/` | 奔驰新能源 | 合资/外资 | 5 | 8 | [`data/mercedes/index.json`](./data/mercedes/index.json) |
 | `data/audi/` | 奥迪新能源 | 合资/外资 | 4 | 8 | [`data/audi/index.json`](./data/audi/index.json) |
 | `data/porsche/` | 保时捷新能源 | 合资/外资 | 2 | 4 | [`data/porsche/index.json`](./data/porsche/index.json) |
-| `data/volvo/` | 沃尔沃/极星 | 合资/外资 | 4 | 7 | [`data/volvo/index.json`](./data/volvo/index.json) |
+| `data/volvo/` | 沃尔沃/极星 | 合资/外资 | 5 | 9 | [`data/volvo/index.json`](./data/volvo/index.json) |
 | `data/volkswagen/` | 大众新能源 | 合资/外资 | 5 | 10 | [`data/volkswagen/index.json`](./data/volkswagen/index.json) |
 | `data/toyota/` | 丰田新能源 | 合资/外资 | 4 | 8 | [`data/toyota/index.json`](./data/toyota/index.json) |
 | `data/honda/` | 本田新能源 | 合资/外资 | 2 | 4 | [`data/honda/index.json`](./data/honda/index.json) |
 | `data/nissan/` | 日产新能源 | 合资/外资 | 2 | 4 | [`data/nissan/index.json`](./data/nissan/index.json) |
-| `data/gm/` | 通用新能源 | 合资/外资 | 4 | 8 | [`data/gm/index.json`](./data/gm/index.json) |
+| `data/gm/` | 通用新能源 | 合资/外资 | 5 | 10 | [`data/gm/index.json`](./data/gm/index.json) |
 | `data/smart/` | smart | 合资/外资 | 3 | 6 | [`data/smart/index.json`](./data/smart/index.json) |
+| `data/kia-hyundai/` | 起亚 / 现代新能源 | 合资/外资 | 2 | 5 | [`data/kia-hyundai/index.json`](./data/kia-hyundai/index.json) |
+| `data/mini/` | 电动MINI | 合资/外资 | 2 | 5 | [`data/mini/index.json`](./data/mini/index.json) |
+| `data/lotus/` | 莲花跑车 / 路特斯 | 合资/外资 | 2 | 7 | [`data/lotus/index.json`](./data/lotus/index.json) |
 | `data/joint-other/` | 马自达/福特/雷克萨斯 | 合资/外资 | 4 | 8 | [`data/joint-other/index.json`](./data/joint-other/index.json) |
 <!-- STATS:END -->
 

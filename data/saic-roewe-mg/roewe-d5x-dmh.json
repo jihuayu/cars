@@ -1,0 +1,266 @@
+{
+  "brand": "saic-roewe-mg",
+  "brand_name": "荣威 / MG新能源",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "荣威D5X DMH",
+  "model_slug": "roewe-d5x-dmh",
+  "category": "紧凑型插混SUV",
+  "release_date": "2024-05-20",
+  "image_url": "https://oss.roewe.com.cn/wp-content/uploads/sites/3/2023/10/D5xDMH-1.png?x-oss-process=image/format,webp",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端限时现金补贴约10,000元（补贴后参考价10.98万-13.68万元）",
+    "六年或15万公里整车质保政策"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "上汽荣威官网 荣威D5X DMH车型页",
+      "url": "https://www.roewe.com.cn/vehicles/d5x-dmh/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "ZOL 荣威D5X DMH 2024款135科技版参数配置",
+      "url": "https://detail.zol.com.cn/2019/2018750/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "EV视界 荣威D5X DMH车型库",
+      "url": "https://www.evlook.com/rongweid5xdmh",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.roewe.com.cn/vehicles/d5x-dmh/",
+    "https://detail.zol.com.cn/2019/2018750/param.shtml",
+    "https://www.evlook.com/rongweid5xdmh"
+  ],
+  "skus": [
+    {
+      "sku_id": "roewe-d5x-dmh-2024-135-haohua",
+      "sku_name": "2024款 1.5T 135km 豪华版",
+      "price_rmb": 129800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4700,
+        "width_mm": 1890,
+        "height_mm": 1664,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "507-1484",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 145,
+        "motor_torque_nm": 350,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 21.4,
+        "cltc_pure_electric_range_km": 135,
+        "cltc_combined_range_km": 1300,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "快充30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 4.62
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "540°全景影像+基础定速巡航"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "12.3英寸液晶仪表",
+        "screens": "双12.3英寸联屏（斑马智行）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "roewe-d5x-dmh-2024-135-qijian",
+      "sku_name": "2024款 1.5T 135km 旗舰版",
+      "price_rmb": 139800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4700,
+        "width_mm": 1890,
+        "height_mm": 1664,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "507-1484",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 145,
+        "motor_torque_nm": 350,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 21.4,
+        "cltc_pure_electric_range_km": 135,
+        "cltc_combined_range_km": 1300,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "快充30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 4.62
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "540°全景影像+基础定速巡航"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "12.3英寸液晶仪表",
+        "screens": "双12.3英寸联屏（斑马智行）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅3档加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "roewe-d5x-dmh-2024-135-keji",
+      "sku_name": "2024款 1.5T 135km 科技版",
+      "price_rmb": 146800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4700,
+        "width_mm": 1890,
+        "height_mm": 1664,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "507-1484",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.7,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 145,
+        "motor_torque_nm": 350,
+        "zero_to_100_s": 6.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": 21.4,
+        "cltc_pure_electric_range_km": 135,
+        "cltc_combined_range_km": 1300,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "快充30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 4.62
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶（全速自适应巡航+车道保持+主动刹车）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "12.3英寸液晶仪表",
+        "screens": "双12.3英寸联屏（斑马智行）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅3档加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

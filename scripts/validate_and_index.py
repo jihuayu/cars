@@ -22,7 +22,7 @@ README_FILE = REPO_ROOT / "README.md"
 SOURCES_FILE = DATA_DIR / "sources.json"
 
 BRAND_ORDER = [
-    # 国产新能源 (27)
+    # 国产新能源 (34)
     ("lixiang", "理想汽车"),
     ("xiaopeng", "小鹏汽车"),
     ("avatr", "阿维塔"),
@@ -50,7 +50,14 @@ BRAND_ORDER = [
     ("arcfox", "极狐"),
     ("wey", "魏牌"),
     ("tank", "坦克新能源"),
-    # 中国大陆在售外资/合资新能源 (13)
+    ("wuling", "五菱 / 宝骏"),
+    ("chery-fulwin", "奇瑞风云 / 捷途山海"),
+    ("gwm-haval-ora", "哈弗新能源 / 欧拉"),
+    ("hongqi", "红旗新能源"),
+    ("dongfeng-epai", "东风奕派 / 纳米 / 猛士"),
+    ("saic-roewe-mg", "荣威 / MG新能源"),
+    ("other-domestic", "极石 / 江淮钇为 / 北京越野"),
+    # 中国大陆在售外资/合资新能源 (16)
     ("tesla", "特斯拉"),
     ("bmw", "宝马新能源"),
     ("mercedes", "奔驰新能源"),
@@ -63,12 +70,15 @@ BRAND_ORDER = [
     ("nissan", "日产新能源"),
     ("gm", "通用新能源"),
     ("smart", "smart"),
+    ("kia-hyundai", "起亚 / 现代新能源"),
+    ("mini", "电动MINI"),
+    ("lotus", "莲花跑车 / 路特斯"),
     ("joint-other", "马自达/福特/雷克萨斯"),
 ]
 
 FOREIGN_BRANDS = {
     "tesla", "bmw", "mercedes", "audi", "porsche", "volvo",
-    "volkswagen", "toyota", "honda", "nissan", "gm", "smart", "joint-other",
+    "volkswagen", "toyota", "honda", "nissan", "gm", "smart", "kia-hyundai", "mini", "lotus", "joint-other",
 }
 
 REQUIRED_MODEL_KEYS = {"brand", "brand_name", "model", "model_slug", "data_as_of", "skus"}

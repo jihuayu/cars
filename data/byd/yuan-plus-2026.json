@@ -1,0 +1,395 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "origin_type": "国产",
+  "model": "比亚迪元PLUS（2026款 / 2025款智驾版）",
+  "model_slug": "yuan-plus-2026",
+  "category": "紧凑型纯电SUV",
+  "release_date": "2026-05-21",
+  "image_url": "https://m3.auto.itc.cn/c_zoom,w_1000,q_mini/30324882.JPG",
+  "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g34/M08/25/6C/400x400_0_f42_autohomecar__ChxpWGnp2KuAS4XsAArM8looet8608.png",
+  "promo_highlights": [
+    "2026款第三代元PLUS全系升级后置后驱+第二代刀片电池9分钟闪充（10%-97%），配备180L前备厢",
+    "2025款智驾版终端参考优惠约6,000元",
+    "首任非营运车主享三电系统终身质保、整车6年或15万公里质保"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1625-1840",
+    "gross_weight_kg": "2000-2245",
+    "approach_departure_deg": "18/22",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪汽车官方网站",
+      "url": "https://www.byd.com/cn",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "元PLUS参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6298.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪第三代元PLUS解析 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/25296685",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.byd.com/cn",
+    "https://car.autohome.com.cn/config/series/6298.html",
+    "https://chejiahao.m.autohome.com.cn/info/25296685"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-yuanplus-2026-540-chaoyue",
+      "sku_name": "2026款 540KM 超越型",
+      "price_rmb": 129900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4665,
+        "width_mm": 1895,
+        "height_mm": 1675,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1690,
+        "trunk_volume_l": "750-1750",
+        "frunk_volume_l": 180,
+        "min_turning_radius_m": 4.7,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 6.6,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "第二代刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 57.545,
+        "cltc_pure_electric_range_km": 540,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 11.8,
+        "fast_charge_rate": "高压闪充",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "9分钟(10%-97%)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "225/60 R18"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（标配高快领航；可选装DiPilot 300支持城市领航）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含1颗激光雷达、信号灯识别及城市领航辅助功能"
+        }
+      ]
+    },
+    {
+      "sku_id": "byd-yuanplus-2026-630-chaoyue",
+      "sku_name": "2026款 630KM 超越型",
+      "price_rmb": 142900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4665,
+        "width_mm": 1895,
+        "height_mm": 1675,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1840,
+        "trunk_volume_l": "750-1750",
+        "frunk_volume_l": 180,
+        "min_turning_radius_m": 4.7,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 240,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "第二代刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 68.547,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 12.1,
+        "fast_charge_rate": "高压闪充",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "9分钟(10%-97%)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（标配高快领航；可选装DiPilot 300支持城市领航）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "标配车载冰箱",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含1颗激光雷达、信号灯识别及城市领航辅助功能"
+        }
+      ]
+    },
+    {
+      "sku_id": "byd-yuanplus-2026-630-zhuoyue",
+      "sku_name": "2026款 630KM 卓越型",
+      "price_rmb": 149900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4665,
+        "width_mm": 1895,
+        "height_mm": 1675,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1840,
+        "trunk_volume_l": "750-1750",
+        "frunk_volume_l": 180,
+        "min_turning_radius_m": 4.7,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 240,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 5.9,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "第二代刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 68.547,
+        "cltc_pure_electric_range_km": 630,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 12.1,
+        "fast_charge_rate": "高压闪充",
+        "max_charge_power_kw": null,
+        "fast_charge_time": "9分钟(10%-97%)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无（可选装1颗激光雷达）",
+        "system": "DiPilot 100（标配高快领航；可选装DiPilot 300支持城市领航）",
+        "subscription_or_buyout": "标配DiPilot 100；可选装DiPilot 300（12,000元）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "15.6英寸触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "12英寸HUD抬头显示",
+        "audio": "16扬声器",
+        "fridge": "标配车载冰箱",
+        "seat_features": "仿皮座椅，主副驾电动调节+记忆，副驾腿托调节，前排加热/通风，256色主动氛围灯",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "DiPilot 300 激光雷达智驾包",
+          "price_rmb": 12000,
+          "promo_price_rmb": null,
+          "availability": "可选",
+          "details": "含1颗激光雷达、信号灯识别及城市领航辅助功能"
+        }
+      ]
+    },
+    {
+      "sku_id": "byd-yuanplus-2025-zhijia-510-chaoyue",
+      "sku_name": "2025款 智驾版 510KM 超越型",
+      "price_rmb": 135800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4455,
+        "width_mm": 1875,
+        "height_mm": 1615,
+        "wheelbase_mm": 2720,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1690,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 7.3,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 60.48,
+        "cltc_pure_electric_range_km": 510,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 12.5,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 80,
+        "fast_charge_time": "30分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/55 R18"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸LCD触控中控屏（DiLink 5G，四区域语音）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

@@ -1,0 +1,356 @@
+{
+  "brand": "saic-roewe-mg",
+  "brand_name": "荣威 / MG新能源",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "荣威D7（DMH / EV）",
+  "model_slug": "roewe-d7",
+  "category": "中型新能源轿车",
+  "release_date": "2024-12-11",
+  "image_url": "https://oss.roewe.com.cn/wp-content/uploads/sites/3/2023/10/D7DMH.png?x-oss-process=image/format,webp",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2025款DMH世界冠军版终端优惠高达44,000元（参考起售价7.98万元）",
+    "2025款EV纯电版终端优惠约20,000元（510km领航版参考价12.98万元起）",
+    "DMH插混版满油满电CLTC综合续航1,400km，曾创2,200km吉尼斯世界纪录"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "上汽荣威官网 荣威D7 DMH车型页",
+      "url": "https://www.roewe.com.cn/vehicles/d7-dmh/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "上汽荣威官网 荣威D7 EV车型页",
+      "url": "https://www.roewe.com.cn/vehicles/d7/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 荣威D7参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7301.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 荣威D7 2025款DMH荣耀版参数",
+      "url": "https://car.autohome.com.cn/config/spec/71091.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "网通社 荣威D7 EV 610km详细参数",
+      "url": "http://auto.news18a.com/news/storys_317859.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.roewe.com.cn/vehicles/d7-dmh/",
+    "https://www.roewe.com.cn/vehicles/d7/",
+    "https://car.autohome.com.cn/config/series/7301.html",
+    "https://car.autohome.com.cn/config/spec/71091.html",
+    "http://auto.news18a.com/news/storys_317859.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "roewe-d7-2025-dmh-guanjun",
+      "sku_name": "2025款 DMH 125km 世界冠军版",
+      "price_rmb": 123800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4890,
+        "width_mm": 1890,
+        "height_mm": 1510,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1670,
+        "trunk_volume_l": 450,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.81,
+        "drag_coefficient_cd": 0.26
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 137,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": 8.5,
+        "top_speed_kmh": 185
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 125,
+        "cltc_combined_range_km": 1400,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 28min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 3.95
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "12.3英寸液晶仪表",
+        "screens": "双12.3英寸一体双联屏（斑马智行）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "roewe-d7-2025-dmh-qijian",
+      "sku_name": "2025款 DMH 125km 世界冠军旗舰版",
+      "price_rmb": 143800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4890,
+        "width_mm": 1890,
+        "height_mm": 1510,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1670,
+        "trunk_volume_l": 450,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.81,
+        "drag_coefficient_cd": 0.26
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 137,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": 8.5,
+        "top_speed_kmh": 185
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": null,
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 125,
+        "cltc_combined_range_km": 1400,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 28min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 3.95
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级驾驶辅助+360°/540°全景影像"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "12.3英寸液晶仪表",
+        "screens": "双12.3英寸一体双联屏（斑马智行）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "roewe-d7-2025-ev-510-linghang",
+      "sku_name": "2025款 EV 510km 后驱领航版",
+      "price_rmb": 149800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4890,
+        "width_mm": 1872,
+        "height_mm": 1510,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": 376,
+        "frunk_volume_l": 101,
+        "min_turning_radius_m": 5.81,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 155,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 170
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "魔方电池",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 510,
+        "cltc_combined_range_km": 510,
+        "max_charge_power_kw": null,
+        "fast_charge_time": null,
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "12.3英寸液晶仪表",
+        "screens": "双12.3英寸一体双联屏（斑马智行）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "roewe-d7-2025-ev-610-zunrong",
+      "sku_name": "2025款 EV 610km 后驱尊荣版",
+      "price_rmb": 174800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4890,
+        "width_mm": 1872,
+        "height_mm": 1510,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1717,
+        "trunk_volume_l": 376,
+        "frunk_volume_l": 101,
+        "min_turning_radius_m": 5.81,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 155,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 6.5,
+        "top_speed_kmh": 170
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂",
+        "battery_supplier": "宁德时代魔方电池",
+        "battery_capacity_kwh": 68.5,
+        "cltc_pure_electric_range_km": 610,
+        "cltc_combined_range_km": 610,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "快充约31min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶+全景影像"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "12.3英寸液晶仪表",
+        "screens": "双12.3英寸一体双联屏（斑马智行）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "brand": "lotus",
+  "brand_name": "莲花跑车 / 路特斯",
+  "origin_type": "合资/外资",
+  "model": "莲花Emeya（繁花）",
+  "model_slug": "lotus-emeya",
+  "category": "中大型纯电超跑轿车",
+  "release_date": "2026-08-31",
+  "image_url": "https://m3.auto.itc.cn/q_mini/carpics/360car/7211/11970478721485783871730462022771.jpg",
+  "interior_image_url": "https://m3.auto.itc.cn/c_zoom,w_1200,q_mini/30079587.JPG",
+  "promo_highlights": [
+    "2027款于2026-08-31上市，提供600 5座（55.80万）、600 SE 5座（62.80万）、900 GOLD 5座（91.80万）、900 GOLD 4座（96.30万）",
+    "900 GOLD标配22英寸碳纤维轮毂、十活塞碳陶瓷制动系统、62处全车碳纤维组件及五大主动空气动力学套件，限时免费升级专属碳纤维车顶",
+    "整车质保5年或15万公里，三电系统质保8年或20万公里，原生800V支持15分钟10%-80%超快充"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "2455-2590",
+    "gross_weight_kg": 3100,
+    "approach_departure_deg": "12/15",
+    "battery_supplier": "宁德时代（102kWh三元锂）/ 采埃孚+义乌吉利电机",
+    "reference_title": "汽车之家 莲花EMEYA 2027款 900 GOLD 5座 参数配置表",
+    "reference_url": "https://car.autohome.com.cn/config/spec/78855.html"
+  },
+  "references": [
+    {
+      "title": "汽车之家 莲花EMEYA 参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7378.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 莲花EMEYA 2027款 600 SE 5座 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/79038.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 莲花EMEYA 2027款 900 GOLD 5座 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/78855.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "ZOL中关村在线 莲花EMEYA 2027款 600 5座 参数配置",
+      "url": "https://detail.zol.com.cn/2177/2176441/param.shtml",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新浪汽车 莲花Eletre/Emeya 900 GOLD预售及上市配置详解",
+      "url": "https://auto.sina.cn/2026-08-12/detail-ininecsn4706093.d.html?vt=4",
+      "type": "third_party_media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "lotus-emeya-2027-600-5s",
+      "sku_name": "2027款 600 5座",
+      "price_rmb": 558000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5139,
+        "width_mm": 2005,
+        "height_mm": 1464,
+        "wheelbase_mm": 3069,
+        "ground_clearance_mm": 149,
+        "seats": 5,
+        "curb_weight_kg": 2455
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 450,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 4.15
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 102.0,
+        "cltc_pure_electric_range_km": 585,
+        "fast_charge_time": "15分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配双腔空气悬架",
+        "cdc": "标配CDC连续阻尼可调减振器",
+        "rear_wheel_steering": "可选装"
+      },
+      "adas": {
+        "chip": "2颗 英伟达 Orin-X (508 TOPS)",
+        "lidar": "4颗隐藏翻转式激光雷达",
+        "system": "莲花高阶智能驾驶辅助(L2+)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸主驾长条形全液晶仪表+55英寸AR-HUD",
+        "screens": "15.1英寸OLED中控屏+12.6英寸副驾屏(HYPER OS / 双8155)",
+        "rear_screen": "标配后排液晶控制屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "可选装流媒体外后视镜"
+      },
+      "options": [
+        {
+          "name": "流媒体外后视镜",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "可选装电子流媒体外后视镜"
+        }
+      ]
+    },
+    {
+      "sku_id": "lotus-emeya-2027-600-se-5s",
+      "sku_name": "2027款 600 SE 5座",
+      "price_rmb": 628000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5139,
+        "width_mm": 2005,
+        "height_mm": 1464,
+        "wheelbase_mm": 3069,
+        "ground_clearance_mm": 149,
+        "seats": 5,
+        "curb_weight_kg": 2455
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 450,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 4.15
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 102.0,
+        "cltc_pure_electric_range_km": 585,
+        "fast_charge_time": "15分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配双腔空气悬架",
+        "cdc": "标配CDC连续阻尼可调减振器",
+        "rear_wheel_steering": "可选装"
+      },
+      "adas": {
+        "chip": "2颗 英伟达 Orin-X (508 TOPS)",
+        "lidar": "4颗隐藏翻转式激光雷达",
+        "system": "莲花高阶智能驾驶辅助(L2+)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸主驾长条形全液晶仪表+55英寸AR-HUD",
+        "screens": "15.1英寸OLED中控屏+12.6英寸副驾屏(HYPER OS / 双8155)",
+        "rear_screen": "标配后排液晶控制屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "可选装流媒体外后视镜"
+      },
+      "options": [
+        {
+          "name": "流媒体外后视镜",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "可选装电子流媒体外后视镜"
+        }
+      ]
+    },
+    {
+      "sku_id": "lotus-emeya-2027-900-gold-5s",
+      "sku_name": "2027款 900 GOLD 5座",
+      "price_rmb": 918000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5139,
+        "width_mm": 2005,
+        "height_mm": 1464,
+        "wheelbase_mm": 3069,
+        "ground_clearance_mm": 149,
+        "seats": 5,
+        "curb_weight_kg": 2590
+      },
+      "performance": {
+        "drive_type": "双电机四驱(2挡变速箱)",
+        "motor_power_kw": 675,
+        "motor_torque_nm": 985,
+        "zero_to_100_s": 2.78
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 102.0,
+        "cltc_pure_electric_range_km": 530,
+        "fast_charge_time": "15分钟(10%-80%, 峰值420kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配双腔空气悬架+48V主动稳定杆",
+        "cdc": "标配CDC连续阻尼可调减振器",
+        "rear_wheel_steering": "标配后轮主动转向"
+      },
+      "adas": {
+        "chip": "2颗 英伟达 Orin-X (508 TOPS)",
+        "lidar": "4颗隐藏翻转式激光雷达",
+        "system": "莲花高阶智能驾驶辅助(L2+)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸主驾长条形全液晶仪表+55英寸AR-HUD",
+        "screens": "15.1英寸OLED中控屏+12.6英寸副驾屏(HYPER OS)+PDLC分区天幕",
+        "rear_screen": "标配后排液晶控制屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前后排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "标配流媒体外后视镜"
+      },
+      "options": [
+        {
+          "name": "专属碳纤维车顶",
+          "price_rmb": null,
+          "promo_price_rmb": 0,
+          "details": "900 GOLD限时免费升级专属碳纤维车顶"
+        }
+      ]
+    },
+    {
+      "sku_id": "lotus-emeya-2027-900-gold-4s",
+      "sku_name": "2027款 900 GOLD 4座",
+      "price_rmb": 963000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5139,
+        "width_mm": 2005,
+        "height_mm": 1464,
+        "wheelbase_mm": 3069,
+        "ground_clearance_mm": 149,
+        "seats": 4,
+        "curb_weight_kg": 2590
+      },
+      "performance": {
+        "drive_type": "双电机四驱(2挡变速箱)",
+        "motor_power_kw": 675,
+        "motor_torque_nm": 985,
+        "zero_to_100_s": 2.78
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 102.0,
+        "cltc_pure_electric_range_km": 530,
+        "fast_charge_time": "15分钟(10%-80%, 峰值420kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配双腔空气悬架+48V主动稳定杆",
+        "cdc": "标配CDC连续阻尼可调减振器",
+        "rear_wheel_steering": "标配后轮主动转向"
+      },
+      "adas": {
+        "chip": "2颗 英伟达 Orin-X (508 TOPS)",
+        "lidar": "4颗隐藏翻转式激光雷达",
+        "system": "莲花高阶智能驾驶辅助(L2+)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸主驾长条形全液晶仪表+55英寸AR-HUD",
+        "screens": "15.1英寸OLED中控屏+12.6英寸副驾屏(HYPER OS)+PDLC分区天幕",
+        "rear_screen": "标配后排独立控制屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "四座独立加热/通风",
+        "seat_massage": "前后排独立座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "标配流媒体外后视镜"
+      },
+      "options": [
+        {
+          "name": "专属碳纤维车顶",
+          "price_rmb": null,
+          "promo_price_rmb": 0,
+          "details": "900 GOLD限时免费升级专属碳纤维车顶"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7378.html",
+    "https://car.autohome.com.cn/config/spec/79038.html",
+    "https://car.autohome.com.cn/config/spec/78855.html",
+    "https://detail.zol.com.cn/2177/2176441/param.shtml",
+    "https://auto.sina.cn/2026-08-12/detail-ininecsn4706093.d.html?vt=4"
+  ],
+  "data_as_of": "2026-11-27"
+}

@@ -1,0 +1,460 @@
+{
+  "brand": "geely-galaxy",
+  "brand_name": "吉利银河",
+  "origin_type": "国产",
+  "model": "吉利银河星耀8（2026款）",
+  "model_slug": "galaxy-starshine-8-2026",
+  "category": "中大型插混轿车",
+  "release_date": "2026-03-30",
+  "image_url": "https://2sc2.autoimg.cn/escimg/g34/M05/A3/EB/f_m_autohomecar__ChtpWGrpTVqAU11gAAGUmD601aM713.jpg",
+  "interior_image_url": "https://q5.itc.cn/images01/20250315/feaf63be94224a27af07299cc1677545.png",
+  "promo_highlights": [
+    "限时超级置换金10,000元，终端综合优惠至高1.5-1.9万元",
+    "全系限时免费享价值12,800元23扬Flyme Sound无界之声音响；星河版限时免费享价值8,800元VIP电动行政座椅（航海版/远洋版享3,000元主驾按摩+5,800元VIP座椅抵用券）",
+    "限时免费享价值25,000元终身免费领航辅助驾驶功能服务；金融礼可选至高10万24期0息或5年贷2年0息"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1895-1950",
+    "gross_weight_kg": "2305-2357",
+    "approach_departure_deg": "13/15",
+    "battery_supplier": "耀宁新能源"
+  },
+  "references": [
+    {
+      "title": "吉利银河官方网站",
+      "url": "https://www.galaxy-geely.com/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "银河星耀8参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/8042.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "银河星耀8 2026年11月购车权益详情 - 汽车之家经销商",
+      "url": "https://dealernew.autohome.com.cn/2217836/news_1589744384.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "吉利银河星耀8内饰发布 - 搜狐汽车",
+      "url": "https://db.m.auto.sohu.com/model_7414/a/871463380_290112",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.galaxy-geely.com/",
+    "https://car.autohome.com.cn/config/series/8042.html",
+    "https://dealernew.autohome.com.cn/2217836/news_1589744384.html",
+    "https://db.m.auto.sohu.com/model_7414/a/871463380_290112"
+  ],
+  "skus": [
+    {
+      "sku_id": "geely-starshine8-2026-emi-225-hanghai",
+      "sku_name": "2026款 225km EM-i 远航家航海版",
+      "price_rmb": 142800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5018,
+        "width_mm": 1918,
+        "height_mm": 1480,
+        "wheelbase_mm": 2928,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1895,
+        "trunk_volume_l": 405,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": 0.25
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "神盾金砖电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "耀宁新能源",
+        "battery_capacity_kwh": 28.3,
+        "cltc_pure_electric_range_km": 225,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 15.1,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 4.27
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R18"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级基础辅助驾驶（全速自适应巡航+车道居中+自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "龍鹰一号（16GB+128GB）",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "screens": "15.4英寸触控中控屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器（可选装23扬声器）",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，256色主动氛围灯，主动降噪",
+        "seat_heating_ventilation": "前排标配加热/通风，后排选装加热/通风",
+        "seat_massage": "主驾选装按摩（3,000元）",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "23扬声器 Flyme Sound 无界之声",
+          "price_rmb": 12800,
+          "promo_price_rmb": 0,
+          "availability": "可选",
+          "details": "限时免费享价值12,800元23扬声器音响系统"
+        },
+        {
+          "name": "VIP电动行政座椅",
+          "price_rmb": 8800,
+          "promo_price_rmb": 3000,
+          "availability": "可选",
+          "details": "后排电动调节，含通风、加热，坐垫可前移、靠背可后倾（限时享5,800元抵用券）"
+        },
+        {
+          "name": "主驾座椅按摩",
+          "price_rmb": 3000,
+          "promo_price_rmb": 0,
+          "availability": "可选",
+          "details": "限时免费享价值3,000元主驾座椅按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "geely-starshine8-2026-emi-225-yuanyang",
+      "sku_name": "2026款 225km EM-i 远航家远洋版",
+      "price_rmb": 151800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5018,
+        "width_mm": 1918,
+        "height_mm": 1480,
+        "wheelbase_mm": 2928,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1895,
+        "trunk_volume_l": 405,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": 0.25
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "神盾金砖电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "耀宁新能源",
+        "battery_capacity_kwh": 28.3,
+        "cltc_pure_electric_range_km": 225,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 15.1,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 4.27
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R18"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-Y",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚 H5（支持高速+城市领航、记忆泊车、循迹倒车）",
+        "subscription_or_buyout": "标配（限时免费享终身领航辅助功能服务）"
+      },
+      "cockpit": {
+        "chip": "龍鹰一号（16GB+128GB）",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "screens": "15.4英寸触控中控屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器（可选装23扬声器）",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，50W无线充电，电动后备厢，256色主动氛围灯",
+        "seat_heating_ventilation": "前排标配加热/通风，后排选装加热/通风",
+        "seat_massage": "主驾选装按摩（3,000元）",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "23扬声器 Flyme Sound 无界之声",
+          "price_rmb": 12800,
+          "promo_price_rmb": 0,
+          "availability": "可选",
+          "details": "限时免费享价值12,800元23扬声器音响系统"
+        },
+        {
+          "name": "VIP电动行政座椅",
+          "price_rmb": 8800,
+          "promo_price_rmb": 3000,
+          "availability": "可选",
+          "details": "后排电动调节，含通风、加热，坐垫可前移、靠背可后倾（限时享5,800元抵用券）"
+        },
+        {
+          "name": "主驾座椅按摩",
+          "price_rmb": 3000,
+          "promo_price_rmb": 0,
+          "availability": "可选",
+          "details": "限时免费享价值3,000元主驾座椅按摩"
+        }
+      ]
+    },
+    {
+      "sku_id": "geely-starshine8-2026-emi-225-xinghe",
+      "sku_name": "2026款 225km EM-i 远航家星河版",
+      "price_rmb": 161800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5018,
+        "width_mm": 1918,
+        "height_mm": 1480,
+        "wheelbase_mm": 2928,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1895,
+        "trunk_volume_l": 405,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": 0.25
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 175,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 190
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "神盾金砖电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "耀宁新能源",
+        "battery_capacity_kwh": 28.3,
+        "cltc_pure_electric_range_km": 225,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 15.1,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 4.27
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "245/45 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-Y",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚 H5（支持高速+城市领航、记忆泊车、循迹倒车）",
+        "subscription_or_buyout": "标配（限时免费享终身领航辅助功能服务）"
+      },
+      "cockpit": {
+        "chip": "龍鹰一号（16GB+128GB）",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "screens": "15.4英寸触控中控屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "25.6英寸AR-HUD增强现实抬头显示",
+        "audio": "8扬声器（可选装23扬声器）",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节+记忆，主驾4向腰托，前排加热/通风/按摩，后排按摩，车内香氛",
+        "seat_heating_ventilation": "前排标配加热/通风，后排选装加热/通风",
+        "seat_massage": "前后排均标配按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "23扬声器 Flyme Sound 无界之声",
+          "price_rmb": 12800,
+          "promo_price_rmb": 0,
+          "availability": "可选",
+          "details": "限时免费享价值12,800元23扬声器音响系统"
+        },
+        {
+          "name": "VIP电动行政座椅",
+          "price_rmb": 8800,
+          "promo_price_rmb": 0,
+          "availability": "可选",
+          "details": "后排电动调节，含通风、加热，坐垫可前移、靠背可后倾（星河版限时免费享）"
+        },
+        {
+          "name": "耀夜套装",
+          "price_rmb": 20000,
+          "promo_price_rmb": 11000,
+          "availability": "可选",
+          "details": "外观黑化运动套件与专属内饰组合，限时选装价11,000元"
+        }
+      ]
+    },
+    {
+      "sku_id": "geely-starshine8-2026-emp-225-xinghe-yaoye",
+      "sku_name": "2026款 225km EM-P 远航家星河版+耀夜套装",
+      "price_rmb": 172800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5018,
+        "width_mm": 1918,
+        "height_mm": 1480,
+        "wheelbase_mm": 2928,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1950,
+        "trunk_volume_l": 405,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.8,
+        "drag_coefficient_cd": 0.25
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 180,
+        "motor_torque_nm": 350,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "神盾金砖电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "耀宁新能源",
+        "battery_capacity_kwh": 28.3,
+        "cltc_pure_electric_range_km": 225,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 15.7,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "15分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 55,
+        "wltc_fuel_consumption_l_100km": 4.46
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "五连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "245/45 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-Y",
+        "compute_tops": null,
+        "lidar": "1颗激光雷达",
+        "system": "千里浩瀚 H5（支持高速+城市领航、记忆泊车、循迹倒车）",
+        "subscription_or_buyout": "标配（限时免费享终身领航辅助功能服务）"
+      },
+      "cockpit": {
+        "chip": "龍鹰一号（16GB+128GB）",
+        "instrument_cluster": "10.2英寸全液晶仪表",
+        "screens": "15.4英寸触控中控屏（Flyme Auto 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "25.6英寸AR-HUD增强现实抬头显示",
+        "audio": "8扬声器（可选装23扬声器）",
+        "fridge": "无",
+        "seat_features": "皮/翻毛材质混搭座椅，主副驾电动调节+记忆，前排加热/通风/按摩，后排按摩，车内香氛",
+        "seat_heating_ventilation": "前排标配加热/通风，后排选装加热/通风",
+        "seat_massage": "前后排均标配按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "23扬声器 Flyme Sound 无界之声",
+          "price_rmb": 12800,
+          "promo_price_rmb": 0,
+          "availability": "可选",
+          "details": "限时免费享价值12,800元23扬声器音响系统"
+        },
+        {
+          "name": "VIP电动行政座椅",
+          "price_rmb": 8800,
+          "promo_price_rmb": 0,
+          "availability": "可选",
+          "details": "后排电动调节，含通风、加热，坐垫可前移、靠背可后倾（限时免费享）"
+        }
+      ]
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

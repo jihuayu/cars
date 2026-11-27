@@ -1,0 +1,300 @@
+{
+  "brand": "geely-galaxy",
+  "brand_name": "吉利银河",
+  "origin_type": "国产",
+  "model": "吉利银河L6 EM-i（2025款）",
+  "model_slug": "galaxy-l6-emi-2025",
+  "category": "紧凑型插混轿车",
+  "release_date": "2025-02-12",
+  "image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/L6/EM-i/2026/kv/0401pc.jpg",
+  "interior_image_url": "https://q9.itc.cn/q_70/images01/20250117/66cfe7d8d5354868b9f9335da3bd5bf9.jpeg",
+  "promo_highlights": [
+    "官方限时先享指导价7.98-10.68万元，2026年11月终端参考优惠约1.2万元（6.78万元起）",
+    "首任非营运车主享三电终身质保、整车6年或15万公里质保（非首任4年或10万公里）",
+    "搭载雷神EM-i超级电混系统（46.5%热效率1.5L发动机+11合1 E-DHT），CLTC亏电油耗2.9L/100km"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1570-1700",
+    "gross_weight_kg": "1970-2100",
+    "approach_departure_deg": "13/17",
+    "battery_supplier": "宁德时代 / 蜂巢能源"
+  },
+  "references": [
+    {
+      "title": "吉利银河L6 EM-i官方车型页 - 吉利银河官网",
+      "url": "https://www.galaxy-geely.com/l6",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "银河L6参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/7167.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "吉利银河L6/L7 EM-i工信部申报信息 - 搜狐汽车/IT之家",
+      "url": "https://db.m.auto.sohu.com/model_7163/a/816900432_114760",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "吉利银河L6 2026年11月终端优惠详情 - 汽车之家经销商",
+      "url": "https://dealer.autohome.com.cn/2151402/news_1586462541.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.galaxy-geely.com/l6",
+    "https://car.autohome.com.cn/config/series/7167.html",
+    "https://db.m.auto.sohu.com/model_7163/a/816900432_114760",
+    "https://dealer.autohome.com.cn/2151402/news_1586462541.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "geely-l6-emi-2025-60-qihang",
+      "sku_name": "2025款 EM-i 60km 启航版",
+      "price_rmb": 79800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4782,
+        "width_mm": 1875,
+        "height_mm": 1489,
+        "wheelbase_mm": 2752,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1570,
+        "trunk_volume_l": 454,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.26
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "神盾电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代 / 蜂巢能源",
+        "battery_capacity_kwh": 8.5,
+        "cltc_pure_electric_range_km": 60,
+        "cltc_combined_range_km": 1300,
+        "energy_consumption_kwh_100km": 11.0,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 6.6,
+        "fast_charge_time": "不支持直流快充（慢充2.7小时）",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 3.8
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/60 R16"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "定速巡航+倒车影像",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "14.6英寸触控中控屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾手动调节",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "geely-l6-emi-2025-140-tansuo-plus",
+      "sku_name": "2025款 EM-i 140km 探索+版",
+      "price_rmb": 99800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4782,
+        "width_mm": 1875,
+        "height_mm": 1489,
+        "wheelbase_mm": 2752,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1700,
+        "trunk_volume_l": 454,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.26
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "神盾电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代 / 蜂巢能源",
+        "battery_capacity_kwh": 19.09,
+        "cltc_pure_electric_range_km": 140,
+        "cltc_combined_range_km": 1300,
+        "energy_consumption_kwh_100km": 12.2,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 38,
+        "fast_charge_time": "20分钟(30%-80%)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 3.95
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/55 R17"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶（全速自适应巡航+车道居中保持+主动刹车+540度全景影像）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "14.6英寸触控中控屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主驾电动调节，电动天窗",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "geely-l6-emi-2025-140-xingjian",
+      "sku_name": "2025款 EM-i 140km 星舰版",
+      "price_rmb": 106800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4782,
+        "width_mm": 1875,
+        "height_mm": 1489,
+        "wheelbase_mm": 2752,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1700,
+        "trunk_volume_l": 454,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": 0.26
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 262,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "神盾电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代 / 蜂巢能源",
+        "battery_capacity_kwh": 19.09,
+        "cltc_pure_electric_range_km": 140,
+        "cltc_combined_range_km": 1300,
+        "energy_consumption_kwh_100km": 12.2,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 38,
+        "fast_charge_time": "20分钟(30%-80%)",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 3.95
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "215/55 R17"
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2级辅助驾驶（全速自适应巡航+车道居中保持+主动刹车+540度全景影像）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "14.6英寸触控中控屏（Flyme Auto）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "8扬声器",
+        "fridge": "无",
+        "seat_features": "棉花糖仿皮座椅，主副驾电动调节，前排加热，主驾通风/按摩，50W无线充电",
+        "seat_heating_ventilation": "前排标配加热，主驾标配通风，后排无",
+        "seat_massage": "主驾标配按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

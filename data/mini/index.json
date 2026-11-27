@@ -1,0 +1,104 @@
+{
+  "brand": "mini",
+  "brand_name": "电动MINI",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 2,
+  "sku_count": 5,
+  "models": [
+    {
+      "brand": "mini",
+      "brand_name": "电动MINI",
+      "origin_type": "合资/外资",
+      "model": "电动MINI Aceman",
+      "model_slug": "mini-aceman-ev",
+      "sub_brand": null,
+      "category": "小型纯电SUV",
+      "release_date": "2026-07-09",
+      "image_url": "http://s3.xchuxing.com/xchuxing/article/2024/08/28/c83c1202408280006199481.jpg",
+      "interior_image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2024/04/2025-mini-aceman_100927056_h.webp",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 3,
+      "option_count": 1,
+      "price_min_rmb": 229900,
+      "price_max_rmb": 303900,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 450,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/mini/mini-aceman-ev.json",
+      "source_urls": [
+        "https://www.minichina.com.cn/zh_CN/home/range/all-electric-mini-aceman.html",
+        "https://car.autohome.com.cn/config/series/7632.html",
+        "https://db.auto.sohu.com/model_7345/config",
+        "https://chejiahao.m.autohome.com.cn/info/25956961"
+      ]
+    },
+    {
+      "brand": "mini",
+      "brand_name": "电动MINI",
+      "origin_type": "合资/外资",
+      "model": "电动MINI Cooper",
+      "model_slug": "mini-cooper-ev",
+      "sub_brand": null,
+      "category": "小型纯电两厢车",
+      "release_date": "2025-12-16",
+      "image_url": "https://q9.itc.cn/q_70/images03/20251218/737f233434ff4513bbdc4135a218fdeb.jpeg",
+      "interior_image_url": "https://toutiao.mc-cdn.cn/toutiao-image/2023/07/20/19/75cd9ddde2bd49a8b37f0197a5112fe1.jpg!jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 2,
+      "price_min_rmb": 209800,
+      "price_max_rmb": 239800,
+      "best_zero_to_100_s": 7.1,
+      "max_cltc_ev_km": 466,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/mini/mini-cooper-ev.json",
+      "source_urls": [
+        "https://www.minichina.com.cn/zh_CN/home/range/all-electric-mini-cooper.html",
+        "https://car.autohome.com.cn/config/spec/76005.html",
+        "https://car.autohome.com.cn/config/spec/76006.html",
+        "https://car.autohome.com.cn/config/spec/77641.html"
+      ]
+    }
+  ]
+}

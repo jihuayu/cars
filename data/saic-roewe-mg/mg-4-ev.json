@@ -1,0 +1,389 @@
+{
+  "brand": "saic-roewe-mg",
+  "brand_name": "荣威 / MG新能源",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "MG4 EV",
+  "model_slug": "mg-4-ev",
+  "category": "紧凑型纯电两厢车",
+  "release_date": "2026-11-23",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M09/00/A0/400x400_1_q40_c40_autohomecar__ChxpV2n8Lu6AeO-YABJbi1T3mDQ065.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026年11月23日新增530从容版（指导价8.18万，限时补贴价7.88万元），享至高价值31,000元限时购车权益",
+    "全系限时现金补贴至高7,000元，5万24期0息金融礼，免费赠7kW充电桩及安装服务",
+    "零自燃安芯礼（电池自燃赔付新车）+ 三电终身质保 + 6年或15万公里整车质保",
+    "全系杏仁米/冰晶蓝特殊车色限时免费（价值2,000元）"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "上汽MG官方FAQ 名爵MG4官方指导价",
+      "url": "https://www.saicmg.com/faq/mg-mg4-budget-value-01.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 MG4 2026款437自由版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/72245.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 MG4 2026款530智趣版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/72246.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "盖世汽车 上汽MG4增推530从容版",
+      "url": "https://m.gasgoo.com/news/70478848.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "ZOL 2026款MG4六个版本差异拆解",
+      "url": "https://auto.zol.com.cn/1246/12464507.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.saicmg.com/faq/mg-mg4-budget-value-01.html",
+    "https://car.autohome.com.cn/config/spec/72245.html",
+    "https://car.autohome.com.cn/config/spec/72246.html",
+    "https://m.gasgoo.com/news/70478848.html",
+    "https://auto.zol.com.cn/1246/12464507.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "mg-4-ev-2026-530-congrong",
+      "sku_name": "2026款 530 从容版",
+      "price_rmb": 81800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4395,
+        "width_mm": 1842,
+        "height_mm": 1551,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1485,
+        "trunk_volume_l": "471-1362",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.2,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 53.9,
+        "cltc_pure_electric_range_km": 530,
+        "cltc_combined_range_km": 530,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后变截面悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "360°全景影像+基础辅助"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "screens": "15.6英寸2.5K中控屏（OPPO智能座舱）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "杏仁米/冰晶蓝车色",
+          "price_rmb": 2000,
+          "promo_price_rmb": 0,
+          "details": "限时免费选装",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "mg-4-ev-2026-437-ziyou",
+      "sku_name": "2026款 437 自由版",
+      "price_rmb": 83800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4395,
+        "width_mm": 1842,
+        "height_mm": 1551,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1415,
+        "trunk_volume_l": "471-1362",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.2,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "瑞浦兰钧",
+        "battery_capacity_kwh": 42.8,
+        "cltc_pure_electric_range_km": 437,
+        "cltc_combined_range_km": 437,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 20min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后变截面悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "540°全景影像+基础辅助"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "screens": "15.6英寸2.5K中控屏（OPPO智能座舱）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "主驾8点按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "杏仁米/冰晶蓝车色",
+          "price_rmb": 2000,
+          "promo_price_rmb": 0,
+          "details": "限时免费选装",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "mg-4-ev-2026-530-zhiqu",
+      "sku_name": "2026款 530 智趣版",
+      "price_rmb": 96800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4395,
+        "width_mm": 1842,
+        "height_mm": 1551,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1485,
+        "trunk_volume_l": "471-1362",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.2,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 53.9,
+        "cltc_pure_electric_range_km": 530,
+        "cltc_combined_range_km": 530,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 21min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后变截面悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": "地平线征程J6e",
+        "compute_tops": 80,
+        "lidar": "无",
+        "system": "高速NOA领航辅助+智能泊车+14项主动安全"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "screens": "15.6英寸2.5K中控屏（OPPO智能座舱）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "主驾8点按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "杏仁米/冰晶蓝车色",
+          "price_rmb": 2000,
+          "promo_price_rmb": 0,
+          "details": "限时免费选装",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "mg-4-ev-2026-ban-gutai",
+      "sku_name": "2026款 半固态安芯版",
+      "price_rmb": 102800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4395,
+        "width_mm": 1842,
+        "height_mm": 1551,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "471-1362",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.2,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 120,
+        "motor_torque_nm": 250,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "半固态电池",
+        "battery_supplier": "上汽清陶",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 530,
+        "cltc_combined_range_km": 530,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 21min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后变截面悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": "地平线征程J6e",
+        "compute_tops": 80,
+        "lidar": "无",
+        "system": "高速NOA领航辅助+智能泊车+14项主动安全"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "8.88英寸全液晶仪表",
+        "screens": "15.6英寸2.5K中控屏（OPPO智能座舱）",
+        "hud": "无",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "主驾8点按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动调节",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "杏仁米/冰晶蓝车色",
+          "price_rmb": 2000,
+          "promo_price_rmb": 0,
+          "details": "限时免费选装",
+          "availability": "可选"
+        }
+      ]
+    }
+  ]
+}

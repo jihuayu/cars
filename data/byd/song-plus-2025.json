@@ -1,0 +1,370 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "origin_type": "国产",
+  "model": "比亚迪宋PLUS（DM-i / EV 智驾版）",
+  "model_slug": "song-plus-2025",
+  "category": "紧凑型SUV",
+  "release_date": "2025-02-10",
+  "image_url": "https://m1.auto.itc.cn/q_mini/carpics/360car/6396/-63680880403642308601694517296695.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2025款智驾版全系标配天神之眼C（DiPilot 100）高阶智驾三目版，支持高快领航及遥控/自动泊车",
+    "首任非营运车主享三电系统终身质保、整车6年或15万公里质保"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1785-2050",
+    "gross_weight_kg": "2160-2425",
+    "approach_departure_deg": "19/21-22",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪汽车官方网站",
+      "url": "https://www.byd.com/cn",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "宋PLUS新能源参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/5761.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "比亚迪宋PLUS DM-i 车型页 - 搜狐汽车",
+      "url": "https://db.auto.sohu.com/model_6396",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.byd.com/cn",
+    "https://car.autohome.com.cn/config/series/5761.html",
+    "https://db.auto.sohu.com/model_6396"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-songplus-2025-dmi-112-zunrong",
+      "sku_name": "2025款 DM-i 智驾版 112KM 尊荣型",
+      "price_rmb": 155800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4775,
+        "width_mm": 1890,
+        "height_mm": 1670,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1830,
+        "trunk_volume_l": "574-1440",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.55,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 260,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 18.3,
+        "cltc_pure_electric_range_km": 112,
+        "cltc_combined_range_km": 1450,
+        "energy_consumption_kwh_100km": 15.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 26,
+        "fast_charge_time": "23分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 4.95
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "四连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "15.6英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "9扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，二排靠背调节，50W无线充电，前排双层隔音玻璃",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-songplus-2025-dmi-160-qijian-plus",
+      "sku_name": "2025款 DM-i 智驾版 160KM 旗舰PLUS",
+      "price_rmb": 175800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4775,
+        "width_mm": 1890,
+        "height_mm": 1670,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1890,
+        "trunk_volume_l": "574-1440",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.55,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 260,
+        "zero_to_100_s": 7.9,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 26.6,
+        "cltc_pure_electric_range_km": 160,
+        "cltc_combined_range_km": 1500,
+        "energy_consumption_kwh_100km": 16.8,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 54,
+        "fast_charge_time": "17分钟(30%-80%)",
+        "v2l_power_kw": 6,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 60,
+        "wltc_fuel_consumption_l_100km": 4.98
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "四连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "标配悬架软硬调节（FSD可变阻尼）",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "15.6英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "26英寸W-HUD抬头显示",
+        "audio": "10扬声器 Infinity燕飞利仕",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，二排靠背调节，50W无线充电，前排双层隔音玻璃",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-songplus-2025-ev-520-zungui",
+      "sku_name": "2025款 EV 智驾版 520km 尊贵型",
+      "price_rmb": 159800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 1890,
+        "height_mm": 1660,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1920,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.55,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 175
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 71.8,
+        "cltc_pure_electric_range_km": 520,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 13.7,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 90,
+        "fast_charge_time": "30分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "15.6英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "9扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，二排靠背调节，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-songplus-2025-ev-605-qijian",
+      "sku_name": "2025款 EV 智驾版 605km 旗舰型",
+      "price_rmb": 175800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 1890,
+        "height_mm": 1660,
+        "wheelbase_mm": 2765,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2050,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.55,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 175
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 87.04,
+        "cltc_pure_electric_range_km": 605,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 14.1,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 140,
+        "fast_charge_time": "28分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "多连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "235/50 R19"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "12.3英寸全液晶仪表",
+        "screens": "15.6英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "9扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮座椅，主副驾电动调节，前排加热/通风，二排靠背调节，50W无线充电，热泵空调",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

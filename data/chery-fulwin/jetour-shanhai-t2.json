@@ -1,0 +1,207 @@
+{
+  "brand": "chery-fulwin",
+  "brand_name": "奇瑞风云 / 捷途山海",
+  "origin_type": "国产",
+  "model": "捷途山海T2",
+  "model_slug": "jetour-shanhai-t2",
+  "category": "紧凑型插混方盒子SUV",
+  "release_date": "2024-04-22",
+  "image_url": "https://img.evlook.com/evlook/upload/series/133609271305574374.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "搭载鲲鹏超能混动C-DM与3挡DHT，提供129km/208km两驱及206km四驱版本（注：2025年11月起序列逐步并入捷途旅行者C-DM）",
+    "满载最小离地间隙205mm，接近角27°/离去角28°，配备10.25英寸仪表+15.6英寸中控屏及骁龙8155芯片",
+    "首任非营运车主享整车及三电终身质保"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "新出行 - 捷途山海T2全系价格与参数页",
+      "url": "https://www.xchuxing.com/series/972",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "中关村在线 - 捷途山海T2 C-DM 208KM山野版参数配置",
+      "url": "https://detail.zol.com.cn/2002/2001244/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "EV视界 - 捷途山海T2参数配置表",
+      "url": "https://www.evlook.com/jietushanhait2/peizhi",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.xchuxing.com/series/972",
+    "https://detail.zol.com.cn/2002/2001244/param.shtml",
+    "https://www.evlook.com/jietushanhait2/peizhi"
+  ],
+  "skus": [
+    {
+      "sku_id": "jetour-shanhai-t2-129-yuanye",
+      "sku_name": "2024款 1.5T 129km 两驱原野版",
+      "price_rmb": 179900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 2006,
+        "height_mm": 1875,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 205,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 165,
+        "motor_torque_nm": 390,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 129,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶+540°透明底盘"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "15.6英寸悬浮中控屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "jetour-shanhai-t2-208-shanye",
+      "sku_name": "2024款 1.5T 208km 两驱山野版",
+      "price_rmb": 209900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 2006,
+        "height_mm": 1875,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 205,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 165,
+        "motor_torque_nm": 390,
+        "zero_to_100_s": 7.5
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 43.24,
+        "cltc_pure_electric_range_km": 208,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶+540°透明底盘"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "15.6英寸悬浮中控屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "jetour-shanhai-t2-206-awd-shanye",
+      "sku_name": "2024款 1.5T 206km 四驱山野版",
+      "price_rmb": 224900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4785,
+        "width_mm": 2006,
+        "height_mm": 1875,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 205,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "电动四驱",
+        "motor_power_kw": null,
+        "motor_torque_nm": null,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 43.24,
+        "cltc_pure_electric_range_km": 206,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶+540°透明底盘"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "15.6英寸悬浮中控屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

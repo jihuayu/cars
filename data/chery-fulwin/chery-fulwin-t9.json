@@ -1,0 +1,293 @@
+{
+  "brand": "chery-fulwin",
+  "brand_name": "奇瑞风云 / 捷途山海",
+  "origin_type": "国产",
+  "model": "奇瑞风云T9",
+  "model_slug": "chery-fulwin-t9",
+  "category": "中型插混SUV",
+  "release_date": "2026-05-16",
+  "image_url": "https://material.chery.cn/media/5kwbp5mp/t9-banner-index-pc-2x.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款220长续航版限时红包价10.99万-14.99万元（指导价立减10,000元）",
+    "全系搭载32.66kWh磷酸铁锂电池，CLTC纯电续航220km，15分钟快充（30%-80%）及6.6kW对外放电",
+    "首任非营运车主享整车及三电终身质保"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "奇瑞风云官网 - 风云T9长续航车型页",
+      "url": "https://fulwin.chery.cn/vehicles/t9longrange/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "奇瑞风云官网 - 风云T9长续航配置表",
+      "url": "https://fulwin.chery.cn/vehicles/t9longrange/config/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 风云T9 2026款220长续航旗舰型参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/77666.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://fulwin.chery.cn/vehicles/t9longrange/",
+    "https://fulwin.chery.cn/vehicles/t9longrange/config/",
+    "https://car.autohome.com.cn/config/spec/77666.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "chery-fulwin-t9-2026-220-zungui",
+      "sku_name": "2026款 220 长续航尊贵型",
+      "price_rmb": 119900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4816,
+        "width_mm": 1930,
+        "height_mm": 1738,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": 150,
+        "seats": 5,
+        "curb_weight_kg": 2046
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 8.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 32.66,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "15分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "基础定速巡航（无L2）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K悬浮大屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "墨岩灰磨砂车漆",
+          "price_rmb": 3000,
+          "promo_price_rmb": null,
+          "details": "全系可选装磨砂质感车漆"
+        }
+      ]
+    },
+    {
+      "sku_id": "chery-fulwin-t9-2026-220-zunrong",
+      "sku_name": "2026款 220 长续航尊荣型",
+      "price_rmb": 129900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4816,
+        "width_mm": 1930,
+        "height_mm": 1738,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": 150,
+        "seats": 5,
+        "curb_weight_kg": 2046
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 8.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 32.66,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "15分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶系统"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K悬浮大屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热+坐垫通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "7座第三排座椅选装包",
+          "price_rmb": 4000,
+          "promo_price_rmb": null,
+          "details": "增加第三排手动调节座椅（2+3+2布局）"
+        },
+        {
+          "name": "墨岩灰磨砂车漆",
+          "price_rmb": 3000,
+          "promo_price_rmb": null,
+          "details": "磨砂质感车漆"
+        }
+      ]
+    },
+    {
+      "sku_id": "chery-fulwin-t9-2026-220-flagship",
+      "sku_name": "2026款 220 长续航旗舰型",
+      "price_rmb": 139900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4816,
+        "width_mm": 1930,
+        "height_mm": 1738,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": 150,
+        "seats": 5,
+        "curb_weight_kg": 2046
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 8.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 32.66,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "15分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶（可选装智享包升级猎鹰500高速NOA+APA）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K悬浮大屏（可选智享包升级8255芯片）+伯牙之音14扬",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "副驾电动腿托（女王副驾）",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "选装（智享包）",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "智享包",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "含猎鹰500辅助驾驶（HNOA高快领航+APA自动泊车）、高通8255芯片、前排静音玻璃、方向盘加热、20寸轮毂"
+        },
+        {
+          "name": "7座第三排座椅选装包",
+          "price_rmb": 4000,
+          "promo_price_rmb": null,
+          "details": "增加第三排手动调节座椅"
+        }
+      ]
+    },
+    {
+      "sku_id": "chery-fulwin-t9-2026-220-zunxiang",
+      "sku_name": "2026款 220 长续航尊享型",
+      "price_rmb": 159900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4816,
+        "width_mm": 1930,
+        "height_mm": 1738,
+        "wheelbase_mm": 2770,
+        "ground_clearance_mm": 150,
+        "seats": 5,
+        "curb_weight_kg": 2046
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 8.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 32.66,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "15分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "猎鹰500辅助驾驶（高速NOA/自动泊车）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K悬浮大屏（骁龙8155/8255）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "副驾电动腿托",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

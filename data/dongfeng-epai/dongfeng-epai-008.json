@@ -1,0 +1,289 @@
+{
+  "brand": "dongfeng-epai",
+  "brand_name": "东风奕派 / 纳米 / 猛士",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "东风奕派eπ008",
+  "model_slug": "dongfeng-epai-008",
+  "category": "中大型新能源SUV",
+  "release_date": "2025-10-01",
+  "image_url": "https://www.yipai.com.cn/assets/imgs/car0086_m.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款五座版限时焕新红包价14.49万元起",
+    "全系标配高通骁龙SA8295P车规级芯片、18扬声器WANOS 2.0全景声音响、双层夹胶隔音玻璃",
+    "提供【至尊包】选装升级21.4英寸后排娱乐屏与二排座椅加热"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "东风奕派官网 奕派008五座版2026款",
+      "url": "https://www.yipai.com.cn/model008",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "东风奕派官网 奕派008六座版2026款",
+      "url": "https://www.yipai.com.cn/model0086",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "东风奕派官网 奕派008参数配置详情",
+      "url": "https://www.yipai.com.cn/configdetails",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "ZOL 东风奕派eπ008 2026款五座增程超阔版参数",
+      "url": "https://detail.zol.com.cn/2137/2136932/param.shtml",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.yipai.com.cn/model008",
+    "https://www.yipai.com.cn/model0086",
+    "https://www.yipai.com.cn/configdetails",
+    "https://detail.zol.com.cn/2137/2136932/param.shtml"
+  ],
+  "skus": [
+    {
+      "sku_id": "dongfeng-epai-008-2026-5seat-reev",
+      "sku_name": "2026款 五座增程超阔版",
+      "price_rmb": 169900,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5002,
+        "width_mm": 1972,
+        "height_mm": 1732,
+        "wheelbase_mm": 3025,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": 495,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.75,
+        "drag_coefficient_cd": 0.28
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 340,
+        "zero_to_100_s": 9.0,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "马赫动力电池",
+        "battery_capacity_kwh": 34.32,
+        "cltc_pure_electric_range_km": 202,
+        "cltc_combined_range_km": 1220,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 51,
+        "wltc_fuel_consumption_l_100km": 4.76
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2+（高快NOA，32个感知硬件含5毫米波雷达+10摄像头）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "instrument_cluster": "10.25英寸液晶仪表",
+        "screens": "超薄中控大屏（豆包+DeepSeek双AI大模型）",
+        "hud": "未知",
+        "audio": "18扬声器WANOS 2.0全景声音响",
+        "fridge": "6.5L冷暖两用智能冰箱（5/50℃）",
+        "rear_screen": "标配15.6英寸2.5K后排娱乐屏（可选装21.4英寸）",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾座椅通风/加热（二排加热需选装至尊包）",
+        "seat_massage": "主驾舒缓按摩（副驾按摩分版本）",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "至尊包",
+          "price_rmb": null,
+          "details": "升级21.4英寸智能后排娱乐屏、二排座椅加热等",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "dongfeng-epai-008-2026-5seat-bev",
+      "sku_name": "2026款 五座纯电超阔版",
+      "price_rmb": null,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5002,
+        "width_mm": 1972,
+        "height_mm": 1732,
+        "wheelbase_mm": 3025,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.75,
+        "drag_coefficient_cd": 0.28
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 340,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "马赫动力电池",
+        "battery_capacity_kwh": 82.28,
+        "cltc_pure_electric_range_km": 620,
+        "cltc_combined_range_km": 620,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 28min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "L2+（高快NOA，32个感知硬件）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "instrument_cluster": "10.25英寸液晶仪表",
+        "screens": "超薄中控大屏（豆包+DeepSeek双AI大模型）",
+        "hud": "未知",
+        "audio": "18扬声器WANOS 2.0全景声音响",
+        "fridge": "6.5L冷暖两用智能冰箱（5/50℃）",
+        "rear_screen": "标配15.6英寸2.5K后排娱乐屏（可选装21.4英寸）",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾座椅通风/加热（二排加热需选装至尊包）",
+        "seat_massage": "主驾舒缓按摩",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "至尊包",
+          "price_rmb": null,
+          "details": "升级21.4英寸智能后排娱乐屏、二排座椅加热等",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "dongfeng-epai-008-2026-6seat-reev",
+      "sku_name": "2026款 六座增程家享版",
+      "price_rmb": null,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 5002,
+        "width_mm": 1972,
+        "height_mm": 1732,
+        "wheelbase_mm": 3025,
+        "ground_clearance_mm": null,
+        "seats": 6,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.75,
+        "drag_coefficient_cd": 0.28
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 200,
+        "motor_torque_nm": 340,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "马赫动力电池",
+        "battery_capacity_kwh": 34.32,
+        "cltc_pure_electric_range_km": 202,
+        "cltc_combined_range_km": 1220,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 51,
+        "wltc_fuel_consumption_l_100km": 4.76
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "高快NOA导航辅助驾驶（32个多维感知硬件）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙SA8295P",
+        "instrument_cluster": "10.25英寸液晶仪表",
+        "screens": "超薄中控大屏（SOA天元智舱）",
+        "hud": "未知",
+        "audio": "18扬声器WANOS 2.0全景声音响",
+        "fridge": "6.5L冷暖两用智能冰箱（5/50℃）",
+        "rear_screen": "15.6英寸智能后排娱乐屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾通风/加热",
+        "seat_massage": "座椅按摩",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "标配方向盘加热",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

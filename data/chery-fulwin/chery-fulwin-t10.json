@@ -1,0 +1,214 @@
+{
+  "brand": "chery-fulwin",
+  "brand_name": "奇瑞风云 / 捷途山海",
+  "origin_type": "国产",
+  "model": "奇瑞风云T10",
+  "model_slug": "chery-fulwin-t10",
+  "category": "中大型插混SUV",
+  "release_date": "2025-04-10",
+  "image_url": "https://img2.autoimg.cn/svcovers/g32/M00/CD/AF/Chtk2WakttmAZ7QPAADAk_1Yjyo962.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2025款终端优惠约2.00万元，参考价16.99万元起",
+    "全系标配34.46kWh电池包与3挡DHT鲲鹏超能混动C-DM，CLTC纯电续航200-210km，四驱旗舰版零百加速4.9s",
+    "首任非营运车主享整车及三电终身质保"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "汽车之家 - 风云T10参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7633.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 风云T10 2025款200四驱旗舰版参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/72562.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 风云T10车系报价页",
+      "url": "https://car.autohome.com.cn/diandongche/series-7633.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7633.html",
+    "https://car.autohome.com.cn/config/spec/72562.html",
+    "https://car.autohome.com.cn/diandongche/series-7633.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "chery-fulwin-t10-2025-210-zunyao",
+      "sku_name": "2025款 210 尊耀版",
+      "price_rmb": 189900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4850,
+        "width_mm": 1930,
+        "height_mm": 1712,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2028
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 165,
+        "motor_torque_nm": 390,
+        "zero_to_100_s": 8.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 34.46,
+        "cltc_pure_electric_range_km": 210,
+        "fast_charge_time": "18分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级智能辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "双联屏液晶仪表",
+        "screens": "曲面双联屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "chery-fulwin-t10-2025-210-shexiang",
+      "sku_name": "2025款 210 奢享版",
+      "price_rmb": 199900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4850,
+        "width_mm": 1930,
+        "height_mm": 1712,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2028
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 165,
+        "motor_torque_nm": 390,
+        "zero_to_100_s": 8.8
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 34.46,
+        "cltc_pure_electric_range_km": 210,
+        "fast_charge_time": "18分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级智能辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "双联屏液晶仪表",
+        "screens": "曲面双联屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "女王副驾",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "chery-fulwin-t10-2025-200-awd-flagship",
+      "sku_name": "2025款 200 四驱旗舰版",
+      "price_rmb": 229900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4850,
+        "width_mm": 1930,
+        "height_mm": 1712,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2199
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 340,
+        "motor_torque_nm": 700,
+        "zero_to_100_s": 4.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 34.46,
+        "cltc_pure_electric_range_km": 200,
+        "fast_charge_time": "25分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "标配（CDC电磁悬架）",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级智能辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "双联屏液晶仪表",
+        "screens": "曲面双联屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前后排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "女王副驾",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "奢享6座选装包",
+          "price_rmb": 10000,
+          "promo_price_rmb": null,
+          "details": "二排独立座椅（电动四向调节/加热/通风）+第三排座椅5/5折叠"
+        }
+      ]
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

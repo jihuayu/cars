@@ -1,0 +1,191 @@
+{
+  "brand": "volvo",
+  "brand_name": "沃尔沃/极星",
+  "origin_type": "合资/外资",
+  "model": "沃尔沃ES90",
+  "model_slug": "volvo-es90",
+  "category": "中大型纯电掀背轿车",
+  "release_date": "2026-05-29",
+  "image_url": "https://www.volvocars.com.cn/images/cs/v3/assets/blt0feaa88e629251fc/blt54a768d16b68c121/698b4a984b009010dd4fa8ee/5s_4x3_vin0350B_colorselector_723_ES90.jpg?branch=prod_alias&quality=85&format=auto&h=1080&iar=0&w=1440",
+  "interior_image_url": "https://www.volvocars.com.cn/images/cs/v3/assets/blt0feaa88e629251fc/blt0f14a7da4467028b/679b4faf0eb64a75651233f0/es90-electric-Interior_Gallery_7-4x5.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=3840",
+  "promo_highlights": [
+    "2026年5月29日粤港澳大湾区车展正式上市，官方指导价53.99-62.99万元，限时参考尊享价38.99-45.99万元",
+    "全系标配全域800V高压平台、宁德时代三元锂电池、Bowers & Wilkins宝华韦健音响及4年免费媒体数据流量",
+    "上市同步推出六大专属尊享权益（含定金膨胀、置换补贴、免费充电桩及首任车主权益，具体以官方渠道为准）"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "2370-2558",
+    "gross_weight_kg": 3070,
+    "approach_departure_deg": "18/21",
+    "battery_supplier": "宁德时代(四川时代)（92kWh/106kWh三元锂）/ 中达电子+亚欧汽车电机",
+    "reference_title": "汽车之家 沃尔沃ES90 2027款参数配置表大全（沃尔沃亚太）",
+    "reference_url": "https://car.autohome.com.cn/config/series/8050.html"
+  },
+  "references": [
+    {
+      "title": "沃尔沃中国官网 ES90 纯电动车型参数配置",
+      "url": "https://www.volvocars.com.cn/zh-cn/l/specifications/es90-electric/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 沃尔沃ES90 参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/8050.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 沃尔沃ES90 2027款 双电机四驱高性能版Ultra 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/72073.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新浪汽车 沃尔沃ES90国内上市及限时尊享价解读",
+      "url": "https://auto.sina.cn/2026-11-09/detail-iniyaqqe6544757.d.html?vt=4",
+      "type": "third_party_media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "volvo-es90-2027-rwd-plus",
+      "sku_name": "2027款 后驱长续航版 Plus",
+      "price_rmb": 539900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5000,
+        "width_mm": 1942,
+        "height_mm": 1553,
+        "wheelbase_mm": 3102,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2370
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 245,
+        "motor_torque_nm": 480,
+        "zero_to_100_s": 6.6
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 92.0,
+        "cltc_pure_electric_range_km": 777,
+        "fast_charge_time": "22分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "标配前后FSD可变阻尼避震",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "1颗 英伟达 Orin (254 TOPS)",
+        "lidar": "无（中国官网配置表：5毫米波雷达+5摄像头+12超声波雷达）",
+        "system": "Pilot Assist 领航辅助系统（含变道辅助/弯道辅助）"
+      },
+      "cockpit": {
+        "instrument_cluster": "9英寸液晶智能数字仪表盘+HUD平视显示系统",
+        "screens": "14.5英寸液晶触摸屏+Bowers & Wilkins殿堂级音响",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前后排座椅加热/通风(高级Nappa真皮)",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "21英寸五辐空气动力学轮毂",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "官网配置表标注后驱Plus可选装"
+        }
+      ]
+    },
+    {
+      "sku_id": "volvo-es90-2027-awd-ultra",
+      "sku_name": "2027款 双电机四驱高性能版 Ultra",
+      "price_rmb": 629900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5000,
+        "width_mm": 1942,
+        "height_mm": 1547,
+        "wheelbase_mm": 3102,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2558
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 500,
+        "motor_torque_nm": 870,
+        "zero_to_100_s": 3.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 106.0,
+        "cltc_pure_electric_range_km": 848,
+        "fast_charge_time": "22分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配智能双腔空气悬架",
+        "cdc": "标配4C主动式自适应底盘",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "1颗 英伟达 Orin (254 TOPS)",
+        "lidar": "无（中国官网配置表：5毫米波雷达+5摄像头+12超声波雷达）",
+        "system": "Pilot Assist 领航辅助系统（含变道辅助/弯道辅助）"
+      },
+      "cockpit": {
+        "instrument_cluster": "9英寸液晶智能数字仪表盘+HUD平视显示系统",
+        "screens": "14.5英寸液晶触摸屏+Bowers & Wilkins殿堂级音响",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前后排座椅加热/通风(高级Nappa真皮)",
+        "seat_massage": "标配前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无（自动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "22英寸五辐铝合金轮毂",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "官网配置表标注Ultra版可选装"
+        },
+        {
+          "name": "人体工程学定制羊毛锌灰混纺座椅",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "含前排座椅按摩，Ultra版可选装"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.volvocars.com.cn/zh-cn/l/specifications/es90-electric/",
+    "https://car.autohome.com.cn/config/series/8050.html",
+    "https://car.autohome.com.cn/config/spec/72073.html",
+    "https://auto.sina.cn/2026-11-09/detail-iniyaqqe6544757.d.html?vt=4"
+  ],
+  "data_as_of": "2026-11-27"
+}

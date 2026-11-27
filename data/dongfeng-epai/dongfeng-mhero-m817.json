@@ -1,0 +1,370 @@
+{
+  "brand": "dongfeng-epai",
+  "brand_name": "东风奕派 / 纳米 / 猛士",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "东风猛士M817",
+  "model_slug": "dongfeng-mhero-m817",
+  "category": "大型插混硬派SUV",
+  "release_date": "2026-06-27",
+  "image_url": "http://n.sinaimg.cn/auto/transform/354/w660h494/20260629/e5dc-c7b1e0847edb91e2cd1f5dab61edf34b.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款Mate/Max/Ultra指导价29.99万-39.99万元，享至高65,000元上市权益（定金膨胀、三电终身质保、家充桩赠送、金融贴息）",
+    "2026款Ultimate智能越野大师版11月17日上市售51.99万元，限时最高享12万元礼遇",
+    "搭载华为乾崑ADS 5（首发896线激光雷达）+ 鸿蒙HarmonySpace 6座舱 + 800V 6C超充"
+  ],
+  "miit_filing": {
+    "miit_batch": "第395批 / 第407批",
+    "product_model_code": null,
+    "curb_weight_kg": "2863-3008",
+    "gross_weight_kg": 3490,
+    "approach_departure_deg": "30/30（大师版34/34）",
+    "battery_supplier": "宁德时代"
+  },
+  "references": [
+    {
+      "title": "汽车之家 猛士M817 2026款Ultra参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/77874.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 猛士M817 2026款Max+参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/77996.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 猛士M817 2026款Mate参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/78337.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 猛士M817 Ultimate大师版上市",
+      "url": "https://chejiahao.m.autohome.com.cn/info/26907548",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新浪汽车 全新猛士M817正式上市",
+      "url": "https://auto.sina.cn/newcar/2026-06-29/detail-inifaisy7026654.d.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/spec/77874.html",
+    "https://car.autohome.com.cn/config/spec/77996.html",
+    "https://car.autohome.com.cn/config/spec/78337.html",
+    "https://chejiahao.m.autohome.com.cn/info/26907548",
+    "https://auto.sina.cn/newcar/2026-06-29/detail-inifaisy7026654.d.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "dongfeng-mhero-m817-2026-mate",
+      "sku_name": "2026款 1.5T 140km Mate",
+      "price_rmb": 299900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5100,
+        "width_mm": 1998,
+        "height_mm": 1919,
+        "wheelbase_mm": 3005,
+        "ground_clearance_mm": 237,
+        "seats": 5,
+        "curb_weight_kg": 2863,
+        "trunk_volume_l": "828-2112",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 6.2,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置四驱（双电机电动四驱）",
+        "motor_power_kw": 505,
+        "motor_torque_nm": 848,
+        "zero_to_100_s": 5.2,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 140,
+        "cltc_combined_range_km": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 15min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 84,
+        "wltc_fuel_consumption_l_100km": 8.35
+      },
+      "chassis": {
+        "front_suspension": "全铝双叉臂式独立悬架",
+        "rear_suspension": "全铝多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "激光雷达",
+        "system": "华为乾崑ADS 5（全域越野智驾）"
+      },
+      "cockpit": {
+        "chip": "鸿蒙座舱",
+        "instrument_cluster": "全液晶仪表",
+        "screens": "鸿蒙HarmonySpace 6中控屏",
+        "hud": "未知",
+        "audio": "丹拿音响",
+        "fridge": "智能冷暖冰箱（-6℃~50℃）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "座椅加热/通风",
+        "seat_massage": "座椅按摩",
+        "zero_gravity_seat": "未知",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "dongfeng-mhero-m817-2026-max-plus",
+      "sku_name": "2026款 2.0T 215km Max+",
+      "price_rmb": 369900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5100,
+        "width_mm": 1998,
+        "height_mm": 1899,
+        "wheelbase_mm": 3005,
+        "ground_clearance_mm": 216,
+        "seats": 5,
+        "curb_weight_kg": 3008,
+        "trunk_volume_l": "828-2112",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.2,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置四驱（双电机电动四驱）",
+        "motor_power_kw": 598,
+        "motor_torque_nm": 1175,
+        "zero_to_100_s": 5.2,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 215,
+        "cltc_combined_range_km": null,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 84,
+        "wltc_fuel_consumption_l_100km": 8.36
+      },
+      "chassis": {
+        "front_suspension": "全铝双叉臂式独立悬架",
+        "rear_suspension": "全铝多连杆式独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线激光雷达",
+        "system": "华为乾崑ADS 5（CAS 5.0 + NCA越野版）"
+      },
+      "cockpit": {
+        "chip": "鸿蒙座舱",
+        "instrument_cluster": "全液晶仪表",
+        "screens": "鸿蒙HarmonySpace 6中控屏",
+        "hud": "未知",
+        "audio": "丹拿20扬声器音响",
+        "fridge": "智能冷暖冰箱（-6℃~50℃）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "全车座椅加热/通风",
+        "seat_massage": "全车座椅按摩",
+        "zero_gravity_seat": "副驾女王零重力座椅",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "dongfeng-mhero-m817-2026-ultra",
+      "sku_name": "2026款 2.0T 301km Ultra",
+      "price_rmb": 399900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5100,
+        "width_mm": 1998,
+        "height_mm": 1899,
+        "wheelbase_mm": 3005,
+        "ground_clearance_mm": 228,
+        "seats": 5,
+        "curb_weight_kg": 3008,
+        "trunk_volume_l": "828-2112",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.2,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置四驱（双电机电动四驱）",
+        "motor_power_kw": 715,
+        "motor_torque_nm": 1241,
+        "zero_to_100_s": 4.2,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 62.5,
+        "cltc_pure_electric_range_km": 301,
+        "cltc_combined_range_km": 1450,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 9.6min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 84,
+        "wltc_fuel_consumption_l_100km": 7.99
+      },
+      "chassis": {
+        "front_suspension": "全铝双叉臂式独立悬架",
+        "rear_suspension": "全铝多连杆式独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线激光雷达",
+        "system": "华为乾崑ADS 5（CAS 5.0 + NCA越野版）"
+      },
+      "cockpit": {
+        "chip": "鸿蒙座舱",
+        "instrument_cluster": "全液晶仪表",
+        "screens": "鸿蒙HarmonySpace 6中控屏",
+        "hud": "未知",
+        "audio": "丹拿20扬声器音响",
+        "fridge": "智能冷暖冰箱（-6℃~50℃）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "全车NAPPA座椅加热/通风",
+        "seat_massage": "全车座椅按摩",
+        "zero_gravity_seat": "副驾女王零重力座椅",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "dongfeng-mhero-m817-2026-ultimate",
+      "sku_name": "2026款 Ultimate 智能越野大师版",
+      "price_rmb": 519900,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5100,
+        "width_mm": 1998,
+        "height_mm": 1899,
+        "wheelbase_mm": 3005,
+        "ground_clearance_mm": 280,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": "828-2112",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置四驱（双电机电动四驱+三把锁）",
+        "motor_power_kw": 756,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 4.8,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 62.5,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 1043,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 9.6min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 84,
+        "wltc_fuel_consumption_l_100km": 11.26
+      },
+      "chassis": {
+        "front_suspension": "磐石底盘2.0全铝双叉臂（原厂升高2英寸）",
+        "rear_suspension": "磐石底盘2.0全铝多连杆",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "896线激光雷达",
+        "system": "华为乾崑ADS 5（全地形NCA+远红外夜视+卫星电话）"
+      },
+      "cockpit": {
+        "chip": "鸿蒙座舱",
+        "instrument_cluster": "全液晶仪表",
+        "screens": "16.1英寸鸿蒙HarmonySpace 6座舱屏",
+        "hud": "未知",
+        "audio": "丹拿20扬声器音响",
+        "fridge": "智能冷暖冰箱（-6℃~50℃）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "全车NAPPA真皮座椅加热/通风",
+        "seat_massage": "全车座椅按摩",
+        "zero_gravity_seat": "副驾零重力NAPPA座椅",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "星辉赛里木湖蓝双色车身",
+          "price_rmb": null,
+          "details": "大师版专属双色车身涂装",
+          "availability": "可选"
+        }
+      ]
+    }
+  ]
+}

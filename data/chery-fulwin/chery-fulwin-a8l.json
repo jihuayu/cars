@@ -1,0 +1,215 @@
+{
+  "brand": "chery-fulwin",
+  "brand_name": "奇瑞风云 / 捷途山海",
+  "origin_type": "国产",
+  "model": "奇瑞风云A8L",
+  "model_slug": "chery-fulwin-a8l",
+  "category": "紧凑型插混轿车",
+  "release_date": "2024-12-17",
+  "image_url": "https://material.chery.cn/media/0wcn4lss/a8l-index-kv-pc.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "搭载鲲鹏超能混动C-DM 5.0（1.5TGDI+1挡DHT），CLTC纯电续航145km，实测综合续航超2300km",
+    "全系标配15.6英寸2.5K大屏、高通骁龙8155芯片、19分钟快充（30%-80%）及6.6kW对外放电",
+    "首任非营运车主享整车及三电终身质保"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "奇瑞风云官网 - 风云A8L车型页",
+      "url": "https://fulwin.chery.cn/vehicles/a8l/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "奇瑞风云官网 - 风云A8L配置表",
+      "url": "https://fulwin.chery.cn/vehicles/a8l/config/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 风云A8L参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7863.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 风云A8L 2025款1.5TGDI 145km豪华型配置",
+      "url": "https://car.autohome.com.cn/config/spec/69918.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://fulwin.chery.cn/vehicles/a8l/",
+    "https://fulwin.chery.cn/vehicles/a8l/config/",
+    "https://car.autohome.com.cn/config/series/7863.html",
+    "https://car.autohome.com.cn/config/spec/69918.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "chery-fulwin-a8l-145-std",
+      "sku_name": "1.5TGDI 145km 标准型",
+      "price_rmb": 129900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1843,
+        "height_mm": 1487,
+        "wheelbase_mm": 2790,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1730
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 18.67,
+        "cltc_pure_electric_range_km": 145,
+        "fast_charge_time": "19分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "540°透明底盘+基础定速巡航"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K云绘大屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "chery-fulwin-a8l-145-comfort",
+      "sku_name": "1.5TGDI 145km 舒适型",
+      "price_rmb": 139900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1843,
+        "height_mm": 1487,
+        "wheelbase_mm": 2790,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1730
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 18.67,
+        "cltc_pure_electric_range_km": 145,
+        "fast_charge_time": "19分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "540°透明底盘+基础辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K云绘大屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "chery-fulwin-a8l-145-lux",
+      "sku_name": "1.5TGDI 145km 豪华型",
+      "price_rmb": 149900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1843,
+        "height_mm": 1487,
+        "wheelbase_mm": 2790,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1770
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 18.67,
+        "cltc_pure_electric_range_km": 145,
+        "fast_charge_time": "19分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "猎鹰200高阶辅助驾驶（L2+，含AEB/BSD等）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K云绘大屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

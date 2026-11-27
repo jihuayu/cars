@@ -1,0 +1,346 @@
+{
+  "brand": "hongqi",
+  "brand_name": "红旗新能源",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "红旗天工06",
+  "model_slug": "hongqi-tiangong-06",
+  "category": "中型纯电SUV",
+  "release_date": "2026-04-17",
+  "image_url": "https://img.evlook.com/evlook/upload/series/b33160b6aee845f7bc724c1eb8140320.png",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款终端参考优惠最高25,000元（520青春版参考价15.48万起）",
+    "首任非营运车主整车及三电终身质保（责任免除条款以官方为准）"
+  ],
+  "miit_filing": {
+    "miit_batch": "第401批",
+    "product_model_code": null,
+    "curb_weight_kg": "1997-2205",
+    "gross_weight_kg": 2655,
+    "approach_departure_deg": null,
+    "battery_supplier": "宁德时代 / 中汽新能"
+  },
+  "references": [
+    {
+      "title": "汽车之家 红旗天工06参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7704.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "EV视界 红旗天工06参数配置",
+      "url": "https://www.evlook.com/gongqitiangong06/peizhi",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 工信部第401批公告新车：红旗天工06",
+      "url": "https://chejiahao.m.autohome.com.cn/info/24072442",
+      "type": "miit",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7704.html",
+    "https://www.evlook.com/gongqitiangong06/peizhi",
+    "https://chejiahao.m.autohome.com.cn/info/24072442"
+  ],
+  "skus": [
+    {
+      "sku_id": "hongqi-tiangong-06-2026-520-qingchun",
+      "sku_name": "2026款 520 青春版",
+      "price_rmb": 179800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4750,
+        "width_mm": 1900,
+        "height_mm": 1640,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1997,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 210,
+        "motor_torque_nm": 317,
+        "zero_to_100_s": 7.4,
+        "top_speed_kmh": 210
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 62.0,
+        "cltc_pure_electric_range_km": 520,
+        "cltc_combined_range_km": 520,
+        "max_charge_power_kw": 200,
+        "fast_charge_time": "10%-80% 20min",
+        "v2l_power_kw": 3.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（视觉方案）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "无独立仪表盘（AR-HUD替代）",
+        "screens": "中控悬浮大屏",
+        "hud": "AR-HUD抬头显示",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hongqi-tiangong-06-2026-610-chaochong",
+      "sku_name": "2026款 610 超充版",
+      "price_rmb": 191800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4750,
+        "width_mm": 1900,
+        "height_mm": 1640,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2080,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 220,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": 6.7,
+        "top_speed_kmh": 210
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "中汽新能",
+        "battery_capacity_kwh": 75.0,
+        "cltc_pure_electric_range_km": 610,
+        "cltc_combined_range_km": 610,
+        "max_charge_power_kw": 354,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": 6.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（视觉方案）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "无独立仪表盘（AR-HUD替代）",
+        "screens": "中控悬浮大屏",
+        "hud": "AR-HUD抬头显示",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hongqi-tiangong-06-2026-700-changxuhang",
+      "sku_name": "2026款 700 长续航版",
+      "price_rmb": 205800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4750,
+        "width_mm": 1900,
+        "height_mm": 1640,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2100,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 210,
+        "motor_torque_nm": 317,
+        "zero_to_100_s": 7.3,
+        "top_speed_kmh": 210
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 85.0,
+        "cltc_pure_electric_range_km": 700,
+        "cltc_combined_range_km": 700,
+        "max_charge_power_kw": 265,
+        "fast_charge_time": "10%-80% 20min",
+        "v2l_power_kw": 3.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（视觉方案）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "无独立仪表盘（AR-HUD替代）",
+        "screens": "中控悬浮大屏",
+        "hud": "AR-HUD抬头显示",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hongqi-tiangong-06-2026-660-awd",
+      "sku_name": "2026款 660 四驱性能版",
+      "price_rmb": 225800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4750,
+        "width_mm": 1900,
+        "height_mm": 1640,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 2205,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 412,
+        "motor_torque_nm": 623,
+        "zero_to_100_s": 4.0,
+        "top_speed_kmh": 210
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 85.0,
+        "cltc_pure_electric_range_km": 660,
+        "cltc_combined_range_km": 660,
+        "max_charge_power_kw": 265,
+        "fast_charge_time": "10%-80% 20min",
+        "v2l_power_kw": 3.0,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": null,
+        "rear_suspension": null,
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（视觉方案）"
+      },
+      "cockpit": {
+        "chip": null,
+        "instrument_cluster": "无独立仪表盘（AR-HUD替代）",
+        "screens": "中控悬浮大屏",
+        "hud": "AR-HUD抬头显示",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

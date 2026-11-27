@@ -1,0 +1,281 @@
+{
+  "brand": "other-domestic",
+  "brand_name": "极石 / 江淮钇为 / 北京越野",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "北京越野BJ40增程（BJ40e）",
+  "model_slug": "baic-bj40-reev",
+  "category": "紧凑型增程硬派SUV",
+  "release_date": "2026-05-21",
+  "image_url": "https://www.xinhuanet.com/auto/20260522/f2832e83b23f434daa35035cb0a70885/20260522f2832e83b23f434daa35035cb0a70885_202605221443395556rId4image1.png",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款BJ40增程长续航版指导价17.98万-20.98万元，叠加国补和厂端置换焕新价16.98万元起",
+    "总价值80,000元上市8重尊享礼遇：3,000元抵6,000元购车款、置换补贴10,000元、5年8万0息/3年13万0息",
+    "三电终身质保+整车5年/15万公里质保+电池自燃烧一赔一承诺+5年5次免费基础保养+免费赠装家充桩"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "新华网 北京越野BJ40增程长续航版正式上市",
+      "url": "https://www.xinhuanet.com/auto/20260522/f2832e83b23f434daa35035cb0a70885/c.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 北京越野BJ40增程2025款元境智行版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/75694.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新华网 BJ40增程元境智行版正式上市",
+      "url": "http://www.news.cn/auto/20251114/9da2ce94dc8c4a2bad606dbf27acb225/c.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.xinhuanet.com/auto/20260522/f2832e83b23f434daa35035cb0a70885/c.html",
+    "https://car.autohome.com.cn/config/spec/75694.html",
+    "http://www.news.cn/auto/20251114/9da2ce94dc8c4a2bad606dbf27acb225/c.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "baic-bj40-reev-2026-lr-base",
+      "sku_name": "2026款 长续航版 标准型",
+      "price_rmb": 179800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1940,
+        "height_mm": 1964,
+        "wheelbase_mm": 2760,
+        "ground_clearance_mm": 215,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机全时四驱（非承载式车身）",
+        "motor_power_kw": 403,
+        "motor_torque_nm": 655,
+        "zero_to_100_s": 5.1,
+        "top_speed_kmh": 170
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代骁遥电池越野专研版",
+        "battery_capacity_kwh": 49.4,
+        "cltc_pure_electric_range_km": 252,
+        "cltc_combined_range_km": 1300,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 13.9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 70,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双横臂式独立悬架",
+        "rear_suspension": "后多连杆整体桥/独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "元境智行系统（11摄像头+3毫米波雷达+交通信号灯识别TLA）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "双15.6英寸中控+副驾双联屏",
+        "hud": "无",
+        "audio": "12扬声器Infinity音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾座椅加热/通风",
+        "seat_massage": "主副驾座椅按摩",
+        "zero_gravity_seat": "副驾零重力座椅",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "背挂小书包/全尺寸备胎二选一",
+          "price_rmb": 0,
+          "details": "官方提供机能风小书包或外挂备胎二选一",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "baic-bj40-reev-2025-yuanjing",
+      "sku_name": "2025款 元境智行版",
+      "price_rmb": 204800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1940,
+        "height_mm": 1964,
+        "wheelbase_mm": 2760,
+        "ground_clearance_mm": 215,
+        "seats": 5,
+        "curb_weight_kg": 2640,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机全时四驱（非承载式车身）",
+        "motor_power_kw": 403,
+        "motor_torque_nm": 655,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 170
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "三元锂/骁遥电池",
+        "battery_supplier": "宁德时代",
+        "battery_capacity_kwh": 40.3,
+        "cltc_pure_electric_range_km": 152,
+        "cltc_combined_range_km": 1200,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 30min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 82,
+        "wltc_fuel_consumption_l_100km": 8.3
+      },
+      "chassis": {
+        "front_suspension": "前双横臂式独立悬架",
+        "rear_suspension": "后悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "元境智行L2+（ICA智能巡航+APA自动泊车+540°全景影像）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "双12.8英寸中控+副驾联屏",
+        "hud": "无",
+        "audio": "12扬声器Infinity音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾座椅加热/通风",
+        "seat_massage": "主副驾座椅按摩",
+        "zero_gravity_seat": "带电动腿托女王副驾",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baic-bj40-reev-2026-lr-top",
+      "sku_name": "2026款 长续航版 旗舰型",
+      "price_rmb": 209800,
+      "baas_price_rmb": null,
+      "powertrain_type": "REEV",
+      "dimensions": {
+        "length_mm": 4790,
+        "width_mm": 1940,
+        "height_mm": 1964,
+        "wheelbase_mm": 2760,
+        "ground_clearance_mm": 215,
+        "seats": 5,
+        "curb_weight_kg": null,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机全时四驱（两挡后电机+能量中锁+前后桥机械差速锁）",
+        "motor_power_kw": 403,
+        "motor_torque_nm": 655,
+        "zero_to_100_s": 5.1,
+        "top_speed_kmh": 170
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "宁德时代骁遥电池越野专研版",
+        "battery_capacity_kwh": 49.4,
+        "cltc_pure_electric_range_km": 252,
+        "cltc_combined_range_km": 1300,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "30%-80% 13.9min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": 70,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双横臂式独立悬架",
+        "rear_suspension": "后悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "元境智行系统（11摄像头+3毫米波雷达+TLA+车位推送）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8155",
+        "instrument_cluster": "10.25英寸全液晶仪表",
+        "screens": "双15.6英寸中控+副驾双联屏",
+        "hud": "无",
+        "audio": "12扬声器Infinity音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "主副驾座椅加热/通风",
+        "seat_massage": "主副驾座椅按摩",
+        "zero_gravity_seat": "副驾零重力座椅",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "背挂小书包/全尺寸备胎二选一",
+          "price_rmb": 0,
+          "details": "官方提供机能风小书包或外挂备胎二选一",
+          "availability": "可选"
+        }
+      ]
+    }
+  ]
+}

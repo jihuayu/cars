@@ -1,0 +1,214 @@
+{
+  "brand": "hongqi",
+  "brand_name": "红旗新能源",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "红旗天工08",
+  "model_slug": "hongqi-tiangong-08",
+  "category": "中大型纯电SUV",
+  "release_date": "2026-08-01",
+  "image_url": "https://m2.auto.itc.cn/q_mini/carpics/360car/7557/65797919601821529611739242547377.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "2026款限时权益价17.99万元起（670 Max指导价19.79万，限时立减1.8万元）",
+    "620 Ultra四驱版限时权益价21.99万元（指导价23.79万）",
+    "首任非营运车主整车及三电终身质保（责任免除条款以官方为准）"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "汽车之家 红旗天工08参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/6913.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "搜狐汽车 红旗天工08车型页",
+      "url": "https://db.auto.sohu.com/model_7557",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "搜狐汽车 限时17.98万元红旗天工08开启预售",
+      "url": "https://db.m.auto.sohu.com/model_7311/a/1077623158_105344",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/6913.html",
+    "https://db.auto.sohu.com/model_7557",
+    "https://db.m.auto.sohu.com/model_7311/a/1077623158_105344"
+  ],
+  "skus": [
+    {
+      "sku_id": "hongqi-tiangong-08-2026-670-max",
+      "sku_name": "2026款 670 Max",
+      "price_rmb": 197900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4925,
+        "width_mm": 1950,
+        "height_mm": 1680,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": 150,
+        "seats": 5,
+        "curb_weight_kg": 2280,
+        "trunk_volume_l": "643-1999",
+        "frunk_volume_l": 71,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "后置后驱",
+        "motor_power_kw": 257,
+        "motor_torque_nm": 450,
+        "zero_to_100_s": 5.8,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "红旗玄甲电池",
+        "battery_capacity_kwh": 85.0,
+        "cltc_pure_electric_range_km": 670,
+        "cltc_combined_range_km": 670,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂式独立悬架",
+        "rear_suspension": "后五连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无（卓驭惯导三目视觉方案）",
+        "system": "红旗司南智驾（无图城市NOA+高速NOA+跨层记忆泊车）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "instrument_cluster": "65.5英寸AR-HUD+仪表显示",
+        "screens": "双15.6英寸一体化双联大屏",
+        "hud": "65.5英寸AR-HUD",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "前排10点吸风式按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "21英寸运动轮毂+倍耐力P ZERO E轮胎",
+          "price_rmb": null,
+          "details": "官方提供选装运动轮毂套装",
+          "availability": "可选"
+        },
+        {
+          "name": "双色车身涂装",
+          "price_rmb": null,
+          "details": "提供单色与双色车身方案",
+          "availability": "可选"
+        }
+      ]
+    },
+    {
+      "sku_id": "hongqi-tiangong-08-2026-620-ultra-awd",
+      "sku_name": "2026款 620 Ultra 四驱版",
+      "price_rmb": 237900,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4925,
+        "width_mm": 1950,
+        "height_mm": 1680,
+        "wheelbase_mm": 3000,
+        "ground_clearance_mm": 150,
+        "seats": 5,
+        "curb_weight_kg": 2450,
+        "trunk_volume_l": "643-1999",
+        "frunk_volume_l": 71,
+        "min_turning_radius_m": 5.3,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 407,
+        "motor_torque_nm": 770,
+        "zero_to_100_s": 3.8,
+        "top_speed_kmh": 200
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "红旗玄甲电池",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 620,
+        "cltc_combined_range_km": 620,
+        "max_charge_power_kw": null,
+        "fast_charge_time": "10%-80% 12min",
+        "v2l_power_kw": null,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "前双叉臂式独立悬架",
+        "rear_suspension": "后五连杆式独立悬架",
+        "air_suspension": true,
+        "cdc": true,
+        "rear_wheel_steering": true,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无（卓驭惯导三目视觉方案）",
+        "system": "红旗司南智驾（无图城市NOA+高速NOA+跨层记忆泊车）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "instrument_cluster": "65.5英寸AR-HUD+仪表显示",
+        "screens": "双15.6英寸一体化双联大屏",
+        "hud": "65.5英寸AR-HUD",
+        "audio": "未知",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风",
+        "seat_massage": "前排10点吸风式按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "21英寸运动轮毂+倍耐力P ZERO E轮胎",
+          "price_rmb": null,
+          "details": "官方提供选装运动轮毂套装",
+          "availability": "可选"
+        }
+      ]
+    }
+  ]
+}

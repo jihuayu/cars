@@ -1,0 +1,238 @@
+{
+  "brand": "mini",
+  "brand_name": "电动MINI",
+  "origin_type": "合资/外资",
+  "model": "电动MINI Aceman",
+  "model_slug": "mini-aceman-ev",
+  "category": "小型纯电SUV",
+  "release_date": "2026-07-09",
+  "image_url": "http://s3.xchuxing.com/xchuxing/article/2024/08/28/c83c1202408280006199481.jpg",
+  "interior_image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2024/04/2025-mini-aceman_100927056_h.webp",
+  "promo_highlights": [
+    "2025款E经典派/SE艺术家指导价22.99-25.99万元（参考限时礼遇价17.39万起），2026款限量/特别版29.09-30.39万元",
+    "预订2025款艺术家/赛车手享8,000元选装包抵扣金，2026款享6,000元选装包抵扣金",
+    "支持限时1.88%年利率金融方案，忠诚客户享3,000元老友礼"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": null,
+    "gross_weight_kg": null,
+    "approach_departure_deg": null,
+    "battery_supplier": "蜂巢能源（三元锂）/ 光束汽车张家港工厂生产",
+    "reference_title": "汽车之家 电动MINI ACEMAN 参数配置表大全（光束汽车）",
+    "reference_url": "https://car.autohome.com.cn/config/series/7632.html"
+  },
+  "references": [
+    {
+      "title": "MINI中国官网 电动MINI ACEMAN 车型页",
+      "url": "https://www.minichina.com.cn/zh_CN/home/range/all-electric-mini-aceman.html",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 电动MINI ACEMAN 参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7632.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "搜狐汽车 MINI Aceman 参数配置表",
+      "url": "https://db.auto.sohu.com/model_7345/config",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "车家号 2026款MINI ACEMAN三款限量版上市解析",
+      "url": "https://chejiahao.m.autohome.com.cn/info/25956961",
+      "type": "third_party_media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "mini-aceman-2025-e-classic",
+      "sku_name": "2025款 E 经典派",
+      "price_rmb": 229900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4076,
+        "width_mm": 1754,
+        "height_mm": 1515,
+        "wheelbase_mm": 2606,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 135,
+        "motor_torque_nm": 290,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 51.5,
+        "cltc_pure_electric_range_km": 450,
+        "fast_charge_time": "30分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级基础驾驶辅助"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘",
+        "screens": "9.4英寸圆形OLED中控屏(MINI OS 9)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "mini-aceman-2025-se-artist",
+      "sku_name": "2025款 SE 艺术家",
+      "price_rmb": 259900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4076,
+        "width_mm": 1754,
+        "height_mm": 1515,
+        "wheelbase_mm": 2606,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 51.5,
+        "cltc_pure_electric_range_km": 445,
+        "fast_charge_time": "30分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助+自动泊车"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘(可选HUD)",
+        "screens": "9.4英寸圆形OLED中控屏(MINI OS 9)",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热",
+        "seat_massage": "主驾座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "MINI选装包",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "预订2025款艺术家享8,000元选装包抵扣金"
+        }
+      ]
+    },
+    {
+      "sku_id": "mini-aceman-2026-se-racer-black",
+      "sku_name": "2026款 SE 赛车手黑标特别版",
+      "price_rmb": 303900,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4094,
+        "width_mm": 1754,
+        "height_mm": 1515,
+        "wheelbase_mm": 2606,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 330,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 400,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 51.5,
+        "cltc_pure_electric_range_km": 445,
+        "fast_charge_time": "30分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级驾驶辅助+自动泊车"
+      },
+      "cockpit": {
+        "instrument_cluster": "无独立仪表盘+HUD抬头显示",
+        "screens": "9.4英寸圆形OLED中控屏(MINI OS 9)+Harman/Kardon音响",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "前排座椅加热",
+        "seat_massage": "主驾座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "MINI选装包",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "预订2026款赛车手享6,000元选装包抵扣金"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.minichina.com.cn/zh_CN/home/range/all-electric-mini-aceman.html",
+    "https://car.autohome.com.cn/config/series/7632.html",
+    "https://db.auto.sohu.com/model_7345/config",
+    "https://chejiahao.m.autohome.com.cn/info/25956961"
+  ],
+  "data_as_of": "2026-11-27"
+}

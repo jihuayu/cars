@@ -1,0 +1,199 @@
+{
+  "brand": "wuling",
+  "brand_name": "五菱 / 宝骏",
+  "origin_type": "国产",
+  "model": "五菱缤果PLUS",
+  "model_slug": "wuling-bingo-plus",
+  "category": "小型纯电SUV",
+  "release_date": "2024-09-20",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g31/M0B/D2/AA/400x400_1_q40_c40_autohomecar__ChxoHmXnW1uAcogsAD2xRLQcIFE980.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "终端参考优惠约1.00万元，6.58万元起售",
+    "全系标配神炼磷酸铁锂电池、前排侧气囊与ESC车身稳定系统",
+    "整车质保四年或15万公里"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "上汽通用五菱官网 - 五菱缤果PLUS五座版参数配置",
+      "url": "https://www.wuling.com/carDetail?id=257",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 五菱缤果PLUS参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7572.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.wuling.com/carDetail?id=257",
+    "https://car.autohome.com.cn/config/series/7572.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "wuling-bingo-plus-330-5seat",
+      "sku_name": "330km 五座版",
+      "price_rmb": 75800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4090,
+        "width_mm": 1720,
+        "height_mm": 1575,
+        "wheelbase_mm": 2610,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1190
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 75,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 31.9,
+        "cltc_pure_electric_range_km": 330,
+        "fast_charge_time": "35分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "定速巡航+倒车影像/后驻车雷达"
+      },
+      "cockpit": {
+        "instrument_cluster": "未知",
+        "screens": "未知",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wuling-bingo-plus-401-5seat",
+      "sku_name": "401km 五座版",
+      "price_rmb": 84800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4090,
+        "width_mm": 1720,
+        "height_mm": 1575,
+        "wheelbase_mm": 2610,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1235
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 75,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 37.9,
+        "cltc_pure_electric_range_km": 401,
+        "fast_charge_time": "35分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "定速巡航+倒车影像/后驻车雷达"
+      },
+      "cockpit": {
+        "instrument_cluster": "未知",
+        "screens": "未知",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wuling-bingo-plus-510-5seat",
+      "sku_name": "510km 五座版",
+      "price_rmb": 95800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4090,
+        "width_mm": 1720,
+        "height_mm": 1575,
+        "wheelbase_mm": 2610,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1335
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 75,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 50.6,
+        "cltc_pure_electric_range_km": 510,
+        "fast_charge_time": "30分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "定速巡航+倒车影像/后驻车雷达"
+      },
+      "cockpit": {
+        "instrument_cluster": "未知",
+        "screens": "未知",
+        "rear_screen": "无",
+        "power_220v": "无",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

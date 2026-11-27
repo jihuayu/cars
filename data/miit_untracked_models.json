@@ -1,0 +1,923 @@
+{
+  "synced_at": "2026-11-27T14:46:15+08:00",
+  "data_as_of": "2026-11-27",
+  "compared_against": "catalog.json",
+  "repo_model_count": 231,
+  "miit_passenger_entries": 55,
+  "matched_entries": 6,
+  "total_untracked_models": 26,
+  "candidates": [
+    {
+      "manufacturer": "比亚迪汽车有限公司",
+      "common_name": "比亚迪汉,比亚迪汉08",
+      "model_names": [
+        "比亚迪汉",
+        "比亚迪汉08"
+      ],
+      "suggested_brand_slugs": [
+        "byd",
+        "denza",
+        "fangchengbao",
+        "yangwang"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV",
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "BYD7000CEBEV2",
+        "BYD7000CEBEV1",
+        "BYD7000CEBEV3",
+        "BYD7150CE6HEV1"
+      ],
+      "ev_ranges_km": [
+        "775(CLTC)",
+        "730(CLTC)",
+        "875(CLTC)",
+        "300"
+      ],
+      "battery_capacities_kwh": [
+        "76.744",
+        "88.682",
+        "45.36"
+      ],
+      "curb_weights_kg": [
+        "2005",
+        "2351",
+        "2125",
+        "2115"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 4
+    },
+    {
+      "manufacturer": "北京新能源汽车股份有限公司",
+      "common_name": "αT7",
+      "model_names": [
+        "αT7"
+      ],
+      "suggested_brand_slugs": [
+        "arcfox",
+        "hima"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV",
+        "REEV"
+      ],
+      "product_model_codes": [
+        "BJ6500A602SBEV",
+        "BJ6500A601SBEV",
+        "BJ6500A60SBEV",
+        "BJ6500A603SBEV",
+        "BJ6500A60RSSHEV",
+        "BJ6500A601RSSHEV"
+      ],
+      "ev_ranges_km": [
+        "650",
+        "715",
+        "232"
+      ],
+      "battery_capacities_kwh": [
+        "75.4",
+        "72.8",
+        "81.9",
+        "84.8",
+        "42.5",
+        "43.9"
+      ],
+      "curb_weights_kg": [
+        "1980",
+        "2050",
+        "2000"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 6
+    },
+    {
+      "manufacturer": "奇瑞汽车股份有限公司",
+      "common_name": "风云T7",
+      "model_names": [
+        "风云T7"
+      ],
+      "suggested_brand_slugs": [
+        "exeed-sterra",
+        "icar",
+        "hima"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "SQR6460BEVT1Q1"
+      ],
+      "ev_ranges_km": [
+        "600"
+      ],
+      "battery_capacities_kwh": [
+        "65.44"
+      ],
+      "curb_weights_kg": [
+        "1795"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "奇瑞汽车股份有限公司",
+      "common_name": "ET7,EX7",
+      "model_names": [
+        "ET7",
+        "EX7"
+      ],
+      "suggested_brand_slugs": [
+        "exeed-sterra",
+        "icar",
+        "hima"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "SQR6500BEVE0YC"
+      ],
+      "ev_ranges_km": [
+        "860"
+      ],
+      "battery_capacities_kwh": [
+        "117.2(1I3)/111.6(1I1)"
+      ],
+      "curb_weights_kg": [
+        "2280"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "上海汽车集团股份有限公司",
+      "common_name": "尚界Z9",
+      "model_names": [
+        "尚界Z9"
+      ],
+      "suggested_brand_slugs": [
+        "hima"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "CSA6516BBEV2",
+        "CSA6516BBEV1"
+      ],
+      "ev_ranges_km": [
+        "670",
+        "740"
+      ],
+      "battery_capacities_kwh": [
+        "100.2"
+      ],
+      "curb_weights_kg": [
+        "2715/2794",
+        "2595"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 2
+    },
+    {
+      "manufacturer": "上海汽车集团股份有限公司",
+      "common_name": "家越07",
+      "model_names": [
+        "家越07"
+      ],
+      "suggested_brand_slugs": [],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "CSA6494HBEV1"
+      ],
+      "ev_ranges_km": [
+        "651"
+      ],
+      "battery_capacities_kwh": [
+        "80.6"
+      ],
+      "curb_weights_kg": [
+        "2050/2075/2120"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "长城汽车股份有限公司",
+      "common_name": "V9X",
+      "model_names": [
+        "V9X"
+      ],
+      "suggested_brand_slugs": [
+        "wey",
+        "tank"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "CC6520DH21HABEV"
+      ],
+      "ev_ranges_km": [
+        "655"
+      ],
+      "battery_capacities_kwh": [
+        "100"
+      ],
+      "curb_weights_kg": [
+        "2750"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "长城汽车股份有限公司",
+      "common_name": "V8X",
+      "model_names": [
+        "V8X"
+      ],
+      "suggested_brand_slugs": [
+        "wey",
+        "tank"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV",
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "CC6520DG21HABEV",
+        "CC6520DG21CPHEV",
+        "CC6520DG20BPHEV",
+        "CC6520DG20APHEV"
+      ],
+      "ev_ranges_km": [
+        "665",
+        "312",
+        "200"
+      ],
+      "battery_capacities_kwh": [
+        "100",
+        "64.7",
+        "64.7/64.6",
+        "42.8"
+      ],
+      "curb_weights_kg": [
+        "2650",
+        "2715",
+        "2685",
+        "2570"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 4
+    },
+    {
+      "manufacturer": "赛力斯汽车有限公司",
+      "common_name": "ME7",
+      "model_names": [
+        "ME7"
+      ],
+      "suggested_brand_slugs": [
+        "hima"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "SKE6502DBEVA2F",
+        "SKE6502DBEVR2"
+      ],
+      "ev_ranges_km": [
+        "775",
+        "837"
+      ],
+      "battery_capacities_kwh": [
+        "97.644"
+      ],
+      "curb_weights_kg": [
+        "2425/2480",
+        "2295/2370"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 2
+    },
+    {
+      "manufacturer": "赛力斯汽车有限公司",
+      "common_name": "问界M7EV",
+      "model_names": [
+        "问界M7EV"
+      ],
+      "suggested_brand_slugs": [
+        "hima"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "SKE6511DBEVA1F",
+        "SKE6511DBEVR2"
+      ],
+      "ev_ranges_km": [
+        "661/636",
+        "715/681"
+      ],
+      "battery_capacities_kwh": [
+        "97.644"
+      ],
+      "curb_weights_kg": [
+        "2660/2715",
+        "2545/2605"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 2
+    },
+    {
+      "manufacturer": "一汽-大众汽车有限公司",
+      "common_name": "ID.AURA L5",
+      "model_names": [
+        "ID.AURA L5"
+      ],
+      "suggested_brand_slugs": [
+        "audi",
+        "volkswagen"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "FV70012BAABEV",
+        "FV70012BABBEV",
+        "FV70012AABEV",
+        "FV70012BACBEV"
+      ],
+      "ev_ranges_km": [
+        "580",
+        "575",
+        "470",
+        "565"
+      ],
+      "battery_capacities_kwh": [
+        "58.5",
+        "45.8"
+      ],
+      "curb_weights_kg": [
+        "1793",
+        "1795",
+        "1699"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 4
+    },
+    {
+      "manufacturer": "广汽埃安新能源汽车股份有限公司",
+      "common_name": "埃安i60",
+      "model_names": [
+        "埃安i60"
+      ],
+      "suggested_brand_slugs": [
+        "aion",
+        "hyptec"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "AHC6470BEVJ1B"
+      ],
+      "ev_ranges_km": [
+        "630"
+      ],
+      "battery_capacities_kwh": [
+        "70.189"
+      ],
+      "curb_weights_kg": [
+        "1825/1870"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "东风汽车集团有限公司",
+      "common_name": "奕境X9",
+      "model_names": [
+        "奕境X9"
+      ],
+      "suggested_brand_slugs": [
+        "voyah"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "DFM6531S5F1BEV",
+        "DFM6531S5F0BEV"
+      ],
+      "ev_ranges_km": [
+        "650/620",
+        "705/670"
+      ],
+      "battery_capacities_kwh": [
+        "102.15"
+      ],
+      "curb_weights_kg": [
+        "2877",
+        "2723"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 2
+    },
+    {
+      "manufacturer": "华晨宝马汽车有限公司",
+      "common_name": "新世代宝马iX3",
+      "model_names": [
+        "新世代宝马iX3"
+      ],
+      "suggested_brand_slugs": [
+        "bmw"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "BMW6495ABBEV",
+        "BMW6495AABEV",
+        "BMW6495CABEV",
+        "BMW6495BABEV"
+      ],
+      "ev_ranges_km": [
+        "847",
+        "919",
+        "630",
+        "702"
+      ],
+      "battery_capacities_kwh": [
+        "113.4",
+        "77.0",
+        "86.9"
+      ],
+      "curb_weights_kg": [
+        "2371",
+        "2357",
+        "2237",
+        "2255"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 4
+    },
+    {
+      "manufacturer": "比亚迪汽车工业有限公司",
+      "common_name": "比亚迪唐",
+      "model_names": [
+        "比亚迪唐"
+      ],
+      "suggested_brand_slugs": [
+        "byd",
+        "denza",
+        "fangchengbao",
+        "yangwang"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "BYD6500BBBEV3"
+      ],
+      "ev_ranges_km": [
+        "770(CLTC)"
+      ],
+      "battery_capacities_kwh": [
+        "105.792"
+      ],
+      "curb_weights_kg": [
+        "2520"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "比亚迪汽车工业有限公司",
+      "common_name": "比亚迪海狮08",
+      "model_names": [
+        "比亚迪海狮08"
+      ],
+      "suggested_brand_slugs": [
+        "byd",
+        "denza",
+        "fangchengbao",
+        "yangwang"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "BYD6510BNBEV5",
+        "BYD6510BNBEV4"
+      ],
+      "ev_ranges_km": [
+        "900",
+        "800"
+      ],
+      "battery_capacities_kwh": [
+        "115.072"
+      ],
+      "curb_weights_kg": [
+        "2645",
+        "2765/2710"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 2
+    },
+    {
+      "manufacturer": "上汽通用五菱汽车股份有限公司",
+      "common_name": "五菱扬光L",
+      "model_names": [
+        "五菱扬光L"
+      ],
+      "suggested_brand_slugs": [
+        "gm"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "LZW6510BEVA2"
+      ],
+      "ev_ranges_km": [
+        "410（CLTC）"
+      ],
+      "battery_capacities_kwh": [
+        "56.0"
+      ],
+      "curb_weights_kg": [
+        "1825"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "光束汽车有限公司",
+      "common_name": "ORA 7",
+      "model_names": [
+        "ORA 7"
+      ],
+      "suggested_brand_slugs": [],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "BEV"
+      ],
+      "product_model_codes": [
+        "SAL7001BH01ABEV"
+      ],
+      "ev_ranges_km": [
+        "660（CLTC）"
+      ],
+      "battery_capacities_kwh": [
+        "68.9"
+      ],
+      "curb_weights_kg": [
+        "1850"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "比亚迪汽车有限公司",
+      "common_name": "方程豹钛9",
+      "model_names": [
+        "方程豹钛9"
+      ],
+      "suggested_brand_slugs": [
+        "fangchengbao",
+        "byd",
+        "denza",
+        "yangwang"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "QCJ6530BE6HEV4"
+      ],
+      "ev_ranges_km": [
+        "310"
+      ],
+      "battery_capacities_kwh": [
+        "66.48"
+      ],
+      "curb_weights_kg": [
+        "2965"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "奇瑞汽车股份有限公司",
+      "common_name": "风云T9L",
+      "model_names": [
+        "风云T9L"
+      ],
+      "suggested_brand_slugs": [
+        "exeed-sterra",
+        "icar",
+        "hima"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "SQR6490CHEVT295"
+      ],
+      "ev_ranges_km": [
+        "170"
+      ],
+      "battery_capacities_kwh": [
+        "32.659"
+      ],
+      "curb_weights_kg": [
+        "2023"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "奇瑞汽车股份有限公司",
+      "common_name": "ARRIZO 7 CDM",
+      "model_names": [
+        "ARRIZO 7 CDM"
+      ],
+      "suggested_brand_slugs": [
+        "exeed-sterra",
+        "icar",
+        "hima"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "SQR7150CHEVM1FA"
+      ],
+      "ev_ranges_km": [
+        "116"
+      ],
+      "battery_capacities_kwh": [
+        "19.527"
+      ],
+      "curb_weights_kg": [
+        "1598"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "浙江吉利汽车有限公司",
+      "common_name": "银河战舰700",
+      "model_names": [
+        "银河战舰700"
+      ],
+      "suggested_brand_slugs": [
+        "geely-galaxy",
+        "zeekr",
+        "lynkco",
+        "smart"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "MR2031DCHEV101"
+      ],
+      "ev_ranges_km": [
+        "165"
+      ],
+      "battery_capacities_kwh": [
+        "47.14"
+      ],
+      "curb_weights_kg": [
+        "2870"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "浙江吉利汽车有限公司",
+      "common_name": "领克900L",
+      "model_names": [
+        "领克900L"
+      ],
+      "suggested_brand_slugs": [
+        "lynkco",
+        "geely-galaxy",
+        "zeekr",
+        "smart"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "MR6532DCHEV101",
+        "MR6532DCHEV102"
+      ],
+      "ev_ranges_km": [
+        "320",
+        "245"
+      ],
+      "battery_capacities_kwh": [
+        "70",
+        "55.1"
+      ],
+      "curb_weights_kg": [
+        "2965/3045",
+        "2880"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 2
+    },
+    {
+      "manufacturer": "上汽通用汽车有限公司",
+      "common_name": "GL8,GL8 ES",
+      "model_names": [
+        "GL8",
+        "GL8 ES"
+      ],
+      "suggested_brand_slugs": [
+        "gm"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "SGM6525UAPHEV"
+      ],
+      "ev_ranges_km": [
+        "150"
+      ],
+      "battery_capacities_kwh": [
+        "35.5"
+      ],
+      "curb_weights_kg": [
+        "2310/2390"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "上汽通用汽车有限公司",
+      "common_name": "GL8 ENCASA",
+      "model_names": [
+        "GL8 ENCASA"
+      ],
+      "suggested_brand_slugs": [
+        "gm"
+      ],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "SGM6536UGPHEV"
+      ],
+      "ev_ranges_km": [
+        "176"
+      ],
+      "battery_capacities_kwh": [
+        "40.9"
+      ],
+      "curb_weights_kg": [
+        "2640"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    },
+    {
+      "manufacturer": "江铃汽车股份有限公司",
+      "common_name": "全顺TRANSIT",
+      "model_names": [
+        "全顺TRANSIT"
+      ],
+      "suggested_brand_slugs": [],
+      "batch_label": "第412批",
+      "tax_exemption_batch": "第三十六批",
+      "publish_date": "2026-11-17",
+      "powertrain_types": [
+        "PHEV"
+      ],
+      "product_model_codes": [
+        "JX6533PA-M6PHEV"
+      ],
+      "ev_ranges_km": [
+        "150"
+      ],
+      "battery_capacities_kwh": [
+        "43.53"
+      ],
+      "curb_weights_kg": [
+        "2525/2575/2695/2755"
+      ],
+      "announcement_url": "https://www.miit-eidc.org.cn/art/2026/11/17/art_1691_12928.html",
+      "attachment_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/247e947917ff46bda9d43218d62e9747.doc",
+      "variant_count": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "brand": "lotus",
+  "brand_name": "莲花跑车 / 路特斯",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 2,
+  "sku_count": 7,
+  "models": [
+    {
+      "brand": "lotus",
+      "brand_name": "莲花跑车 / 路特斯",
+      "origin_type": "合资/外资",
+      "model": "莲花Eletre（夏花）",
+      "model_slug": "lotus-eletre",
+      "sub_brand": null,
+      "category": "中大型纯电超跑SUV",
+      "release_date": "2026-08-31",
+      "image_url": "https://global-img.bitauto.hk/usercenter/car/20260703/554/w480_yichecar_307304955409221.png.webp",
+      "interior_image_url": "https://global-img.bitauto.hk/usercenter/autoalbum/20261106/147/w520_yichecar_394947614757078.jpg.webp",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 3,
+      "option_count": 3,
+      "price_min_rmb": 648000,
+      "price_max_rmb": 953000,
+      "best_zero_to_100_s": 2.95,
+      "max_cltc_ev_km": 680,
+      "ground_clearance_mm": 194,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/lotus/lotus-eletre.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/6649.html",
+        "https://car.autohome.com.cn/config/spec/78856.html",
+        "https://auto.ifeng.com/c/8w36Ukr2t0C",
+        "https://price.pcauto.com.cn/sg28691/"
+      ]
+    },
+    {
+      "brand": "lotus",
+      "brand_name": "莲花跑车 / 路特斯",
+      "origin_type": "合资/外资",
+      "model": "莲花Emeya（繁花）",
+      "model_slug": "lotus-emeya",
+      "sub_brand": null,
+      "category": "中大型纯电超跑轿车",
+      "release_date": "2026-08-31",
+      "image_url": "https://m3.auto.itc.cn/q_mini/carpics/360car/7211/11970478721485783871730462022771.jpg",
+      "interior_image_url": "https://m3.auto.itc.cn/c_zoom,w_1200,q_mini/30079587.JPG",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 4,
+      "option_count": 2,
+      "price_min_rmb": 558000,
+      "price_max_rmb": 963000,
+      "best_zero_to_100_s": 2.78,
+      "max_cltc_ev_km": 585,
+      "ground_clearance_mm": 149,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": true,
+      "has_rear_screen": true,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": true,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/lotus/lotus-emeya.json",
+      "source_urls": [
+        "https://car.autohome.com.cn/config/series/7378.html",
+        "https://car.autohome.com.cn/config/spec/79038.html",
+        "https://car.autohome.com.cn/config/spec/78855.html",
+        "https://detail.zol.com.cn/2177/2176441/param.shtml",
+        "https://auto.sina.cn/2026-08-12/detail-ininecsn4706093.d.html?vt=4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "brand": "chery-fulwin",
+  "brand_name": "奇瑞风云 / 捷途山海",
+  "origin_type": "国产",
+  "model": "捷途山海L7 PLUS",
+  "model_slug": "jetour-shanhai-l7-plus",
+  "category": "中型插混SUV",
+  "release_date": "2026-08-19",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M05/EB/FD/400x400_1_q40_c40_autohomecar__ChxpWGqeT7WAFZXUAB17qugr-RU304.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "1.5L/1.5TD智驾版限时享3,000元购车红包、3年12万免息、10,000元超级置换补贴及免费升级定制轮毂",
+    "全系标配32.66kWh犀牛电池（CLTC 220km纯电续航）、20分钟快充（30%-80%）及6.6kW对外放电",
+    "高配搭载激光雷达+猎鹰700城市NOA、高通8255座舱、CDC电磁悬架、32变电动七座及冷暖扶手冰箱"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "捷途官网 - 全新一代捷途山海L7 PLUS",
+      "url": "https://www.jetour.com.cn/vehicles/xinshanhaiL7Plus/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 捷途山海L7 PLUS车系报价",
+      "url": "https://car.autohome.com.cn/diandongche/series-8106.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 捷途山海L7 PLUS 2027款220km标准版参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/78894.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "易车 - 捷途山海L7 PLUS 2027款报价页",
+      "url": "https://car.m.yiche.com/shanhail7plus/",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.jetour.com.cn/vehicles/xinshanhaiL7Plus/",
+    "https://car.autohome.com.cn/diandongche/series-8106.html",
+    "https://car.autohome.com.cn/config/spec/78894.html",
+    "https://car.m.yiche.com/shanhail7plus/"
+  ],
+  "skus": [
+    {
+      "sku_id": "jetour-shanhai-l7-plus-2027-220-qihang",
+      "sku_name": "2027款 1.5L 220km 启航版 5座",
+      "price_rmb": 119900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4810,
+        "width_mm": 1930,
+        "height_mm": 1705,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 185,
+        "motor_torque_nm": 280,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 32.66,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "540°透明底盘+主动安全预警"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K向日葵旋转屏（TOUR OS 3.2）",
+        "rear_screen": "无",
+        "power_220v": "标配（220V车内电源）",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "jetour-shanhai-l7-plus-2027-220-std",
+      "sku_name": "2027款 1.5L 220km 标准版 5座",
+      "price_rmb": 129900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4810,
+        "width_mm": 1930,
+        "height_mm": 1705,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 185,
+        "motor_torque_nm": 280,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 32.66,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶+540°透明底盘"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K向日葵旋转屏（TOUR OS 3.2）",
+        "rear_screen": "无",
+        "power_220v": "标配（220V车内电源）",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "jetour-shanhai-l7-plus-2027-220-lidar-lux",
+      "sku_name": "2027款 1.5L 220km 激光雷达豪华版 5座",
+      "price_rmb": 159900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4810,
+        "width_mm": 1930,
+        "height_mm": 1705,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 185,
+        "motor_torque_nm": 280,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 32.66,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "标配（云台底盘CDC电磁悬挂）",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "猎鹰700驾驶辅助（城区/高速NOA+红绿灯识别）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K向日葵旋转屏（高通8255）",
+        "rear_screen": "无",
+        "power_220v": "标配（220V车内电源）",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "jetour-shanhai-l7-plus-2027-220-lidar-flagship",
+      "sku_name": "2027款 1.5T 220km 激光雷达旗舰版 5座",
+      "price_rmb": 169900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4810,
+        "width_mm": 1930,
+        "height_mm": 1705,
+        "wheelbase_mm": 2820,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 185,
+        "motor_torque_nm": 280,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 32.66,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "标配（云台底盘CDC电磁悬挂）",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "1颗激光雷达",
+        "system": "猎鹰700驾驶辅助（城区/高速NOA+红绿灯识别）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸2.5K向日葵旋转屏（高通8255）+6.4L冷暖扶手冰箱",
+        "rear_screen": "无",
+        "power_220v": "标配（220V车内电源）",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "7座电动座椅版本",
+          "price_rmb": 6000,
+          "promo_price_rmb": null,
+          "details": "升级32变电动七座布局（对应7座版指导价17.59万元）"
+        }
+      ]
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

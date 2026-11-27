@@ -3,8 +3,8 @@
   "brand_name": "沃尔沃/极星",
   "origin_type": "合资/外资",
   "data_as_of": "2026-11-27",
-  "model_count": 4,
-  "sku_count": 7,
+  "model_count": 5,
+  "sku_count": 9,
   "models": [
     {
       "brand": "volvo",
@@ -96,6 +96,53 @@
         "https://car.autohome.com.cn/config/series/7365.html",
         "https://commons.wikimedia.org/wiki/File:Volvo_EM90_003.jpg",
         "https://commons.wikimedia.org/wiki/File:VOLVO_EM90_INTERIOR.jpg"
+      ]
+    },
+    {
+      "brand": "volvo",
+      "brand_name": "沃尔沃/极星",
+      "origin_type": "合资/外资",
+      "model": "沃尔沃ES90",
+      "model_slug": "volvo-es90",
+      "sub_brand": null,
+      "category": "中大型纯电掀背轿车",
+      "release_date": "2026-05-29",
+      "image_url": "https://www.volvocars.com.cn/images/cs/v3/assets/blt0feaa88e629251fc/blt54a768d16b68c121/698b4a984b009010dd4fa8ee/5s_4x3_vin0350B_colorselector_723_ES90.jpg?branch=prod_alias&quality=85&format=auto&h=1080&iar=0&w=1440",
+      "interior_image_url": "https://www.volvocars.com.cn/images/cs/v3/assets/blt0feaa88e629251fc/blt0f14a7da4467028b/679b4faf0eb64a75651233f0/es90-electric-Interior_Gallery_7-4x5.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=3840",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 3,
+      "price_min_rmb": 539900,
+      "price_max_rmb": 629900,
+      "best_zero_to_100_s": 3.9,
+      "max_cltc_ev_km": 848,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": true,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": false,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": true,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": true,
+      "file": "data/volvo/volvo-es90.json",
+      "source_urls": [
+        "https://www.volvocars.com.cn/zh-cn/l/specifications/es90-electric/",
+        "https://car.autohome.com.cn/config/series/8050.html",
+        "https://car.autohome.com.cn/config/spec/72073.html",
+        "https://auto.sina.cn/2026-11-09/detail-iniyaqqe6544757.d.html?vt=4"
       ]
     },
     {

@@ -1,0 +1,251 @@
+{
+  "brand": "lotus",
+  "brand_name": "莲花跑车 / 路特斯",
+  "origin_type": "合资/外资",
+  "model": "莲花Eletre（夏花）",
+  "model_slug": "lotus-eletre",
+  "category": "中大型纯电超跑SUV",
+  "release_date": "2026-08-31",
+  "image_url": "https://global-img.bitauto.hk/usercenter/car/20260703/554/w480_yichecar_307304955409221.png.webp",
+  "interior_image_url": "https://global-img.bitauto.hk/usercenter/autoalbum/20261106/147/w520_yichecar_394947614757078.jpg.webp",
+  "promo_highlights": [
+    "2027款于2026-08-31上市，在售600 SE 5座（64.80万）、900 GOLD 5座（92.80万）、900 GOLD 4座（95.30万）",
+    "900 GOLD标配十活塞碳陶瓷制动系统、全车内外饰碳纤维轻量化套件及23扬声器KEF音响，限时免费升级专属碳纤维车顶",
+    "整车质保5年或15万公里，三电系统质保8年或20万公里"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "2600-2670",
+    "gross_weight_kg": 3150,
+    "approach_departure_deg": "18/21",
+    "battery_supplier": "宁德时代（112kWh三元锂）/ 采埃孚+义乌吉利电机",
+    "reference_title": "汽车之家 莲花ELETRE 2027款 900 GOLD 5座 参数配置表",
+    "reference_url": "https://car.autohome.com.cn/config/spec/78856.html"
+  },
+  "references": [
+    {
+      "title": "汽车之家 莲花ELETRE 2027款 参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/6649.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 莲花ELETRE 2027款 900 GOLD 5座 参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/78856.html",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "凤凰网汽车 莲花ELETRE/EMEYA 900 GOLD正式上市报道",
+      "url": "https://auto.ifeng.com/c/8w36Ukr2t0C",
+      "type": "third_party_media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "太平洋汽车 ELETRE 2027款报价与车型页",
+      "url": "https://price.pcauto.com.cn/sg28691/",
+      "type": "third_party_spec",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "skus": [
+    {
+      "sku_id": "lotus-eletre-2027-600-se-5s",
+      "sku_name": "2027款 600 SE 5座",
+      "price_rmb": 648000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5103,
+        "width_mm": 2019,
+        "height_mm": 1636,
+        "wheelbase_mm": 3019,
+        "ground_clearance_mm": 194,
+        "seats": 5,
+        "curb_weight_kg": 2600
+      },
+      "performance": {
+        "drive_type": "双电机四驱",
+        "motor_power_kw": 450,
+        "motor_torque_nm": 710,
+        "zero_to_100_s": 4.5
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 112.0,
+        "cltc_pure_electric_range_km": 680,
+        "fast_charge_time": "20分钟(10%-80%)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配双腔空气悬架",
+        "cdc": "标配CDC连续阻尼可调减振器",
+        "rear_wheel_steering": "可选装/视套装"
+      },
+      "adas": {
+        "chip": "2颗 英伟达 Orin-X (508 TOPS)",
+        "lidar": "4颗隐藏翻转式激光雷达",
+        "system": "莲花高阶智能驾驶辅助(L2+)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸主驾长条形全液晶仪表+29英寸AR-HUD",
+        "screens": "15.1英寸悬浮式OLED中控屏+12.6英寸副驾屏(HYPER OS)",
+        "rear_screen": "标配后排控制屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "可选装流媒体外后视镜"
+      },
+      "options": [
+        {
+          "name": "流媒体外后视镜",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "可选装电子流媒体外后视镜"
+        },
+        {
+          "name": "PDLC智能分区调光天幕",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "可选装智能调光全景天幕"
+        }
+      ]
+    },
+    {
+      "sku_id": "lotus-eletre-2027-900-gold-5s",
+      "sku_name": "2027款 900 GOLD 5座",
+      "price_rmb": 928000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5103,
+        "width_mm": 2019,
+        "height_mm": 1636,
+        "wheelbase_mm": 3019,
+        "ground_clearance_mm": 194,
+        "seats": 5,
+        "curb_weight_kg": 2670
+      },
+      "performance": {
+        "drive_type": "双电机四驱(2挡变速箱)",
+        "motor_power_kw": 675,
+        "motor_torque_nm": 985,
+        "zero_to_100_s": 2.95
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 112.0,
+        "cltc_pure_electric_range_km": 535,
+        "fast_charge_time": "20分钟(10%-80%, 峰值420kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配双腔空气悬架+48V主动稳定杆",
+        "cdc": "标配CDC连续阻尼可调减振器",
+        "rear_wheel_steering": "标配后轮主动转向"
+      },
+      "adas": {
+        "chip": "2颗 英伟达 Orin-X (508 TOPS)",
+        "lidar": "4颗隐藏翻转式激光雷达",
+        "system": "莲花高阶智能驾驶辅助(L2+)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸主驾长条形全液晶仪表+29英寸AR-HUD",
+        "screens": "15.1英寸悬浮式OLED中控屏+12.6英寸副驾屏+23扬声器KEF音响",
+        "rear_screen": "标配后排控制屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前后排座椅加热/通风",
+        "seat_massage": "前排座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "标配流媒体外后视镜"
+      },
+      "options": [
+        {
+          "name": "专属碳纤维车顶",
+          "price_rmb": null,
+          "promo_price_rmb": 0,
+          "details": "900 GOLD限时免费升级专属碳纤维车顶"
+        }
+      ]
+    },
+    {
+      "sku_id": "lotus-eletre-2027-900-gold-4s",
+      "sku_name": "2027款 900 GOLD 4座",
+      "price_rmb": 953000,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5103,
+        "width_mm": 2019,
+        "height_mm": 1636,
+        "wheelbase_mm": 3019,
+        "ground_clearance_mm": 194,
+        "seats": 4,
+        "curb_weight_kg": 2670
+      },
+      "performance": {
+        "drive_type": "双电机四驱(2挡变速箱)",
+        "motor_power_kw": 675,
+        "motor_torque_nm": 985,
+        "zero_to_100_s": 2.95
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": 800,
+        "battery_chemistry": "三元锂",
+        "battery_capacity_kwh": 112.0,
+        "cltc_pure_electric_range_km": 535,
+        "fast_charge_time": "20分钟(10%-80%, 峰值420kW)",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "标配双腔空气悬架+48V主动稳定杆",
+        "cdc": "标配CDC连续阻尼可调减振器",
+        "rear_wheel_steering": "标配后轮主动转向"
+      },
+      "adas": {
+        "chip": "2颗 英伟达 Orin-X (508 TOPS)",
+        "lidar": "4颗隐藏翻转式激光雷达",
+        "system": "莲花高阶智能驾驶辅助(L2+)"
+      },
+      "cockpit": {
+        "instrument_cluster": "12.6英寸主驾长条形全液晶仪表+29英寸AR-HUD",
+        "screens": "15.1英寸悬浮式OLED中控屏+12.6英寸副驾屏+23扬声器KEF音响",
+        "rear_screen": "标配后排独立中控扶手触控屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "四座独立加热/通风",
+        "seat_massage": "前后排独立座椅按摩",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "标配",
+        "steering_wheel_heating": "标配",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "标配流媒体外后视镜"
+      },
+      "options": [
+        {
+          "name": "专属碳纤维车顶",
+          "price_rmb": null,
+          "promo_price_rmb": 0,
+          "details": "900 GOLD限时免费升级专属碳纤维车顶"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/6649.html",
+    "https://car.autohome.com.cn/config/spec/78856.html",
+    "https://auto.ifeng.com/c/8w36Ukr2t0C",
+    "https://price.pcauto.com.cn/sg28691/"
+  ],
+  "data_as_of": "2026-11-27"
+}

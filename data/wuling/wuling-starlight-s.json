@@ -1,0 +1,266 @@
+{
+  "brand": "wuling",
+  "brand_name": "五菱 / 宝骏",
+  "origin_type": "国产",
+  "model": "五菱星光S",
+  "model_slug": "wuling-starlight-s",
+  "category": "紧凑型新能源SUV",
+  "release_date": "2025-08-01",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g33/M01/8C/C4/400x400_1_q40_c40_autohomecar__ChxpVWlQqiGAUfT2AGMtK9MYbGk132.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "提供插电混动（60km/130km）与纯电（510km）双动力路线，指导价9.98万-12.98万元",
+    "全系标配神炼磷酸铁锂电池、前麦弗逊+后多连杆独立悬架及6安全气囊",
+    "整车质保六年或15万公里"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "上汽通用五菱官网 - 五菱星光S 2025款参数配置",
+      "url": "https://www.wuling.com/mobile/carDetail?id=301",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新出行 - 五菱星光S静态体验与座舱配置解析",
+      "url": "https://www.xchuxing.com/article/127827",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.wuling.com/mobile/carDetail?id=301",
+    "https://www.xchuxing.com/article/127827"
+  ],
+  "skus": [
+    {
+      "sku_id": "wuling-starlight-s-2025-phev-60",
+      "sku_name": "2025款 插混 60km 进阶型",
+      "price_rmb": 99800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4745,
+        "width_mm": 1890,
+        "height_mm": 1685,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1680
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 9.5,
+        "cltc_pure_electric_range_km": 60,
+        "fast_charge_time": "不支持直流快充",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "无",
+        "lidar": "无",
+        "system": "倒车影像+后驻车雷达（无L2）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸悬浮中控屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wuling-starlight-s-2025-phev-130-flagship",
+      "sku_name": "2025款 插混 130km 旗舰型",
+      "price_rmb": 119800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4745,
+        "width_mm": 1890,
+        "height_mm": 1680,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1790
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 20.5,
+        "cltc_pure_electric_range_km": 130,
+        "fast_charge_time": "30分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶（标配单目，可选双目高阶智驾）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸悬浮中控屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风、后排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "双目智能辅助驾驶选装包",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "升级前视双目摄像头、12超声波雷达与1颗毫米波雷达"
+        }
+      ]
+    },
+    {
+      "sku_id": "wuling-starlight-s-2025-phev-130-hp",
+      "sku_name": "2025款 插混 130km 高功率旗舰型",
+      "price_rmb": 129800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4745,
+        "width_mm": 1890,
+        "height_mm": 1680,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1825
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 20.5,
+        "cltc_pure_electric_range_km": 130,
+        "fast_charge_time": "30分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶（前视单目摄像头）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸悬浮中控屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风、后排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "wuling-starlight-s-2025-ev-510-flagship",
+      "sku_name": "2025款 纯电 510km 旗舰型",
+      "price_rmb": 129800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4745,
+        "width_mm": 1890,
+        "height_mm": 1680,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1780
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 60.0,
+        "cltc_pure_electric_range_km": 510,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶（标配单目，可选双目高阶智驾）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "15.6英寸悬浮中控屏",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排加热/通风、后排加热",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "双目智能辅助驾驶选装包",
+          "price_rmb": null,
+          "promo_price_rmb": null,
+          "details": "升级前视双目摄像头、12超声波雷达与1颗毫米波雷达"
+        }
+      ]
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

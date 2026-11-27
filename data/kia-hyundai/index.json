@@ -1,0 +1,104 @@
+{
+  "brand": "kia-hyundai",
+  "brand_name": "起亚 / 现代新能源",
+  "origin_type": "合资/外资",
+  "data_as_of": "2026-11-27",
+  "model_count": 2,
+  "sku_count": 5,
+  "models": [
+    {
+      "brand": "kia-hyundai",
+      "brand_name": "起亚 / 现代新能源",
+      "origin_type": "合资/外资",
+      "model": "现代IONIQ 5 N",
+      "model_slug": "hyundai-ioniq-5-n",
+      "sub_brand": null,
+      "category": "中型纯电高性能SUV",
+      "release_date": "2025-11-17",
+      "image_url": "https://hyundai.com.sg/_nuxt/image/e7520a.png",
+      "interior_image_url": "https://www.topgear.com/sites/default/files/2025/04/3-Hyundai-Ioniq-5-N-review-2025-UK.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "三元锂"
+      ],
+      "sku_count": 2,
+      "option_count": 2,
+      "price_min_rmb": 388800,
+      "price_max_rmb": 413000,
+      "best_zero_to_100_s": 3.4,
+      "max_cltc_ev_km": 556,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": true,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/kia-hyundai/hyundai-ioniq-5-n.json",
+      "source_urls": [
+        "https://www.hyundai-n.com.cn/ioniq-5-n.html",
+        "https://car.autohome.com.cn/config/series/7325.html",
+        "https://topic.autohome.com.cn/act/marketing/2025/1/hyundai-n/"
+      ]
+    },
+    {
+      "brand": "kia-hyundai",
+      "brand_name": "起亚 / 现代新能源",
+      "origin_type": "合资/外资",
+      "model": "起亚EV5",
+      "model_slug": "kia-ev5",
+      "sub_brand": null,
+      "category": "紧凑型纯电SUV",
+      "release_date": "2024-11-15",
+      "image_url": "https://n.sinaimg.cn/www/213/w2048h1365/20231025/0f40-5a0feeaaf1e491ad906984d6af075a80.jpg",
+      "interior_image_url": "https://n.sinaimg.cn/www/213/w2048h1365/20231025/a11b-b42d38c5bbdb41c6ea9a7f4b741afe5c.jpg",
+      "powertrains": [
+        "BEV"
+      ],
+      "battery_chemistries": [
+        "磷酸铁锂"
+      ],
+      "sku_count": 3,
+      "option_count": 4,
+      "price_min_rmb": 149800,
+      "price_max_rmb": 231800,
+      "best_zero_to_100_s": null,
+      "max_cltc_ev_km": 720,
+      "ground_clearance_mm": null,
+      "max_v2l_kw": null,
+      "has_air_suspension": false,
+      "has_cdc": false,
+      "has_rws": false,
+      "has_rear_screen": false,
+      "has_220v": true,
+      "has_v2l": false,
+      "has_swap": false,
+      "has_zero_gravity": false,
+      "has_seat_massage": false,
+      "has_cushion_massage": false,
+      "has_streaming_mirror": false,
+      "has_cms_mirrors": false,
+      "has_promo": true,
+      "has_miit": false,
+      "file": "data/kia-hyundai/kia-ev5.json",
+      "source_urls": [
+        "https://www.kia.cn/vehicles/ev5/specs/153/",
+        "https://img.kia.cn/content/pdf/20240307/EV5.pdf",
+        "https://car.autohome.com.cn/config/series/7352.html",
+        "https://car.autohome.com.cn/config/spec/70714.html",
+        "https://detail.zol.com.cn/2114/2113959/param.shtml"
+      ]
+    }
+  ]
+}

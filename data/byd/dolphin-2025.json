@@ -1,0 +1,292 @@
+{
+  "brand": "byd",
+  "brand_name": "比亚迪",
+  "origin_type": "国产",
+  "model": "比亚迪海豚（2025款智驾版）",
+  "model_slug": "dolphin-2025",
+  "category": "小型纯电轿车",
+  "release_date": "2025-02-10",
+  "image_url": "https://m3.auto.itc.cn/c_zoom,w_1200,q_mini/30162828.JPG",
+  "interior_image_url": "https://www2.autoimg.cn/chejiahaodfs/g31/M03/64/41/400x400_0_f42_autohomecar__ChxoHWe0qbKAd0YDAArNJ4b1RFg44.jpeg",
+  "promo_highlights": [
+    "2025款智驾版全系标配天神之眼C（DiPilot 100）高阶智驾三目版",
+    "终端参考优惠约8,000元（自由版9.18万起、时尚版10.18万起、骑士版11.78万起）",
+    "首任非营运车主享三电系统终身质保、整车6年或15万公里质保"
+  ],
+  "miit_filing": {
+    "miit_batch": null,
+    "product_model_code": null,
+    "curb_weight_kg": "1410-1600",
+    "gross_weight_kg": "1835-2005",
+    "approach_departure_deg": "15/21-23",
+    "battery_supplier": "弗迪电池"
+  },
+  "references": [
+    {
+      "title": "比亚迪汽车官方网站",
+      "url": "https://www.byd.com/cn",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海豚参数配置表大全 - 汽车之家",
+      "url": "https://car.autohome.com.cn/config/series/6139.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "海豚智驾版实拍简评 - 汽车之家车家号",
+      "url": "https://chejiahao.m.autohome.com.cn/info/19293835",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.byd.com/cn",
+    "https://car.autohome.com.cn/config/series/6139.html",
+    "https://chejiahao.m.autohome.com.cn/info/19293835"
+  ],
+  "skus": [
+    {
+      "sku_id": "byd-dolphin-2025-420-ziyou",
+      "sku_name": "2025款 智驾版 420km 自由版",
+      "price_rmb": 99800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4280,
+        "width_mm": 1770,
+        "height_mm": 1570,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1410,
+        "trunk_volume_l": "345-1320",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.35,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 70,
+        "motor_torque_nm": 180,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 150
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 45.12,
+        "cltc_pure_electric_range_km": 420,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 11.2,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 80,
+        "fast_charge_time": "25分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "扭力梁式非独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "195/60 R16"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮运动风格座椅，主驾电动调节",
+        "seat_heating_ventilation": "无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-dolphin-2025-410-shishang",
+      "sku_name": "2025款 智驾版 410km 时尚版",
+      "price_rmb": 109800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4280,
+        "width_mm": 1770,
+        "height_mm": 1570,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1480,
+        "trunk_volume_l": "345-1320",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.35,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 130,
+        "motor_torque_nm": 290,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 45.12,
+        "cltc_pure_electric_range_km": 410,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 11.3,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 80,
+        "fast_charge_time": "25分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "四连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "195/60 R16"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "无",
+        "seat_features": "仿皮运动风格座椅，主副驾电动调节，前排加热/通风，50W无线充电",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "byd-dolphin-2025-520-qishi",
+      "sku_name": "2025款 智驾版 520km 骑士版",
+      "price_rmb": 125800,
+      "baas_price_rmb": null,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 4280,
+        "width_mm": 1770,
+        "height_mm": 1570,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1600,
+        "trunk_volume_l": "345-1320",
+        "frunk_volume_l": null,
+        "min_turning_radius_m": 5.35,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 150,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": null,
+        "top_speed_kmh": 160
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_type": "刀片电池",
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "弗迪",
+        "battery_capacity_kwh": 60.48,
+        "cltc_pure_electric_range_km": 520,
+        "cltc_combined_range_km": null,
+        "energy_consumption_kwh_100km": 12.9,
+        "fast_charge_rate": null,
+        "max_charge_power_kw": 110,
+        "fast_charge_time": "25分钟(30%-80%)",
+        "v2l_power_kw": 3.3,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": null
+      },
+      "chassis": {
+        "front_suspension": "麦弗逊式独立悬架",
+        "rear_suspension": "四连杆式独立悬架",
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无",
+        "steer_by_wire": "无",
+        "tire_spec": "205/50 R17"
+      },
+      "adas": {
+        "chip": "英伟达 Orin-N",
+        "compute_tops": 84,
+        "lidar": "无",
+        "system": "DiPilot 100（天神之眼C三目版，支持高快领航及自动/遥控泊车）",
+        "subscription_or_buyout": "标配"
+      },
+      "cockpit": {
+        "chip": "比亚迪 D100（12GB+256GB）",
+        "instrument_cluster": "8.8英寸全液晶仪表",
+        "screens": "12.8英寸LCD触控中控屏（DiLink 5G）",
+        "rear_screen": "不支持",
+        "power_220v": "无",
+        "hud": "无",
+        "audio": "6扬声器",
+        "fridge": "标配车载冰箱",
+        "seat_features": "仿皮运动风格座椅，主副驾电动调节，前排加热/通风，50W无线充电",
+        "seat_heating_ventilation": "前排标配加热/通风，后排无",
+        "seat_massage": "无",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "手动上下+前后调节",
+        "steering_wheel_heating": "无",
+        "streaming_interior_mirror": "无（手动防眩目）",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

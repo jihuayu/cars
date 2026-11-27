@@ -1,0 +1,228 @@
+{
+  "brand": "chery-fulwin",
+  "brand_name": "奇瑞风云 / 捷途山海",
+  "origin_type": "国产",
+  "model": "捷途山海T1",
+  "model_slug": "jetour-shanhai-t1",
+  "category": "紧凑型插混方盒子SUV",
+  "release_date": "2026-06-26",
+  "image_url": "http://m1.auto.itc.cn/c_zoom,w_600,h_400/c_fill,w_600,h_400/30202236.JPG",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "至高享10,000元置换补贴、2年8万0息金融礼及价值3,000元充电桩安装服务",
+    "首任非营运车主享整车终身质保及三电终身质保，限时1,499元购终身免费保养",
+    "2026款全系升级XWD全自动智能四驱（系统综合功率455kW）与猎鹰500PLUS智驾可选"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "捷途官网 - 全新山海T1四驱版车型页",
+      "url": "https://www.jetour.com.cn/vehicles/shanhaiT1siqu/",
+      "type": "official",
+      "is_third_party": false,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 捷途山海T1参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7506.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 捷途山海T1 2026款150km XWD探索参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/77503.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://www.jetour.com.cn/vehicles/shanhaiT1siqu/",
+    "https://car.autohome.com.cn/config/series/7506.html",
+    "https://car.autohome.com.cn/config/spec/77503.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "jetour-shanhai-t1-2026-150-xwd-tansuo",
+      "sku_name": "2026款 150km XWD探索",
+      "price_rmb": 159900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4796,
+        "width_mm": 1967,
+        "height_mm": 1840,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": 200,
+        "seats": 5,
+        "curb_weight_kg": 2182
+      },
+      "performance": {
+        "drive_type": "双电机四驱（XWD全自动智能四驱）",
+        "motor_power_kw": 340,
+        "motor_torque_nm": 655,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 27.2,
+        "cltc_pure_electric_range_km": 150,
+        "fast_charge_time": "30分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "L2级辅助驾驶"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.25英寸液晶仪表",
+        "screens": "15.6英寸悬浮中控屏（骁龙8155）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "公路灰高定车漆",
+          "price_rmb": 5000,
+          "promo_price_rmb": 3000,
+          "details": "限时6折选购高定车漆"
+        }
+      ]
+    },
+    {
+      "sku_id": "jetour-shanhai-t1-2026-150-xwd-faxian",
+      "sku_name": "2026款 150km XWD发现智驾",
+      "price_rmb": 169900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4796,
+        "width_mm": 1967,
+        "height_mm": 1840,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": 200,
+        "seats": 5,
+        "curb_weight_kg": 2182
+      },
+      "performance": {
+        "drive_type": "双电机四驱（XWD全自动智能四驱）",
+        "motor_power_kw": 340,
+        "motor_torque_nm": 655,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 27.2,
+        "cltc_pure_electric_range_km": 150,
+        "fast_charge_time": "30分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "猎鹰500PLUS智能辅助驾驶（3毫米波雷达+双830W前视）"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.25英寸液晶仪表",
+        "screens": "15.6英寸悬浮中控屏（骁龙8155）+14扬伯牙之音",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "公路灰高定车漆",
+          "price_rmb": 5000,
+          "promo_price_rmb": 3000,
+          "details": "限时6折选购高定车漆"
+        }
+      ]
+    },
+    {
+      "sku_id": "jetour-shanhai-t1-2026-220-xwd-zhengfu",
+      "sku_name": "2026款 220km XWD征服智驾",
+      "price_rmb": 189900,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 4796,
+        "width_mm": 1967,
+        "height_mm": 1840,
+        "wheelbase_mm": 2810,
+        "ground_clearance_mm": 200,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "双电机四驱（XWD全自动智能四驱）",
+        "motor_power_kw": 340,
+        "motor_torque_nm": 655,
+        "zero_to_100_s": null
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 220,
+        "fast_charge_time": "30分钟（30%-80%）",
+        "v2l_power_kw": 6.6
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "无",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "未知",
+        "lidar": "无",
+        "system": "猎鹰500PLUS智能辅助驾驶（3毫米波雷达+双830W前视）"
+      },
+      "cockpit": {
+        "instrument_cluster": "10.25英寸液晶仪表",
+        "screens": "15.6英寸悬浮中控屏（骁龙8155）+14扬伯牙之音",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "前排座椅加热/通风",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "无",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": [
+        {
+          "name": "公路灰高定车漆",
+          "price_rmb": 5000,
+          "promo_price_rmb": 3000,
+          "details": "限时6折选购高定车漆"
+        }
+      ]
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}

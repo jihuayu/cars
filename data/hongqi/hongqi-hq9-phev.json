@@ -1,0 +1,267 @@
+{
+  "brand": "hongqi",
+  "brand_name": "红旗新能源",
+  "origin_type": "国产",
+  "data_as_of": "2026-11-27",
+  "model": "红旗HQ9 PHEV",
+  "model_slug": "hongqi-hq9-phev",
+  "category": "中大型插混MPV",
+  "release_date": "2026-05-20",
+  "image_url": "https://m1.autoimg.cn/newsdfs/g34/M08/33/1A/400x400_1_q40_c40_autohomecar__ChtpWGm9QveAfSqAABSESS3pMuM046.jpg",
+  "interior_image_url": "https://q9.itc.cn/images01/20260521/24281d305ee5456b871ab86414360a60.jpeg",
+  "promo_highlights": [
+    "5,000元定金抵13,000元购车款，2026款终端参考优惠约26,000元",
+    "高额增换购补贴及专属保险补贴",
+    "1年9折保值换购、3年内重大事故只换不修、首任非营运车主终身质保"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "汽车之家 红旗HQ9 PHEV参数配置表大全",
+      "url": "https://car.autohome.com.cn/config/series/7380.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 红旗HQ9 PHEV 2026款2.0T四驱尊贵版参数配置表",
+      "url": "https://car.autohome.com.cn/config/spec/77285.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "搜狐汽车 新款红旗HQ9 PHEV上市解析",
+      "url": "https://db.m.auto.sohu.com/model_7283/a/1025700820_126686",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7380.html",
+    "https://car.autohome.com.cn/config/spec/77285.html",
+    "https://db.m.auto.sohu.com/model_7283/a/1025700820_126686"
+  ],
+  "skus": [
+    {
+      "sku_id": "hongqi-hq9-phev-2026-haohua",
+      "sku_name": "2026款 2.0T 四驱豪华版",
+      "price_rmb": 338800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5222,
+        "width_mm": 2005,
+        "height_mm": 1935,
+        "wheelbase_mm": 3200,
+        "ground_clearance_mm": 135,
+        "seats": 7,
+        "curb_weight_kg": 2775,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置四驱（双电机电动四驱）",
+        "motor_power_kw": 358,
+        "motor_torque_nm": 760,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "江苏正力",
+        "battery_capacity_kwh": 39.5,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 1200,
+        "max_charge_power_kw": 92,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 2.2,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": 6.9
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（L2+）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "instrument_cluster": "内嵌式全液晶仪表",
+        "screens": "双15.6英寸悬浮双联屏",
+        "hud": "未知",
+        "audio": "丹拿音响",
+        "fridge": "无",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "二排座椅加热/通风",
+        "seat_massage": "二排座椅按摩",
+        "zero_gravity_seat": "二排零重力座椅",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hongqi-hq9-phev-2026-zungui",
+      "sku_name": "2026款 2.0T 四驱尊贵版",
+      "price_rmb": 388800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5222,
+        "width_mm": 2005,
+        "height_mm": 1935,
+        "wheelbase_mm": 3200,
+        "ground_clearance_mm": 135,
+        "seats": 7,
+        "curb_weight_kg": 2775,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置四驱（双电机电动四驱）",
+        "motor_power_kw": 358,
+        "motor_torque_nm": 760,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "江苏正力",
+        "battery_capacity_kwh": 39.5,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 1200,
+        "max_charge_power_kw": 92,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 2.2,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": 6.9
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（L2+）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "instrument_cluster": "内嵌式全液晶仪表",
+        "screens": "双15.6英寸悬浮双联屏",
+        "hud": "未知",
+        "audio": "丹拿音响",
+        "fridge": "宽温域冷暖车载冰箱",
+        "rear_screen": "未知",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "一二三排座椅加热/通风",
+        "seat_massage": "座椅舒缓按摩",
+        "zero_gravity_seat": "二排零重力座椅（石墨烯加热）",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "hongqi-hq9-phev-2026-qijian",
+      "sku_name": "2026款 2.0T 四驱旗舰版",
+      "price_rmb": 538800,
+      "baas_price_rmb": null,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5222,
+        "width_mm": 2005,
+        "height_mm": 1935,
+        "wheelbase_mm": 3200,
+        "ground_clearance_mm": 135,
+        "seats": 7,
+        "curb_weight_kg": 2775,
+        "trunk_volume_l": null,
+        "frunk_volume_l": null,
+        "min_turning_radius_m": null,
+        "drag_coefficient_cd": null
+      },
+      "performance": {
+        "drive_type": "前置四驱（双电机电动四驱）",
+        "motor_power_kw": 358,
+        "motor_torque_nm": 760,
+        "zero_to_100_s": 7.7,
+        "top_speed_kmh": 180
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_supplier": "江苏正力",
+        "battery_capacity_kwh": 39.5,
+        "cltc_pure_electric_range_km": 220,
+        "cltc_combined_range_km": 1200,
+        "max_charge_power_kw": 92,
+        "fast_charge_time": "30%-80% 16min",
+        "v2l_power_kw": 2.2,
+        "battery_swap_supported": false,
+        "fuel_tank_l": null,
+        "wltc_fuel_consumption_l_100km": 6.9
+      },
+      "chassis": {
+        "front_suspension": "前麦弗逊式独立悬架",
+        "rear_suspension": "后多连杆式独立悬架",
+        "air_suspension": false,
+        "cdc": false,
+        "rear_wheel_steering": false,
+        "steer_by_wire": false
+      },
+      "adas": {
+        "chip": null,
+        "compute_tops": null,
+        "lidar": "无",
+        "system": "红旗司南智驾（L2+）"
+      },
+      "cockpit": {
+        "chip": "高通骁龙8295P",
+        "instrument_cluster": "内嵌式全液晶仪表",
+        "screens": "双15.6英寸悬浮双联屏",
+        "hud": "HUD抬头显示",
+        "audio": "7.1.4声道丹拿音响",
+        "fridge": "宽温域冷暖车载冰箱",
+        "rear_screen": "后排车顶吸顶大屏",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "一二三排Nappa真皮座椅加热/通风",
+        "seat_massage": "多档位座椅舒缓按摩",
+        "zero_gravity_seat": "二排零重力座椅（石墨烯加热）",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ]
+}

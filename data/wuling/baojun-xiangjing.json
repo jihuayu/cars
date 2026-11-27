@@ -1,0 +1,268 @@
+{
+  "brand": "wuling",
+  "brand_name": "五菱 / 宝骏",
+  "origin_type": "国产",
+  "model": "宝骏享境",
+  "model_slug": "baojun-xiangjing",
+  "category": "中大型新能源轿车",
+  "release_date": "2025-04-23",
+  "image_url": "https://img.evlook.com/evlook/upload/series/133930477740965663.jpg",
+  "interior_image_url": null,
+  "promo_highlights": [
+    "首发搭载灵眸智驾进阶版（支持0速启动无图城市领航与漫游探索车位代客泊车）",
+    "首发灵语座舱（融合DeepSeek大模型与8大方言识别），全系标配神炼电池与巴斯夫8层车漆",
+    "整车质保六年或15万公里，首任非营运车主三电终身质保"
+  ],
+  "miit_filing": null,
+  "references": [
+    {
+      "title": "汽车之家 - 宝骏享境参数配置表",
+      "url": "https://car.autohome.com.cn/config/series/7826.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "汽车之家 - 宝骏享境2025款纯电600km豪华版参数配置",
+      "url": "https://car.autohome.com.cn/config/spec/69409.html",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "EV视界 - 宝骏享境参数配置表",
+      "url": "https://www.evlook.com/baojunxiangjing/peizhi",
+      "type": "database",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    },
+    {
+      "title": "新华网 - 宝骏享境上市与灵眸智驾进阶版介绍",
+      "url": "http://www.news.cn/auto/20250408/7aa345f93e274589a9688faf76c9d1b6/c.html",
+      "type": "media",
+      "is_third_party": true,
+      "retrieved_at": "2026-11-27"
+    }
+  ],
+  "source_urls": [
+    "https://car.autohome.com.cn/config/series/7826.html",
+    "https://car.autohome.com.cn/config/spec/69409.html",
+    "https://www.evlook.com/baojunxiangjing/peizhi",
+    "http://www.news.cn/auto/20250408/7aa345f93e274589a9688faf76c9d1b6/c.html"
+  ],
+  "skus": [
+    {
+      "sku_id": "baojun-xiangjing-2025-phev-140-std",
+      "sku_name": "2025款 插混 140km 标准版",
+      "price_rmb": 129800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5005,
+        "width_mm": 1900,
+        "height_mm": 1505,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 140,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "卓驭成行平台",
+        "lidar": "无",
+        "system": "灵眸智驾基础版（L2级）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（灵语座舱）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baojun-xiangjing-2025-phev-140-lux",
+      "sku_name": "2025款 插混 140km 豪华版",
+      "price_rmb": 149800,
+      "powertrain_type": "PHEV",
+      "dimensions": {
+        "length_mm": 5005,
+        "width_mm": 1900,
+        "height_mm": 1505,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": null
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 160,
+        "motor_torque_nm": null,
+        "zero_to_100_s": 7.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": null,
+        "cltc_pure_electric_range_km": 140,
+        "fast_charge_time": null,
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "卓驭成行平台",
+        "lidar": "无",
+        "system": "灵眸智驾进阶版（无图城市领航/漫游泊车）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（灵语座舱）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "四座吸风式通风/加热（Nappa真皮）",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baojun-xiangjing-2025-ev-600-std",
+      "sku_name": "2025款 纯电 600km 标准版",
+      "price_rmb": 133800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5005,
+        "width_mm": 1900,
+        "height_mm": 1490,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1905
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 186,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 6.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 69.2,
+        "cltc_pure_electric_range_km": 600,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "卓驭成行平台",
+        "lidar": "无",
+        "system": "灵眸智驾基础版（L2级）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（灵语座舱）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "未知",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    },
+    {
+      "sku_id": "baojun-xiangjing-2025-ev-600-lux",
+      "sku_name": "2025款 纯电 600km 豪华版",
+      "price_rmb": 153800,
+      "powertrain_type": "BEV",
+      "dimensions": {
+        "length_mm": 5005,
+        "width_mm": 1900,
+        "height_mm": 1490,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": null,
+        "seats": 5,
+        "curb_weight_kg": 1905
+      },
+      "performance": {
+        "drive_type": "前置前驱",
+        "motor_power_kw": 186,
+        "motor_torque_nm": 310,
+        "zero_to_100_s": 6.9
+      },
+      "battery_and_charging": {
+        "voltage_platform_v": null,
+        "battery_chemistry": "磷酸铁锂",
+        "battery_capacity_kwh": 69.2,
+        "cltc_pure_electric_range_km": 600,
+        "fast_charge_time": "20分钟（30%-80%）",
+        "v2l_power_kw": null
+      },
+      "chassis": {
+        "air_suspension": "无",
+        "cdc": "未知",
+        "rear_wheel_steering": "无"
+      },
+      "adas": {
+        "chip": "卓驭成行平台",
+        "lidar": "无",
+        "system": "灵眸智驾进阶版（无图城市领航/漫游泊车）"
+      },
+      "cockpit": {
+        "instrument_cluster": "全液晶仪表",
+        "screens": "悬浮中控大屏（灵语座舱）",
+        "rear_screen": "无",
+        "power_220v": "未知",
+        "seat_heating_ventilation": "四座吸风式通风/加热（Nappa真皮）",
+        "seat_massage": "未知",
+        "zero_gravity_seat": "无",
+        "steering_wheel_electric": "未知",
+        "steering_wheel_heating": "未知",
+        "streaming_interior_mirror": "未知",
+        "streaming_exterior_mirrors": "无"
+      },
+      "options": []
+    }
+  ],
+  "data_as_of": "2026-11-27"
+}
